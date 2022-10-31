@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - News and Information/Overview.md
       - News and Information/Letters & Notifications.md
       - News and Information/Primary 1 to 6 Matters.md
       - News and Information/Assessment Matters.md
