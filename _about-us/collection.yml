@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - School in the News.md
       - Pupil's Creed.md
       - School Hours.md
