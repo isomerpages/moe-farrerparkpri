@@ -2,6 +2,7 @@ collections:
   distinctive-programme:
     output: true
     order:
+      - Applied Learning Programme/Experience.md
       - Applied Learning Programme/Excellence.md
       - Applied Learning Programme/.keep
       - Learning for Life Programme/Overview.md
