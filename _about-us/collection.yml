@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us.md
       - School in the News.md
       - Pupil's Creed.md
       - School Hours.md
