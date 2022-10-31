@@ -2,5 +2,6 @@ collections:
   farrerean-experience:
     output: true
     order:
+      - Aesthetics.md
       - Sports and Physical Education.md
       - Co–Curricular Activities.md
