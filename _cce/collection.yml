@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - CCE Modules/Sexuality Education – Growing Years.md
       - CCE Modules/Cyber Wellness.md
       - CCE Modules/Education and Career Guidance (ECG).md
       - CCE Modules/.keep
