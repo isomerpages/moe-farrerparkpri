@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - CCE Experiences/NE Show.md
       - CCE Experiences/Internationlisation Programme.md
       - CCE Experiences/.keep
       - CCE Lessons.md
