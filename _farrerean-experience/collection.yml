@@ -1,4 +1,5 @@
 collections:
   farrerean-experience:
     output: true
-    order: []
+    order:
+      - Co–Curricular Activities.md
