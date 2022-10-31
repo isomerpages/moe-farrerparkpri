@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Other Information/School Fees.md
       - Other Information/.keep
       - Contact Us.md
       - School in the News.md
