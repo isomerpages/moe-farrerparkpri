@@ -2,6 +2,7 @@ collections:
   distinctive-programme:
     output: true
     order:
+      - Learning for Life Programme/Overview.md
       - Learning for Life Programme/Team Leadership (Primary 3 & 4 Pupils).md
       - Learning for Life Programme/STAR Leadership Programme.md
       - Learning for Life Programme/Leadership Begins with Me(Primary 1 & 2
