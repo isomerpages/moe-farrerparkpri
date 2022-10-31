@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules.md
       - Principal's Thoughts.md
       - School Steering Committee.md
       - Teaching and Non–Teaching Staff.md
