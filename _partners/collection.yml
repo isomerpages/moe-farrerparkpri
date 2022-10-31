@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group/Appreciation Day.md
       - Parent Support Group/Racial Harmony Day.md
       - Parent Support Group/International Friendship Day.md
       - Parent Support Group/.keep
