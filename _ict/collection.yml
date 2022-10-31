@@ -1,4 +1,5 @@
 collections:
   ict:
     output: true
-    order: []
+    order:
+      - Manage your Child's Device/.keep
