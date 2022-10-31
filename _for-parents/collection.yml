@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - News and Information/Effective Effort Strategies.md
       - "News and Information/Parenting Talk: Raising Resilient Kids.md"
       - News and Information/Pupils' Travel Plan Declaration.md
       - News and Information/.keep
