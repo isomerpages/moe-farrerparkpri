@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parenting in the Digital Age.md
       - TE:D Learning Programme/Overview.md
       - TE:D Learning Programme/TE:D P2 Parent Engagement 2022.md
       - TE:D Learning Programme/TE:D Programme Briefing 2022.md
