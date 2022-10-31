@@ -2,5 +2,7 @@ collections:
   ict:
     output: true
     order:
+      - Manage your Child's Device/2022 ScreenGuide Workshop for Parents &
+        FAQs.md
       - Manage your Child's Device/Installing and Using ScreenGuide.md
       - Manage your Child's Device/.keep
