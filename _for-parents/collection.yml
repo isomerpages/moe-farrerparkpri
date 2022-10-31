@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - News and Information/.keep
       - School Calendar.md
       - Parents Gateway.md
       - Home Based Learning/Overview.md
