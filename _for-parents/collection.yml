@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - TE:D Learning Programme/TE:D iPad purchase for Primary 3.md
       - TE:D Learning Programme/Managing your Child's Learning Device with
         Screenguide.md
       - TE:D Learning Programme/.keep
