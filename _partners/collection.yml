@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Family Matters/MSF Parenting Workshops.md
       - Family Matters/.keep
