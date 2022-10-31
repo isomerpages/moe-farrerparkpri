@@ -2,4 +2,5 @@ collections:
   distinctive-programme:
     output: true
     order:
+      - Learning for Life Programme/Servant Leadership (Primary 5 & 6 Pupils).md
       - Learning for Life Programme/.keep
