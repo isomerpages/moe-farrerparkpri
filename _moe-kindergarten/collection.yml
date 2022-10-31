@@ -2,4 +2,5 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - For Parents/.keep
       - KCare.md
