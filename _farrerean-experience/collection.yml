@@ -2,6 +2,7 @@ collections:
   farrerean-experience:
     output: true
     order:
+      - Mathematics.md
       - Science.md
       - Mother Tongue/Chinese.md
       - Mother Tongue/Malay.md
