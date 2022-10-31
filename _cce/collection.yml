@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - CCE Experiences/Overseas Learning Journey.md
       - CCE Experiences/National Education Commemorative Days.md
       - CCE Experiences/NE Show.md
       - CCE Experiences/Internationlisation Programme.md
