@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Calendar.md
       - Parents Gateway.md
       - Home Based Learning/Overview.md
       - Home Based Learning/Tips for Parents during HBL.md
