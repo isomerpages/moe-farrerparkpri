@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Student Care Centre.md
       - Parent Support Group/Overview.md
       - Parent Support Group/Parent–Teacher Bonding Session for P1.md
       - Parent Support Group/Appreciation Day.md
