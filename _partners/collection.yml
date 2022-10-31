@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group/International Friendship Day.md
       - Parent Support Group/.keep
       - School Advisory Committee.md
       - Pek Kio CC.md
