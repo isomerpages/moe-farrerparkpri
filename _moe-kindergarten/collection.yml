@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - For Parents/Overview.md
       - For Parents/School Events.md
       - For Parents/.keep
       - KCare.md
