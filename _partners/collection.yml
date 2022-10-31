@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group/Overview.md
       - Parent Support Group/Parent–Teacher Bonding Session for P1.md
       - Parent Support Group/Appreciation Day.md
       - Parent Support Group/Racial Harmony Day.md
