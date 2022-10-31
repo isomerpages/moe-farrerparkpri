@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Teaching and Non–Teaching Staff.md
       - VR School Tour.md
       - Other Information/Suppliers – School Bus, Uniform and Books.md
       - Other Information/School Fees.md
