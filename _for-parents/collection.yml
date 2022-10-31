@@ -2,5 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Student Learning Space/Getting Started with SLS (First time login and
+        new user).md
       - Student Learning Space/Frequently Asked Questions.md
       - Student Learning Space/.keep
