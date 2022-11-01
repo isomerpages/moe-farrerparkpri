@@ -27,3 +27,20 @@ links:
         url: /about-us/pupils-creed/
       - title: School Hours
         url: /about-us/school-hours/
+  - title: Farrerean Experience
+    url: /farrerean-experience/english/
+    sublinks:
+      - title: English
+        url: /farrerean-experience/english/
+      - title: Mathematics
+        url: /farrerean-experience/mathematics/
+      - title: Science
+        url: /farrerean-experience/science/
+      - title: Mother Tongue
+        url: /farrerean-experience/Mother-Tongue/chinese/
+      - title: Aesthetics
+        url: /farrerean-experience/aesthetics/
+      - title: Sports and Physical Education
+        url: /farrerean-experience/sports-and-physical-education/
+      - title: Co–Curricular Activities
+        url: /farrerean-experience/co-curricular-activities/
