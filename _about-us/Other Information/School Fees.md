@@ -34,7 +34,7 @@ Website: [https://www.cdc.org.sg/centralsingapore](https://www.cdc.org.sg/centr
 
   
 
-Needy families can also visit the Community Centres in your districts that may have various schemes to assist residents. You may also visit Ministry of Social and Family Development website for the various assistance schemes:
+Needy families can also visit the Community Centres in your districts that may have various schemes to assist residents. You may also visit Ministry of Social and Family Development website for the various available schemes:
 
 [https://www.msf.gov.sg/assistance/Pages/default.aspx](https://www.msf.gov.sg/assistance/Pages/default.aspx)
 
