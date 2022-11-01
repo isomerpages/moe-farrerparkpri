@@ -50,3 +50,16 @@ links:
         url: /farrerean-experience/co-curricular-activities/
       - title: ICT
         url: /ict/overview/
+  - title: Partners
+    url: /partners/student-care-centre/
+    sublinks:
+      - title: Student Care Centre
+        url: /partners/student-care-centre/
+      - title: Parent Support Group
+        url: https://staging.d2n2vioi5ki3lh.amplifyapp.com/partners/Parent-Support-Group/overview/
+      - title: School Advisory Committee
+        url: /partners/school-advisory-committee/
+      - title: Pek Kio CC
+        url: /partners/pek-kio-cc/
+      - title: Family Matters
+        url: /partners/Family-Matters/overview/
