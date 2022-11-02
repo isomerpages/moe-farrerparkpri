@@ -6,11 +6,10 @@ third_nav_title: Joyful Learning
 ---
 ### Weeks of Wonder
 
-#### Term 1 - English
+#### Term 1 - Chinese
 
 
-#### Term 2 - Chinese
+#### Term 1 - Tamil
 
 
-
-#### Term 2 - Malay
+#### Term 2 - English
