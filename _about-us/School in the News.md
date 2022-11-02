@@ -17,3 +17,15 @@ Insert missing content here.
  
 
 On Sunday 28 July 2013, Pek Kio CC celebrated its 50th Anniversary and the official opening of its new premises at 21 Gloucester Road. Farrer Park Primary School was involved in the performance.
+
+<img src="/images/sitn1.png" style="width:70%">
+
+#### Singapore Book of Records
+
+FPPS set a new record of the Largest Singapore Map made of egg cartons (2.5m by 4.1m) in the Singapore Book of Records as part of National Day Celebration.
+
+<img src="/images/sitn2.png" style="width:45%" align=left> <img src="/images/sitn3.png" style="width:50%" align=left> <br><br><br><br><br>
+
+Click here for link to [Largest Singapore Map Made Of Egg Cartons](http://singaporerecords.com/largest-singapore-map-made-of-egg-cartons/#/)   
+
+#### The Heart of Teaching
