@@ -14,7 +14,7 @@ sections:
           url: /announcements/
         - title: Achievements
           description: ""
-          url: /achievements/2021/
+          url: /achievements/overview/
         - title: Distinctive Programme
           description: ""
           url: /distinctive-programme/overview/
