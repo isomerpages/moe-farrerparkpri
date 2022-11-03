@@ -11,61 +11,39 @@ At the same time, through ICT-enabled lessons, manipulatives and carefully sele
 
 #### Acquiring Strong Numeracy Skills for Real Life
 
-![2.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/Mathematics/2.jpg)  
+<img src="/images/math1.png" style="width:80%">
 
 In line with Jerome Bruner’s Concrete-Pictorial-Abstract approach, our pupils are provided with opportunities to engage in hands-on activities using manipulatives to learn new concepts. These learning experiences are then translated to pictorial, then abstract representations. Through this progressive approach, our pupils explore and learn about Maths, and understand more deeply how this can be seen and applied in everyday life.
 
   
 
-![m05.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/Mathematics/m05.jpg)  
+<img src="/images/math2.png" style="width:80%">
 
 We believe that mathematical concepts should always be taught with an explicit link to real life, so that our pupils can find meaning and purpose in their learning. The pupils learn to convert the different denominations of money and to add and subtract money. These concepts in Mathematics are used on a daily basis in their lives.
 
-![m06.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/Mathematics/m06.jpg)
+<img src="/images/math3.png" style="width:80%">
 
 At the Upper Primary, pupils continue to undergo learning experiences where they apply their numerical skills to more challenging concepts like ratio, percentage and speed. Here, our Primary 6 pupils learn about the concept of percentage change through an exploration of real life advertisements, as they compete in an exciting in-class competition to find the sales item with the greatest percentage decrease.
 
-Developing Reasoning and Critical Thinking Skills
--------------------------------------------------
-
-![7.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/Mathematics/7.jpg)
+#### Developing Reasoning and Critical Thinking Skills
+ 
+<img src="/images/math4.png" style="width:80%">
 
 Communicating mathematical ideas clearly helps our pupils sharpen their mathematical thinking. Here, our Primary 1 students are reading a story to illustrate the concept of subtraction. Beyond that, they pair up to explain how they arrive at their answers. Through this, their thinking is made visible, and they are challenged to articulate their thoughts clearly.
 
-  
-
-![m01.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/Mathematics/m01.jpg)
+<img src="/images/math5.png" style="width:80%">
 
 Mathematical reasoning is a habit of mind we aim to inculcate in our pupils, and we do that by providing opportunities for students to express the thinking behind their answers. In these pictures, our Primary 4 pupils are required to construct diagrams on their iPads, justify why they are examples or non-examples of symmetrical figures, and explain the thought process behind drawing them.
 
-  
-
-![10.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/Mathematics/10.jpg)
-
-  
+<img src="/images/math6.png" style="width:80%">
 
 In the Upper Primary, our pupils are challenged to come up with different solutions for a problem, and analyse and evaluate the merits of each solution. Here, our Primary 6 pupils examine two solutions to a problem on ratio. In what cases will the model method be preferred, and in what scenarios do the same method pose a challenge? Our pupils analyse mathematical situations and construct logical arguments, and a lively debate ensues.
 
-Encouraging Critical Thinking
------------------------------
+#### Encouraging Critical Thinking
+ 
+<img src="/images/math7.png" style="width:80%">
 
-###   
-
-![m03.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/Mathematics/m03.jpg)
-
-![m04.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/Mathematics/m04.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<img src="/images/math8.png" style="width:80%">
 
   
 
