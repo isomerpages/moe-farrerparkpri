@@ -4,6 +4,8 @@ permalink: /farrerean-experience/Mother-Tongue/chinese/
 description: ""
 third_nav_title: Mother Tongue
 ---
+### Chinese
+
 #### P1 MTL Fortnight Activities – Clay moulding（泥塑）
  
 
