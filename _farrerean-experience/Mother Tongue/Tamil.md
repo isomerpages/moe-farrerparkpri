@@ -8,39 +8,43 @@ third_nav_title: Mother Tongue
 
 Students had fun playing kolai kolaya munthirikai.  
   
-![TL19_01.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/MT/MT-TL/TL19_01.jpg)  
-![TL19_02.png](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/MT/MT-TL/TL19_02.png)
+<img src="/images/mt25.png" style="width:70%">
+
+<img src="/images/mt26.png" style="width:70%">
 
 #### P2 MTL Fortnight Activities
 
 Students eagerly painting their agal vilakku.  
   
-![TL19_03.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/MT/MT-TL/TL19_03.jpg)  
-![TL19_04.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/MT/MT-TL/TL19_04.jpg)
+<img src="/images/mt27.png" style="width:70%">
+
+<img src="/images/mt28.png" style="width:70%">
 
 #### P3 MTL Fortnight Activities
 
 Students having fun practising kolaattam.  
   
-![TL19_05.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/MT/MT-TL/TL19_05.jpg)  
-![TL19_06.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/MT/MT-TL/TL19_06.jpg)
+<img src="/images/mt29.png" style="width:70%">
+
+<img src="/images/mt30.png" style="width:70%">
 
 #### P4 MTL Fortnight Activities
 
 Pupils trying to create Indian traditional art, Rangoli.  
   
-![TL19_07.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/MT/MT-TL/TL19_07.jpg)  
-
+<img src="/images/mt31.png" style="width:70%">
+ 
 #### P5 MTL Fortnight Activities
 
 Pupils making traditional Indian sweet dish, Aval Urundai.  
-  
-![TL19_08.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/MT/MT-TL/TL19_08.jpg)  
-![TL19_09.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/MT/MT-TL/TL19_09.jpg)
+<img src="/images/mt32.png" style="width:70%">
+
+<img src="/images/mt33.png" style="width:70%">
 
 #### P6 MTL Fortnight Activities
 
 Pupils enjoying seven stones (Lagori), an Indian traditional game.  
   
-![TL19_10.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/MT/MT-TL/TL19_10.jpg)  
-![TL19_11.jpg](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/MT/MT-TL/TL19_11.jpg)
+<img src="/images/mt34.png" style="width:70%">
+
+<img src="/images/mt35.png" style="width:70%">
