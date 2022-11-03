@@ -3,7 +3,7 @@ title: School in the News
 permalink: /about-us/school-in-the-news/
 description: ""
 ---
-### School in the News not done with images
+### School in the News 
 
 #### Featured on Channel 8's programme "In Good Schools"
  
