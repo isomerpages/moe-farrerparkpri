@@ -4,6 +4,8 @@ permalink: /farrerean-experience/Mother-Tongue/overview/
 description: ""
 third_nav_title: Mother Tongue
 ---
+### Overview of Mother Tongue
+
 <img src="/images/mt1.png" style="width:80%">
 
 At Farrer Park Primary School, we aim at providing a holistic education whereby every child will be able to master listening, speaking, reading, writing and communication skills in their MTL and appreciate his/her culture.  
