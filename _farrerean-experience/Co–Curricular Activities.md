@@ -8,8 +8,10 @@ description: ""
 
 CCAs are an essential part of a Farrereans’ holistic education. They are an integral part of a well-rounded education and play an important role in nurturing good character. They provide a natural platform for Farrereans to learn and apply values, knowledge and skills. Farrereans develop these values and character while they uncover their talents and competencies as they ready themselves for a rapidly changing world. They foster friendships as they learn, play and grow together.
 
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSuaiFijzvvjf91p-GJKjeeWjR4OVL0DymVkJSoaQ9W36Kk0Ks01EzLkw4uh9UPlpqIgEW7xKFopF8x/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 
-<img src="/images/ccasched1.png" style="width:90%">
+
+<img style="width:90%" src="/images/ccasched1.png">
 
 | CCA | CCA TEACHERS |
 |---|---|
