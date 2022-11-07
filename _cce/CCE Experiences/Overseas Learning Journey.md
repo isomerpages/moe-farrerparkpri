@@ -18,3 +18,7 @@ Our students visited Banchang Primary School and Jingtai Primary School in Beiji
 
 As a result of this immersion programme, students have developed a greater interest in Chinese Language.
 
+|  |  |
+|---|---|
+|  |  |
+|  |  |
