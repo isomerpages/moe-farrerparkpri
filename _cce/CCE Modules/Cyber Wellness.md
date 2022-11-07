@@ -37,7 +37,7 @@ Android: [https://play.google.com/store/apps/details?id=com.singtel.notAnoobie]
 
 Parents can now download a new mobile game app, **C-Quest**, and have conversations on cyber wellness with their children. Developed by the Ministry of Education and targeted at parents with children aged 10 to 14, C-Quest is specially designed to facilitate meaningful parent-child conversations on their online experiences. Through the game, students will also learn to be safe, respectful, and responsible users of Information and Communication Technology (ICT).
 
-<img src="/images/cce7.png" style="width:50%">
+<img src="/images/cce7.png" style="width:30%">
 
 [http://www.moe.gov.sg/media/press/2014/09/launch-of-c-quest-a-mobile-app-game-to-promote-conversations-about-cyber-wellness-between-parents-and-children.php](http://www.moe.gov.sg/media/press/2014/09/launch-of-c-quest-a-mobile-app-game-to-promote-conversations-about-cyber-wellness-between-parents-and-children.php)  
 **Android**: [https://play.google.com/store/apps/details?id=com.moe.cquest\_2&hl=en](https://play.google.com/store/apps/details?id=com.moe.cquest_2&hl=en)  
