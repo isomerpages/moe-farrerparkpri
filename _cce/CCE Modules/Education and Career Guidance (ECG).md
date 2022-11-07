@@ -12,7 +12,7 @@ Pupils to experience and appreciate for a day the work environment that their pa
 
 |  |  |
 |---|---|
-| <figure><img src="/images/cce8.png" style="width:95%"><figcaption> Sudharshini at her father’s office</figcaption></figure> | <figure><img src="/images/cce9.png" style="width:99%"><figcaption> Sudharshini with her father who is an IT Manager</figcaption></figure> |
+| <figure><img src="/images/cce8.png" style="width:95%">Sudharshini at her father’s office</figure> | <figure><img src="/images/cce9.png" style="width:80%">Sudharshini with her father who is an IT Manager</figure> |
 
 <figure><img src="/images/cce10.png" style="width:45%"><figcaption> Sudharshini with her father's co-workers</figcaption></figure>
 
@@ -30,7 +30,7 @@ Every year, the P5 pupils go to Kidzania as part of the Career Awareness program
 
 |  |  |
 |---|---|
-| <img src="/images/cce14.png" style="width:70%"> | <img src="/images/cce15.png" style="width:80%"> |
+| <img src="/images/cce14.png" style="width:70%"> | <img src="/images/cce15.png" style="width:65%"> |
 
 <img src="/images/cce16.png" style="width:45%">
 
