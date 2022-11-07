@@ -20,9 +20,9 @@ Jordan at his mother's office
 
 |  |  |
 |---|---|
-| <img src="/images/cce11.png" style="width:70%"> | <img src="/images/cce12.png" style="width:80%"> |
+| <img src="/images/cce11.png" style="width:60%"> | <img src="/images/cce12.png" style="width:70%"> |
 
-<img src="/images/cce13.png" style="width:45%">
+<img src="/images/cce13.png" style="width:30%">
 
 #### P5 Career Awareness @ Kidzania
 
