@@ -56,7 +56,7 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-em
 
 8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9\. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/Farrerean%20Experience/CCE/CCE%20Modules/OPOUT.pdf)**. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 15/02/2022.
+9\. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](/files/OPOUT.pdf)**. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 15/02/2022.
 
 10\. Parents can contact the school at 62952272 to speak to Ms Cardoza Sharon Ann (HOD CCE) for discussion or to seek clarification about the school’s sexuality education programme.
 
