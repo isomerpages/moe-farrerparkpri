@@ -4,7 +4,7 @@ permalink: /cce/CCE-Experiences/Values-In-Action/
 description: ""
 third_nav_title: CCE Experiences
 ---
-#### P6 Rivermonster Programme
+### P6 Rivermonster Programme
 
 6 pupils participate in a workshop on the dangers of water pollution both in the local and global context. Pupils then see the current water pollution situation along the riverbank. They actively contribute to picking up and clearing the litter along that river bank. Pupils learn that they have a responsibility towards keeping our environment clean and how they can do so.
 
