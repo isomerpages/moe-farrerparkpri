@@ -40,4 +40,4 @@ To submit for LOA please follow this link.
 
 
 
-[**Click here to read the inspiring stories of the OYEA 2021 recipients and finalists!**](https://academyofsingaporeteachers.moe.edu.sg/professional-recognition/outstanding-youth-in-education-award/oyea-stories)
+[**Click here to read the inspiring stories of the OYEA 2021 recipients and finalists!**](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/OYEA/stories/)
