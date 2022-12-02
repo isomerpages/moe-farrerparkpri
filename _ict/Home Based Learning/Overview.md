@@ -4,24 +4,21 @@ permalink: /ict/Home-Based-Learning/overview/
 description: ""
 third_nav_title: Home Based Learning
 ---
-  
-
 Dear Parents,  
   
 Please visit this page for Home-based Learning activities at Farrer Park Primary School. Home-based Learning (HBL) is not confined to E-learning and may include offline work that involves reading or writing.  
   
 
-1.  [Resource Kit Part 1(Home-based Learning)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/Publications/All/Resource%20Kit%20-%20HBL.pdf) \[31/03/2020\]
-2.  [Resource Kit Part 2 (Home-based Learning)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/HBL/Resource%20Kit%20-%20HBL%20Part%202.pdf) \[07/04/2020\]
-3.  [Resource Kit Part 3 (Home-based Learning)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/HBL/Resource%20Kit%20-%20HBL%20Part%203.pdf) \[15/04/2020\]
-4.  [Resource Kit Part 4 (Home-based Learning)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/HBL/Resource%20Kit%20-%20HBL.pdf)  \[27/04/2020\]
-5.  [Resource Kit (School Holiday)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/Publications/All/Resource%20Kit%20-%20School%20Holiday%20Edition.pdf) \[04/05/2020\]
+1\.  [Resource Kit Part 1(Home-based Learning)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/Publications/All/Resource%20Kit%20-%20HBL.pdf) \[31/03/2020\]
+2\.  [Resource Kit Part 2 (Home-based Learning)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/HBL/Resource%20Kit%20-%20HBL%20Part%202.pdf) \[07/04/2020\]
+3\.  [Resource Kit Part 3 (Home-based Learning)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/HBL/Resource%20Kit%20-%20HBL%20Part%203.pdf) \[15/04/2020\]
+4\.  [Resource Kit Part 4 (Home-based Learning)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/HBL/Resource%20Kit%20-%20HBL.pdf)  \[27/04/2020\]
+5\.  [Resource Kit (School Holiday)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/Publications/All/Resource%20Kit%20-%20School%20Holiday%20Edition.pdf) \[04/05/2020\]
 
   
   
 
-HBL on 17 & 18 October 2022
----------------------------
+#### HBL on 17 & 18 October 2022
 
   
 **Monday 17 October**  
@@ -42,33 +39,33 @@ HBL on 17 & 18 October 2022
   
   
 
-Common issues and how to resolve them
--------------------------------------
+#### Common issues and how to resolve them
+ 
 
-**1) Forgotten password or locked out of SLS, Google Classroom etc.  
-**Please fill in this form: **[](https://go.gov.sg/fppshelpdesk)** [**Fppshelpdesk**](https://go.gov.sg/fppshelpdesk)  
+**1) Forgotten password or locked out of SLS, Google Classroom etc.**
+
+Please fill in this form: **[](https://go.gov.sg/fppshelpdesk)** [**Fppshelpdesk**](https://go.gov.sg/fppshelpdesk)  
   
-**2) Forgotten email address or login id for SLS or Google Classroom  
-**
+**2) Forgotten email address or login id for SLS or Google Classroom**
 
 With only a few exceptions, SLS IDs are constructed from the first five characters of the student's name, followed by the last five characters of their birth certificate. For example,  
   
-Tan Xiao Ming (BC No. T1234567B) has a SLS ID of **TANXI4567B  
-**  
+Tan Xiao Ming (BC No. T1234567B) has a SLS ID of **TANXI4567B**  
+
 All our school account IDs (Google, Koobits and MyON) take reference from this SLS ID.  
-Google account email: **TANXI4567B@farrerparkpri,moe.edu.sg  
-**  
-**3) The HBL page is not updating.  
-**During the HBL period, our HBL page is updated every morning by **7.00am**. Click on the refresh button on your browser. It might require you to click a few times.  
+Google account email: **TANXI4567B@farrerparkpri,moe.edu.sg**  
+
+**3) The HBL page is not updating.**
+
+During the HBL period, our HBL page is updated every morning by **7.00am**. Click on the refresh button on your browser. It might require you to click a few times.  
   
 Alternatively, you could also try clearing your browser cache. Here is a link to a website that shows you how to do this. ([**Link**](https://www.downing.nz/simple-steps-to-refresh-your-website-browser-cache/))  
   
-**4) We don't see the HBL activities for the previous days.  
-**All instructions for previous HBL activities are consolidated on our [**Past Home-based Learning**](https://www.farrerparkpri.moe.edu.sg/for-parents/home-based-learning/past-home-based-learning) page located on the the navigation bar on the top left of out HBL page.  
+**4) We don't see the HBL activities for the previous days.**
+All instructions for previous HBL activities are consolidated on our [**Past Home-based Learning**](https://www.farrerparkpri.moe.edu.sg/for-parents/home-based-learning/past-home-based-learning) page located on the the navigation bar on the top left of out HBL page.  
   
 
-YouTube Links for HBL
----------------------
+#### YouTube Links for HBL
 
 We have consolidated a few videos for our parents and students on your YouTube Channel that you might find useful. Click below to visit our collections of playlists.  
 
