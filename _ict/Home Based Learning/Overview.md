@@ -9,11 +9,11 @@ Dear Parents,
 Please visit this page for Home-based Learning activities at Farrer Park Primary School. Home-based Learning (HBL) is not confined to E-learning and may include offline work that involves reading or writing.  
   
 
-1\.  [Resource Kit Part 1(Home-based Learning)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/Publications/All/Resource%20Kit%20-%20HBL.pdf) \[31/03/2020\]
-2\.  [Resource Kit Part 2 (Home-based Learning)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/HBL/Resource%20Kit%20-%20HBL%20Part%202.pdf) \[07/04/2020\]
-3\.  [Resource Kit Part 3 (Home-based Learning)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/HBL/Resource%20Kit%20-%20HBL%20Part%203.pdf) \[15/04/2020\]
-4\.  [Resource Kit Part 4 (Home-based Learning)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/HBL/Resource%20Kit%20-%20HBL.pdf)  \[27/04/2020\]
-5\.  [Resource Kit (School Holiday)](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/Publications/All/Resource%20Kit%20-%20School%20Holiday%20Edition.pdf) \[04/05/2020\]
+1\.  [Resource Kit Part 1(Home-based Learning)](/files/hbl1.pdf) \[31/03/2020\] <br>
+2\.  [Resource Kit Part 2 (Home-based Learning)](/files/hbl2.pdf) \[07/04/2020\] <br>
+3\.  [Resource Kit Part 3 (Home-based Learning)](/files/hbl3.pdf) \[15/04/2020\]<br>
+4\.  [Resource Kit Part 4 (Home-based Learning)](/files/hbl4.pdf)  \[27/04/2020\]<br>
+5\.  [Resource Kit (School Holiday)](/files/hbl5.pdf) \[04/05/2020\]
 
   
   
