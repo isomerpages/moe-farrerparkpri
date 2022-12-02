@@ -187,3 +187,40 @@ Together with your child, fill in the expectations/activity in the first column.
 
 **Point System**
 
+| Expectations | Points |
+|:---:|:---:|
+| Make my bed | 20 |
+| Start work on time | 20 |
+| Complete work on time | 40 |
+| Tidy my desk at the end of the day | 10 |
+| Help (someone) with (something) | 30 |
+| Followed the schedule for the day | 60 |
+| **Rewards** |  |
+| Play (game) for 10 mins | 20 |
+| 15 mins of screen time | 30 |
+| Favourite snack | 30 |
+| Go to the playground | 40 |
+| Watch (TV programme) | 50 |
+| (Favourite activity during the weekend) | 60 |
+
+**Template A – Weekly Schedule**  
+[Click here](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/HBL/template.docx) to download template  
+
+Please upload doc file.
+  
+
+#### Example D
+
+Strategies for managing challenging behaviour
+
+For students with challenging behavior, parents may try some of these strategies (Mendoza, McKeithan, Griswold, 2019)
+
+| Behaviour | Response |
+|:---:|:---:|
+| Refuses to read | Use an audiobook; ask the child to follow along as they listen. Try having the child use a talent like coloring, drawing or building with manipulatives to keep hands busy while listening. Leave close captioning on when watching TV to reinforce sight words. |
+| Verbally answers questions, but not write them down | It is ok to write “verbally completed with mum” at the top of a worksheet if the child is not willing to fill it out for themselves some days. Video verbal answers for additional documentation. |
+| Refusing to work | Try switching subject matter. Take a break; work a special interest into that topic. Gently discern the purpose (or function) of the refusal and address it. |
+| Frustrated, bored or tired | Take a break; add in physical activity. This can be overt with a quick discussion on managing their own symptoms with physical activity, or discreetly if the child is not agreeable to using activity. |
+| Distracted by electronics | Integrate access to electronics at the end of an activity or include the need for electronics within an activity (find a picture or video that best represents a concept). Change the Wi-Fi password or use an app that allows you to control access to the electronic and internet usage. |
+| Meltdown | Set aside the lesson. The child needs their sensory, emotional, and physical symptoms taken care of above all else. Learning cannot happen at this time. |
+| Inappropriate social behaviour and/or destructive | To focus on behavioural goals first (before the academic lesson) |
