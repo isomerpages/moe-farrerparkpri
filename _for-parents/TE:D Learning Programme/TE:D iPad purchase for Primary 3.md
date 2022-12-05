@@ -43,7 +43,7 @@ Your child can bring in their iPad for the installation of the MDM software fro
 Please note that the iPad will be **reset to factory settings** for the installation of the MDM software.  
 Parents will need to ensure that the **iPad does not have any AppleID signed in**.  
   
-**Question 5:** **Will my child be using their iPad in school in directly after the installation?*
+**Question 5:** **Will my child be using their iPad in school in directly after the installation?**
 
 *After the installation of the MDM software, which might take up to a week, the iPad will be handed over to the class Form Teachers to be returned to your child. They will be able to use their own iPad in school and will be bringing them to school and back home on a daily basis.  
   
