@@ -52,4 +52,3 @@ Use the link below to submit the online form.
 ##### Configuring screen time
 
 <iframe width="365" height="204" src="https://www.youtube.com/embed/fC1TnaMfI-E?list=PLTHVutaljrzkHPotUmPLi9NFNBwgDVr2N" title="How to configure Screen Time and balance your child's screen exposure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
