@@ -114,7 +114,14 @@ You may refer to the link below to view the Primary 4 Subject-Based Banding slid
 <div>  
   
 <p>
-text	
+<b> Year 2023 </b><br><br>
+Click on the link below to download booklist for year 2023 <Br>
+<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p5m1.pdf">P4 BOOKLIST.pdf</a>		<br>
+<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p5m2.pdf">P5 BOOKLIST.pdf</a>		<br><br>	
+
+<b> Primary 5 Parent-Teacher Bonding Session </b><br><br>	
+Please refer to the link below to download the briefing slides.	<Br>
+<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p5m3.pdf">P5 PTB Briefing.pdf</a>		<br><br>		
   
 </p>  
   
