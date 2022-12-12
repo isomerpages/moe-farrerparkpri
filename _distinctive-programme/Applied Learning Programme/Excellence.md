@@ -103,7 +103,17 @@ Click here to watch the highlights from the monologues!	<br><br>
 <div>  
   
 <p>
-text
+We are proud to say that we had a sold-out performance for this play at 16 Winstedt Road. The cast performed to over 600 members of the public! <br><br>
+
+<b>Play Synopsis:</b>
+<br>Elizadora is an outcast who has been horribly misunderstood by her classmates- Cinderella, Goldilocks, King Midas, a bunch of minions and many more! Her hateful heart transforms her into the infamous wicked witch in every fairy tale. What happens when all the fairy tale characters meet in the same school? Does everyone really deserve a happily ever after?<br>
+	
+<img src="/images/fairytale.png" style="width:60%">	<br><br>
+<iframe width="771" height="434" src="https://www.youtube.com/embed/B9wC-SrtpLI" title="FPPS Forgiven Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+	
+<iframe width="774" height="435" src="https://www.youtube.com/embed/_DpiDOO7dSg" title="FPPS  highlights final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
+
+
 </p>  
   
 </div>  
