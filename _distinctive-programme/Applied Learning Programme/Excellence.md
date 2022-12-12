@@ -81,7 +81,14 @@ This year, members from the Drama Club would be participating as well!	<Br><br>
 <b> The Drama Club has also staged 2 other performances in 2014. </b><br>	
 <figure><img src="/images/exc8.png" style="width:75%"><figcaption>The members performed “The Sneetches ” by Dr. Seuss at  My Tree House at the National Library in June 2014</figcaption></figure>	 <br><br>
 
-<figure><img src="/images/exc9.png" style="width:75%"><figcaption>The Michael Recycle team was invited to perform for My Tree House’s One Year Anniversary Celebration on 30 May 2014</figcaption></figure>		
+<figure><img src="/images/exc9.png" style="width:75%"><figcaption>The Michael Recycle team was invited to perform for My Tree House’s One Year Anniversary Celebration on 30 May 2014</figcaption></figure>		<br><br>
+	
+<b> Members of the Modular Group</b>	<br><Br>
+Members of the modular group go through basic actor training.  <br><br>
+In 2014, all the members from the modular group took up the challenge to perform a monologue! They did extremely well as novice actors!<br><br>
+Click here to watch the highlights from the monologues!	<br><br>
+	
+<iframe width="647" height="483" src="https://www.youtube.com/embed/cmLRcRFnoMU" title="monologues drama cl 2014" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>	
 </p>  
   
 </div>  
