@@ -10,7 +10,7 @@ third_nav_title: News and Information
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">Primary 1 Matters(2021)</label>  
+<label for="accordion1">Primary 1 Matters(2023)</label>  
   
 <div>  
   
@@ -116,7 +116,7 @@ You may refer to the link below to view the Primary 4 Subject-Based Banding slid
 <p>
 <b> Year 2023 </b><br><br>
 Click on the link below to download booklist for year 2023 <Br>
-<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p5m1.pdf">P4 BOOKLIST.pdf</a>		<br>
+<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p5m1.pdf">P5 FDN.pdf</a>		<br>
 <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p5m2.pdf">P5 BOOKLIST.pdf</a>		<br><br>	
 
 <b> Primary 5 Parent-Teacher Bonding Session </b><br><br>	
@@ -138,8 +138,14 @@ Please refer to the link below to download the briefing slides.	<Br>
 <div>  
   
 <p>
-text	
-  
+<b> Year 2023 </b><br><br>
+Click on the link below to download booklist for year 2023 <Br>
+ <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p6m1.pdf">P6 FDN.pdf</a>		<br>
+<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p6m2.pdf">P6 BOOKLIST.pdf</a>		<br><br>	 
+	
+<b>PSLE Scoring and S1 Posting Systems</b><br>
+Click the link below to download the briefing slides.<br>
+<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p6m3.pdf">PSLE Sharing with P6 Parents 4 Mar 2022.pdf</a>		
 </p>  
   
 </div>  
