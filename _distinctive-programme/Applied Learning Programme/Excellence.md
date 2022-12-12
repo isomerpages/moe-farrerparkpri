@@ -129,8 +129,21 @@ We are proud to say that we had a sold-out performance for this play at 16 Winst
 <div>  
   
 <p>
-text	
-  
+25 actors, 16 dancers, 31 fringe performers and ALL our staff were part of our spectacular production- 'Piknowcchio's Playstore' on 5 August 2017. Both the matinee and evening shows were sold-out! Our young performers put up two dazzling shows for over 840 people. We're pleased to share with you some of the best moments from the play! <br><br>
+	
+<iframe width="770" height="432" src="https://www.youtube.com/embed/RR-HyAIvTU4" title="2017 Production Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br><br>
+
+<img src="/images/exc10.png" style="width:80%">	<br><br>
+	
+<b><u>Play Synopsis:</u></b><br><br>
+
+It’s the year 2030, where everything is run by our dearest applications. Just like all of us, the apps go to school, or what is called the Playstore. Microsquash, a brilliant but lazy app, loves going to the Playstore… but only to hang out with her friends. In fact, she created a robot called Piknowcchio, just to do her homework! Looking just like a real boy, Piknowcchio meets a bunch of friends at the Playstore, and hears from them tantalising stories of toys and treats at the Apps Mall and Play World. There is just one problem - Piknowcchio is supposed to be hard at work at the Playstore! <br><br>
+
+Farrer Park Primary School presents our biennial drama production -Piknowcchio's Playstore. Join Piknowcchio and his friends as they go on an app-ic adventure around the Apps Universe, where they finally learn that the road to success requires hard work. Find out more at	<a href="http://tinyurl.com/fppsdrama2017">http://tinyurl.com/fppsdrama2017</a> now! <br>
+	
+<iframe width="780" height="438" src="https://www.youtube.com/embed/bfc39whbBqE" title="FPPS Piknowcchio’s Playstore Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <Br><br>	
+	
+ <img src="/images/exc11.png" style="width:80%"> 
 </p>  
   
 </div>  
