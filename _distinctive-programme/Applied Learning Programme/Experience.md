@@ -10,8 +10,8 @@ The pupils from primary 1 to 3 go through a number of Process Drama lessons per 
 
 |  |  |
 |---|---|
-| # | The use of drama in teaching provides pupils with the experience of exploring social behaviour and the values that underpin it. Through the improvised drama process, pupils can investigate a wide range of real and imagined social issues through the safety of assumed roles or situations. |
-| # | The drama lessons promote collaborative learning and creative problem solving as pupils take on different roles and perspectives to help the characters in the story overcome their challenges.  |
+| <img src="/images/alp5.png" style="width:90%"> | The use of drama in teaching provides pupils with the experience of exploring social behaviour and the values that underpin it. Through the improvised drama process, pupils can investigate a wide range of real and imagined social issues through the safety of assumed roles or situations. |
+| <img src="/images/alp6.png" style="width:90%"> | The drama lessons promote collaborative learning and creative problem solving as pupils take on different roles and perspectives to help the characters in the story overcome their challenges.  |
 
 You can catch a glimpse of what a drama lesson is like from the video below.
 
@@ -21,10 +21,14 @@ Since 2015, English and Mother Tongue language teachers are also well-equipped w
 
 |  |  |
 |---|---|
-| # | Pupils creating a freeze frame of a problem in the story |
+| <img src="/images/alp7.png" style="width:70%"> | Pupils creating a freeze frame of a problem in the story |
 
 #### School-wide Process Drama & Character Education for Primary 1 to 6
 
   
 
 Since 2014, the school has embarked on an annual school-wide process drama and character and citizenship education lessons that are linked to our school values.  Pupils from every class will explore the themes that are related to character education through a story. They work in groups, take on different roles to explore complex themes such as forgiveness, second chances, acceptance and selflessness.
+
+<img src="/images/alp8.png" style="width:60%">
+
+<img src="/images/alp9.png" style="width:60%">
