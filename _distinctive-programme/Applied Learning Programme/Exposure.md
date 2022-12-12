@@ -8,7 +8,6 @@ Assembly performances that have been endorsed by the National Arts Council are b
 
 The school also brings different groups of pupils out to watch plays staged by theatre companies at least once a year so that they can be exposed to drama as a performing art.
 
-<img src="/images/alp2.png" style="width:60%">
 
 |  |  |
 |---|---|
