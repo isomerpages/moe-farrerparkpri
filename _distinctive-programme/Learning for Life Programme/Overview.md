@@ -4,6 +4,8 @@ permalink: /distinctive-programme/Learning-for-Life-Programme/overview/
 description: ""
 third_nav_title: Learning for Life Programme
 ---
+#### iCARE - Leaders Of Tomorrow
+
 <img src="/images/llp1.png" style="width:70%">
 
 In an ever changing world, it is critical for schools to prepare pupils for the future by equipping them with relevant leadership competencies and instil sound values through authentic and meaningful platforms.  
