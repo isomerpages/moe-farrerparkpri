@@ -206,7 +206,14 @@ The Bugliest Bug is FPPS’ maiden production. It was produced and supported und
 <div>  
   
 <p>
-text	
+<img src="/images/aw1.png" style="width:60%"><br><br>
+
+On 15 November 2019, we staged our very first black box production, _Alice @ Wonderland_, at Gateway Theatre. A modern adaptation of the classic based on the works of Lewis Carrol, the audience accompanied Alice down the rabbit hole into the mystical and magical place called _Wonderland_. In this play, Alice went on a journey of self-discovery as the frustrations of connectivity and the bizarre antics of thoroughly illogical and strange creatures tested her character to the max! <br><br>
+
+It was quite a journey for our pupils too! The cast of 24 actors and 12 dancers put in tremendous effort over months of rehearsal and performed twice on the same day for two sell-out shows. There were also 12 talented musicians who played wonderful music for the reception and many artistic children who conceptualised and made all the props for the show. We’re proud to share some highlights of this unforgettable day with you!<br><br>	
+	
+<img src="/images/aw2.png" style="width:90%"><br><br>	
+	
   
 </p>  
   
