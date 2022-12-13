@@ -16,4 +16,8 @@ In primary 5, we went through a workshop which taught us how to communicate effe
 
 Every year, our school has an I&E Carnival where primary 6 pupils open game booths they have designed and created as a team after PSLE. Through a workshop on decision making and planning skills and the process of group work, they learnt the importance of working together in a respectful manner by sharing responsibilities and making decisions to meet the group’s goal.
 
-<img src="/images/llp21.png" style="width:80%">
+<img src="/images/slp1.png" style="width:80%">
+
+<img src="/images/slp2.png" style="width:80%">
+
+<img src="/images/slp3.png" style="width:80%">
