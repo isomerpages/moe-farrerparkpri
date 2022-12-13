@@ -160,7 +160,17 @@ Farrer Park Primary School presents our biennial drama production -Piknowcchio's
 <div>  
   
 <p>
-text	
+<b> Drama Club’s Participation in Central Clean & Green Carnival and Project Earth (since 2013)</b><br>
+	
+Since 2013, FPPS has been invited to participate in Project Earth and Central Clean and Green Carnival, organised by National Environment Agency.<br><br>
+
+The pupils from the Drama Club had a fabulous time being Green Ambassadors as they advocated the importance of keeping Singapore clean and green at the carnival.<br><br>
+
+In 2017, the Central Clean & Green Carnival was held at the open area outside Boon Keng MRT station. Our team of actors staged a play on the importance of Reducing and Recycling Waste. The play was titled – A Tale of Junky and Dunky.	<br><br>
+	
+<img src="/images/ga.png" style="width:60%">	<br><br>
+
+In 2016, the pupils from the Drama Club put up a play- Peggy the Pint-sized Pirate, at the carnival's launch to share with the members of the public the importance of reducing waste and the impact that littering has on the environment. The guest of honour for the carnival was the Minister of State for Health, Dr Lam Pin Min.	
   
 </p>  
   
@@ -177,7 +187,9 @@ text
 <div>  
   
 <p>
-text	
+The Bugliest Bug is FPPS’ maiden production. It was produced and supported under the National Arts Council Arts and Culture Presentation Grant. The play was staged at Pek Kio Community Centre and 450 members of the public came to watch the play. <br><br>
+	
+<img src="/images/bug1.png" style="width:60%">	
   
 </p>  
   
