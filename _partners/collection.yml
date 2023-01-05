@@ -1,0 +1,17 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Student Care Centre.md
+      - Parent Support Group/Overview.md
+      - Parent Support Group/Parent–Teacher Bonding Session for P1.md
+      - Parent Support Group/Appreciation Day.md
+      - Parent Support Group/Racial Harmony Day.md
+      - Parent Support Group/International Friendship Day.md
+      - Parent Support Group/.keep
+      - School Advisory Committee.md
+      - Pek Kio CC.md
+      - Family Matters/Overview.md
+      - Family Matters/Dads For Life.md
+      - Family Matters/MSF Parenting Workshops.md
+      - Family Matters/.keep

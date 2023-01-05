@@ -1,32 +1,21 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Farrer Park Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/fpslogo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/fpsuban.gif
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: /announcements/
+        - title: Achievements
+          description: ""
+          url: /achievements/overview/
+        - title: Distinctive Programme
+          description: ""
+          url: /distinctive-programme/overview/
 ---
-

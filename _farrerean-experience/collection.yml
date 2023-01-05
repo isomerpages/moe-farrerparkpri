@@ -1,0 +1,15 @@
+collections:
+  farrerean-experience:
+    output: true
+    order:
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue/Overview.md
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
+      - Mother Tongue/.keep
+      - Aesthetics.md
+      - Sports and Physical Education.md
+      - Co–Curricular Activities.md

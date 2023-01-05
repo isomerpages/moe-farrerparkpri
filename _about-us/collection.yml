@@ -1,0 +1,18 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Mission, Vision, Motto, Values and Learning Dispositions.md
+      - School Crest and School Song.md
+      - School Rules.md
+      - Principal's Thoughts.md
+      - School Steering Committee.md
+      - Teaching and Non–Teaching Staff.md
+      - VR School Tour.md
+      - Other Information/Suppliers – School Bus, Uniform and Books.md
+      - Other Information/School Fees.md
+      - Other Information/.keep
+      - Contact Us.md
+      - School in the News.md
+      - Pupil's Creed.md
+      - School Hours.md
