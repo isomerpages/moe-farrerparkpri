@@ -5,8 +5,6 @@ description: ""
 ---
 ### Principal's Thoughts
 
-![](/images/Principal%20300.png)
-
 Dear Parents,
 
 As we welcome the new year of 2023, may the year bring us much joy and peace!
