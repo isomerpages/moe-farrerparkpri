@@ -18,7 +18,11 @@ _Flag raising ceremony commences at 7.30 a.m. sharp (students should be punctual
 | P2 and P3 | 9.30 a.m. to 10.00 a.m. |
 |  P5 and P6 |  10.00 a.m. to 10.30 a.m. |
 
+#### CCAs
 
+|  |  |
+|---|---|
+| P3 &amp; P6 | CCAs on Tuesday<br>Friday (For competitve only)<br>2.00 p.m. to 3.45 p.m. |
 
 
 #### General Office (Monday to Friday)
