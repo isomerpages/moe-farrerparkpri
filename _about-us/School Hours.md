@@ -7,7 +7,7 @@ description: ""
  
  | Curriculum Time (Primary 1 to Primary 6) |
 |:---:|
-| Monday to Thursday<br>7.30 a.m. to 1.30 p.m.<br><br>Friday<br>7.30 a.m. to 1.15 p.m. |
+| Monday to Friday<br>7.30 a.m. to 1.30 p.m.<br>|
 _Flag raising ceremony commences at 7.30 a.m. sharp (students should be punctual for school)._
 
 #### Recess
