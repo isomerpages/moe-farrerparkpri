@@ -17,12 +17,8 @@ _Flag raising ceremony commences at 7.30 a.m. sharp (students should be punctual
 | P1 and P4 | 9.00 a.m. to 9.30 a.m. |
 | P2 and P3 | 9.30 a.m. to 10.00 a.m. |
 |  P5 and P6 |  10.00 a.m. to 10.30 a.m. |
-| 
-<table>
-	<style>
-		
-	</style>
-	</table>
+
+
 #### Supplementary/Remedial/SDR/RRP/E2K/ERP/FEL/FMA &amp; CAAs
 
 |  |  |
