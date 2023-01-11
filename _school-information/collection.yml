@@ -2,5 +2,6 @@ collections:
   school-information:
     output: true
     order:
+      - School Fees.md
       - Suppliers – School Bus, Uniform and Books.md
       - Operation Hours.md
