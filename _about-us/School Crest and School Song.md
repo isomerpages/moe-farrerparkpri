@@ -52,3 +52,11 @@ The someone we are proud to call me<br>
 Here at Farrer Park Primary</figure>
 
 <iframe width="812" height="456" src="https://www.youtube.com/embed/DxTQRAipY1U" title="School Song - Farrer Park Primary School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Pupil's Creed 
+
+<figure>We, the pupils of Farrer Park Primary School<br> are neat in appearance, courteous and<br>respectful to others.
+
+We are always honest and responsible and<br> strive to be thinking, creative individuals. 
+
+Together, we will bring glory to the school.</figure>
