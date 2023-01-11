@@ -455,3 +455,236 @@ description: ""
 		</tr>
 	</tbody>
 </table>
+
+#### Allied Educators
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:789px;" width="789">
+	<tbody>
+		<tr>
+			<td style="width:143px;">
+			<p><strong>Special Education Needs Officer</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:60px;">
+			<p>Miss Lim Jing Xuan<br />
+			Miss Lee Yan Yi<br />
+			Miss Nor Marziana Jumati<br />
+			Miss Tan Hooi Wan</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>School Counsellor</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Miss Song Nanette III<br />
+			Miss Norashida Redwan<br />
+			Miss Phang Mun Ling Grace</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Student Wellfare Officer&nbsp;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Miss Lim Shini&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Non-Teaching Staff
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:687px;" width="687">
+	<tbody>
+		<tr>
+			<td style="width:322px;">
+			<p>Mdm Marhaini Usalli</p>
+			</td>
+			<td style="width:364px;">
+			<p>Admin Manager</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:60px;">
+			<p>Miss Lim Siew Lian</p>
+			</td>
+			<td style="width:60px;">
+			<p>Admin Manager</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mr Surjit Singh S/O Sewa Singh</p>
+			</td>
+			<td style="width:60px;">
+			<p>Operation Manager</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mr Khairul Amilin Bin Khalid</p>
+			</td>
+			<td style="width:60px;">
+			<p>ICT Manager</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mr Jeremy Guo</p>
+			</td>
+			<td style="width:60px;">
+			<p>ICT Manager</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Miss Tan Yee Siah</p>
+			</td>
+			<td style="width:60px;">
+			<p>Admin Executive</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Miss Nur Adlina Binte Abdul Hamid&nbsp;</p>
+			</td>
+			<td>
+			<p>Admin Executive</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mr Rudy Lim Boen Seng&nbsp;</p>
+			</td>
+			<td>
+			<p>Admin Executive&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Miss Boo Suat Yen (Wendy)</p>
+			</td>
+			<td>
+			<p>Corporate Support Officer&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mdm Shahirah Bte Abdul Rahman&nbsp;</p>
+			</td>
+			<td>
+			<p>Corporate Support Officer&nbsp;&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mdm Tan Siew Lan&nbsp;</p>
+			</td>
+			<td>
+			<p>Operations Support Officer&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mdm Rajasulosanah D/O Govindasamy&nbsp;</p>
+			</td>
+			<td>
+			<p>Operations Support Officer&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mr Chan Mun Hung&nbsp;</p>
+			</td>
+			<td>
+			<p>Operations Support Officer&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mdm Sumathi D/O Thamugham&nbsp;</p>
+			</td>
+			<td>
+			<p>Operations Support Officer&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mr Mohd Azman Bin Shuib&nbsp;</p>
+			</td>
+			<td>
+			<p>Operations Support Officer&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mdm Wong Siew Gan</p>
+			</td>
+			<td>
+			<p>Operations Support Officer&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mdm Lee Yoke Chan&nbsp;</p>
+			</td>
+			<td>
+			<p>Operations Support Officer</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Miss Yvonne Goh Si Jie&nbsp;</p>
+			</td>
+			<td>
+			<p>Desktop Engineer&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mr Ng Wei Tat&nbsp;</p>
+			</td>
+			<td>
+			<p>Desktop Engineer&nbsp;&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Miss Zaharatul Akmam Jaafar&nbsp;</p>
+			</td>
+			<td>
+			<p>Library Assistance&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mr Chua Chin Seng Jason&nbsp;</p>
+			</td>
+			<td>
+			<p>Security Officer&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mr Kenny Tay Joo Kiat&nbsp;</p>
+			</td>
+			<td>
+			<p>Security Officer&nbsp;&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mr V. P. Krishnan&nbsp;</p>
+			</td>
+			<td>
+			<p>Security Officer&nbsp;&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
