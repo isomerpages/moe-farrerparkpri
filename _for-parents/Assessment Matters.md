@@ -87,10 +87,26 @@ There are no weighted assessment for P1 and P2 Levels
 
 **Primary 6 Assessment Weighting**
 
-|  |  |  |  |
-|---|---|---|---|
-| Term 1 | Term 2 - SA 1 | Term 3 | Term 4 - SA2 |
-| Term Review<br>(non-weighted)<br>All subjects are full papers | <td colspan="3">Coming Soon |
+<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 845.328px; color: rgb(72, 72, 72); font-size: 16px;">
+	<thead style="box-sizing: inherit;">
+	</thead>
+	<tbody style="box-sizing: inherit;">
+		<tr style="box-sizing: inherit;">
+			<td style="box-sizing: inherit; padding: 0.5em 0.75em; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px;">Term 1</td>
+			<td style="box-sizing: inherit; padding: 0.5em 0.75em; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px;">&nbsp;</td>
+			<td style="box-sizing: inherit; padding: 0.5em 0.75em; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px;">Term 2 - SA 1</td>
+			<td style="box-sizing: inherit; padding: 0.5em 0.75em; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px;">Term 3</td>
+			<td style="box-sizing: inherit; padding: 0.5em 0.75em; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px;">Term 4 - SA2</td>
+		</tr>
+		<tr style="box-sizing: inherit;">
+			<td style="box-sizing: inherit; padding: 0.5em 0.75em; vertical-align: top; border: 0px solid rgb(214, 214, 214);">Term Review<br style="box-sizing: inherit;" />
+			(non-weighted)<br style="box-sizing: inherit;" />
+			All subjects are full papers</td>
+			<td colspan="4" style="box-sizing: inherit; padding: 0.5em 0.75em; vertical-align: top; border: 0px solid rgb(214, 214, 214); text-align: center;">Coming Soon</td>
+		</tr>
+	</tbody>
+</table>
+
 
 #### Grading System and Marks Range
 
