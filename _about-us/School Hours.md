@@ -32,9 +32,4 @@ _Flag raising ceremony commences at 7.30 a.m. sharp (students should be punctual
 | P3 - P6 | CCAs on Tuesday<br>2.00 p.m. to 3.45 p.m. <br>Additional training may be provided for some CCAs on Fridays between 2.00.p.m and 4.00.p.m. |
 
 
-#### General Office (Monday to Friday)
-
-|  |  |
-|---|---|
-|  Term Time |   Operating Hours 7.30 a.m. to 5.30 p.m. |
-| School Holidays | Operating Hours 8.00 a.m. to 5.00 p.m. |</center></center>
+</center></center>
