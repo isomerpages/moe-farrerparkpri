@@ -13,21 +13,77 @@ For more information you may aso refer to [MOE's website](https://www.moe.gov.s
 
 #### SCHOOL CALENDAR 2023
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"><span style="font-style:inherit">PRIMARY &amp; SECONDARY</span></th></tr></thead><tbody><tr><td style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">Semester I</td></tr><tr><td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term I</span></td><td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Tue 4 Jan to Fri 11 Mar</span></td></tr><tr><td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term II</span></td><td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 21 Mar to Fri 27 May</span></td></tr><tr><td style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"><span style="font-weight:700;font-style:normal">Semester I</span>I</td></tr><tr><td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term III</span></td><td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 27 Jun to Fri 2 Sep</span></td></tr><tr><td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term IV</span></td><td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 12 Sep to *Fri 18 Nov</span></td></tr></tbody></table>
+<table class="tg" style="border-collapse:collapse;border-spacing:0">
+	<thead>
+		<tr>
+			<th colspan="2" style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-style:inherit">PRIMARY &amp; SECONDARY</span></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Semester I</td>
+		</tr>
+		<tr>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term I</span></td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Tue 3 Jan to Fri 10 Mar</span></td>
+		</tr>
+		<tr>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term II</span></td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 20 Mar to Fri 26 May</span></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:normal">Semester I</span>I</td>
+		</tr>
+		<tr>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term III</span></td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 26 Jun to Fri 1 Sep</span></td>
+		</tr>
+		<tr>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term IV</span></td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 11 Sep to Fri 17 Nov</span></td>
+		</tr>
+	</tbody>
+</table>
+
  
  
 ####  SCHOOL VACATION 2023
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"><span style="font-weight:700;font-style:normal">PRIMARY &amp; SECONDARY</span></th></tr></thead><tbody><tr><td style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"><span style="font-weight:700;font-style:inherit">Between Terms I &amp; II</span></td></tr><tr><td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Between Semesters I &amp; II</span></td><td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Sat 28 May to Sun 26 Jun</span></td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Between Terms III &amp; IV</span></td><td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Sat 3 Sep to Sun 11 Sep</span></td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">At End of School Year</span></td><td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Sat 19 Nov to Sat 31 Dec</span></td></tr></tbody></table>
+<table class="tg" style="border-collapse:collapse;border-spacing:0">
+	<thead>
+		<tr>
+			<th colspan="2" style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:normal">PRIMARY &amp; SECONDARY</span></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color: rgb(83, 87, 106); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700;">Between Terms I &amp; II</span></td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sat 11 Mar to Sun 19 Mar</td>
+		</tr>
+		<tr>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Between Semesters I &amp; II</span></td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Sat 27 May to Sun 25 Jun</span></td>
+		</tr>
+		<tr>
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Between Terms III &amp; IV</span></td>
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Sat 2 Sep to Sun 10 Sep</span></td>
+		</tr>
+		<tr>
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">At End of School Year</span></td>
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Sat 18 Nov to Sun 31 Dec</span></td>
+		</tr>
+	</tbody>
+</table>
+
 
 #### SCHEDULED SCHOOL HOLIDAYS 2023
 
 |  |  |
 |---|---|
-| Youth Day | Sun 3 Jul (The following Monday, 4 Jul will be a scheduled school holiday.) |
-| Day after National Day | Wed 10 Aug |
-| Teachers’ Day | Fri 2 Sep |
-| Children’s Day (for primary schools and primary sections of full schools only) | Fri 7 Oct |
+| Youth Day | Sun 2 Jul (The following Monday, 3 Jul will be a scheduled school holiday.) |
+| Day after National Day | Thur 10 Aug |
+| Teachers’ Day | Fri 1 Sep |
+| Children’s Day (for primary schools and primary sections of full schools only) | Fri 6 Oct |
 
 #### PUBLIC HOLIDAYS 2023
  
