@@ -354,3 +354,104 @@ description: ""
 		</tr>
 	</tbody>
 </table>
+
+#### Primary 6
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:789px;" width="789">
+	<tbody>
+		<tr>
+			<td style="width:143px;">
+			<p><strong>Class</strong></p>
+			</td>
+			<td style="width:271px;">
+			<p><strong>Form Teacher</strong></p>
+			</td>
+			<td style="width:146px;">
+			<p><strong>Class</strong></p>
+			</td>
+			<td style="width:228px;">
+			<p><strong>Form Teacher</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:60px;">
+			<p>6 Graciousness</p>
+			</td>
+			<td style="width:60px;">
+			<p>Mdm Rahimah Bte Madan<br />
+			Mr Ravinder Singh Swaran Singh</p>
+			</td>
+			<td style="width:60px;">
+			<p>6 Responsibility</p>
+			</td>
+			<td style="width:60px;">
+			<p>Miss Vanessa Oh Kaiwen<br />
+			Miss Vellaisamy Indrani</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>6 Adaptability</p>
+			</td>
+			<td>
+			<p>Miss Candy Chua Lai Peng<br />
+			Miss Ang Siam Gek Evelyn&nbsp;</p>
+			</td>
+			<td>
+			<p>6 Integrity&nbsp;</p>
+			</td>
+			<td>
+			<p>Miss Chua Suat Hong<br />
+			Miss Nithya Nagaratnam&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>6 Ready</p>
+			</td>
+			<td>
+			<p>Mr Goh Kok Kwang Harrison<br />
+			Miss Hena Suhail&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Other Teaching Staff
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:789px;" width="789">
+	<tbody>
+		<tr>
+			<td style="width:60px;">
+			<p>Miss Ooi En Ping Charis<br />
+			Mr Lee Kim Fatt<br />
+			Mdm Norliyah Hasan<br />
+			Mrs Wong-Low Ai Rin<br />
+			Miss Chua Lay Peng<br />
+			Miss Rochelle Sim Hui Yee<br />
+			Miss Leong Meng Har<br />
+			Mdm Jumaliah Ahmad<br />
+			Miss Ong Siew Choon Joanne<br />
+			Miss Goh Soh Ngee<br />
+			Miss Audrey Loke</p>
+			</td>
+			<td style="width:60px;">
+			<p>Miss Chia Mei Hua<br />
+			Miss Monisha Samdas Budhrani<br />
+			Miss Clara Lim Shu Yang<br />
+			Mr Goh Gim Siong<br />
+			Miss Shermin Low Simin<br />
+			Miss Lau Swee Bee Elena<br />
+			Miss Ong Lian Yong (Yvonne)<br />
+			Miss Haymalatha Sithambaram<br />
+			Mdm Murni Osman<br />
+			Mr Kim Kok Cha<br />
+				Miss Hafidah Bte Sulaiman</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
