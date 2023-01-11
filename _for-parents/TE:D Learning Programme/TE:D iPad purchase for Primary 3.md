@@ -30,7 +30,7 @@ The recommended model iPad is also priced lower.
   
 **Question 2:** **What is the MDM? And Screen guide?**<br>
 The Mobile Device Management (MDM) and the accompanying Screen Guide applications are third-party paid software that allows the school and parents to manage the child's device remotely to manage the installed applications and monitor screen time. The school will bear the cost of this software.  
-More information on how parents can use this MDM can be found **[here](https://staging.d2n2vioi5ki3lh.amplifyapp.com/ict/Manage-your-Childs-Device/overview/)**.  
+
   
 **Question 3:** **Must I get the iPad 9th Gen (10.2-inch WiFi 64GB)?**
 
