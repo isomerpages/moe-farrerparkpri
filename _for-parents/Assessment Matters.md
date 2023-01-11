@@ -115,7 +115,39 @@ There are no weighted assessment for P1 and P2 Levels
 
 #### Grading System and Marks Range
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#DDD;border-color:#343434;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"><figure>Descriptors For Achievement Bands &amp; Grades (P3 - P4) <br></th></tr></thead><tbody><tr><td style="background-color:#DDD;border-color:#343434;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Achievement Band (Mark Range)<br></td><td style="background-color:#DDD;border-color:#343434;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Brief Description<br></td></tr><tr><td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1 (85 and above)<br></td><td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Is very good in this subject<br></td></tr><tr><td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2 (70 - 84)<br></td><td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Is good in the subject<br></td></tr><tr><td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3 (50 - 69)<br></td><td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Has adequate grasp of the subject<br></td></tr><tr><td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4 (Below 50)<br></td><td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Has not met minimum requirements for the subject<br></td></tr></tbody></table><br>
+<table class="tg" style="border-collapse:collapse;border-spacing:0">
+	<thead>
+		<tr>
+			<th colspan="2" style="background-color:#DDD;border-color:#343434;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+			<figure>Descriptors For Achievement Bands &amp; Grades (P3 - P4)</figure>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color:#DDD;border-color:#343434;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Achievement Band (Mark Range)</td>
+			<td style="background-color:#DDD;border-color:#343434;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Brief Description</td>
+		</tr>
+		<tr>
+			<td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1 (85 and above)</td>
+			<td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Is very good in this subject</td>
+		</tr>
+		<tr>
+			<td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2 (70 - 84)</td>
+			<td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Is good in the subject</td>
+		</tr>
+		<tr>
+			<td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3 (50 - 69)</td>
+			<td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Has adequate grasp of the subject</td>
+		</tr>
+		<tr>
+			<td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4 (Below 50)</td>
+			<td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Has not met minimum requirements for the subject</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0">
 	<thead>
@@ -164,6 +196,11 @@ There are no weighted assessment for P1 and P2 Levels
 		</tr>
 	</tbody>
 </table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 
 <br>
 
