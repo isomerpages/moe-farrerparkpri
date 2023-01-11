@@ -58,27 +58,8 @@ links:
       - title: Family Matters
         url: /partners/Family-Matters/overview/
   - title: For Parents
-    url: /for-parents/virtual-open-house/
-    sublinks:
-      - title: Virtual Open House
-        url: /for-parents/virtual-open-house/
-      - title: News and Information
-        url: /for-parents/News-and-Information/overview/
-      - title: School Calendar
-        url: /for-parents/school-calendar/
-      - title: Parents Gateway
-        url: /for-parents/parents-gateway/
-      - title: Home-Based Learning
-        url: /for-parents/Home-Based-Learning/overview/
-      - title: Parenting in the Digital Age
-        url: /for-parents/parenting-in-the-digital-age/
-      - title: TE:D Learning Programme
-        url: /for-parents/TED-Learning-Programme/overview/
-      - title: Student Learning Space
-        url: /for-parents/Student-Learning-Space/information/
+    collection: for-parents
   - title: For Staff
     url: https://sites.google.com/moe.edu.sg/fpps-staff-only/home?authuser=0
   - title: Contact Us
     url: /about-us/contact-us/
-  - title: For Parents
-    collection: for-parents
