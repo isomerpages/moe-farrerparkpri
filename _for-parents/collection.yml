@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Letters & Notifications.md
       - Virtual Open House.md
       - News and Information/Overview.md
       - News and Information/Primary 1 to 6 Matters.md
