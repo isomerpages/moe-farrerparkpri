@@ -2,27 +2,27 @@ collections:
   for-parents:
     output: true
     order:
-      - Useful Tips.md
-      - Assessment Matters.md
-      - Primary 1 to 6 Matters.md
       - Letters & Notifications.md
-      - Virtual Open House.md
+      - Primary 1 to 6 Matters.md
+      - Assessment Matters.md
       - School Calendar.md
+      - Student Learning Space/.keep
+      - Student Learning Space/Information for Students and Parents.md
+      - Student Learning Space/Resetting the SLS Password.md
+      - Student Learning Space/Getting Started with SLS (First time login and
+        new user).md
+      - Student Learning Space/Frequently Asked Questions.md
       - Parents Gateway.md
+      - Home Based Learning/.keep
       - Home Based Learning/Overview.md
       - Home Based Learning/Tips for Parents during HBL.md
       - Home Based Learning/Past Home–Based Learning.md
-      - Home Based Learning/.keep
+      - TE:D Learning Programme/.keep
       - TE:D Learning Programme/Overview.md
       - TE:D Learning Programme/TE:D P2 Parent Engagement 2022.md
       - TE:D Learning Programme/TE:D Programme Briefing 2022.md
       - TE:D Learning Programme/TE:D iPad purchase for Primary 3.md
       - TE:D Learning Programme/Managing your Child's Learning Device with
         Screenguide.md
-      - TE:D Learning Programme/.keep
-      - Student Learning Space/Information for Students and Parents.md
-      - Student Learning Space/Resetting the SLS Password.md
-      - Student Learning Space/Getting Started with SLS (First time login and
-        new user).md
-      - Student Learning Space/Frequently Asked Questions.md
-      - Student Learning Space/.keep
+      - Virtual Open House.md
+      - Useful Tips.md
