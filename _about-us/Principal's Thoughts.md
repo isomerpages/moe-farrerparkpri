@@ -5,7 +5,7 @@ description: ""
 ---
 ### Principal's Thoughts
 
-<img src="/images/Principal%20300.png" width="20" height="20"/>
+<img src="/images/Principal%20300.png" style="width:40%"/>
 
 
 Dear Parents,
