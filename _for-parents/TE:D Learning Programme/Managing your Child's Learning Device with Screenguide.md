@@ -28,8 +28,9 @@ Lunch Break: 1.30pm - 2.00pm. (iPad will be locked out from ALL Apps)<br/>
 Apps will be available for self-directed learning: 2.00pm to 5.30pm <br/>
 After 5.30pm, all Apps will be locked out from iPad.
 
- *Note that School profile can only see learning Apps. If parents wish to allow child to use personal Apps, please inform school (via form on school website or via teacher? If via school website need to create formSG) to opt for Option 1: Management in Partnership with Parents (refer to the last paragraph for more information)<br/><br/>
-In both Option 1 and 2, school will ensure that the apps needed for learning in the classroom are installed and updated.<br/><br/>
+ *Note that School profile can only see learning Apps. If parents wish to allow child to use personal Apps, please click <a href="https://form.gov.sg/63bf4675994d6d00122c4bf2">here</a> to inform school to opt for Option 1: Management in Partnership with Parents 
+ <br/><br/>
+In both Option 1 and 2, school will ensure that the apps needed for learning in the classroom are installed and updated.<br/>
 
 To ensure that our students have a good balance of screen time and rest, Option 2 allows our students access to their learning devices after school till 5.30pm as well as two three-hour blocks on weekends (7.00am to 11.00pm,  2.00pm to 5.30pm) as well as during school holidays in the morning and afternoon.
   
