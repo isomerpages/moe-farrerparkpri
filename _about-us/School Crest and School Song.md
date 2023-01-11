@@ -9,15 +9,9 @@ description: ""
 
 The **open book** represents the key to knowledge and learning.
 
-  
-
 The **growing plant** depicts a child upholding the school's spirit of creativity, courage and flexibility.
 
-  
-
 The **three leaves** represent the School, Parent and Community.
-
-  
 
 Together they remind us that education is an **on-going process, best maximized** through the partnership.
 
@@ -28,20 +22,20 @@ We will grow<br>
 Blossoming each day<br>
 We will do our best in every way<Br>
 We can be who we want to be<br>
-By working hard<br><br>  
+By working hard<br>
 
 We’ll strive for excellence<br>
 Integrity and honesty<br>
 Here at Farrer Park Primary<br>
 We’re challenged to be<br>
-The someone we are proud to call me<br><br>
+The someone we are proud to call me<br>
 
 We will care<br>
 We will share<br>
 Helping those in need<br>
 We will do our best in every deed<br>
 We can be who we want to be<br>
-By working hard<br><br>
+By working hard<br>
   
 
 We’ll strive for excellence<br>
