@@ -3,6 +3,54 @@ title: Teaching and Non–Teaching Staff
 permalink: /about-us/teaching-and-non-teaching-staff/
 description: ""
 ---
+<p><strong>Principal &amp; Vice-Principals</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:567px;" width="567">
+	<tbody>
+		<tr>
+			<td style="width:566px;">
+			<p align="center">Principal</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">Mr Dennis Yap</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">Vice-Principal (Academic)&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">Mr Ramesh Mukundhan</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">Vice-Principal (Academic)</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">Mdm Rahima Bte Abdul Rahman</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">Vice-Principal (Administration)</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p align="center">Mr Yong Wei Leong&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
 #### Primary 1
 
 <table border="1" cellpadding="0" cellspacing="0" style="width:759px;" width="759">
