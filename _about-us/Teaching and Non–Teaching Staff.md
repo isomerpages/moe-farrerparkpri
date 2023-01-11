@@ -222,3 +222,66 @@ description: ""
 	</tbody>
 </table>
 
+#### Primary 4
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:757px;" width="757">
+	<tbody>
+		<tr>
+			<td style="width:145px;">
+			<p><strong>Class</strong></p>
+			</td>
+			<td style="width:225px;">
+			<p><strong>Form Teacher</strong></p>
+			</td>
+			<td style="width:159px;">
+			<p><strong>Class</strong></p>
+			</td>
+			<td style="width:228px;">
+			<p><strong>Form Teacher</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:60px;">
+			<p>4 Graciousness</p>
+			</td>
+			<td style="width:60px;">
+			<p>Miss Lim Jingwen<br />
+			Miss V.poongkodi</p>
+			</td>
+			<td style="width:60px;">
+			<p>4 Responsibility</p>
+			</td>
+			<td style="width:60px;">
+			<p>Miss Chua Qi Yi<br />
+			Miss Vivan Chiau Siang Chin</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>4 Adaptability</p>
+			</td>
+			<td>
+			<p>Miss Leong Hiew Ping<br />
+			Mr Amos Kow Yuan Hong</p>
+			</td>
+			<td>
+			<p>4 Integrity&nbsp;</p>
+			</td>
+			<td>
+			<p>Miss Jhan Ling-Siou<br />
+			Miss Tan Lay Hwa&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>4 Ready</p>
+			</td>
+			<td>
+			<p>Miss Lai Yan Ping<br />
+			Miss Lee Sze Ru&nbsp;</p>
+			</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
