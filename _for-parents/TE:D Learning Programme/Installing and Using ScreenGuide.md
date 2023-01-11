@@ -4,7 +4,6 @@ permalink: /ict/Manage-your-Childs-Device/installing-and-using-screenguide/
 description: ""
 third_nav_title: TE:D Learning Programme
 ---
-
 ### Follow the 3 steps to setup ScreenGuide.
  
 
@@ -30,11 +29,7 @@ Download the installation guide [here](https://www-farrerparkpri-moe-edu-sg-admi
 
 Inform school that you have installed ScreenGuide and wish to self-managed your child's iPad.
 
-Use the link below to submit the online form.
-
-  
-
-[https://form.gov.sg/62296f86ba911000123f5f76](https://form.gov.sg/62296f86ba911000123f5f76)
+Click <a href="https://form.gov.sg/63bf4675994d6d00122c4bf2">here</a> to submit the online form.
 
 #### Other useful guide
 
