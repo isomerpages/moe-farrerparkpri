@@ -105,7 +105,7 @@ For more information you may aso refer to [MOE's website](https://www.moe.gov.s
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="4" style="background-color:rgba(0, 0, 0, 0.15);border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-style:inherit;background-color:rgba(0, 0, 0, 0.15)">Term II</span></td>
+			<td rowspan="4" style="background-color:rgba(0, 0, 0, 0.15);border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Term II</span></td>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Good Friday</span></td>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Fri 7 Apr</span></td>
 		</tr>
@@ -122,7 +122,7 @@ For more information you may aso refer to [MOE's website](https://www.moe.gov.s
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fri 2 Jun</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:rgba(0, 0, 0, 0.15);border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-style:inherit;background-color:rgba(0, 0, 0, 0.15)">Term III</span></td>
+			<td rowspan="2" style="background-color:rgba(0, 0, 0, 0.15);border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:norma">Term III</span></td>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Hari Raya Haji</span></td>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Thur 29 Jun</td>
 		</tr>
@@ -131,7 +131,7 @@ For more information you may aso refer to [MOE's website](https://www.moe.gov.s
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Wed 9 Aug</span></td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:rgba(0, 0, 0, 0.15);border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-style:inherit;background-color:rgba(0, 0, 0, 0.15)">Term IV</span></td>
+			<td rowspan="2" style="background-color:rgba(0, 0, 0, 0.15);border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:norma">Term IV</span></td>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Deepavali</span></td>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">****Sun 12 Nov</span></td>
 		</tr>
