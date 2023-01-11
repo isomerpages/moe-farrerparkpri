@@ -80,6 +80,7 @@ For more information you may aso refer to [MOE's website](https://www.moe.gov.s
 
 |  |  |
 |---|---|
+|Day after Hari Raya Puasa| Mon 24 Apr
 | Youth Day | Sun 2 Jul (The following Monday, 3 Jul will be a scheduled school holiday.) |
 | Day after National Day | Thur 10 Aug |
 | Teachers’ Day | Fri 1 Sep |
