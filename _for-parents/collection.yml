@@ -2,33 +2,29 @@ collections:
   for-parents:
     output: true
     order:
-      - Virtual Open House.md
-      - 20th Anniversary.md
-      - News and Information/Overview.md
-      - News and Information/Letters & Notifications.md
-      - News and Information/Primary 1 to 6 Matters.md
-      - News and Information/Assessment Matters.md
-      - News and Information/Effective Effort Strategies.md
-      - "News and Information/Parenting Talk: Raising Resilient Kids.md"
-      - News and Information/Pupils' Travel Plan Declaration.md
-      - News and Information/.keep
+      - Letters & Notifications.md
+      - Primary 1 to 6 Matters.md
+      - Assessment Matters.md
       - School Calendar.md
+      - Student Learning Space/.keep
+      - Student Learning Space/Information for Students and Parents.md
+      - Student Learning Space/Resetting the SLS Password.md
+      - Student Learning Space/Getting Started with SLS (First time login and
+        new user).md
+      - Student Learning Space/Frequently Asked Questions.md
       - Parents Gateway.md
+      - Home Based Learning/.keep
       - Home Based Learning/Overview.md
       - Home Based Learning/Tips for Parents during HBL.md
       - Home Based Learning/Past Home–Based Learning.md
-      - Home Based Learning/.keep
-      - Parenting in the Digital Age.md
+      - TE:D Learning Programme/.keep
       - TE:D Learning Programme/Overview.md
       - TE:D Learning Programme/TE:D P2 Parent Engagement 2022.md
       - TE:D Learning Programme/TE:D Programme Briefing 2022.md
       - TE:D Learning Programme/TE:D iPad purchase for Primary 3.md
       - TE:D Learning Programme/Managing your Child's Learning Device with
         Screenguide.md
-      - TE:D Learning Programme/.keep
-      - Student Learning Space/Information for Students and Parents.md
-      - Student Learning Space/Resetting the SLS Password.md
-      - Student Learning Space/Getting Started with SLS (First time login and
-        new user).md
-      - Student Learning Space/Frequently Asked Questions.md
-      - Student Learning Space/.keep
+      - TE:D Learning Programme/Installing and Using ScreenGuide.md
+      - TE:D Learning Programme/2022 ScreenGuide Workshop for Parents & FAQs.md
+      - Virtual Open House.md
+      - Useful Tips.md

@@ -5,8 +5,6 @@ description: ""
 ---
 ### Announcements
 
-[Farrer Park Primary School 20th Anniversary](https://staging.d2n2vioi5ki3lh.amplifyapp.com/for-parents/20th-anniversary/)
-
 [Primary 1 Matters (2023)](https://staging.d2n2vioi5ki3lh.amplifyapp.com/for-parents/News-and-Information/p1-to-p6-matters/) 
 
-[Application for Leave of Absence (LOA)](https://staging.d2n2vioi5ki3lh.amplifyapp.com/for-parents/News-and-Information/overview/)
+[Application for Leave of Absence (LOA)](https://staging.d2n2vioi5ki3lh.amplifyapp.com/for-parents/News-and-Information/p1-to-p6-matters/)

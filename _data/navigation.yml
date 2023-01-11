@@ -3,32 +3,26 @@ links:
   - title: About Us
     url: /about-us/mission-vision-motto-values-learning-dispositions/
     sublinks:
-      - title: Mission, Vision, Motto, Values
-        url: /about-us/mission-vision-motto-values-learning-dispositions/
-      - title: School Crest and School Song
-        url: /about-us/school-crest-and-school-song/
-      - title: School Rules
-        url: /about-us/school-rules/
       - title: Principal's Thoughts
         url: /about-us/principals-thoughts/
+      - title: Mission, Vision, Motto, Values
+        url: /about-us/mission-vision-motto-values-learning-dispositions/
+      - title: School Rules
+        url: /about-us/school-rules/
+      - title: School Crest, Song and Creed
+        url: /about-us/school-crest-and-school-song/
       - title: School Steering Committee
         url: /about-us/school-steering-committee/
       - title: Teaching & Non-Teaching Staff
         url: /about-us/teaching-and-non-teaching-staff/
       - title: VR School Tour
         url: /about-us/vr-school-tour/
-      - title: Other Information
-        url: /about-us/Other-Information/suppliers/
       - title: Contact Us
         url: /about-us/contact-us/
-      - title: School in the News
-        url: /about-us/school-in-the-news/
       - title: MOE Kindergarten @ Farrer Park
         url: /moe-kindergarten/overview/
-      - title: Pupil's Creed
-        url: /about-us/pupils-creed/
-      - title: School Hours
-        url: /about-us/school-hours/
+  - title: School Information
+    collection: school-information
   - title: Farrerean Experience
     url: /farrerean-experience/english/
     sublinks:
@@ -64,26 +58,7 @@ links:
       - title: Family Matters
         url: /partners/Family-Matters/overview/
   - title: For Parents
-    url: /for-parents/virtual-open-house/
-    sublinks:
-      - title: Virtual Open House
-        url: /for-parents/virtual-open-house/
-      - title: 20th Anniversary
-        url: /for-parents/20th-anniversary/
-      - title: News and Information
-        url: /for-parents/News-and-Information/overview/
-      - title: School Calendar
-        url: /for-parents/school-calendar/
-      - title: Parents Gateway
-        url: /for-parents/parents-gateway/
-      - title: Home-Based Learning
-        url: /for-parents/Home-Based-Learning/overview/
-      - title: Parenting in the Digital Age
-        url: /for-parents/parenting-in-the-digital-age/
-      - title: TE:D Learning Programme
-        url: /for-parents/TED-Learning-Programme/overview/
-      - title: Student Learning Space
-        url: /for-parents/Student-Learning-Space/information/
+    collection: for-parents
   - title: For Staff
     url: https://sites.google.com/moe.edu.sg/fpps-staff-only/home?authuser=0
   - title: Contact Us
