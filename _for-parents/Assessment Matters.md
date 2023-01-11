@@ -197,11 +197,6 @@ There are no weighted assessment for P1 and P2 Levels
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-
 <br>
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0">
