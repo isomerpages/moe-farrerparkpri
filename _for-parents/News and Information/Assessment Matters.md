@@ -5,7 +5,7 @@ description: ""
 third_nav_title: News and Information
 ---
 There are no weighted assessment for P1 and P2 Levels  
-  
+**Assessment Weighting to be updated **
 
 **Primary 3 Assessment Weighting**
 
