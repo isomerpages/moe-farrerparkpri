@@ -285,3 +285,72 @@ description: ""
 		</tr>
 	</tbody>
 </table>
+
+#### Primary 5
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:789px;" width="789">
+	<tbody>
+		<tr>
+			<td style="width:143px;">
+			<p><strong>Class</strong></p>
+			</td>
+			<td style="width:271px;">
+			<p><strong>Form Teacher</strong></p>
+			</td>
+			<td style="width:146px;">
+			<p><strong>Class</strong></p>
+			</td>
+			<td style="width:228px;">
+			<p><strong>Form Teacher</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:60px;">
+			<p>5 Graciousness</p>
+			</td>
+			<td style="width:60px;">
+			<p>Miss Elizabeth Lee Ming Chen<br />
+			Miss Yeo Yan Fang Jeolinita</p>
+			</td>
+			<td style="width:60px;">
+			<p>5 Responsibility</p>
+			</td>
+			<td style="width:60px;">
+			<p>Miss Gomez Frances Lorraine<br />
+			Miss Cherandy Lim Sujun</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>5 Adaptability</p>
+			</td>
+			<td>
+			<p>Miss Sin Sok Yeng (Sharon Yang)<br />
+			Mrs Ranchisem Sivagnanam&nbsp;</p>
+			</td>
+			<td>
+			<p>5 Integrity&nbsp;</p>
+			</td>
+			<td>
+			<p>Miss Elaine Choo Yin Lin<br />
+			Mr Abdul Kadir K Hussan&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>5 Ready</p>
+			</td>
+			<td>
+			<p>Miss Wu Huishan<br />
+			Mrs Thamzhai Salvai Ravichanthira&nbsp;</p>
+			</td>
+			<td>
+			<p>5 Charm&nbsp;</p>
+			</td>
+			<td>
+			<p>Miss Nur Afiqah Bte Hasan<br />
+			Miss Chew Yuet Tze Eunice</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
