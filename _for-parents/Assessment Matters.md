@@ -3,22 +3,59 @@ title: Assessment Matters
 permalink: /for-parents/News-and-Information/assessment-matters/
 description: ""
 ---
-
 There are no weighted assessment for P1 and P2 Levels  
 
 **Primary 3 Assessment Weighting**
+<table style="font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; border-collapse: collapse; width: 647.891px; margin-bottom: 1em; color: rgb(26, 32, 44); font-size: 16px;">
+	<thead style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;">
+		<tr style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;">
+			<th style="box-sizing: border-box; border-width: 0px 0px 2px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; text-align: left; border-image: initial; padding: 0.5em 0.75em; vertical-align: top; color: rgb(50, 50, 50);">&nbsp;</th>
+			<th style="box-sizing: border-box; border-width: 0px 0px 2px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; text-align: left; border-image: initial; padding: 0.5em 0.75em; vertical-align: top; color: rgb(50, 50, 50);">&nbsp;</th>
+			<th style="box-sizing: border-box; border-width: 0px 0px 2px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; text-align: left; border-image: initial; padding: 0.5em 0.75em; vertical-align: top; color: rgb(50, 50, 50);">&nbsp;</th>
+			<th style="box-sizing: border-box; border-width: 0px 0px 2px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; text-align: left; border-image: initial; padding: 0.5em 0.75em; vertical-align: top; color: rgb(50, 50, 50);">&nbsp;</th>
+		</tr>
+	</thead>
+	<tbody style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;">
+		<tr style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;">
+			<td style="box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0.5em 0.75em; vertical-align: top;">Term 1</td>
+			<td style="box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0.5em 0.75em; vertical-align: top;">Term 2 - SA1</td>
+			<td style="box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0.5em 0.75em; vertical-align: top;">Term 3 - CA2</td>
+			<td style="box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0.5em 0.75em; vertical-align: top;">Term 4 - SA2</td>
+		</tr>
+		<tr style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;">
+			<td style="box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top;">-</td>
+			<td style="box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top;">&nbsp;</td>
+			<td colspan="3" style="box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top;">Coming Soon</td>
+		</tr>
+	</tbody>
+</table>
 
-|  |  |  |  |
-|---|---|---|---|
-| Term 1 | Term 2 - SA1 | Term 3 - CA2 | Term 4 - SA2 |
-| - | <td colspan="3">Coming Soon  |
 
 **Primary 4 Assessment Weighting**
+<table style="font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; border-collapse: collapse; width: 647.891px; margin-bottom: 1em; color: rgb(26, 32, 44); font-size: 16px;">
+	<thead style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;">
+		<tr style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;">
+			<th style="box-sizing: border-box; border-width: 0px 0px 2px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; text-align: left; border-image: initial; padding: 0.5em 0.75em; vertical-align: top; color: rgb(50, 50, 50);">&nbsp;</th>
+			<th style="box-sizing: border-box; border-width: 0px 0px 2px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; text-align: left; border-image: initial; padding: 0.5em 0.75em; vertical-align: top; color: rgb(50, 50, 50);">&nbsp;</th>
+			<th style="box-sizing: border-box; border-width: 0px 0px 2px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; text-align: left; border-image: initial; padding: 0.5em 0.75em; vertical-align: top; color: rgb(50, 50, 50);">&nbsp;</th>
+			<th style="box-sizing: border-box; border-width: 0px 0px 2px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; text-align: left; border-image: initial; padding: 0.5em 0.75em; vertical-align: top; color: rgb(50, 50, 50);">&nbsp;</th>
+		</tr>
+	</thead>
+	<tbody style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;">
+		<tr style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;">
+			<td style="box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0.5em 0.75em; vertical-align: top;">Term 1</td>
+			<td style="box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0.5em 0.75em; vertical-align: top;">Term 2 - SA1</td>
+			<td style="box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0.5em 0.75em; vertical-align: top;">Term 3 - CA2</td>
+			<td style="box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0.5em 0.75em; vertical-align: top;">Term 4 - SA2</td>
+		</tr>
+		<tr style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;">
+			<td style="box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top;">-</td>
+			<td style="box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top;">&nbsp;</td>
+			<td colspan="3" style="box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top;">Coming Soon</td>
+		</tr>
+	</tbody>
+</table>
 
-|  |  |  |  |
-|---|---|---|---|
-| Term 1 | Term 2 - SA1 | Term 3 - CA2 | Term 4 - SA2 |
-| - | <td colspan="3">Coming Soon |
 
 **Primary 5 Assessment Weighting**
 
