@@ -29,6 +29,8 @@ links:
         url: /about-us/pupils-creed/
       - title: School Hours
         url: /about-us/school-hours/
+  - title: School Information
+    collection: school-information
   - title: Farrerean Experience
     url: /farrerean-experience/english/
     sublinks:
@@ -88,5 +90,3 @@ links:
     url: https://sites.google.com/moe.edu.sg/fpps-staff-only/home?authuser=0
   - title: Contact Us
     url: /about-us/contact-us/
-  - title: School Information
-    collection: school-information
