@@ -30,7 +30,8 @@ After 5.30pm, all Apps will be locked out from iPad.
 
  *Note that School profile can only see learning Apps. If parents wish to allow child to use personal Apps, please inform school (via form on school website or via teacher? If via school website need to create formSG) to opt for Option 1: Management in Partnership with Parents (refer to the last paragraph for more information)<br/><br/>
 In both Option 1 and 2, school will ensure that the apps needed for learning in the classroom are installed and updated.<br/><br/>
-To ensure that our students have a good balance of screen time and rest, Option 2 allows our students access to their learning devices after school till 5.30pm as well as two three-hour blocks on weekends (need to indicate the weekend timing too) as well as during school holidays in the morning and afternoon.
+
+To ensure that our students have a good balance of screen time and rest, Option 2 allows our students access to their learning devices after school till 5.30pm as well as two three-hour blocks on weekends (7.00am to 11.00pm,  2.00pm to 5.30pm) as well as during school holidays in the morning and afternoon.
   
 To maximise the potential of their learning devices, we highly recommend that our parents choose Option 1, which will allow us to work in partnership to develop good learning device habits in our children both in school and at home.<br/><br/>
 To activate Option 1, parents need to setup the Screenguide app for monitoring and control of their child’s iPad. You may click <a href="https://www.farrerparkpri.moe.edu.sg/ict/Manage-your-Childs-Device/installing-and-using-screenguide/">here</a> for Installation and usage guide.
