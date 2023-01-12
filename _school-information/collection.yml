@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - School Hours.md
-      - Operation Hours.md
       - Suppliers – School Bus, Uniform and Books.md
       - School Fees.md
