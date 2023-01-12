@@ -11,7 +11,7 @@ description: ""
 		</tr>
 		<tr>
 			<td><ul>
-  <li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m1.pdf">P1 Orientation Handbook (for 2023)</a></li>
+  <li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m1.pdf" target="_blank">P1 Orientation Handbook (for 2023)</a></li>
   <li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m3.pdf" target="_blank" >2023 Booklist</a></li>
   <li> <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m4.pdf" target="_blank" >School Bus Application</a></li>
 </ul> 
