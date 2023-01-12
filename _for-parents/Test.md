@@ -14,6 +14,9 @@ description: ""
   <li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m1.pdf" target="_blank">P1 Orientation Handbook (for 2023)</a></li>
   <li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m3.pdf" target="_blank" >2023 Booklist</a></li>
   <li> <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m4.pdf" target="_blank" >School Bus Application</a></li>
+				<li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/for-parents/parents-gateway/" target="_blank">Parents Gateway</a></li>
+				<li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m5.pdf" target="_blank">Parent Child Activity Booklet Tip 1 to Tip 4</a></li>
+				<li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m6.pdf" target="_blank">Parent Child Activity Booklet Tip 5 to Tip 10</a></li>
 </ul> 
 			</td>
 			<td>&nbsp;</td>
