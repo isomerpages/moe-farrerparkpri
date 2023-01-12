@@ -44,16 +44,16 @@ Please visit this page for Home-based Learning activities at Farrer Park Primary
 
 **1) Forgotten password or locked out of SLS, Google Classroom etc.**
 
-Please fill in this form: **[](https://go.gov.sg/fppshelpdesk)** [**Fppshelpdesk**](https://go.gov.sg/fppshelpdesk)  
+Please fill in this form: <a href="https://go.gov.sg/fppshelpdesk" target="_blank"> FPPS Helpdesk</a>
   
 **2) Forgotten email address or login id for SLS or Google Classroom**
 
-With only a few exceptions, SLS IDs are constructed from the first five characters of the student's name, followed by the last five characters of their birth certificate. For example,  
+With effect from Jan 2023, student iCON email (MIMS) will be used for SLS login ID.
+For example,  
   
-Tan Xiao Ming (BC No. T1234567B) has a SLS ID of **TANXI4567B**  
+Tan Xiao Ming has a MIMS ID of **TAN_XIAO_MING@students.edu.sg**  
 
-All our school account IDs (Google, Koobits and MyON) take reference from this SLS ID.  
-Google account email: **TANXI4567B@farrerparkpri,moe.edu.sg**  
+All our school account IDs (Google, Koobits) take reference from this MIMS ID. 
 
 **3) The HBL page is not updating.**
 

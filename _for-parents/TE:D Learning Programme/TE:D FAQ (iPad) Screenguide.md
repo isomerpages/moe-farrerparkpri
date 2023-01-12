@@ -1,9 +1,10 @@
 ---
-title: 2022 ScreenGuide Workshop for Parents & FAQs
+title: TE:D FAQ (iPad) Screenguide
 permalink: /ict/Manage-your-Childs-Device/2022-screenguide-workshop-and-faqs/
 description: ""
 third_nav_title: TE:D Learning Programme
 ---
+
 
 Insert google box here.
 
