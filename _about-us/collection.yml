@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - MOE Kindergarten@Farrer Park/KCare.md
       - MOE Kindergarten@Farrer Park/Overview.md
       - MOE Kindergarten@Farrer Park/.keep
       - Principal's Thoughts.md
