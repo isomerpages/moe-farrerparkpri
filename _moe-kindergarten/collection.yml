@@ -2,7 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Overview.md
       - Joyful Learning/Overview.md
       - Joyful Learning/K1 Care.md
       - Joyful Learning/K1 Love.md
