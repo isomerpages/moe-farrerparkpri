@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Test.md
       - Letters & Notifications.md
       - Primary 1 to 6 Matters.md
       - Assessment Matters.md
