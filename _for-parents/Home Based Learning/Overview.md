@@ -44,7 +44,7 @@ Please visit this page for Home-based Learning activities at Farrer Park Primary
 
 **1) Forgotten password or locked out of SLS, Google Classroom etc.**
 
-Please fill in this form: **[](https://go.gov.sg/fppshelpdesk)** [**Fppshelpdesk**](https://go.gov.sg/fppshelpdesk)  
+Please fill in this form: <a href="https://go.gov.sg/fppshelpdesk" target="_blank"> FPPS Helpdesk</a>
   
 **2) Forgotten email address or login id for SLS or Google Classroom**
 
