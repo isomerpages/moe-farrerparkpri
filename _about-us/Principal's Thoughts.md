@@ -7,7 +7,6 @@ description: ""
 
 <img src="/images/Principal%20300.png" style="width:40%" align="left"/>
 
-
 Dear Parents,
 
 As we welcome the new year of 2023, may the year bring us much joy and peace!
