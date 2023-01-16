@@ -25,7 +25,7 @@ For more information visit [MOE Kindergarten website](https://www.moe.gov.sg/p
 
 MOE Kindergarten @ Farrer Park has attained the **Platinum** status for Healthy Pre-School (HPS)!
 
-<p><a href="https://www.healthhub.sg/live-healthy/1267/healthy-pre-school-accreditation-framework"><img style="width:65%" src="/images/moek2.png"></a></p>
+<p><a href="https://www.healthhub.sg/live-healthy/1267/healthy-pre-school-accreditation-framework" target="_blank"><img style="width:65%" src="/images/moek2.png"></a></p>
 
 #### MOE Kindergarten @ Farrer Park
 
