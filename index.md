@@ -20,5 +20,5 @@ sections:
           url: /distinctive-programme/overview/
         - title: School Calendar
           description: ""
-          url: https://www.farrerparkpri.moe.edu.sg/for-parents/school-calendar/
+          url: /for-parents/school-calendar/
 ---
