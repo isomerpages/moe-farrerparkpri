@@ -18,4 +18,7 @@ sections:
         - title: Distinctive Programme
           description: ""
           url: /distinctive-programme/overview/
+        - title: School Calendar
+          description: ""
+          url: ""
 ---
