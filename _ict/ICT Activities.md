@@ -3,9 +3,9 @@ title: ICT Activities
 permalink: /ict/activities/
 description: ""
 ---
-### Primary 4 Code For Fun 2019
+### Primary 5 Code For Fun
 
-This year, the primary 4 pupils continued with their Code For Fun programme, following up with what they have learned last year and applying it in this advance coding session.
+This year, the primary 5 pupils continued with their Code For Fun programme, following up with what they have learned last year and applying it in this advance coding session.
 
 <img src="/images/ict5.png" style="width:70%">
 
