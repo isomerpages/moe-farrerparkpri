@@ -2,10 +2,10 @@ collections:
   ict:
     output: true
     order:
-      - TE:D Learning Programme.md
       - Overview.md
       - ICT Activities.md
+      - TE:D Learning Programme.md
+      - Home Based Learning/.keep
       - Home Based Learning/Overview.md
       - Home Based Learning/Tips for parents during HBL.md
       - Home Based Learning/Past Home–based Learning.md
-      - Home Based Learning/.keep
