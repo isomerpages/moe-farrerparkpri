@@ -5,10 +5,25 @@ description: ""
 ---
 #### General Office (Monday to Friday)
 
-|  |  |
-|---|---|
-|  Term Time |   Operating Hours 7.30 a.m. to 5.30 p.m. |
-| School Holidays | Operating Hours 8.00 a.m. to 5.00 p.m. |
+<center>
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px;">
+	<tbody>
+		<tr>
+			<td style="text-align: center;"><strong>Term Time</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">Operating Hours: 7.30 a.m. to 5.30 p.m.<strong>​​</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><strong>School Holidays&nbsp;</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">Operating Hours: 8.00 a.m. to 5.00 p.m.&nbsp;</td>
+		</tr>
+	</tbody>
+</table></center>
+
+
 #### School Hours
  
  | Curriculum Time (Primary 1 to Primary 6) |

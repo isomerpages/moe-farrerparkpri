@@ -36,23 +36,3 @@ A)    Contact school using online form --> [Online Helpdesk](https://go.gov.s
 Help through online form is available on Weekday 8.00am to 3.00pm
 
 Online form is not available during School Holiday, Public Holiday and weekends. Please contact SLS helpdesk for help.
-
-
-B)    Call the SLS Helpdesk  
-
-
-**Operating Hours and Contact Details for SLS Helpdesk**
-
-Monday ― Friday:
-
-4:00 pm ― 9:00 pm (School Days)<br>
-9:00 am ― 9:00 pm (School Holidays)
-
-Saturdays:
-
-9:00 am ― 3:00 pm
-
-\*Closed on Sundays & Public Holidays
-
-Email: [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
-<br>Tel: (65) 6702 6513
