@@ -26,10 +26,22 @@ description: ""
 
 #### School Hours
  
- | Curriculum Time (Primary 1 to Primary 6) |
-|:---:|
-| Monday to Friday<br>7.30 a.m. to 1.30 p.m.<br>|
-_Flag raising ceremony commences at 7.30 a.m. sharp (students should be punctual for school)._
+<center>
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px;">
+	<tbody>
+		<tr>
+			<td style="text-align: center;"><strong>Curriculum Time (Primary 1 to Primary 6)</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">Monday to Friday<br />
+			7.30 a.m. to 1.30 p.m. <strong>​​</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><em>Flag raising ceremony commences at 7.30 a.m. sharp (students should be punctual for school)</em></td>
+		</tr>
+	</tbody>
+</table>
+</center>
 
 #### Recess
 
