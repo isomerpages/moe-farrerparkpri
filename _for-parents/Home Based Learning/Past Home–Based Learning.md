@@ -4,6 +4,21 @@ permalink: /for-parents/Home-Based-Learning/past-hbl/
 description: ""
 third_nav_title: Home Based Learning
 ---
+#### Monday 17 October 2022
+  
+
+*   [Primary 3 HBL lesson plan](https://docs.google.com/document/d/1O_ZIVImFbjnzprhiRSZxKpiqBUcea1VucUUzu1-JZ28/edit?usp=sharing)
+*   [Primary 4 HBL lesson plan](https://docs.google.com/document/d/1s23ouCQsbR-7Kl7gazIUP60kTgoJzV7a3AC08NCkh08/edit?usp=sharing)
+*   [Primary 5 HBL lesson plan](https://docs.google.com/document/d/1KVR-o7s_Z7G07k6-zgwGTUcSnOzhsdLkxHZ5oA8uzIY/edit?usp=sharing)
+
+  
+
+#### Tuesday 18 October 2022
+
+*   [Primary 3 HBL lesson plan](https://docs.google.com/document/d/1HwCuFPmQEQtls3BHYQci0hkEEVWMvEDv1J9mnPzvFks/edit?usp=sharing)
+*   [Primary 4 HBL lesson plan](https://docs.google.com/document/d/1q3yh_W5ZayIT09ORbO7oY-zG1pJSo51WehBMj0JyI4M/edit?usp=sharing)
+*   [Primary 5 HBL lesson plan](https://docs.google.com/document/d/1EsengWhViKP8R5bmhV5UQ9LkWgkBuR1OqYabTwwlZ1E/edit?usp=sharing)
+
 #### Monday 11 October 2021 HBL
 
 Click on the links below to view the HBL work for today.   
