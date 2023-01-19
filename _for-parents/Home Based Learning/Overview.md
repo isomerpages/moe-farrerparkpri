@@ -90,11 +90,6 @@ Monday ― Friday:
 Saturdays:  
 9:00 am ― 3:00 pm  
 \*Closed on Sundays & Public Holidays  
-  
-
-* * *
-
-  
 
 **School Helpline for Google Suite**
 
@@ -106,31 +101,14 @@ and we will contact you.
 [https://go.gov.sg/fppshelpdesk](https://go.gov.sg/fppshelpdesk)  
   
 School General Office Tel: 62952272 (8AM to 4PM)  
-  
-
-* * *
 
 **KOOBITS**  
 [https://www.koobits.com/](https://www.koobits.com/)  
   
 **Koobits Support**  
 Online feedback: [https://support.koobits.com/hc/en-gb/requests/new](https://support.koobits.com/hc/en-gb/requests/new)  
-  
 
-* * *
-
-**myOn**  
-  
-[https://www.myon.com.sg/](https://www.myon.com.sg/)  
-  
-**myOn Support: 62255180**  
-**You can send an e-mail to: [myonsupport@renaissance.com](mailto:myonsupport@renaissance.com).**  
-Please be sure to include your first and last name, name of school, student’s ID number (if applicable), and problem description or question.  
-  
-
-* * *
-
-Ezhishi  
+**Ezhishi**  
   
 [https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)  
   
