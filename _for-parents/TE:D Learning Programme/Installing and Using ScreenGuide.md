@@ -13,13 +13,9 @@ Download ScreenGuide for your device via the link below.
  
 |  |  |
 |---|---|
-| <a href="https://play.google.com/store/apps/details?id=com.mosyle.screenguide"><img style="width:65%" src="/images/usg1.png"></a> | <a href="https://apps.apple.com/us/app/screenguide-parental-control/id1114158345"><img style="width:65%" src="/images/usg2.png"></a> |
+| <a href="[https://play.google.com/store/apps/details?id=com.mosyle.screenguide](https://play.google.com/store/apps/details?id=com.mosyle.screenguide)"><img style="width:65%" src="/images/usg1.png"></a> | <a href="https://apps.apple.com/us/app/screenguide-parental-control/id1114158345"><img style="width:65%" src="/images/usg2.png"></a> |
 
 #### Step 2.
-
-Download the installation guide [here](https://www-farrerparkpri-moe-edu-sg-admin.cwp.sg/qql/slot/u368/For%20Parents/TED%20%20Learning/screenguide_99BFF_en%20(2).pdf) and follow the guide. Insert school code when prompt.  
-
-  
 
 ##### School Code: 99BFF
 
