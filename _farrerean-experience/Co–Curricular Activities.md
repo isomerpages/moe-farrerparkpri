@@ -10,8 +10,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSuaiFijzvvjf91p-GJKjeeWjR4OVL0DymVkJSoaQ9W36Kk0Ks01EzLkw4uh9UPlpqIgEW7xKFopF8x/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 
-
-<img style="width:90%" src="/images/ccasched1.png">
+![CCA Schedule 2023](/images/2023%20CCA%20Schedule.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
