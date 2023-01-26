@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - TE:D Learning Program/Installing and Using ScreenGuide.md
       - TE:D Learning Program/.keep
       - TE:D Learning Program/Overview.md
       - TE:D Learning Program/TE:D Programme Briefing and Workshop.md
