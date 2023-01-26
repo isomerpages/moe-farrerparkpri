@@ -4,10 +4,6 @@ permalink: /ict/Manage-your-Childs-Device/2022-screenguide-workshop-and-faqs/
 description: ""
 third_nav_title: TE:D Learning Programme
 ---
-
-
-Insert google box here.
-
 #### Session Highlights
 
 **Installing and using ScreenGuide**  
