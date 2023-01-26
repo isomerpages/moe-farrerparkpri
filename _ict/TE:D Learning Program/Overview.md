@@ -1,8 +1,11 @@
 ---
-title: TE:D Learning Programme
+title: Overview
 permalink: /ict/permalink/
 description: ""
+third_nav_title: TE:D Learning Program
 ---
+
+
 #### What is the TE:D Learning Programme?
 
 <img src="/images/ted1.png" style="width:60%">
