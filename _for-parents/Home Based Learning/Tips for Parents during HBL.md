@@ -194,7 +194,7 @@ For students with challenging behavior, parents may try some of these strategies
 | Meltdown | Set aside the lesson. The child needs their sensory, emotional, and physical symptoms taken care of above all else. Learning cannot happen at this time. |
 | Inappropriate social behaviour and/or destructive | To focus on behavioural goals first (before the academic lesson) |
 
-#### Useful Links</br>
+#### Useful Links
 1\.  [Resource Kit Part 1(Home-based Learning)](/files/hbl1.pdf) \[31/03/2020\] <br>
 2\.  [Resource Kit Part 2 (Home-based Learning)](/files/hbl2.pdf) \[07/04/2020\] <br>
 3\.  [Resource Kit Part 3 (Home-based Learning)](/files/hbl3.pdf) \[15/04/2020\]<br>
