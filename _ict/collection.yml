@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Overview.md
-      - ICT Activities.md
       - TE:D Learning Programme.md
+      - ICT Activities.md
       - Home Based Learning/.keep
       - Home Based Learning/Overview.md
       - Home Based Learning/Tips for parents during HBL.md
