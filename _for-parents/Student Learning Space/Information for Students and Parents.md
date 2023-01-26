@@ -25,6 +25,6 @@ third_nav_title: Student Learning Space
   
 **GETTING STARTED ON SLS**  
   
-2\. SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe.edu.sg/).
+2\. SLS can be accessed from&nbsp;<a target="_blank" href="https://vle.learning.moe.edu.sg/login">https://vle.learning.moe.edu.sg/login</a>
 
 <img src="/images/sls2.png" style="width:60%">
