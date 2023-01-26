@@ -4,8 +4,6 @@ permalink: /ict/TED-Learning-Program/permalink/
 description: ""
 third_nav_title: TE:D Learning Program
 ---
-Insert google box here.
-
 #### Session Highlights
 
 **Installing and using ScreenGuide**  
