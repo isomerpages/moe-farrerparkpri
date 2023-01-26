@@ -12,8 +12,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 
 ![CCA Schedule 2023](/images/2023%20CCA%20Schedule.jpeg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+<style type="text/css">.tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
 .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
@@ -25,165 +24,167 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 .tg .tg-dzq5{background-color:#c0c0c0;border-color:#000000;font-weight:bold;text-align:center;vertical-align:bottom}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-kcwf">CCA</th>
-    <th class="tg-kcwf">Session 1</th>
-    <th class="tg-kcwf">Session 2</th>
-    <th class="tg-kcwf">Teacher IC</th>
-    <th class="tg-dzq5" colspan="4">Teachers</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-befh">Basketball</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh"> </td>
-    <td class="tg-27gc">MAX   ANGELO VIJAYA</td>
-    <td class="tg-befh">SANDHIYA   ANNANDAN</td>
-    <td class="tg-befh">RAVINDER   SINGH</td>
-    <td class="tg-befh">GOH   SIANG LU SERENE</td>
-    <td class="tg-27gc"> </td>
-  </tr>
-  <tr>
-    <td class="tg-befh">Badminton</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh"> </td>
-    <td class="tg-tgze"> MR RAYMOND LOW</td>
-    <td class="tg-befh">VANESSA</td>
-    <td class="tg-befh">JHAN   LING-SIOU</td>
-    <td class="tg-befh">LEONG   HIEW PING</td>
-    <td class="tg-befh"> </td>
-  </tr>
-  <tr>
-    <td class="tg-befh">Tennis</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh">FRI 1400-1600</td>
-    <td class="tg-27gc">LOW   XINDI</td>
-    <td class="tg-befh">JOANNE   SEE</td>
-    <td class="tg-befh">GOMEZ   FRANCES LORRAINE</td>
-    <td class="tg-befh">LIM   JEN YAN</td>
-    <td class="tg-befh">MUI   YONG</td>
-  </tr>
-  <tr>
-    <td class="tg-befh">Swimming</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh"> </td>
-    <td class="tg-27gc">SHARONJIT   SINGH</td>
-    <td class="tg-befh">EVELYN   ANG</td>
-    <td class="tg-befh">ZHANG   CHENYANG</td>
-    <td class="tg-befh"> </td>
-    <td class="tg-befh"> </td>
-  </tr>
-  <tr>
-    <td class="tg-befh">Football</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh">FRI 1400-1600</td>
-    <td class="tg-27gc">JEOLINITA   YEO</td>
-    <td class="tg-befh">ABDUL   KADIR</td>
-    <td class="tg-befh">HENA   SUHAIL</td>
-    <td class="tg-befh">LEE   KIM FATT</td>
-    <td class="tg-befh"> </td>
-  </tr>
-  <tr>
-    <td class="tg-befh">Floorball</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh">FRI 1400-1600</td>
-    <td class="tg-27gc">JERYN   FOK </td>
-    <td class="tg-befh">RAHIMAH   MADAN</td>
-    <td class="tg-befh">NUR   AZIZAH ABDUL RAHMAN</td>
-    <td class="tg-befh">CHUA   MEI HUA</td>
-    <td class="tg-befh">ROCHELLE   SIM</td>
-  </tr>
-  <tr>
-    <td class="tg-befh">Dance</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh">FRI 1400-1600</td>
-    <td class="tg-27gc">NURILHUDA   AHMAD </td>
-    <td class="tg-befh">RANCHISEM   SIVAGNANAM</td>
-    <td class="tg-befh">THAMZHAI   SALVAIRAVICHANTHIRA</td>
-    <td class="tg-befh">ELAINE   CHOO</td>
-    <td class="tg-befh"> </td>
-  </tr>
-  <tr>
-    <td class="tg-befh">Guitar   Ensemble</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh">FRI 1400-1600</td>
-    <td class="tg-27gc">CHERANDY   LIM</td>
-    <td class="tg-befh">KAN   YUE LIAN</td>
-    <td class="tg-befh">V   POONGKODI</td>
-    <td class="tg-befh">EUNICE   CHEW</td>
-    <td class="tg-befh"> </td>
-  </tr>
-  <tr>
-    <td class="tg-befh">Instrumental   Ensemble</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh">FRI 1400-1600</td>
-    <td class="tg-27gc">GOH   SIEW LING</td>
-    <td class="tg-befh">CHEN   HUI FANG</td>
-    <td class="tg-befh">CHU   LUO JUN</td>
-    <td class="tg-befh">TAN   GEOK MAI</td>
-    <td class="tg-befh"> </td>
-  </tr>
-  <tr>
-    <td class="tg-befh">Drama</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh"> </td>
-    <td class="tg-27gc">WU   HUISHAN</td>
-    <td class="tg-befh">JENNIFER   NG</td>
-    <td class="tg-befh">V   INDRANI</td>
-    <td class="tg-befh">TAN   LAY HUA </td>
-    <td class="tg-befh"> </td>
-  </tr>
-  <tr>
-    <td class="tg-befh">Art</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh"> </td>
-    <td class="tg-27gc">CANDY   CHUA</td>
-    <td class="tg-befh">JULIA   TENG </td>
-    <td class="tg-befh">CHARIS   OOI</td>
-    <td class="tg-befh">CHIN   KAR YIN KAREN</td>
-    <td class="tg-befh">BAIDAH   AHMAD</td>
-  </tr>
-  <tr>
-    <td class="tg-befh">Infocomm</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh"> </td>
-    <td class="tg-27gc">ALISON   CHAN</td>
-    <td class="tg-befh">LAI   YAN PING</td>
-    <td class="tg-befh">AMOS   KOW</td>
-    <td class="tg-befh">CHUA   LAY PENG</td>
-    <td class="tg-befh"> </td>
-  </tr>
-  <tr>
-    <td class="tg-befh">Env Sce Club</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh"> </td>
-    <td class="tg-27gc">JACKIE   CHUA </td>
-    <td class="tg-befh">SYLVIA   CHUA</td>
-    <td class="tg-befh">NICOLE   LIM</td>
-    <td class="tg-befh">NUR   AFIQAH HASSAN</td>
-    <td class="tg-befh"> </td>
-  </tr>
-  <tr>
-    <td class="tg-befh">BB</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh"> </td>
-    <td class="tg-27gc">JOLIE   TOH</td>
-    <td class="tg-befh">WU   FANG</td>
-    <td class="tg-befh">AW   CAILI</td>
-    <td class="tg-befh">MONISHA   SAMDAS</td>
-    <td class="tg-befh"> </td>
-  </tr>
-  <tr>
-    <td class="tg-befh">Scouts</td>
-    <td class="tg-befh">TUE 1400-1545</td>
-    <td class="tg-befh"> </td>
-    <td class="tg-27gc">HARRISON   GOH</td>
-    <td class="tg-befh">HARLINA   HUSSAIN</td>
-    <td class="tg-befh">JUNE   CHIAU </td>
-    <td class="tg-befh">CLARA   LIM</td>
-    <td class="tg-befh"> </td>
-  </tr>
-</tbody>
+	<thead>
+		<tr>
+			<th class="tg-kcwf">CCA</th>
+			<th class="tg-kcwf">Session 1</th>
+			<th class="tg-kcwf">Session 2</th>
+			<th class="tg-kcwf">Teacher IC</th>
+			<th class="tg-dzq5" colspan="4">Teachers</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td class="tg-befh">Basketball</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">&nbsp;</td>
+			<td class="tg-27gc">
+			<p>MR MAX ANGELO VIJAYA</p>
+			</td>
+			<td class="tg-befh">MISS SANDHIYA ANNANDAN</td>
+			<td class="tg-befh">MR RAVINDER SINGH</td>
+			<td class="tg-befh">MISS GOH SIANG LU SERENE</td>
+			<td class="tg-27gc">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="tg-befh">Badminton</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">&nbsp;</td>
+			<td class="tg-tgze">MR RAYMOND LOW</td>
+			<td class="tg-befh">MISS VANESSA</td>
+			<td class="tg-befh">MISS JHAN LING-SIOU</td>
+			<td class="tg-befh">MISS LEONG HIEW PING</td>
+			<td class="tg-befh">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="tg-befh">Tennis</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">FRI 1400-1600</td>
+			<td class="tg-27gc">MISS LOW XINDI</td>
+			<td class="tg-befh">MISS JOANNE SEE</td>
+			<td class="tg-befh">MISS GOMEZ FRANCES LORRAINE</td>
+			<td class="tg-befh">MISS LIM JEN YAN</td>
+			<td class="tg-befh">MISS MUI YONG</td>
+		</tr>
+		<tr>
+			<td class="tg-befh">Swimming</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">&nbsp;</td>
+			<td class="tg-27gc">MISS SHARONJIT KAUR</td>
+			<td class="tg-befh">MISS EVELYN ANG</td>
+			<td class="tg-befh">MISS ZHANG CHENYANG</td>
+			<td class="tg-befh">&nbsp;</td>
+			<td class="tg-befh">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="tg-befh">Football</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">FRI 1400-1600</td>
+			<td class="tg-27gc">MISS JEOLINITA YEO</td>
+			<td class="tg-befh">MR ABDUL KADIR</td>
+			<td class="tg-befh">MISS HENA SUHAIL</td>
+			<td class="tg-befh">MR LEE KIM FATT</td>
+			<td class="tg-befh">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="tg-befh">Floorball</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">FRI 1400-1600</td>
+			<td class="tg-27gc">MSS JERYN FOK</td>
+			<td class="tg-befh">MDM RAHIMAH MADAN</td>
+			<td class="tg-befh">MDM NUR AZIZAH ABDUL RAHMAN</td>
+			<td class="tg-befh">MISS CHIA MEI HUA</td>
+			<td class="tg-befh">MISS ROCHELLE SIM</td>
+		</tr>
+		<tr>
+			<td class="tg-befh">Dance</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">FRI 1400-1600</td>
+			<td class="tg-27gc">MISS NURILHUDA AHMAD</td>
+			<td class="tg-befh">MRS RANCHISEM SIVAGNANAM</td>
+			<td class="tg-befh">MRS THAMZHAI SALVAIRAVICHANTHIRA</td>
+			<td class="tg-befh">MISS ELAINE CHOO</td>
+			<td class="tg-befh">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="tg-befh">Guitar Ensemble</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">FRI 1400-1600</td>
+			<td class="tg-27gc">MISS CHERANDY LIM</td>
+			<td class="tg-befh">MISS KAN YUE LIAN</td>
+			<td class="tg-befh">MISS V POONGKODI</td>
+			<td class="tg-befh">MISS EUNICE CHEW</td>
+			<td class="tg-befh">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="tg-befh">Instrumental Ensemble</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">FRI 1400-1600</td>
+			<td class="tg-27gc">MISS GOH SIEW LING</td>
+			<td class="tg-befh">MISS CHEN HUI FANG</td>
+			<td class="tg-befh">MISS CHU LUO JUN</td>
+			<td class="tg-befh">MISS TAN GEOK MAI</td>
+			<td class="tg-befh">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="tg-befh">Drama</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">&nbsp;</td>
+			<td class="tg-27gc">MISS WU HUISHAN</td>
+			<td class="tg-befh">MISS JENNIFER NG</td>
+			<td class="tg-befh">MISS V INDRANI</td>
+			<td class="tg-befh">MISS TAN LAY HWA</td>
+			<td class="tg-befh">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="tg-befh">Art</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">&nbsp;</td>
+			<td class="tg-27gc">MISS CANDY CHUA</td>
+			<td class="tg-befh">MISS JULIA TENG</td>
+			<td class="tg-befh">MISS CHARIS OOI</td>
+			<td class="tg-befh">MISS CHIN KAR YIN KAREN</td>
+			<td class="tg-befh">MISS BAIDAH AHMAD</td>
+		</tr>
+		<tr>
+			<td class="tg-befh">Infocomm</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">&nbsp;</td>
+			<td class="tg-27gc">MISS ALISON CHAN</td>
+			<td class="tg-befh">MISS LAI YAN PING</td>
+			<td class="tg-befh">MR AMOS KOW</td>
+			<td class="tg-befh">MISS CHUA LAY PENG</td>
+			<td class="tg-befh">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="tg-befh">Env Sce Club</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">&nbsp;</td>
+			<td class="tg-27gc">MISS JACKIE CHUA</td>
+			<td class="tg-befh">MISS SYLVIA CHUA</td>
+			<td class="tg-befh">MISS NICOLE LIM</td>
+			<td class="tg-befh">MISS NUR AFIQAH HASSAN</td>
+			<td class="tg-befh">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="tg-befh">BB</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">&nbsp;</td>
+			<td class="tg-27gc">MISS JOLIE TOH</td>
+			<td class="tg-befh">MISS WU FANG</td>
+			<td class="tg-befh">MISS AW CAILI</td>
+			<td class="tg-befh">MISS MONISHA SAMDAS</td>
+			<td class="tg-befh">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="tg-befh">Scouts</td>
+			<td class="tg-befh">TUE 1400-1545</td>
+			<td class="tg-befh">&nbsp;</td>
+			<td class="tg-27gc">MR HARRISON GOH</td>
+			<td class="tg-befh">MDM HARLINA HUSSAIN</td>
+			<td class="tg-befh">MISS JUNE CHIAU</td>
+			<td class="tg-befh">MISS CLARA LIM</td>
+			<td class="tg-befh">&nbsp;</td>
+		</tr>
+	</tbody>
 </table>
