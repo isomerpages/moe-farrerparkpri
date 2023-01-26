@@ -17,11 +17,11 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-27gc{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-27gc{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-tgze{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-befh{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:bottom}
-.tg .tg-kcwf{background-color:#c0c0c0;border-color:#000000;color:#000000;font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-dzq5{background-color:#c0c0c0;border-color:#000000;font-weight:bold;text-align:center;vertical-align:bottom}
+.tg .tg-befh{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:middle}
+.tg .tg-kcwf{background-color:#c0c0c0;border-color:#000000;color:#000000;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-dzq5{background-color:#c0c0c0;border-color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 	<thead>
@@ -90,7 +90,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td class="tg-befh"><span style="font-size:12px;">Floorball</span></td>
 			<td class="tg-befh"><span style="font-size:12px;">TUE 1400-1545</span></td>
 			<td class="tg-befh"><span style="font-size:12px;">FRI 1400-1600</span></td>
-			<td class="tg-27gc"><span style="font-size:12px;">MSS JERYN FOK</span></td>
+			<td class="tg-27gc"><span style="font-size:12px;">MISS JERYN FOK</span></td>
 			<td class="tg-befh"><span style="font-size:12px;">MDM RAHIMAH MADAN</span></td>
 			<td class="tg-befh"><span style="font-size:12px;">MDM NUR AZIZAH ABDUL RAHMAN</span></td>
 			<td class="tg-befh"><span style="font-size:12px;">MISS CHIA MEI HUA</span></td>
