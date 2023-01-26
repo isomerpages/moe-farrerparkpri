@@ -8,35 +8,8 @@ Dear Parents,
   
 Please visit this page for Home-based Learning activities at Farrer Park Primary School. Home-based Learning (HBL) is not confined to E-learning and may include offline work that involves reading or writing.  
   
+#### HBL To Be Announced Soon
 
-1\.  [Resource Kit Part 1(Home-based Learning)](/files/hbl1.pdf) \[31/03/2020\] <br>
-2\.  [Resource Kit Part 2 (Home-based Learning)](/files/hbl2.pdf) \[07/04/2020\] <br>
-3\.  [Resource Kit Part 3 (Home-based Learning)](/files/hbl3.pdf) \[15/04/2020\]<br>
-4\.  [Resource Kit Part 4 (Home-based Learning)](/files/hbl4.pdf)  \[27/04/2020\]<br>
-5\.  [Resource Kit (School Holiday)](/files/hbl5.pdf) \[04/05/2020\]
-
-  
-  
-
-#### HBL on 17 & 18 October 2022
-
-  
-**Monday 17 October**  
-  
-
-*   [Primary 3 HBL lesson plan](https://docs.google.com/document/d/1O_ZIVImFbjnzprhiRSZxKpiqBUcea1VucUUzu1-JZ28/edit?usp=sharing)
-*   [Primary 4 HBL lesson plan](https://docs.google.com/document/d/1s23ouCQsbR-7Kl7gazIUP60kTgoJzV7a3AC08NCkh08/edit?usp=sharing)
-*   [Primary 5 HBL lesson plan](https://docs.google.com/document/d/1KVR-o7s_Z7G07k6-zgwGTUcSnOzhsdLkxHZ5oA8uzIY/edit?usp=sharing)
-
-  
-
-**Tuesday 18 October** 
-
-*   [Primary 3 HBL lesson plan](https://docs.google.com/document/d/1HwCuFPmQEQtls3BHYQci0hkEEVWMvEDv1J9mnPzvFks/edit?usp=sharing)
-*   [Primary 4 HBL lesson plan](https://docs.google.com/document/d/1q3yh_W5ZayIT09ORbO7oY-zG1pJSo51WehBMj0JyI4M/edit?usp=sharing)
-*   [Primary 5 HBL lesson plan](https://docs.google.com/document/d/1EsengWhViKP8R5bmhV5UQ9LkWgkBuR1OqYabTwwlZ1E/edit?usp=sharing)
-
-  
   
 
 #### Common issues and how to resolve them
@@ -44,15 +17,16 @@ Please visit this page for Home-based Learning activities at Farrer Park Primary
 
 **1) Forgotten password or locked out of SLS, Google Classroom etc.**
 
-Please fill in this form: **[](https://go.gov.sg/fppshelpdesk)** [**Fppshelpdesk**](https://go.gov.sg/fppshelpdesk)  
+Please fill in this form: <a href="https://go.gov.sg/fppshelpdesk" target="_blank"> FPPS Helpdesk</a>
   
 **2) Forgotten email address or login id for SLS or Google Classroom**
 
-With effect from Jan 2023, login to SLS will be using the student iCON email address or known as MIMS.
-For example,<BR/>
-Tan Xiao Ming has a MIMS ID of **TAN_XIAO_MING@STUDENTS.EDU.SG**  
+With effect from Jan 2023, student iCON email (MIMS) will be used for SLS login ID.
+For example,  
+  
+Tan Xiao Ming has a MIMS ID of **TAN_XIAO_MING@students.edu.sg**  
 
-All our school account IDs (Google, Koobits) take reference from this MIMS ID.
+All our school account IDs (Google, Koobits) take reference from this MIMS ID. 
 
 **3) The HBL page is not updating.**
 
@@ -69,11 +43,6 @@ All instructions for previous HBL activities are consolidated on our [**Past Ho
 We have consolidated a few videos for our parents and students on your YouTube Channel that you might find useful. Click below to visit our collections of playlists.  
 
 *   [YouTube Playlists](https://www.youtube.com/user/fpps1246/playlists?view_as=subscriber) 
-
-  
-
-* * *
-
 #### Support and Helpdesk
 
 **The Student Learning Space (SLS)**  
@@ -106,11 +75,6 @@ Monday ― Friday:
 Saturdays:  
 9:00 am ― 3:00 pm  
 \*Closed on Sundays & Public Holidays  
-  
-
-* * *
-
-  
 
 **School Helpline for Google Suite**
 
@@ -122,31 +86,14 @@ and we will contact you.
 [https://go.gov.sg/fppshelpdesk](https://go.gov.sg/fppshelpdesk)  
   
 School General Office Tel: 62952272 (8AM to 4PM)  
-  
-
-* * *
 
 **KOOBITS**  
 [https://www.koobits.com/](https://www.koobits.com/)  
   
 **Koobits Support**  
 Online feedback: [https://support.koobits.com/hc/en-gb/requests/new](https://support.koobits.com/hc/en-gb/requests/new)  
-  
 
-* * *
-
-**myOn**  
-  
-[https://www.myon.com.sg/](https://www.myon.com.sg/)  
-  
-**myOn Support: 62255180**  
-**You can send an e-mail to: [myonsupport@renaissance.com](mailto:myonsupport@renaissance.com).**  
-Please be sure to include your first and last name, name of school, student’s ID number (if applicable), and problem description or question.  
-  
-
-* * *
-
-Ezhishi  
+**Ezhishi**  
   
 [https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)  
   
