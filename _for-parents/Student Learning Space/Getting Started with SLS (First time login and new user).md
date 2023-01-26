@@ -16,7 +16,7 @@ You may refer to the link below for browser support information.
 
 **FIRST LOGIN**
 
-1\. SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)[.](https://learning.moe.edu.sg/)
+1\. SLS can be accessed from <a href="https://vle.learning.moe.edu.sg/login" target="_blank">https://vle.learning.moe.edu.sg/login</a>
 
 <figure><img src="/images/sls6.png" style="width:75%"><figcaption> Fig. 1a: Login Page</figcaption></figure>
 
