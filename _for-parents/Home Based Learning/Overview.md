@@ -8,16 +8,6 @@ Dear Parents,
   
 Please visit this page for Home-based Learning activities at Farrer Park Primary School. Home-based Learning (HBL) is not confined to E-learning and may include offline work that involves reading or writing.  
   
-
-1\.  [Resource Kit Part 1(Home-based Learning)](/files/hbl1.pdf) \[31/03/2020\] <br>
-2\.  [Resource Kit Part 2 (Home-based Learning)](/files/hbl2.pdf) \[07/04/2020\] <br>
-3\.  [Resource Kit Part 3 (Home-based Learning)](/files/hbl3.pdf) \[15/04/2020\]<br>
-4\.  [Resource Kit Part 4 (Home-based Learning)](/files/hbl4.pdf)  \[27/04/2020\]<br>
-5\.  [Resource Kit (School Holiday)](/files/hbl5.pdf) \[04/05/2020\]
-
-  
-  
-
 #### HBL To Be Announced Soon
 
   
@@ -53,11 +43,6 @@ All instructions for previous HBL activities are consolidated on our [**Past Ho
 We have consolidated a few videos for our parents and students on your YouTube Channel that you might find useful. Click below to visit our collections of playlists.  
 
 *   [YouTube Playlists](https://www.youtube.com/user/fpps1246/playlists?view_as=subscriber) 
-
-  
-
-* * *
-
 #### Support and Helpdesk
 
 **The Student Learning Space (SLS)**  
