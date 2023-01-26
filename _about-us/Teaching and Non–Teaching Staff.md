@@ -27,7 +27,7 @@ description: ""
 			</td>
 			<td style="width:60px;">
 			<p>Mrs Panner Selvam (Vignesh)<br />
-			Miss Chen Huiang</p>
+			Miss Chen Hui Fang</p>
 			</td>
 			<td style="width:60px;">
 			<p>1 Responsibility</p>
