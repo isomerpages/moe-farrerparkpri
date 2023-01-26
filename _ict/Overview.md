@@ -19,9 +19,3 @@ With the pervasive use of technology in teaching and learning, the school has al
 [https://ictconnection.moe.edu.sg/cyber-wellness/for-parents](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)
 
 <img src="/images/ict2.png" style="width:80%">
-
-During their Co-Curricular Activities (CCA) students learn to code through the Code-For-Fun programme(P3 & P4) co-funded by IMDA. Coding teaches computational thinking, which is not only essential to the development of computer applications, but it can also be used to support problem-solving across all disciplines, including math, science, and the humanities.
-
-<img src="/images/ict3.png" style="width:70%">
-
-<img src="/images/ict4.png" style="width:70%">
