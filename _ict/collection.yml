@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - TE:D Learning Programme.md
       - ICT Activities.md
       - Home Based Learning/.keep
       - Home Based Learning/Overview.md
