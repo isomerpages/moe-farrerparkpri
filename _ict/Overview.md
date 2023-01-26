@@ -7,7 +7,7 @@ description: ""
 
 <img src="/images/ict1.png" style="width:80%">
 
-n FPPS, we strongly belief that technology should be a means to an end and not an end in itself. In this light, technology is used in the school to activate learners' curiosity and imagination, promote thinking and discussions as well as facilitate the application of learning. Teachers also actively use technology to assess students' learning, provide timely feedback and facilitate intervention for learning.
+In FPPS, we strongly belief that technology should be a means to an end and not an end in itself. In this light, technology is used in the school to activate learners' curiosity and imagination, promote thinking and discussions as well as facilitate the application of learning. Teachers also actively use technology to assess students' learning, provide timely feedback and facilitate intervention for learning.
 
   
 
