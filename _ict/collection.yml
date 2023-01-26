@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - TE:D Learning Program/TE:D iPad Purchase for Primary 4 and Primary 5.md
       - TE:D Learning Program/.keep
       - TE:D Learning Program/Overview.md
       - TE:D Learning Program/TE:D Programme Briefing and Workshop.md
