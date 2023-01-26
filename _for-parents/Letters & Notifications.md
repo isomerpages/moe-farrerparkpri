@@ -12,20 +12,20 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td></td>
+		<td></td>
     <td></td>
   </tr>
   <tr>
     <th>Primary 3</th>
-    <td>Primary 4</td>
+    <th>Primary 4</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><a href="/files/P3%20Assessment%20Letter%202023.pdf" target="_blank">P3 Assessment Letter</a></td>
+    <td><a href="/files/P4%20Assessment%20Letter%202023.pdf" target="_blank">P4 Assessment Letter</a></td>
   </tr>
   <tr>
-    <td>Primary 5</td>
-    <td>Primary 6</td>
+    <th>Primary 5</th>
+    <th>Primary 6</th>
   </tr>
   <tr>
     <td></td>
