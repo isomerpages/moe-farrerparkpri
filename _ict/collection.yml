@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Overview.md
-      - TE:D Learning Program/TE:D Programme Briefing and Workshop.md
       - TE:D Learning Program/.keep
       - TE:D Learning Program/Overview.md
+      - TE:D Learning Program/TE:D Programme Briefing and Workshop.md
       - ICT Activities.md
       - Home Based Learning/.keep
       - Home Based Learning/Overview.md
