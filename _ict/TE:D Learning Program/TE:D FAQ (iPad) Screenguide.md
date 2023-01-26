@@ -1,8 +1,8 @@
 ---
 title: TE:D FAQ (iPad) Screenguide
-permalink: /ict/Manage-your-Childs-Device/2022-screenguide-workshop-and-faqs/
+permalink: /ict/TED-Learning-Program/permalink/
 description: ""
-third_nav_title: TE:D Learning Programme
+third_nav_title: TE:D Learning Program
 ---
 #### Session Highlights
 
