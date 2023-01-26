@@ -3,8 +3,7 @@ title: Physical Education
 permalink: /farrerean-experience/sports-and-physical-education/
 description: ""
 ---
-
-### Sports and Physical Education
+### Physical Education
 
 At Farrer Park, a structured and progressive physical education curriculum provides each Farrerean the ability to use a range of skills to participate in a variety of exercises and physical activities.
 
