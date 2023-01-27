@@ -8,7 +8,7 @@ description: ""
 
 CCAs are an essential part of a Farrereans’ holistic education. They are an integral part of a well-rounded education and play an important role in nurturing good character. They provide a natural platform for Farrereans to learn and apply values, knowledge and skills. Farrereans develop these values and character while they uncover their talents and competencies as they ready themselves for a rapidly changing world. They foster friendships as they learn, play and grow together.
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSuaiFijzvvjf91p-GJKjeeWjR4OVL0DymVkJSoaQ9W36Kk0Ks01EzLkw4uh9UPlpqIgEW7xKFopF8x/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="474" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2ULwwMScxUIsW0Sd9P-oDEceA5UIBLlvj95Vf2JHSEZFoAqzCz2rEYMpkAzqqG-zK0Qt7Y7lw1vJW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ![CCA Schedule 2023](/images/2023%20CCA%20Schedule.jpeg)
 
@@ -30,7 +30,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<th class="tg-kcwf"><span style="font-size:12px;">Session 1</span></th>
 			<th class="tg-kcwf"><span style="font-size:12px;">Session 2</span></th>
 			<th class="tg-kcwf"><span style="font-size:12px;">Teacher IC</span></th>
-			<th class="tg-dzq5" colspan="4"><span style="color:#000000;"><span style="font-size:12px;">Teachers</span></span></th>
+			<th colspan="4" class="tg-dzq5"><span style="color:#000000;"><span style="font-size:12px;">Teachers</span></span></th>
 		</tr>
 	</thead>
 	<tbody>
