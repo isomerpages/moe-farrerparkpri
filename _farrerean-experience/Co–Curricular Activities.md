@@ -122,7 +122,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td class="tg-befh"><span style="font-size:12px;">FRI 1400-1600</span></td>
 			<td class="tg-27gc"><span style="font-size:12px;">MISS GOH SIEW LING</span></td>
 			<td class="tg-befh"><span style="font-size:12px;">MISS CHEN HUI FANG</span></td>
-			<td class="tg-befh"><span style="font-size:12px;">MISS CHU LUO JUN</span></td>
+			<td class="tg-befh"><span style="font-size:12px;">MR CHU LUO JUN</span></td>
 			<td class="tg-befh"><span style="font-size:12px;">MISS TAN GEOK MAI</span></td>
 			<td class="tg-befh">&nbsp;</td>
 		</tr>
