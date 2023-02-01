@@ -45,3 +45,20 @@ The school organised a batik painting workshop for the P4 pupils in July 2022. T
   </tr>
 </tbody>
 </table>
+
+### P6
+#### P6 Learning journey: Harmony in Diversity Gallery
+
+In November 2023, the school brought the P6 pupils to the Harmony in Diversity Gallery where they learnt about Singapore's religious diversity and harmony. Pupils explored the different religions and their commonalities in practices and values. Pupils also learnt about the past incidences of religious conflict and tension in Singapore and what was done to develop and maintain religious harmony. This programme taught the pupils about what they could do to protect this precious legacy of harmony in Singapore.
+
+<table>
+  <tr>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture20.jpg"></td>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture21.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture22.jpg"></td>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture23.jpg"></td>
+  </tr>
+</tbody>
+</table>
