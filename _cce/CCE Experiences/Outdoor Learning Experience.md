@@ -35,16 +35,16 @@ In this hands-on experience, pupils learnt to make the Epok Epok, Aval Urundai a
 
 <table>
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture14.jpg"></td>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture15.jpg"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture16.jpg"></td>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture17.jpg"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture18.jpg"></td>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture19.jpg"></td>
   </tr>
 </tbody>
 </table>
