@@ -32,16 +32,16 @@ In this hands-on experience, pupils learnt to make the Epok Epok, Aval Urundai a
 The school organised a batik painting workshop for the P4 pupils in July 2022. Through this programme, pupils learnt various traditional games in Singapore, and they had a lot of fun playing the games.
 <table>
   <tr>
-    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture14.jpg"></td>
-    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture15.jpg"></td>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture20.jpg"></td>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture21.jpg"></td>
   </tr>
   <tr>
-    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture16.jpg"></td>
-    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture17.jpg"></td>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture22.jpg"></td>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture23.jpg"></td>
   </tr>
   <tr>
-    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture.jpg"></td>
-    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture25.jpg"></td>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture24.jpg"></td>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture25.jpg"></td>
   </tr>
 </tbody>
 </table>
