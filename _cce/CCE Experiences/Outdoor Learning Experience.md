@@ -28,15 +28,12 @@ The OLE is in line with the big book “To Town” where pupils learn to: 
 
 ### P2
 
-#### The Butterfly Lodge
+#### Traditional Food Making Workshop
 
-Our Primary 2 pupils visited the Butterfly Lodge at Oh Farms on 4 May 2018. They learned all about butterflies and their importance in nature. The pupils went hunting for eggs and caterpillars. They were also thrilled when they got the chance to hold some caterpillars and stick insects. It was a new experience for many of our pupils. This OLE was part of the STELLAR book, “A Butterfly is Born”.
+The school organised a traditional food making workshop for the P2 pupils in April 2022. The objectives of the programme were to create in pupils a greater awareness of the various types of traditional food in Singapore and to cultivate strong bonds of friendship between the local pupils and their international friends.
+In this hands-on experience, pupils learnt to make the Epok Epok, Aval Urundai and Mooncake. They had an enjoyable time making and eating the traditional food!
 
-<img src="/images/cce23.png" style="width:70%">
 
-<img src="/images/cce24.png" style="width:50%" align=left> <img src="/images/cce25.png" style="width:50%" align=right>
-
-<img src="/images/cce26.png" style="width:70%">
 
 #### Visit To The Chinese Opera Institution
 
