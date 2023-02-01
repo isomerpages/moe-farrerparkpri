@@ -53,12 +53,12 @@ In November 2023, the school brought the P6 pupils to the Harmony in Diversity G
 
 <table>
   <tr>
-    <td><img src="/images/CCE/OLE/P4%20games/Picture20.jpg"></td>
-    <td><img src="/images/CCE/OLE/P4%20games/Picture21.jpg"></td>
+    <td><img src="/images/CCE/OLE/P6%20lj/Picture26.jpg"></td>
+    <td><img src="/images/CCE/OLE/P6%20lj/Picture27.jpg"></td>
   </tr>
   <tr>
-    <td><img src="/images/CCE/OLE/P4%20games/Picture22.jpg"></td>
-    <td><img src="/images/CCE/OLE/P4%20games/Picture23.jpg"></td>
+    <td><img src="/images/CCE/OLE/P6%20lj/Picture28.jpg"></td>
+    <td><img src="/images/CCE/OLE/P6%20lj/Picture29.jpg"></td>
   </tr>
 </tbody>
 </table>
