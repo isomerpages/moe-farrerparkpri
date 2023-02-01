@@ -10,7 +10,9 @@ The Rivermonster Programme is an environmental awareness programme which consist
 All P6 pupils will have a chance to observe, monitor and pick up litter from the shores of the Marina River. 
 Pupils learn about responsible decision-making and that all of us have a responsibility towards keeping our environment clean.
 
-
+![Pupils picking up litter around the vicinity.](/images/CCE/P6%20Rivermonster/Picture1.jpg)</br>
+![Pupils picking up litter around the vicinity.](/images/CCE/P6%20Rivermonster/Picture2.jpg)</br>
+![Pupils posing with their collection after the litter picking activity.](/images/CCE/P6%20Rivermonster/Picture3.jpg)
 
 
 Please refer to LLP website for more details on VIA activities for the other levels.  
