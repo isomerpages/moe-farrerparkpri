@@ -33,7 +33,21 @@ The OLE is in line with the big book “To Town” where pupils learn to: 
 The school organised a traditional food making workshop for the P2 pupils in April 2022. The objectives of the programme were to create in pupils a greater awareness of the various types of traditional food in Singapore and to cultivate strong bonds of friendship between the local pupils and their international friends.
 In this hands-on experience, pupils learnt to make the Epok Epok, Aval Urundai and Mooncake. They had an enjoyable time making and eating the traditional food!
 
-
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 #### Visit To The Chinese Opera Institution
 
