@@ -4,46 +4,61 @@ permalink: /cce/CCE-Experiences/Outdoor-Learning-Experience/
 description: ""
 third_nav_title: CCE Experiences
 ---
-### P1
-
-#### P1 OLE Hay Dairies
-
-The P1 pupils visited Hay Dairies on 21 February 2019 as part of the English programme. They learn all about goats and farms in Singapore. They had the opportunity to watch the milking process and feed the goats. At the end of the trip, each pupil was also given a bottle of goat's milk to drink.
-
-<img src="/images/cce19.png" style="width:70%">
-
-<img src="/images/cce20.png" style="width:50%" align=left> <img src="/images/ccee21.png" style="width:50%" align=right>
-
-##### Toa Payoh Town Central
-
-The OLE is in line with the big book “To Town” where pupils learn to: 
-
-*   Identify the people who serve the neighbourhood and describe their roles
-*   Identify the places around the neighbourhood
-*   Recognize that every occupation is important and everyone in the community plays an important role
-
-<figure><img src="/images/cce21.png" style="width:75%"><figcaption>Pupils fascinated by the models of the upcoming houses in Singapore!</figcaption></figure>
-
-<figure><img src="/images/cce22.png" style="width:55%"><figcaption>Pupils impressed with the 'smart tray return robot’ that move between tables.</figcaption></figure>
-
 ### P2
+#### Traditional Food Making Workshop
 
-#### The Butterfly Lodge
+The school organised a traditional food making workshop for the P2 pupils in April 2022. The objectives of the programme were to create in pupils a greater awareness of the various types of traditional food in Singapore and to cultivate strong bonds of friendship between the local pupils and their international friends.
+In this hands-on experience, pupils learnt to make the Epok Epok, Aval Urundai and Mooncake. They had an enjoyable time making and eating the traditional food!
 
-Our Primary 2 pupils visited the Butterfly Lodge at Oh Farms on 4 May 2018. They learned all about butterflies and their importance in nature. The pupils went hunting for eggs and caterpillars. They were also thrilled when they got the chance to hold some caterpillars and stick insects. It was a new experience for many of our pupils. This OLE was part of the STELLAR book, “A Butterfly is Born”.
+<table>
+  <tr>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture14.jpg"></td>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture15.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture16.jpg"></td>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture17.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture18.jpg"></td>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture19.jpg"></td>
+  </tr>
+</tbody>
+</table>
 
-<img src="/images/cce23.png" style="width:70%">
+### P4
+#### P4 Traditional Games Workshop
 
-<img src="/images/cce24.png" style="width:50%" align=left> <img src="/images/cce25.png" style="width:50%" align=right>
+The school organised a batik painting workshop for the P4 pupils in July 2022. Through this programme, pupils learnt various traditional games in Singapore, and they had a lot of fun playing the games.
+<table>
+  <tr>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture20.jpg"></td>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture21.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture22.jpg"></td>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture23.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture24.jpg"></td>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture25.jpg"></td>
+  </tr>
+</tbody>
+</table>
 
-<img src="/images/cce26.png" style="width:70%">
+### P6
+#### P6 Learning journey: Harmony in Diversity Gallery
 
-#### Visit To The Chinese Opera Institution
+In November 2023, the school brought the P6 pupils to the Harmony in Diversity Gallery where they learnt about Singapore's religious diversity and harmony. Pupils explored the different religions and their commonalities in practices and values. Pupils also learnt about the past incidences of religious conflict and tension in Singapore and what was done to develop and maintain religious harmony. This programme taught the pupils about what they could do to protect this precious legacy of harmony in Singapore.
 
-P2 pupils attended a workshop where they learn more about the Chinese culture. The OLE was part of the English STELLAR lesson on ‘Chinese Opera Games’ and the integration of Social Studies book “New Girl in Town”. They got the opportunity to put on interesting costumes and learn some opera movements.
-
-<img src="/images/cce27.png" style="width:70%">
-
-<img src="/images/cce28.png" style="width:45%" align=left> <img src="/images/cce29.png" style="width:54%" align=right>
-
-<img src="/images/cce30.png" style="width:70%">
+<table>
+  <tr>
+    <td><img src="/images/CCE/OLE/P6%20lj/Picture26.jpg"></td>
+    <td><img src="/images/CCE/OLE/P6%20lj/Picture27.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/CCE/OLE/P6%20lj/Picture28.jpg"></td>
+    <td><img src="/images/CCE/OLE/P6%20lj/Picture29.jpg"></td>
+  </tr>
+</tbody>
+</table>

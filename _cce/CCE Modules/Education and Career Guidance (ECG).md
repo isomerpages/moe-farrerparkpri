@@ -24,16 +24,6 @@ Jordan at his mother's office
 
 <img src="/images/cce13.png" style="width:30%">
 
-#### P5 Career Awareness @ Kidzania
-
-Every year, the P5 pupils go to Kidzania as part of the Career Awareness programme. They will choose from the variety of jobs available and carry out the basic job scope. This will raise the pupils’ awareness of their strengths and interests so that they can be motivated and put in effective effort to achieve their aspirations.
-
-|  |  |
-|---|---|
-| <img src="/images/cce14.png" style="width:70%"> | <img src="/images/cce15.png" style="width:65%"> |
-
-<img src="/images/cce16.png" style="width:45%">
-
 #### My SkillsFuture Portal
 
 MySkillsFuture lessons are conducted for P5 and P6 pupils.
