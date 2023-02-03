@@ -11,6 +11,7 @@ For the first time in three years, our MKs will be holding a physical Open House
 
 Open House at MK@Farrer Park will be held on **11 February 2023, 9.00am to 1.00pm**.
 Programme details are as follows:
+<center>
 <table border="1" cellpadding="0" style="width:627px;" width="627">
 	<tbody>
 		<tr>
@@ -63,7 +64,7 @@ Programme details are as follows:
 		</tr>
 	</tbody>
 </table>
-
+</center>
 MK Registration Exercise opens from 17 Feb 2023 (Fri) 9.00am to 21 Feb 2023 (Tue) 4.00pm for Singapore Citizen or Permanent Resident children born between 2 Jan 2019 and 1 Jan 2020 (both dates inclusive). Find out more in the <a href="https://www.moe.gov.sg/news/press-releases/20230118-2023-moe-kindergarten-open-house-and-registration-exercise" target="_blank">press release</a>.
 
 ![](/images/MK/Copy%20of%20Yellow%20Kids%20Welcome%20to%20School%20Poster%20(2).png)
