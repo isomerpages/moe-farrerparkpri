@@ -23,7 +23,6 @@ In this hands-on experience, pupils learnt to make the Epok Epok, Aval Urundai a
     <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture18.jpg"></td>
     <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture19.jpg"></td>
   </tr>
-</tbody>
 </table>
 
 ### P4
@@ -43,7 +42,6 @@ The school organised a batik painting workshop for the P4 pupils in July 2022. T
     <td><img src="/images/CCE/OLE/P4%20games/Picture24.jpg"></td>
     <td><img src="/images/CCE/OLE/P4%20games/Picture25.jpg"></td>
   </tr>
-</tbody>
 </table>
 
 ### P6
@@ -60,5 +58,4 @@ In November 2023, the school brought the P6 pupils to the Harmony in Diversity G
     <td><img src="/images/CCE/OLE/P6%20lj/Picture28.jpg"></td>
     <td><img src="/images/CCE/OLE/P6%20lj/Picture29.jpg"></td>
   </tr>
-</tbody>
 </table>
