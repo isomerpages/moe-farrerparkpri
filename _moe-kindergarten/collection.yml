@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - MK@Farrer Park Open House 2023.md
       - Overview.md
       - KCare.md
       - Joyful Learning/Overview.md
