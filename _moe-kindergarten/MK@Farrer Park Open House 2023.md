@@ -68,4 +68,3 @@ Programme details are as follows:
 </table>
 </center>
 MK Registration Exercise opens from 17 Feb 2023 (Fri) 9.00am to 21 Feb 2023 (Tue) 4.00pm for Singapore Citizen or Permanent Resident children born between 2 Jan 2019 and 1 Jan 2020 (both dates inclusive). Find out more in the <a href="https://www.moe.gov.sg/news/press-releases/20230118-2023-moe-kindergarten-open-house-and-registration-exercise" target="_blank">press release</a>.
-
