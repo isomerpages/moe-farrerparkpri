@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - MK@Farrer Park Open House 2023.md
       - KCare.md
       - Joyful Learning/.keep
       - Joyful Learning/Overview.md
@@ -14,4 +15,3 @@ collections:
       - For Parents/.keep
       - For Parents/Overview.md
       - For Parents/School Events.md
-      - MK@Farrer Park Open House 2023.md
