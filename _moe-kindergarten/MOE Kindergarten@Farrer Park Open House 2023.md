@@ -3,7 +3,6 @@ title: MOE Kindergarten@Farrer Park Open House 2023
 permalink: /moe-kindergarten/permalink/
 description: ""
 ---
-
 #### Is your child turning 5 in 2024?
 
 Visit our MOE Kindergartens (MK) at their Open House on 11 Feb and 18 Feb 2023 – <a href="https://www.eventbrite.com/e/2023-mk-open-house-tickets-505734434307?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank">sign up here now! </a>
@@ -69,3 +68,7 @@ Programme details are as follows:
 </table>
 </center>
 MK Registration Exercise opens from 17 Feb 2023 (Fri) 9.00am to 21 Feb 2023 (Tue) 4.00pm for Singapore Citizen or Permanent Resident children born between 2 Jan 2019 and 1 Jan 2020 (both dates inclusive). Find out more in the <a href="https://www.moe.gov.sg/news/press-releases/20230118-2023-moe-kindergarten-open-house-and-registration-exercise" target="_blank">press release</a>.
+
+#### Virtual Tour of MOE Kindergarten@Farrer Park
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Opt5vLTyOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
