@@ -1,8 +1,9 @@
 ---
 title: CCE
-permalink: /cce/overview/
+permalink: /farrerean-experience/cce/
 description: ""
 ---
+
 ### CCE
 <img src="/images/cce1.png" style="width:80%">
 
