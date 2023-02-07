@@ -35,8 +35,10 @@ Through the commemoration of International Friendship Day, pupils learn that eve
 
 As an immigrant community, we have always tapped on the strengths of our differences in the pursuit of a common goal to make Singapore our home. On 21st July each year, schools commemorate RHD to mark the year of the 1964 racial riots. RHD serves as a reminder that Singapore’s harmonious society is built on a rich diversity of cultures and that every individual to play his or her part to promote social cohesion.
 
-![Pixel art display made up of students’ and teachers’ messages on what racial harmony means to them.](/images/Picture9.jpg)</br>
-![Following step-by-step instructions on how to make Bunga Manggar.](/images/Picture10.jpg)</br>
+![Pixel art display made up of students’ and teachers’ messages on what racial harmony means to them.](/images/Picture9.jpg)
+
+![Following step-by-step instructions on how to make Bunga Manggar.](/images/Picture10.jpg)
+
 ![Students dressed in their ethnic outfits. Always a sea of colour on Racial Harmony Day!](/images/Picture11.jpg)
 
 #### National Day
