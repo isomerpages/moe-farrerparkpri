@@ -45,5 +45,6 @@ As an immigrant community, we have always tapped on the strengths of our differe
 
 National Day marks our separation from Malaysia and our emergence as an independent country in the community of nations. On this day, schools carry out a National Day Ceremony which aims to bring pupils to the pupils a greater sense of the historical importance and solemnity of National Day.
 
-![The flag bearers marching in. ](/images/CCE/Picture12.jpg)</br>
+![The flag bearers marching in. ](/images/CCE/Picture12.jpg)
+
 ![Recitation of the pledge and singing of the National Anthem.](/images/CCE/Picture13.jpg)
