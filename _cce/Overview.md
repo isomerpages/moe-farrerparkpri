@@ -3,7 +3,7 @@ title: Overview
 permalink: /cce/overview/
 description: ""
 ---
-
+### CCE
 <img src="/images/cce1.png" style="width:80%">
 
 Character and Citizenship Education (CCE) is the heart of education in Farrer Park Primary School (FPPS).  As a school, we strive to nurture good character in our pupils so that they have the moral resolve to traverse a fast-changing unpredictable future with a strong sense of responsibility to contribute to society.
