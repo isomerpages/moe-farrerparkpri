@@ -4,15 +4,58 @@ permalink: /cce/CCE-Experiences/Internationlisation-Programme/
 description: ""
 third_nav_title: CCE Experiences
 ---
+### P2
+#### Traditional Food Making Workshop
 
-#### P2 Food Tasting Workshop
+The school organised a traditional food making workshop for the P2 pupils in April 2022. The objectives of the programme were to create in pupils a greater awareness of the various types of traditional food in Singapore and to cultivate strong bonds of friendship between the local pupils and their international friends.
+In this hands-on experience, pupils learnt to make the Epok Epok, Aval Urundai and Mooncake. They had an enjoyable time making and eating the traditional food!
 
-The school organised a traditional food tasting workshop for the P2 pupils on the 12th April 2018. The objectives of the programme was to create in pupils a greater awareness of the various types of traditional food in Singapore.  Pupils learnt how to make the epok epok, aval urundai and mooncake. They really had an enjoyable time making and eating the traditional food.
+<table>
+  <tr>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture14.jpg"></td>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture15.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture16.jpg"></td>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture17.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture18.jpg"></td>
+    <td><img src="/images/CCE/OLE/P2%20food%20making%20workshop/Picture19.jpg"></td>
+  </tr>
+</table>
 
-<img src="/images/cce48.png" style="width:50%">
+### P4
+#### P4 Traditional Games Workshop
 
-#### P3 Batik Painting Workshop
+The school organised a batik painting workshop for the P4 pupils in July 2022. Through this programme, pupils learnt various traditional games in Singapore, and they had a lot of fun playing the games.
+<table>
+  <tr>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture20.jpg"></td>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture21.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture22.jpg"></td>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture23.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture24.jpg"></td>
+    <td><img src="/images/CCE/OLE/P4%20games/Picture25.jpg"></td>
+  </tr>
+</table>
 
-The school organised a batik painting workshop for the P3 pupils on the 29th March 2018. The objectives of the programme was to create in pupils a greater awareness of the historical journey of batik in Singapore. Pupils learnt how to paint their own batik pieces.
+### P6
+#### P6 Learning journey: Harmony in Diversity Gallery
 
-<img src="/images/cce49.png" style="width:60%">
+In November 2023, the school brought the P6 pupils to the Harmony in Diversity Gallery where they learnt about Singapore's religious diversity and harmony. Pupils explored the different religions and their commonalities in practices and values. Pupils also learnt about the past incidences of religious conflict and tension in Singapore and what was done to develop and maintain religious harmony. This programme taught the pupils about what they could do to protect this precious legacy of harmony in Singapore.
+
+<table>
+  <tr>
+    <td><img src="/images/CCE/OLE/P6%20lj/Picture26.jpg"></td>
+    <td><img src="/images/CCE/OLE/P6%20lj/Picture27.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/CCE/OLE/P6%20lj/Picture28.jpg"></td>
+    <td><img src="/images/CCE/OLE/P6%20lj/Picture29.jpg"></td>
+  </tr>
+</table>
