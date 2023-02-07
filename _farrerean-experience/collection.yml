@@ -2,7 +2,6 @@ collections:
   farrerean-experience:
     output: true
     order:
-      - CCE.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -13,5 +12,6 @@ collections:
       - Mother Tongue/Tamil.md
       - Aesthetics.md
       - Physical Education.md
+      - CCE.md
       - Co–Curricular Activities.md
       - ICT.md
