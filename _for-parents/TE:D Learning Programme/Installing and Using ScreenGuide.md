@@ -17,7 +17,7 @@ Download ScreenGuide for your device via the link below.
 
 #### Step 2.
 
-### School Passcode: 99BFF
+### School Passcode: <u>99BFF</u>
 
 <iframe width="625" height="351" src="https://www.youtube.com/embed/bXI3G9waJVM?list=PLTHVutaljrzkHPotUmPLi9NFNBwgDVr2N" title="Tutorial: How to create your account and add your child’s iPad in ScreenGuide Parental Control App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
