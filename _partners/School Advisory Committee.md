@@ -14,5 +14,5 @@ The School Advisory Commitee (SAC) meets twice a year. With their diverse profes
 | Chairman | Mr Joseph Tan, PBM  |
 | Vice- Chairman | Mr Roderick Tan |
 | Hon Treasurer  | Ms Lee Hui Yun |
-| Secretary/Principal             | Miss Cheong Hwee Khim |
+| Secretary/Principal             | Mr Dennis Yap |
 | Members   | Mr Goh Kok Siong<br>Raymond Tan <br>Mr Wong Kok Leong<br>Mr Terrence Chee Teng Hsiu<br>Ms Monique Heah<br>Mr Andrew Goh<br>Mdm Bhanumathi Ramachandra |
