@@ -15,8 +15,8 @@ To work in partnership with our parents, Farrer Park Primary School has two opti
 
 <img src="/images/ict8.png" style="width:50px;height:50px;margin-right:15px;" align = "left"> **Option 1: Management in Partnership with Parents**
 
-School-managed on Weekdays from 7.00am to 1.30pm<br/>
-Lunch Break: 1.30pm - 2.00pm. (iPad will be locked out from ALL Apps)<br/>
+School-managed on Weekdays from <b>7.00am to 1.30pm<br/></b>
+Lunch Break: <b>1.30pm - 2.00pm.</b> (iPad will be locked out from ALL Apps)<br/>
 Parent-managed using Screenguide after 2.00pm.  
   
 \*School Holidays are fully managed by parents
@@ -24,7 +24,7 @@ Parent-managed using Screenguide after 2.00pm.
 <img src="/images/ict9.png" style="width:50px;height:50px;margin-right:15px;" align = "left"> **Option 2: School Managed**
 
 Weekdays (School Profile): <b>7.00am to 1.30pm  <br/></b>
-Lunch Break: <b>1.30pm - 2.00pm. (iPad will be locked out from ALL Apps)<br/></b>
+Lunch Break: <b>1.30pm - 2.00pm. </b>(iPad will be locked out from ALL Apps)<br/>
 Learning Apps available for self-directed learning: <b>2.00pm to 5.30pm <br/></b>
 After 5.30pm, all Apps will be locked out from iPad.<br/>
 Weekend/School Holiday: <b>7.00am to 11.00pm, 2.00pm to 5.30pm</b>
