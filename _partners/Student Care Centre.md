@@ -3,7 +3,7 @@ title: Student Care Centre
 permalink: /partners/student-care-centre/
 description: ""
 ---
-### afterschool by NTUC First Campus
+![](/images/Partners/CLSH.png)
   
 afterschool by NTUC First Campus was started in 2016 to meet working families’ demand for reliable, quality student care. Based within primary schools, afterschool provides a continuum of care for children after their school hours.  
   
