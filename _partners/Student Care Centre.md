@@ -34,4 +34,4 @@ Our SCC coaches motivate and nurture every student to achieve their best and to 
 right attitudes to ingrain a love for learning. We hire coaches with the right passion and
 heart, and equip them to create amazing classroom experiences for their students
 
-<center><b>We are committed to bringing  out the best in every student</center>
+<center><b>We are committed to bringing  out the best in every student</b></center>
