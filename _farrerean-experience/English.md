@@ -21,43 +21,8 @@ Students love it when they get to interact with the teacher, who is in role, as 
 
 Students working together to create an image of a “nightmare” during a process drama lesson.
 
-  
+At Farrer Park, we believe in cultivating a love for reading. The school has embarked on an extensive reading programme, Read Every Day (RED). Students are given time in class to read for leisure. 
 
-At Farrer Park, we believe in cultivating a deeper love for reading. The school has an extensive reading programme (The Book Club) from primary 3 to 6, to achieve the following outcomes:
+To allow our Farrereans to be more informed of current affairs, the upper primary students will be receiving a newspaper monthly to read and find out about news in and outside of Singapore. Students will be reading the newspaper in class and teachers will select some interesting articles for discussion.   
 
-*   generate greater interest for reading
-*   develop a greater appreciation for literature
-*   improve students' reading comprehension
 
-During the Book Club sessions, the students will read a common book and discuss the key themes and language devices (in the book) with their peers. At times, they will be required to do mini projects to extend their learning. 
-
-<img src="/images/el3.png" style="width:70%">
-
-Students worked in groups and did a character board on their favourite character from the book. 
-
-  
-
-<img src="/images/el4.png" style="width:70%">
-
-Students get to share their responses after a discussion on the key themes of the book.
-
-  
-
-These books are specially selected for their rich language and themes that students can relate to.  
-
-Here are the stories that we have carefully selected for each level:
-
-| Level | Book | Key Themes |
-|:---:|:---:|:---:|
-| Primary 3 | The Whipping Boy / Frindle | Friendship / Innovation |
-| Primary 4 | Charlotte's Web / Frindle | Friendship / Innovation |
-|  Primary 5 |  Wonder / The Lemonade War | Kindness / Sibling Rivalry  |
-|  Primary 6 | Fish in a Tree  | Acceptance / Friendship  |
-
-The Book Club has not only widened the students' exposure to the types of books available, but it also develops students' social-emotional competencies and develops a love for reading.   
-
-To make reading "trendy" and cool, the school plans to have Characters' Day, a day dedicated for students to come dressed in their favourite book characters, to share with one another about their favourite character, in semester 2.
-
-<img src="/images/el5.png" style="width:70%">
-
-<img src="/images/el6.png" style="width:70%">
