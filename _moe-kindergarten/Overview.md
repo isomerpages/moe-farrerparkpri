@@ -19,7 +19,7 @@ For more information visit [MOE Kindergarten website](https://www.moe.gov.sg/p
 
 | MK@FP Educators |
 |:---:|
-| Ms. Anooradha d/o Subramaniam – MK Centre Head<br><br>Ms. Aaris Pang Jia Xin – English Language<br><br>Ms. Chin Shan Ping, Angel – English Language<br><br>Ms. Tan Kian Muar - Englis Language<br><br>Mr. Donovan Wong De Wen - English Language<br><br>Ms. Nadiah Nazurah Binte Abdul Kalam – Malay Language<br><br>Ms. Chen XiaoNi – Chinese Language<br><br>Ms. Qiu Feng – Chinese Language<br><br>Ms. Ansuyanayagi Ambigapathi Manivannan – Tamil Language |
+| Ms. Anooradha d/o Subramaniam – MK Centre Head<br><br>Ms. Aaris Pang Jia Xin – English Language<br><br>Ms. Chin Shan Ping, Angel – English Language<br><br>Ms. Tan Kian Muar - English Language<br><br>Mr. Donovan Wong De Wen - English Language<br><br>Ms. Nadiah Nazurah Binte Abdul Kalam – Malay Language<br><br>Ms. Chen XiaoNi – Chinese Language<br><br>Ms. Qiu Feng – Chinese Language<br><br>Ms. Ansuyanayagi Ambigapathi Manivannan – Tamil Language |
 
 #### We Are a Healthy Pre-School
 
