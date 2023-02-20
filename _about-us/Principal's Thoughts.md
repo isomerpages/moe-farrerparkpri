@@ -6,7 +6,7 @@ description: ""
 ### Principal's Thoughts
 
 <img src="/images/20230203_183235_0000.jpg" style="width:45%" align="left"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 Dear Parents,
 
 As we welcome the new year of 2023, may the year bring us much joy and peace!
