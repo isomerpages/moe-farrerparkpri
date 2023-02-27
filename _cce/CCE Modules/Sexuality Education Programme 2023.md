@@ -4,7 +4,6 @@ permalink: /cce/CCE-Modules/Sexuality-Education-Growing-Years/
 description: ""
 third_nav_title: CCE Modules
 ---
-
 ### Moe Sexuality Education in Schools
  
 
@@ -132,6 +131,6 @@ Please Note:
 
 8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
-9\. A letter will be sent out in PG by February 2023. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. Hardcopies of the form will be distributed to parents upon request and is also downloadable [here](/files/2023%20Opt%20Out%20letter%20only%20(FPPS)%20Website.pdf). The completed opt-out form is to be submitted by 3rd March 2023.
+9\. A letter will be sent out in PG by February 2023. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. Hardcopies of the form will be distributed to parents upon request and is also downloadable [here](/files/2023%20Opt%20Out%20letter%20only%20(FPPS)%20Website.pdf). The completed opt-out form is to be submitted by 10th March 2023.
 
 10\. Parents can contact the school at 62952272 for discussion or to seek clarification about the school’s Sexuality Education programme.
