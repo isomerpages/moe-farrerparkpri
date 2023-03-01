@@ -35,7 +35,7 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank
 * Science <br>
 * Character and Citizenship Education (CCE)
 
-**Sexuality Education**
+**Sexuality Education Lessons**
 
 6\. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources. 
 
@@ -131,6 +131,6 @@ Please Note:
 
 8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
-9\. A letter will be sent out in PG by February 2023. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. Hardcopies of the form will be distributed to parents upon request and is also downloadable [here](/files/2023%20Opt%20Out%20letter%20only%20(FPPS)%20Website.pdf). The completed opt-out form is to be submitted by 10th March 2023.
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. Hardcopies of the form will be distributed to parents upon request and is also downloadable [here](/files/2023%20Opt%20Out%20letter%20only%20(FPPS)%20Website.pdf). The completed opt-out form is to be submitted by 10th March 2023.
 
 10\. Parents can contact the school at 62952272 for discussion or to seek clarification about the school’s Sexuality Education programme.
