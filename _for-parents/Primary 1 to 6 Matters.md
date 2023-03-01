@@ -151,7 +151,6 @@ Click the link below to download the briefing slides.<br>
   
 </li>  	
 
-<li>
 <input type="checkbox" id="accordion7">  
   
 <label for="accordion7">All Student Matters</label>  
@@ -160,9 +159,9 @@ Click the link below to download the briefing slides.<br>
   
 <p>
 <b> Year 2023 </b><br>
-Click on the link below to download the group personal accident insurance form for students.<Br>
+Click on the link below to download the group personal accident insurance form for students.
 
-	[Group Personal Accident Insurance Form](/files/GROUP%20PERSONAL%20ACCIDENT%20INSURANCE%20FOR%20STUDENTS.pdf)
+	<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/insurance.pdf" target="_blank">Group Personal Accident Insurance Form</a>
 	
 </div>  
   
