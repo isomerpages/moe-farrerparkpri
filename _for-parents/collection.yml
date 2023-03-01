@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Sexuality Education Programme 2023.md
       - Letters & Notifications.md
       - Primary 1 to 6 Matters.md
       - Assessment Matters.md
