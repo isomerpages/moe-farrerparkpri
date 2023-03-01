@@ -150,6 +150,24 @@ Click the link below to download the briefing slides.<br>
 </div>  
   
 </li>  	
+
+
+<input type="checkbox" id="accordion6">  
+  
+<label for="accordion7">All Student Matters</label>  
+  
+<div>  
+  
+<p>
+<b> Year 2023 </b><br><br>
+Click on the link below to download the group personal accident insurance form for students.<Br>
+ <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p6m1.pdf">P6 FDN.pdf</a>
+
+	 
+  
+</div>  
+  
+</li>  	
 </ul>
 
 #### Leave of Absence (LOA)
