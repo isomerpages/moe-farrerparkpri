@@ -9,7 +9,7 @@ description: ""
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">Primary 1 Matters(2023)</label>  
+<label for="accordion1">Primary 1 Matters</label>  
   
 <div>  
   
