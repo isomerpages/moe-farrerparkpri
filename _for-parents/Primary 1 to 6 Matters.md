@@ -146,7 +146,8 @@ Click the link below to download the briefing slides.<br>
 </div>  
   
 </li>  	
-
+	
+<li>
 <input type="checkbox" id="accordion7">  
   
 <label for="accordion7">All Student Matters</label>  
