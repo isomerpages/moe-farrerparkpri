@@ -164,6 +164,7 @@ Click on the link below to download the group personal accident insurance form f
   
 </li>  	
 </ul>
+</div>
 
 #### Leave of Absence (LOA)
  
