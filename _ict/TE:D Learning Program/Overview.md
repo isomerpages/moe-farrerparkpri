@@ -1,9 +1,10 @@
 ---
 title: Overview
-permalink: /ict/permalink/
+permalink: /ict/overview/
 description: ""
 third_nav_title: TE:D Learning Program
 ---
+
 #### What is the TE:D Learning Programme?
 
 <img src="/images/ted1.png" style="width:60%">
