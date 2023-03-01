@@ -161,7 +161,7 @@ Click the link below to download the briefing slides.<br>
 <b> Year 2023 </b><br>
 Click on the link below to download the group personal accident insurance form for students.
 
-	<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/insurance.pdf" target="_blank">Group Personal Accident Insurance Form</a>
+<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/insurance.pdf" target="_blank">Group Personal Accident Insurance Form</a>
 	
 </div>  
   
