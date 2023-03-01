@@ -151,20 +151,19 @@ Click the link below to download the briefing slides.<br>
   
 </li>  	
 
-
-<input type="checkbox" id="accordion6">  
+<li>
+<input type="checkbox" id="accordion7">  
   
 <label for="accordion7">All Student Matters</label>  
   
 <div>  
   
 <p>
-<b> Year 2023 </b><br><br>
+<b> Year 2023 </b><br>
 Click on the link below to download the group personal accident insurance form for students.<Br>
- <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p6m1.pdf">P6 FDN.pdf</a>
 
-	 
-  
+	[Group Personal Accident Insurance Form](/files/GROUP%20PERSONAL%20ACCIDENT%20INSURANCE%20FOR%20STUDENTS.pdf)
+	
 </div>  
   
 </li>  	
