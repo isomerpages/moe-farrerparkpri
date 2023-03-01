@@ -4,8 +4,7 @@ permalink: /for-parents/TED-Learning-Programme/p2-parent-engagement-2022/
 description: ""
 third_nav_title: TE:D Learning Programme
 ---
-
-
-### TE:D P2 Parent Engagement 2022 (Slides)
-
-[Click here to download the briefing slides.](/files/tedl1.pdf)
+Watch the following video on how to install and manage ScreenGuide.
+<center>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/49YqjHvZDFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
