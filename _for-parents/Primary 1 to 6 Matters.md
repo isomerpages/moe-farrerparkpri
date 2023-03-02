@@ -3,6 +3,26 @@ title: Primary 1 to 6 Matters
 permalink: /for-parents/News-and-Information/p1-to-p6-matters/
 description: ""
 ---
+### All Student Matters (2023)
+
+Click on the link below to download the group personal accident insurance form for students.
+
+* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/insurance.pdf" target="_blank">Group Personal Accident Insurance Form</a>
+
+#### Leave of Absence (LOA)
+ 
+
+The Leave of Absence (LOA) scheme applies to all Singapore Citizen (SC) and Permanent Resident (PR) children.  
+  
+To be granted LOA, your child must fulfil the following criteria :  
+  
+• An SC or PR  
+• Presently studying in a Singapore school  
+• Accompanying you on an overseas posting with the intention of re-joining the school after returning to Singapore Or:  
+• Child is already registered for Primary 1 but will be overseas at the start of the year  
+  
+To submit for LOA please follow this link.  
+[Online Application Form for LOA](https://form.gov.sg/#!/61023b016bd2f30011b37e2a)
 <ul class="jekyllcodex_accordion">  
   
 <li>  
@@ -147,36 +167,5 @@ Click the link below to download the briefing slides.<br>
   
 </li>  	
 	
-<li>
-<input type="checkbox" id="accordion7">  
-  
-<label for="accordion7">All Student Matters</label>  
-  
-<div>  
-  
-<p>
-<b> Year 2023 </b><br>
-Click on the link below to download the group personal accident insurance form for students.
-
-* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/insurance.pdf" target="_blank">Group Personal Accident Insurance Form</a>
-	
-</div>  
-  
-</li>  	
 </ul>
-</div>
 
-#### Leave of Absence (LOA)
- 
-
-The Leave of Absence (LOA) scheme applies to all Singapore Citizen (SC) and Permanent Resident (PR) children.  
-  
-To be granted LOA, your child must fulfil the following criteria :  
-  
-• An SC or PR  
-• Presently studying in a Singapore school  
-• Accompanying you on an overseas posting with the intention of re-joining the school after returning to Singapore Or:  
-• Child is already registered for Primary 1 but will be overseas at the start of the year  
-  
-To submit for LOA please follow this link.  
-[Online Application Form for LOA](https://form.gov.sg/#!/61023b016bd2f30011b37e2a)
