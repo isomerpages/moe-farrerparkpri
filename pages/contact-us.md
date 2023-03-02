@@ -13,7 +13,7 @@ locations:
         time: 7.30 a.m. to 5.30 p.m.
         description: Closed on weekends
     maps_link: https://goo.gl/maps/jg2VUm4UGeK5BcPC7
-    title: General Office
+    title: Address
 contacts:
   - content:
       - phone: +65 6295 2272
