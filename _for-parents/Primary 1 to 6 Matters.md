@@ -5,9 +5,9 @@ description: ""
 ---
 ### All Student Matters (2023)
 
-Click on the link below to download the group personal accident insurance form for students.
+Click on the link below to download the group personal accident information sheet for students.
 
-* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/insurance.pdf" target="_blank">Group Personal Accident Insurance Form</a>
+* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/insurance.pdf" target="_blank">Group Personal Accident Information Sheet</a>
 
 #### Leave of Absence (LOA)
  
@@ -168,4 +168,3 @@ Click the link below to download the briefing slides.<br>
 </li>  	
 	
 </ul>
-
