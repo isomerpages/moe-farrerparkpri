@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - KCare.md
       - Joyful Learning/.keep
       - Joyful Learning/Overview.md
       - Joyful Learning/K1 Care.md
@@ -14,3 +13,4 @@ collections:
       - For Parents/.keep
       - For Parents/Overview.md
       - For Parents/School Events.md
+      - KCare.md
