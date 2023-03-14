@@ -34,7 +34,12 @@ To submit for LOA please follow this link.
 <div>  
   
 <p>
-<b> Information for Parents </b><br><br>
+	<b> Information for Parents </b><br><br>
+<ul>
+	<li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P1/P1%20Total%20Curriculum%20Briefing_2023.pdf" target="_blank">P1 Parent Engagement Session (P1 Total Curriculum Briefing)</a></li>
+</ul>
+
+<br>
 Click on the link to download information. <br>
 	
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m1.pdf">P1 Orientation Handbook (for 2023)</a>	<br>
@@ -66,6 +71,9 @@ Click on the link to download information. <br>
   
 <p>
 <b> Year 2023 </b><br><br>
+<ul>
+	<li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P2/P2%20Total%20Curriculum%20Briefing_2023%20.pdf" target="_blank">P2 Parent Engagement Session (P2 Total Curriculum Briefing)</a></li>
+</ul>
 Click on the link below to download booklist for year 2023 <Br>
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p2m.pdf">P2 BOOKLIST.pdf</a>	
 </p>  
