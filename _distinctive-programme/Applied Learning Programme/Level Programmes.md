@@ -26,3 +26,5 @@ Primary 3 students experienced how to grow mushrooms using a mushroom starter ki
 
 <p style="text-align: justify;"><strong>Environmental Science Club</strong><br />
 The interest-based programme is designed to enable students to learn about current issues affecting the environment such as global warming and climate change and practical actions they can take to contribute to sustainability efforts. Students then apply design thinking skills to implement solutions to advocate and encourage green habits in the school. Through reusing and recycling waste materials into useful items and regular reflection of their experiences, the students develop a more positive attitude towards sustainability. Their social and emotional competencies are also enhanced as they put into practice the school&rsquo;s GRAIN values.</p>
+
+![](/images/ALP/pic%208.jpg)
