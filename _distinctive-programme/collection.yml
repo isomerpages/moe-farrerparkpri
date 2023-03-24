@@ -3,8 +3,9 @@ collections:
     output: true
     order:
       - Overview.md
-      - Applied Learning Programme/Overview.md
       - Applied Learning Programme/.keep
+      - Applied Learning Programme/Overview.md
+      - Applied Learning Programme/Level Programmes.md
       - Learning for Life Programme/Overview.md
       - Learning for Life Programme/Team Leadership (Primary 3 & 4 Pupils).md
       - Learning for Life Programme/STAR Leadership Programme.md
