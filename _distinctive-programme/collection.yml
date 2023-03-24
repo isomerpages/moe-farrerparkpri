@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Applied Learning Programme/Level Programmes.md
       - Applied Learning Programme/Overview.md
       - Applied Learning Programme/.keep
       - Learning for Life Programme/Overview.md
