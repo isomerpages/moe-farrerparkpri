@@ -21,3 +21,5 @@ third_nav_title: Applied Learning Programme
 
 <div>Our framework is based on the four domains, namely Curriculum, Campus, Culture and Community (4Cs) as follows:</div>
 
+![](/images/ALP/Picture1.png)
+
