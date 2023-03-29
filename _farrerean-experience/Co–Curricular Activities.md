@@ -23,6 +23,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 .tg .tg-kcwf{background-color:#c0c0c0;border-color:#000000;color:#000000;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-dzq5{background-color:#c0c0c0;border-color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
+
 <table border="1" cellpadding="0" cellspacing="0" style="width:895px;" width="892">
 	<colgroup>
 		<col />
