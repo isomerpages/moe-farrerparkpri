@@ -35,7 +35,7 @@ To submit for LOA please follow this link.
   
 <p>
 	<b> Information for Parents </b><br><br>
-<ul>
+</p><ul>
 	<li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P1/P1%20Total%20Curriculum%20Briefing_2023.pdf" target="_blank">P1 Parent Engagement Session (P1 Total Curriculum Briefing)</a></li>
 </ul>
 
@@ -56,7 +56,7 @@ Click on the link to download information. <br>
 *  <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m6.pdf">Parent Child Activity Booklet Tip 5 to Tip 10</a>	<br> 	
 	
 	
-</p>  
+<p></p>  
   
 </div>  
   
@@ -71,12 +71,12 @@ Click on the link to download information. <br>
   
 <p>
 <b> Year 2023 </b><br><br>
-<ul>
+</p><ul>
 	<li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P2/P2%20Total%20Curriculum%20Briefing_2023%20.pdf" target="_blank">P2 Parent Engagement Session (P2 Total Curriculum Briefing)</a></li>
 </ul>
-Click on the link below to download booklist for year 2023 <Br>
+Click on the link below to download booklist for year 2023 <br>
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p2m.pdf">P2 BOOKLIST.pdf</a>	
-</p>  
+<p></p>  
   
 </div>  
   
@@ -92,7 +92,7 @@ Click on the link below to download booklist for year 2023 <Br>
   
 <p>
 <b> Year 2023 </b><br><br>	
-Click on the link below to download booklist for year 2023 <Br>
+Click on the link below to download booklist for year 2023 <br>
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p3m.pdf">P3 BOOKLIST.pdf</a>	
   
 </p>  
@@ -111,11 +111,11 @@ Click on the link below to download booklist for year 2023 <Br>
   
 <p>
 <b> Year 2023 </b><br><br>
-Click on the link below to download booklist for year 2023 <Br>
+Click on the link below to download booklist for year 2023 <br>
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p4m1.pdf">P4 BOOKLIST.pdf</a>		<br><br>
 	
 <b> Primary 4 Subject-Based Banding 2022 </b><br><br>
-Our P4 Conversation with Parents Session was conducted on 25 March 2022 for Primary 4 parents.  <Br><br>
+Our P4 Conversation with Parents Session was conducted on 25 March 2022 for Primary 4 parents.  <br><br>
 
 You may refer to the link below to view the Primary 4 Subject-Based Banding slides.	<br>
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p4m2.pdf">Primary 4 Subject-Based Banding Briefing.pdf</a>		
@@ -138,12 +138,13 @@ You may refer to the link below to view the Primary 4 Subject-Based Banding slid
   
 <p>
 <b> Year 2023 </b><br><br>
-Click on the link below to download booklist for year 2023 <Br>
+Click on the link below to download booklist for year 2023 <br>
+	* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes.pdf">P5 PES Briefing Slides.pdf</a>		<br>
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p5m1.pdf">P5 FDN.pdf</a>		<br>
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p5m2.pdf">P5 BOOKLIST.pdf</a>		<br><br>	
 
 <b> Primary 5 Parent-Teacher Bonding Session </b><br><br>	
-Please refer to the link below to download the briefing slides.	<Br>
+Please refer to the link below to download the briefing slides.	<br>
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p5m3.pdf">P5 PTB Briefing.pdf</a>		<br><br>		
   
 </p>  
@@ -162,7 +163,8 @@ Please refer to the link below to download the briefing slides.	<Br>
   
 <p>
 <b> Year 2023 </b><br><br>
-Click on the link below to download booklist for year 2023 <Br>
+Click on the link below to download booklist for year 2023 <br>
+* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes.pdf">P6 PES Briefing Slides.pdf</a>		<br>
 *  <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p6m1.pdf">P6 FDN.pdf</a>		<br>
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p6m2.pdf">P6 BOOKLIST.pdf</a>		<br><br>	 
 	
