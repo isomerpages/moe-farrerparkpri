@@ -139,13 +139,12 @@ You may refer to the link below to view the Primary 4 Subject-Based Banding slid
 <p>
 <b> Year 2023 </b><br><br>
 Click on the link below to download booklist for year 2023 <br>
-	* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes.pdf">P5 PES Briefing Slides.pdf</a>		<br>
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p5m1.pdf">P5 FDN.pdf</a>		<br>
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p5m2.pdf">P5 BOOKLIST.pdf</a>		<br><br>	
 
-<b> Primary 5 Parent-Teacher Bonding Session </b><br><br>	
-Please refer to the link below to download the briefing slides.	<br>
-* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p5m3.pdf">P5 PTB Briefing.pdf</a>		<br><br>		
+<b> Primary 5 Parent-Teacher Bonding Session </b><br>
+	Please refer to the link below to download the briefing slides.	<br>
+		* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes.pdf">P5 PES Briefing Slides.pdf</a>		<br>
   
 </p>  
   
@@ -164,13 +163,14 @@ Please refer to the link below to download the briefing slides.	<br>
 <p>
 <b> Year 2023 </b><br><br>
 Click on the link below to download booklist for year 2023 <br>
-* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes.pdf">P6 PES Briefing Slides.pdf</a>		<br>
+
 *  <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p6m1.pdf">P6 FDN.pdf</a>		<br>
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p6m2.pdf">P6 BOOKLIST.pdf</a>		<br><br>	 
 	
-<b>PSLE Scoring and S1 Posting Systems</b><br>
+<b>P6 Parent-Teacher Bonding Session</b><br>
 Click the link below to download the briefing slides.<br>
-* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p6m3.pdf">PSLE Sharing with P6 Parents 4 Mar 2022.pdf</a>		
+	* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes.pdf">P6 PES Briefing Slides.pdf</a>		<br>
+	
 </p>  
   
 </div>  
