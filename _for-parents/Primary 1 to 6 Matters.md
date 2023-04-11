@@ -145,7 +145,7 @@ Click on the link below to download booklist for year 2023 <br>
 <b> Primary 5 Parent-Teacher Bonding Session </b><br>
 	Please refer to the link below to download the briefing slides.	<br>
 		* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes.pdf">P5 PES Briefing Slides.pdf</a>		<br>
-  
+	*<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes%20examples.pdf">P5 PES Examples Slides.pdf</a>		<br>
 </p>  
   
 </div>  
@@ -170,6 +170,7 @@ Click on the link below to download booklist for year 2023 <br>
 <b>P6 Parent-Teacher Bonding Session</b><br>
 Click the link below to download the briefing slides.<br>
 	* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes.pdf">P6 PES Briefing Slides.pdf</a>		<br>
+		*<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes%20examples.pdf">P6 PES Examples Slides.pdf</a>		<br>
 	
 </p>  
   
