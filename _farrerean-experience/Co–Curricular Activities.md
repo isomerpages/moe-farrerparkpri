@@ -24,15 +24,15 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 .tg .tg-dzq5{background-color:#c0c0c0;border-color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:895px;" width="892">
+<table width="892" style="width:895px;" cellspacing="0" cellpadding="0" border="1">
 	<colgroup>
-		<col />
-		<col />
-		<col span="2" />
-		<col />
-		<col />
-		<col />
-		<col />
+		<col>
+		<col>
+		<col span="2">
+		<col>
+		<col>
+		<col>
+		<col>
 	</colgroup>
 	<tbody>
 		<tr height="22">
@@ -40,10 +40,10 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="width: 163px; text-align: center; height: 22px; background-color: rgb(255, 255, 153);"><strong>Session 1</strong></td>
 			<td style="width: 163px; text-align: center; height: 22px; background-color: rgb(255, 255, 153);"><strong>Session 2</strong></td>
 			<td style="width: 163px; text-align: center; height: 22px; background-color: rgb(255, 255, 153);"><strong>Teacher IC</strong></td>
-			<td colspan="4" rowspan="1" style="width: 163px; text-align: center; height: 22px; background-color: rgb(255, 255, 153);"><strong>Teachers</strong></td>
+			<td style="width: 163px; text-align: center; height: 22px; background-color: rgb(255, 255, 153);" rowspan="1" colspan="4"><strong>Teachers</strong></td>
 		</tr>
 		<tr height="33">
-			<td height="33" style="height:33px;"><strong>Basketball</strong></td>
+			<td style="height:33px;" height="33"><strong>Basketball</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MR MAX ANGELO VIJAYA</strong></td>
@@ -53,7 +53,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="width:116px;">&nbsp;</td>
 		</tr>
 		<tr height="33">
-			<td height="33" style="height:33px;"><strong>Badminton</strong></td>
+			<td style="height:33px;" height="33"><strong>Badminton</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MISS FRANCES NIELD</strong></td>
@@ -63,7 +63,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td>&nbsp;</td>
 		</tr>
 		<tr height="33">
-			<td height="33" style="height:33px;"><strong>Tennis</strong></td>
+			<td style="height:33px;" height="33"><strong>Tennis</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>FRI 1400-1600</td>
 			<td style="width:95px;"><strong>MISS LOW XINDI</strong></td>
@@ -73,7 +73,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="width:116px;">&nbsp;</td>
 		</tr>
 		<tr height="33">
-			<td height="33" style="height:33px;"><strong>Swimming</strong></td>
+			<td style="height:33px;" height="33"><strong>Swimming</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MISS SHARONJIT SINGH</strong></td>
@@ -83,7 +83,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td>&nbsp;</td>
 		</tr>
 		<tr height="33">
-			<td height="33" style="height:33px;"><strong>Football</strong></td>
+			<td style="height:33px;" height="33"><strong>Football</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>FRI 1400-1600</td>
 			<td style="width:95px;"><strong>MISS JEOLINITA YEO</strong></td>
@@ -93,7 +93,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td>MR RAVINDER SINGH</td>
 		</tr>
 		<tr height="33">
-			<td height="33" style="height:33px;"><strong>Floorball</strong></td>
+			<td style="height:33px;" height="33"><strong>Floorball</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>FRI 1400-1600</td>
 			<td style="width:95px;"><strong>MISS JERYN FOK&nbsp;</strong></td>
@@ -103,7 +103,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="width:116px;">MISS VANESSA OH</td>
 		</tr>
 		<tr height="33">
-			<td height="33" style="height:33px;"><strong>Dance</strong></td>
+			<td style="height:33px;" height="33"><strong>Dance</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>FRI 1400-1600</td>
 			<td style="width:95px;"><strong>MISS ELAINE CHOO</strong></td>
@@ -113,7 +113,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td>&nbsp;</td>
 		</tr>
 		<tr height="33">
-			<td height="33" style="height:33px;"><strong>Guitar Ensemble</strong></td>
+			<td style="height:33px;" height="33"><strong>Guitar Ensemble</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>FRI 1400-1600</td>
 			<td style="width:95px;"><strong>MISS CHERANDY LIM</strong></td>
@@ -123,17 +123,17 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td>&nbsp;</td>
 		</tr>
 		<tr height="33">
-			<td height="33" style="height:33px;"><strong>Instrumental Ensemble</strong></td>
+			<td style="height:33px;" height="33"><strong>Instrumental Ensemble</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>FRI 1400-1600</td>
 			<td style="width:95px;"><strong>MISS GOH SIEW LING</strong></td>
 			<td style="width:109px;">MISS CHEN HUI FANG</td>
 			<td style="width:109px;">MR CHU LUO JUN</td>
 			<td style="width:109px;">MISS TAN GEOK MEI</td>
-			<td>&nbsp;</td>
+			<td>MISS PEGGY FOO</td>
 		</tr>
 		<tr height="32">
-			<td height="32" style="height:33px;"><strong>Drama</strong></td>
+			<td style="height:33px;" height="32"><strong>Drama</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MISS WU HUISHAN</strong></td>
@@ -143,7 +143,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="width:116px;">&nbsp;</td>
 		</tr>
 		<tr height="33">
-			<td height="33" style="height:33px;"><strong>Art</strong></td>
+			<td style="height:33px;" height="33"><strong>Art</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MISS CANDY CHUA</strong></td>
@@ -153,7 +153,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="width:116px;">&nbsp;</td>
 		</tr>
 		<tr height="33">
-			<td height="33" style="height:33px;"><strong>Infocomm</strong></td>
+			<td style="height:33px;" height="33"><strong>Infocomm</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MISS ALISON CHAN</strong></td>
@@ -163,7 +163,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td>&nbsp;</td>
 		</tr>
 		<tr height="33">
-			<td height="33" style="height:33px;"><strong>Env Sce Club</strong></td>
+			<td style="height:33px;" height="33"><strong>Env Sce Club</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MISS NICOLE LIM</strong></td>
@@ -173,7 +173,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td>&nbsp;</td>
 		</tr>
 		<tr height="32">
-			<td height="32" style="height:33px;"><strong>BB</strong></td>
+			<td style="height:33px;" height="32"><strong>BB</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MISS JOLIE TOH</strong></td>
@@ -183,7 +183,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="width:116px;">&nbsp;</td>
 		</tr>
 		<tr height="33">
-			<td height="33" style="height:33px;"><strong>Scouts</strong></td>
+			<td style="height:33px;" height="33"><strong>Scouts</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MR HARRISON GOH</strong></td>
