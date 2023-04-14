@@ -94,6 +94,12 @@ Click on the link below to download booklist for year 2023 <br>
 <b> Year 2023 </b><br><br>	
 Click on the link below to download booklist for year 2023 <br>
 * <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p3m.pdf">P3 BOOKLIST.pdf</a>	
+<br>
+	
+<b>P3 Engagement Session 2023</b><br>
+Click on the link below to download the briefing slides.	<br>
+* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P3/p3%20and%204%20pes%202023.pdf">Primary 3 PES Slides</a>		
+<br>
   
 </p>  
   
@@ -115,12 +121,16 @@ Click on the link below to download booklist for year 2023 <br>
 * <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p4m1.pdf">P4 BOOKLIST.pdf</a>		<br><br>
 	
 <b> Primary 4 Subject-Based Banding 2022 </b><br><br>
-Our P4 Conversation with Parents Session was conducted on 25 March 2022 for Primary 4 parents.  <br><br>
+Our P4 Conversation with Parents Session was conducted on 25 March 2022 for Primary 4 parents.  <br>
 
 You may refer to the link below to view the Primary 4 Subject-Based Banding slides.	<br>
 * <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p4m2.pdf">Primary 4 Subject-Based Banding Briefing.pdf</a>		
+<br>
 	
-  
+<b>P4 Engagement Session 2023</b><br>
+Click on the link below to download the briefing slides.	<br>
+* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P3/p3%20and%204%20pes%202023.pdf">Primary 4 PES Slides</a>		
+<br>
 	
 </p>  
   
