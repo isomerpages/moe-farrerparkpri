@@ -8,9 +8,11 @@ description: ""
 
 CCAs are an essential part of a Farrereans’ holistic education. They are an integral part of a well-rounded education and play an important role in nurturing good character. They provide a natural platform for Farrereans to learn and apply values, knowledge and skills. Farrereans develop these values and character while they uncover their talents and competencies as they ready themselves for a rapidly changing world. They foster friendships as they learn, play and grow together.
 
-<center><iframe allowfullscreen="true" height="474" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2ULwwMScxUIsW0Sd9P-oDEceA5UIBLlvj95Vf2JHSEZFoAqzCz2rEYMpkAzqqG-zK0Qt7Y7lw1vJW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-![CCA Schedule 2023](/images/2023%20CCA%20Schedule.jpeg)</center>
+<center>
+<iframe allowfullscreen="true" height="474" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2ULwwMScxUIsW0Sd9P-oDEceA5UIBLlvj95Vf2JHSEZFoAqzCz2rEYMpkAzqqG-zK0Qt7Y7lw1vJW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<br>
+<img align="center" src="/images/2023%20CCA%20Schedule.jpeg">
+</center>
 
 <style type="text/css">.tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
 .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
