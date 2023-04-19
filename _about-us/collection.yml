@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - VR School Tour.md
       - Principal's Thoughts.md
       - Mission, Vision, Motto, Values and Learning Dispositions.md
       - School Rules.md
