@@ -69,17 +69,17 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank
     <td class="tg-wp8o" rowspan="3">Growing Years</td>
     <td class="tg-73oq">The Changes in Me (60 min)</td>
     <td class="tg-73oq">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td class="tg-73oq">Term 2 Week 8</td>
+    <td class="tg-73oq">Term 2 Week 9</td>
   </tr>
   <tr>
     <td class="tg-73oq">Did You Know? <br>(60 min)</td>
     <td class="tg-73oq">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘<span style="font-weight:bold">Stop-Think-Do</span>’. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td class="tg-73oq">Term 2 Week 9</td>
+    <td class="tg-73oq">Term 2 Week 10</td>
   </tr>
   <tr>
     <td class="tg-73oq">Keeping Myself Safe<br>(60 min)</td>
     <td class="tg-73oq">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td class="tg-73oq">Term 2 Week 10</td>
+    <td class="tg-73oq">Term 3 Week 3</td>
   </tr>
 </tbody>
 </table>
