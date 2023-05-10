@@ -27,7 +27,7 @@ third_nav_title: Suppliers
 </table>
 <br>
 
-<p><strong>Application Procedure</strong></p>
+<strong>Application Procedure</strong>
 
 <p>1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</p>
 
@@ -52,14 +52,14 @@ third_nav_title: Suppliers
 	<li>Contact Person: Mdm Marhaini&nbsp;&nbsp;</li>
 </ul>
 
-<p>**How to get there?**</p>
+**How to get there?**
 
 <ul>
 	<li>Nearest MRT: Farrer Park MRT&nbsp;– 10 minutes walking distance</li>
 	<li>Bus number: 141&nbsp;- 3 minutes walking distance</li>
 </ul>
 
-<p>**Interest applicants must meet the following criteria:**</p>
+**Interest applicants must meet the following criteria:**
 
 <ul>
 	<li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
@@ -69,8 +69,7 @@ third_nav_title: Suppliers
 	<li>Healthy and fit to operate the stall.</li>
 </ul>
 
-<p><br>
-**Applicants should preferably fulfil the following criteria:**</p>
+**Applicants should preferably fulfil the following criteria:**
 
 <ul>
 	<li>Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</li>
@@ -78,7 +77,4 @@ third_nav_title: Suppliers
 	<li>Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).&nbsp;</li>
 </ul>
 
-<p><br>
-*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*</p>
-
-
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
