@@ -2,7 +2,10 @@ collections:
   school-information:
     output: true
     order:
+      - Suppliers/.keep
+      - Suppliers/Suppliers – School Bus, Uniform and Books.md
+      - Suppliers/School Canteen Information.md
+      - Suppliers/School Bus Information.md
       - School Hours.md
-      - Suppliers – School Bus, Uniform and Books.md
       - School Fees.md
       - Contact Us.md
