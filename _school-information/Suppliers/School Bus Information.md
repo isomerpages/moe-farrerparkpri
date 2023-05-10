@@ -10,8 +10,8 @@ Name of Company/Operator: <strong>Steadfast Transport Service</strong>
 <br>Address: <strong>Blk 3004, Ubi Ave 3, #03-96, Singapore 408860 </strong><br>
 Email address: <strong>steadfastbus@gmail.com</strong><br>
 Tel: <strong>67474825&nbsp;</strong><br>
-Fax: <strong>67486685&nbsp;</strong><br>
-<u>**Bus fares for daily school bus services by distance**</u><br>
+Fax: <strong>67486685&nbsp;</strong><br><br>
+<u>Bus fares for daily school bus services by distance</u><br>
 <table width="761" style="width:759px;" cellspacing="0" cellpadding="0" border="0">
 	<colgroup>
 		<col style="text-align: center;">
@@ -63,7 +63,7 @@ Fax: <strong>67486685&nbsp;</strong><br>
 	</tbody>
 </table>
 
-<u>**Bus fares for services after school activities by distance**</u><br>
+<u>Bus fares for services after school activities by distance</u><br>
 <table width="761" style="width:759px;" cellspacing="0" cellpadding="0" border="0">
 	<colgroup>
 		<col style="text-align: center;">
