@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Suppliers/School Canteen Information.md
       - Suppliers/.keep
       - Suppliers/Suppliers – School Bus, Uniform and Books.md
       - Suppliers/School Bus Information.md
