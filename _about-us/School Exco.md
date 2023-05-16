@@ -3,7 +3,7 @@ title: School Exco
 permalink: /about-us/school-steering-committee/
 description: ""
 ---
-### School Steering Committee 
+### School Executive Committee
 
 ##### Principal &amp; Vice-Principal
 
