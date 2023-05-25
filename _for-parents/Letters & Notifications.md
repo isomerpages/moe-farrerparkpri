@@ -42,8 +42,22 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+###### All Levels
 <ul>
 	<li>
 <a href="/files/Cycling%20Advisory%20Letter%20To%20Parents.pdf" target="_blank">Cycling Advisory Letter</a>
+	</li>
+		<li>
+<a href="/files/Letters%20and%20Notifications/All%20Levels/act%20and%20scamshield%20infographic%20for%20moe%20(special%20broadcast).pdf" target="_blank">ACT and Scamshield Infographic</a>
+	</li>
+		<li>
+<a href="/files/Letters%20and%20Notifications/All%20Levels/hpb-hsa%20joint%20advisory%20to%20parents%20and%20students_may%202023.pdf" target="_blank">HPB-HSA Vaping Joint Advisory</a>
+	</li>
+		<li>
+<a href="/files/Letters%20and%20Notifications/All%20Levels/vape%20prevention_a3%20poster.pdf" target="_blank">Vape Prevention</a>
+	</li>
+		<li>
+<a href="/files/Letters%20and%20Notifications/All%20Levels/primary%20school%20-%20vaping%20edm%20(may%202023).pdf" target="_blank">Vaping EDM</a>
 	</li>
 </ul>
