@@ -678,7 +678,7 @@ description: ""
 		</tr>
 		<tr>
 			<td>
-			<p>Mr V. P. Krishnan&nbsp;</p>
+			<p>Miss Sim Hwee Choo&nbsp;</p>
 			</td>
 			<td>
 			<p>Security Officer&nbsp;&nbsp;</p>
