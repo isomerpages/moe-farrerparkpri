@@ -112,13 +112,13 @@ description: ""
 			</td>
 			<td>
 			<p>Miss Yvonne Lee Hwee Ling<br>
-			Miss Wu Fang&nbsp;</p>
+			Miss Shermin Low Simin&nbsp;</p>
 			</td>
 			<td>
 			<p>2 Integrity&nbsp;</p>
 			</td>
 			<td>
-			<p>Mrs Sri Kala Kumar<br>
+			<p>Miss Rochelle Sim Hui Yee<br>
 			Miss Fok Ruiwen Jeryn&nbsp;</p>
 			</td>
 		</tr>
@@ -128,12 +128,13 @@ description: ""
 			</td>
 			<td>
 			<p>Miss Chua Miang Joo<br>
-			Hon Mui Yong&nbsp;</p>
+			Miss Hon Mui Yong&nbsp;</p>
 			</td>
 			<td>
-			<p>&nbsp;</p>
+			<p>2 Ready&nbsp;</p>
 			</td>
-			<td>&nbsp;</td>
+			<td><p>Miss Goh Siang Lu Serene<br>
+				Mr Chu Luo Jun&nbsp;</p></td>
 		</tr>
 	</tbody>
 </table>
@@ -161,7 +162,7 @@ description: ""
 			<p>3 Graciousness</p>
 			</td>
 			<td style="width:60px;">
-			<p>Miss Sharon Cardoza Ann<br>
+			<p>Mr Lee Kim Fatt<br>
 			Miss Kok Xinyi Kerin</p>
 			</td>
 			<td style="width:60px;">
@@ -177,7 +178,7 @@ description: ""
 			<p>3 Adaptability</p>
 			</td>
 			<td>
-			<p>Miss Goh Siew Ling<br>
+			<p>Miss Ooi En Ping Charis<br>
 			Miss Low Xindi&nbsp;</p>
 			</td>
 			<td>
@@ -194,7 +195,7 @@ description: ""
 			</td>
 			<td>
 			<p>Miss Tricia Tork Hui Jia<br>
-			Miss Lee Su Ping&nbsp;</p>
+			Miss Chia Mei Hua Florence&nbsp;</p>
 			</td>
 			<td>
 			<p>3 Charm&nbsp;</p>
@@ -210,7 +211,7 @@ description: ""
 			</td>
 			<td>
 			<p>Miss Chan See Mun Alison<br>
-			Mr Razli Abdol Jalil&nbsp;</p>
+			Miss Chua Lay Pengl&nbsp;</p>
 			</td>
 			<td>
 			<p align="center">&nbsp;</p>
