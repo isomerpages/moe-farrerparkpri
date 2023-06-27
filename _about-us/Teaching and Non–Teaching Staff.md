@@ -112,13 +112,13 @@ description: ""
 			</td>
 			<td>
 			<p>Miss Yvonne Lee Hwee Ling<br>
-			Miss Wu Fang&nbsp;</p>
+			Miss Shermin Low Simin&nbsp;</p>
 			</td>
 			<td>
 			<p>2 Integrity&nbsp;</p>
 			</td>
 			<td>
-			<p>Mrs Sri Kala Kumar<br>
+			<p>Miss Rochelle Sim Hui Yee<br>
 			Miss Fok Ruiwen Jeryn&nbsp;</p>
 			</td>
 		</tr>
@@ -128,12 +128,13 @@ description: ""
 			</td>
 			<td>
 			<p>Miss Chua Miang Joo<br>
-			Hon Mui Yong&nbsp;</p>
+			Miss Hon Mui Yong&nbsp;</p>
 			</td>
 			<td>
-			<p>&nbsp;</p>
+			<p>2 Ready&nbsp;</p>
 			</td>
-			<td>&nbsp;</td>
+			<td><p>Miss Goh Siang Lu Serene<br>
+				Mr Chu Luo Jun&nbsp;</p></td>
 		</tr>
 	</tbody>
 </table>
@@ -161,7 +162,7 @@ description: ""
 			<p>3 Graciousness</p>
 			</td>
 			<td style="width:60px;">
-			<p>Miss Sharon Cardoza Ann<br>
+			<p>Mr Lee Kim Fatt<br>
 			Miss Kok Xinyi Kerin</p>
 			</td>
 			<td style="width:60px;">
@@ -177,7 +178,7 @@ description: ""
 			<p>3 Adaptability</p>
 			</td>
 			<td>
-			<p>Miss Goh Siew Ling<br>
+			<p>Miss Ooi En Ping Charis<br>
 			Miss Low Xindi&nbsp;</p>
 			</td>
 			<td>
@@ -194,7 +195,7 @@ description: ""
 			</td>
 			<td>
 			<p>Miss Tricia Tork Hui Jia<br>
-			Miss Lee Su Ping&nbsp;</p>
+			Miss Chia Mei Hua Florence&nbsp;</p>
 			</td>
 			<td>
 			<p>3 Charm&nbsp;</p>
@@ -210,7 +211,7 @@ description: ""
 			</td>
 			<td>
 			<p>Miss Chan See Mun Alison<br>
-			Mr Razli Abdol Jalil&nbsp;</p>
+			Miss Chua Lay Pengl&nbsp;</p>
 			</td>
 			<td>
 			<p align="center">&nbsp;</p>
@@ -246,14 +247,14 @@ description: ""
 			</td>
 			<td style="width:60px;">
 			<p>Miss Lim Jingwen<br>
-			Miss V.poongkodi</p>
+			Miss V.Poongkodi</p>
 			</td>
 			<td style="width:60px;">
 			<p>4 Responsibility</p>
 			</td>
 			<td style="width:60px;">
 			<p>Miss Chua Qi Yi<br>
-			Miss Vivan Chiau Siang Chin</p>
+			Miss Monisha Samdas Budhrani</p>
 			</td>
 		</tr>
 		<tr>
@@ -278,7 +279,7 @@ description: ""
 			</td>
 			<td>
 			<p>Miss Lai Yan Ping<br>
-			Miss Lee Sze Ru&nbsp;</p>
+			Miss Toh Puay Joo Peggy&nbsp;</p>
 			</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
@@ -325,7 +326,7 @@ description: ""
 			<p>5 Adaptability</p>
 			</td>
 			<td>
-			<p>Miss Sin Sok Yeng (Sharon Yang)<br>
+			<p>Miss Clara Lim Shu Ying<br>
 			Mrs Ranchisem Sivagnanam&nbsp;</p>
 			</td>
 			<td>
@@ -378,7 +379,7 @@ description: ""
 			<p>6 Graciousness</p>
 			</td>
 			<td style="width:60px;">
-			<p>Mdm Rahimah Bte Madan<br>
+			<p>Miss Rahimah Bte Madan<br>
 			Mr Ravinder Singh Swaran Singh</p>
 			</td>
 			<td style="width:60px;">
@@ -427,30 +428,27 @@ description: ""
 	<tbody>
 		<tr>
 			<td style="width:60px;">
-			<p>Miss Ooi En Ping Charis<br>
-			Mr Lee Kim Fatt<br>
-			Mdm Norliyah Hasan<br>
+			<p>
+						Mdm Norliyah Hasan<br>
 			Mrs Wong-Low Ai Rin<br>
-			Miss Chua Lay Peng<br>
-			Miss Rochelle Sim Hui Yee<br>
-			Miss Leong Meng Har<br>
+			Mdm Leong Meng Har<br>
 			Mdm Jumaliah Ahmad<br>
 			Miss Ong Siew Choon Joanne<br>
-			Miss Goh Soh Ngee<br>
+			Miss Ong Lian Yong Yvonne <br>
+			Miss Shereen Lee Yun Eu <br>
 			Miss Audrey Loke</p>
 			</td>
 			<td style="width:60px;">
-			<p>Miss Chia Mei Hua<br>
-			Miss Monisha Samdas Budhrani<br>
-			Miss Clara Lim Shu Yang<br>
+			<p>
 			Mr Goh Gim Siong<br>
-			Miss Shermin Low Simin<br>
 			Miss Lau Swee Bee Elena<br>
-			Miss Ong Lian Yong (Yvonne)<br>
 			Miss Haymalatha Sithambaram<br>
-			Mdm Murni Osman<br>
-			Mr Kim Kok Cha<br>
-				Miss Hafidah Bte Sulaiman</p>
+			Mr Lim Kok Cha<br>
+			Miss Goh Siew Ling <br>
+			Miss Rini Farhanah <br>
+			Miss Liu Juan <br>
+			Miss Hafidah Bte Sulaiman <br>
+			Miss Sylvia Chua Bee Choo</p>
 			</td>
 		</tr>
 	</tbody>
@@ -680,7 +678,7 @@ description: ""
 		</tr>
 		<tr>
 			<td>
-			<p>Mr V. P. Krishnan&nbsp;</p>
+			<p>Miss Sim Hwee Choo&nbsp;</p>
 			</td>
 			<td>
 			<p>Security Officer&nbsp;&nbsp;</p>
