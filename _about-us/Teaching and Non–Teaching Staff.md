@@ -247,14 +247,14 @@ description: ""
 			</td>
 			<td style="width:60px;">
 			<p>Miss Lim Jingwen<br>
-			Miss V.poongkodi</p>
+			Miss V.Poongkodi</p>
 			</td>
 			<td style="width:60px;">
 			<p>4 Responsibility</p>
 			</td>
 			<td style="width:60px;">
 			<p>Miss Chua Qi Yi<br>
-			Miss Vivan Chiau Siang Chin</p>
+			Miss Monisha Samdas Budhrani</p>
 			</td>
 		</tr>
 		<tr>
@@ -279,7 +279,7 @@ description: ""
 			</td>
 			<td>
 			<p>Miss Lai Yan Ping<br>
-			Miss Lee Sze Ru&nbsp;</p>
+			Miss Toh Puay Joo Peggy&nbsp;</p>
 			</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
@@ -326,7 +326,7 @@ description: ""
 			<p>5 Adaptability</p>
 			</td>
 			<td>
-			<p>Miss Sin Sok Yeng (Sharon Yang)<br>
+			<p>Miss Clara Lim Shu Ying<br>
 			Mrs Ranchisem Sivagnanam&nbsp;</p>
 			</td>
 			<td>
@@ -379,7 +379,7 @@ description: ""
 			<p>6 Graciousness</p>
 			</td>
 			<td style="width:60px;">
-			<p>Mdm Rahimah Bte Madan<br>
+			<p>Miss Rahimah Bte Madan<br>
 			Mr Ravinder Singh Swaran Singh</p>
 			</td>
 			<td style="width:60px;">
@@ -428,30 +428,27 @@ description: ""
 	<tbody>
 		<tr>
 			<td style="width:60px;">
-			<p>Miss Ooi En Ping Charis<br>
-			Mr Lee Kim Fatt<br>
-			Mdm Norliyah Hasan<br>
+			<p>
+						Mdm Norliyah Hasan<br>
 			Mrs Wong-Low Ai Rin<br>
-			Miss Chua Lay Peng<br>
-			Miss Rochelle Sim Hui Yee<br>
-			Miss Leong Meng Har<br>
+			Mdm Leong Meng Har<br>
 			Mdm Jumaliah Ahmad<br>
 			Miss Ong Siew Choon Joanne<br>
-			Miss Goh Soh Ngee<br>
+			Miss Ong Lian Yong Yvonne <br>
+			Miss Shereen Lee Yun Eu <br>
 			Miss Audrey Loke</p>
 			</td>
 			<td style="width:60px;">
-			<p>Miss Chia Mei Hua<br>
-			Miss Monisha Samdas Budhrani<br>
-			Miss Clara Lim Shu Yang<br>
+			<p>
 			Mr Goh Gim Siong<br>
-			Miss Shermin Low Simin<br>
 			Miss Lau Swee Bee Elena<br>
-			Miss Ong Lian Yong (Yvonne)<br>
 			Miss Haymalatha Sithambaram<br>
-			Mdm Murni Osman<br>
-			Mr Kim Kok Cha<br>
-				Miss Hafidah Bte Sulaiman</p>
+			Mr Lim Kok Cha<br>
+			Miss Goh Siew Ling <br>
+			Miss Rini Farhanah <br>
+			Miss Liu Juan <br>
+			Miss Hafidah Bte Sulaiman <br>
+			Miss Sylvia Chua Bee Choo</p>
 			</td>
 		</tr>
 	</tbody>
