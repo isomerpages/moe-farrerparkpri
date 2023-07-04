@@ -179,7 +179,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MISS JOLIE TOH</strong></td>
-			<td style="width:109px;">MISS WU FANG</td>
+			<td style="width:109px;">MISS SHERMIN LOW</td>
 			<td style="width:109px;">MISS AW CAILI</td>
 			<td style="width:109px;">&nbsp;</td>
 			<td style="width:116px;">&nbsp;</td>
