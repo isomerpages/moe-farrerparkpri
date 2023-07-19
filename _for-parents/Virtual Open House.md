@@ -25,4 +25,4 @@ There are 6 sessions in person. For more details, please&nbsp;[click here](https
 
 Follow us on our&nbsp;[Facebook page](https://www.facebook.com/FarrerParkPrimary/)&nbsp;to receive the latest updates!
 <br>
-You can view our school virtual tour with this link, https://3d.vthere.sg/tour/fpps
+Click to view our 360 [Virtual School Tour](https://3d.vthere.sg/tour/fpps). 
