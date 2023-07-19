@@ -20,7 +20,9 @@ An interactive journey for your child to experience a day at FPPS!
 
 A sharing by School Leaders on learning at FPPS.
 
-There are 6 sessions in person. For more details, please&nbsp;[click here](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fptalk&sa=D&sntz=1&usg=AOvVaw23ObVqOlTJ6So3AIM9Db0g)&nbsp;today.  
+There are 6 sessions in person. For more details, please&nbsp;[click here](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fptalk&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw23ObVqOlTJ6So3AIM9Db0g)&nbsp;today.  
    
 
 Follow us on our&nbsp;[Facebook page](https://www.facebook.com/FarrerParkPrimary/)&nbsp;to receive the latest updates!
+<br>
+You can view our school virtual tour with this link, https://3d.vthere.sg/tour/fpps
