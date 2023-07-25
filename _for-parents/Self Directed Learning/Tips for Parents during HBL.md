@@ -1,8 +1,8 @@
 ---
 title: Tips for Parents during HBL
-permalink: /for-parents/Home-Based-Learning/tips/
+permalink: /for-parents/self-directed-learning/tips/
 description: ""
-third_nav_title: Home Based Learning
+third_nav_title: Self Directed Learning
 ---
 ### Tips For Parents During Home-based Learning
  
@@ -20,9 +20,9 @@ You can help your child to carry out the HBL tasks.
 *   Support Social and Emotional Learning and Well-being
 *   Identify Sources of Support
 
-**1.**          **Remain Calm and Confident**
+**1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Remain Calm and Confident**
 
-Children are influenced by how adults around them respond to the current situation.  The best support you can give them is to model calm, confident behaviour. 
+Children are influenced by how adults around them respond to the current situation.&nbsp; The best support you can give them is to&nbsp;model calm, confident behaviour.&nbsp;
 
 *   Model for them precautionary measures like cleaning and disinfecting the home, hand-washing and social distancing.
 *   Assure them that the current situation is not permanent, and home-based learning is one way to ensure that it does not worsen.
@@ -31,7 +31,7 @@ Children are influenced by how adults around them respond to the current situati
   
 Some children may need you to talk to them in a very concrete and explicit way about the current situation, and why schools are closed. Social stories are a good way to do this (see Example A – Social Stories).
 
-**2.**          **Schedule for Success**
+**2.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Schedule for Success**
 
 To create a sense of security for your child, establish a daily and weekly routine that includes activities your child enjoys, and opportunities to interact with their friends online or by telephone.  
  
@@ -46,9 +46,9 @@ To create a sense of security for your child, establish a daily and weekly routi
 
 Provide your child with a space for working. Keep this consistent, so that they become used to working in the same area every day. It is best if this space is within sight of adults, so that there is adequate supervision of your child.
 
-**3.**          **Set and Teach Expectations**
+**3.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Set and Teach Expectations**
 
-Discuss with your child the expectations for different types of activities/time of day.  State expectations positively – what to do, rather than what not to do.  E.g., instead of “don’t play games during study time”, say, “During study time, focus on learning and completing my work”.  State expectations in terms of observable behaviour, so that it can be monitored.  E.g., instead of “Work hard”, say, “Complete the work on time”. 
+Discuss with your child the expectations for different types of activities/time of day.&nbsp;&nbsp;State expectations positively&nbsp;– what to do, rather than what not to do.&nbsp; E.g., instead of “don’t play games during study time”, say, “During study time, focus on learning and completing my work”.&nbsp; State expectations in terms of observable behaviour, so that it can be monitored.&nbsp; E.g., instead of “Work hard”, say, “Complete the work on time”.&nbsp;
 
 For example,
 
@@ -65,18 +65,18 @@ At the beginning, your child may need to practice some of these behaviours befor
   
 In brief, make expectations clear and visible, teach and revisit expectations in a positive tone, and notice when your child meets these expectations. In this way, you will help to create a positive, productive, safe and even enjoyable experience at home!
 
-**4.**          **Use Simple Strategies to Support Your Child at Home**
+**4.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Use Simple Strategies to Support Your Child at Home**
 
 a) Behaviour-specific praise lets your child know exactly what they are doing right. Instead of “Well done”, say, “You made a good choice when you put your mobile phone aside during study time”, or “Thank you for coming back from break on time”.  
 
 b) Offering your child choices helps them take responsibility and ownership, and to become more independent. For example, when setting up the schedule, “Do you want to start the day with Mathematics or History?”, or “Would you prefer to play a board game, take a nap, or go for a walk?” Be sure to honour their choices.  
 c) Providing a reminder of what you expect improves the chances that your child will meet those expectations. E.g., “You have until 1 pm for screen time, then you’ll have to get online to meet with your teacher.” Or “When we get home, the first thing to do is to wash your hands.”  
 
-d) Active supervision: After expectations are taught and well-understood, observe what is happening, and interact with your child. When your child is meeting expectations, provide acknowledgments using behaviour specific praise to let them know what was going well. When they are not meeting expectations, provide private, respectful feedback or redirection (give specific instructions on what to do instead). Active supervision works particularly well when used with reminders. Remind them what you are looking for throughout the day, and then be on the lookout to notice and acknowledge the desired behaviour. If you experience difficulties with your child’s behaviour, try the strategies suggested in Example D.  
+d) Active supervision: After expectations are taught and well-understood, observe what is happening, and interact with your child. When your child is meeting expectations, provide acknowledgments using behaviour specific praise to let them know what was going well. When they are not meeting expectations, provide private, respectful feedback or redirection (give specific instructions on what to do instead). Active supervision works particularly well when used with reminders. Remind them what you are looking for throughout the day, and then be on the lookout to notice and acknowledge the desired behaviour.&nbsp;If you experience difficulties with your child’s behaviour, try the strategies suggested in Example D.&nbsp;&nbsp;
 
-**5.**          **Support Social and Emotional Learning and Well-being**
+**5.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Support Social and Emotional Learning and Well-being**
 
-During this time, take the opportunity to support your child’s social-emotional growth.  Encourage them to take responsibility for their day, and reflect on how they are doing.  To support this, Check-in and Check-out with them each day. 
+During this time, take the opportunity to support your child’s&nbsp;social-emotional growth.&nbsp; Encourage them to take responsibility for their day, and reflect on how they are doing.&nbsp; To support this, Check-in and Check-out with them each day.&nbsp;
 
 _Check-in_: In the morning, ask:
 
@@ -92,17 +92,17 @@ _Check-out_: In the evening, ask:
 *   Consider three things that went well today. Why were they good?
 *   Are you ok? Do you need to ask your teacher for something? Do you need help with something to make tomorrow more successful?
 
-These questions help your child be clear about what is expected for the day, organize themselves and set priorities, and reflect on how well they are doing.  It will also tell you if they require additional support. 
+These questions help your child be clear about what is expected for the day, organize themselves and set priorities, and reflect on how well they are doing.&nbsp; It will also tell you if they require additional support.&nbsp;
 
-For some students, the change to their daily routines, and the reduced contact with friends and familiar adults may cause some distress. 
+For some students, the change to their daily routines, and the reduced contact with friends and familiar adults may cause some distress.&nbsp;
 
-If your child is anxious about the current situation,
+If your child is anxious&nbsp;about the current situation,
 
 *   Validate their feelings and lead them to see what they can do to help themselves. E.g., “I know you are worried/confused. This is new to us, so we will take some time to get used to it. Let’s figure out home-based learning together.” Or “I know you are worried about you or our family getting sick. That’s why it’s important that we keep your hands clean and avoid crowed places, etc.”
 *   Allow them to ask questions: Answer your child with honest, accurate information that is age-appropriate. Help them distinguish between facts and rumours/fake news.
 *   Supervise screen time and access to media reports. Over exposure may lead to increasing anxiety.
 
-If your child is feeling isolated because of a prolonged absence from school,
+If your child is feeling isolated&nbsp;because of a prolonged absence from school,
 
 *   Help them identify ways to connect with their peers and extended family members  
     
@@ -110,31 +110,31 @@ If your child is feeling isolated because of a prolonged absence from school,
     
 *   Spend time with them on their preferred activity  
  
-**6.**           **Identify Sources of Support**
+**6.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Identify Sources of Support**
 
-You are not alone in supporting your child at home.  Your child’s school is ready to provide guidance and assistance, and have provided you with ways to contact relevant school personnel.  Keep these handy and reach out to your child’s school if you need some support. 
+You are not alone in supporting your child at home.&nbsp; Your child’s school is ready to provide guidance and assistance, and have provided you with ways to contact relevant school personnel.&nbsp; Keep these handy and reach out to your child’s school if you need some support.&nbsp;
 
 If other members of your family or a domestic helper will be involved in supervising your child during home-based learning, do share this guide with them.
 
 **Adapted from**
 
-Lane, K. L., Oakes, W. P., Common, E. A., & Buckman, M. M. (2020, March). Setting up for Success at Home: Using Ci3T Structures to Facilitate Positive, Productive, Continuous Learning Opportunities during the COVID-19 Crisis. Ci3T Strategic Leadership Team. Webbased resource available at http.//www.ci3t.org
+Lane, K. L., Oakes, W. P., Common, E. A., &amp; Buckman, M. M. (2020, March). Setting up for Success at Home: Using Ci3T Structures to Facilitate Positive, Productive, Continuous Learning Opportunities during the COVID-19 Crisis. Ci3T Strategic Leadership Team. Webbased resource available at http.//www.ci3t.org
 
-When Kids Are Anxious About Coronavirus: What to Do.  Retrieved 25 Mar 2020
+When Kids Are Anxious About Coronavirus: What to Do.&nbsp; Retrieved 25 Mar 2020
 
 [https://www.understood.org/en/friends-feelings/managing-feelings/stress-anxiety/child-anxious-coronavirus](https://www.understood.org/en/friends-feelings/managing-feelings/stress-anxiety/child-anxious-coronavirus)
 
-Learning From Home. Retrieved 25 Mar 2020 [https://www.education.vic.gov.au/parents/learning/Pages/home-learning.aspx#link24](https://www.education.vic.gov.au/parents/learning/Pages/home-learning.aspx#link24)  
+Learning From Home. Retrieved 25 Mar 2020&nbsp;[https://www.education.vic.gov.au/parents/learning/Pages/home-learning.aspx#link24](https://www.education.vic.gov.au/parents/learning/Pages/home-learning.aspx#link24)  
 [](https://www.education.vic.gov.au/parents/learning/Pages/home-learning.aspx#link24)
 
 #### Example A – Social Stories
 
-Covid-19 - [Click here](/files/my%20story.pdf)
-The need of Home-based Learning - [Click here](/files/covid19%20and%20HBL.pdf)
+Covid-19 -&nbsp;[Click here](/files/my%20story.pdf)
+The need of Home-based Learning -&nbsp;[Click here](/files/covid19%20and%20HBL.pdf)
  
 #### Example B
  
-A Visual Schedule for younger children (From [https://www.schkidules.com/](https://www.schkidules.com/))
+A Visual Schedule for younger children (From&nbsp;[https://www.schkidules.com/](https://www.schkidules.com/))
 
 <img src="/images/ebss1.png" style="width:60%">
 
@@ -145,15 +145,15 @@ A schedule for older children
 #### Example C
 
 Behaviour monitoring charts to ensure your child follows the schedule  
-(From [https://www.printableshelter.com/printable-behaviour-chart-for-behaviour-monitoring/](https://www.printableshelter.com/printable-behaviour-chart-for-behaviour-monitoring/))
+(From&nbsp;[https://www.printableshelter.com/printable-behaviour-chart-for-behaviour-monitoring/](https://www.printableshelter.com/printable-behaviour-chart-for-behaviour-monitoring/))
 
 <img src="/images/ebss3.png" style="width:50%">
 
-Use this example to create a chart together with your child.  Your child puts a tick each time they complete an activity.  You sign off at the end of the day.  Give them verbal praise for what was done, encourage them to do better the next day for what was not done.
+Use this example to create a chart together with your child.&nbsp; Your child puts a tick each time they complete an activity.&nbsp; You sign off at the end of the day.&nbsp; Give them verbal praise for what was done, encourage them to do better the next day for what was not done.
 
 <img src="/images/ebss4.png" style="width:50%">
 
-Together with your child, fill in the expectations/activity in the first column.  Agree on a point system (see below for an example).  Your child fills in the points earned for each activity each day.  If your child earns enough points, they can exchange them for a reward**.  Once points are earned, they cannot be deducted even if your child misbehaves in other ways.  Honour the effort they made to earn those points!** 
+Together with your child, fill in the expectations/activity in the first column.&nbsp; Agree on a point system (see below for an example).&nbsp; Your child fills in the points earned for each activity each day.&nbsp; If your child earns enough points, they can exchange them for a reward**.&nbsp; Once points are earned, they cannot be deducted even if your child misbehaves in other ways.&nbsp; Honour the effort they made to earn those points!**&nbsp;
 
 **Point System**
 
@@ -174,7 +174,7 @@ Together with your child, fill in the expectations/activity in the first column.
 | (Favourite activity during the weekend) | 60 |
 
 **Template A – Weekly Schedule**  
-[Click here](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/HBL/template.docx) to download template  
+[Click here](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/HBL/template.docx)&nbsp;to download template  
 
 Please upload doc file.
   
@@ -195,8 +195,8 @@ For students with challenging behavior, parents may try some of these strategies
 | Inappropriate social behaviour and/or destructive | To focus on behavioural goals first (before the academic lesson) |
 
 #### Useful Links
-1\.  [Resource Kit Part 1(Home-based Learning)](/files/hbl1.pdf) \[31/03/2020\] <br>
-2\.  [Resource Kit Part 2 (Home-based Learning)](/files/hbl2.pdf) \[07/04/2020\] <br>
-3\.  [Resource Kit Part 3 (Home-based Learning)](/files/hbl3.pdf) \[15/04/2020\]<br>
-4\.  [Resource Kit Part 4 (Home-based Learning)](/files/hbl4.pdf)  \[27/04/2020\]<br>
-5\.  [Resource Kit (School Holiday)](/files/hbl5.pdf) \[04/05/2020\]
+1\.  [Resource Kit Part 1(Home-based Learning)](/files/hbl1.pdf)&nbsp;\[31/03/2020\] <br>
+2\.  [Resource Kit Part 2 (Home-based Learning)](/files/hbl2.pdf)&nbsp;\[07/04/2020\] <br>
+3\.  [Resource Kit Part 3 (Home-based Learning)](/files/hbl3.pdf)&nbsp;\[15/04/2020\]<br>
+4\.  [Resource Kit Part 4 (Home-based Learning)](/files/hbl4.pdf)&nbsp; \[27/04/2020\]<br>
+5\.  [Resource Kit (School Holiday)](/files/hbl5.pdf)&nbsp;\[04/05/2020\]

@@ -1,8 +1,8 @@
 ---
 title: Past Home–Based Learning
-permalink: /for-parents/Home-Based-Learning/past-hbl/
+permalink: /for-parents/self-directed-learning/past-hbl/
 description: ""
-third_nav_title: Home Based Learning
+third_nav_title: Self Directed Learning
 ---
 #### Monday 17 October 2022
   
