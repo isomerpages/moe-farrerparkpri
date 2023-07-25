@@ -6,7 +6,7 @@ third_nav_title: Self Directed Learning
 ---
 Dear Parents,  
   
-Please visit this page for Self-Directed Learning activities at Farrer Park Primary School. Home-based Learning (HBL) is not confined to E-learning and may include offline work that involves reading or writing.  
+Please visit this page for Self-Directed Learning (HBL) activities at Farrer Park Primary School. Home-based Learning (HBL) is not confined to E-learning and may include offline work that involves reading or writing.  
   
 #### HBL To Be Announced Soon
 
