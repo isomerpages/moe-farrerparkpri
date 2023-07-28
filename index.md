@@ -15,7 +15,7 @@ sections:
         - title: Achievements
           description: ""
           url: /achievements/year-2023/
-        - title: Open House 2023
+        - title: 2023 Virtual Open House
           description: ""
           url: https://sites.google.com/moe.edu.sg/openhouse2023/home
         - title: School Calendar
