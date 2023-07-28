@@ -15,9 +15,9 @@ sections:
         - title: Achievements
           description: ""
           url: /achievements/year-2023/
-        - title: Distinctive Programme
+        - title: Open House 2023
           description: ""
-          url: /distinctive-programme/overview/
+          url: https://sites.google.com/moe.edu.sg/openhouse2023/home
         - title: School Calendar
           description: ""
           url: /for-parents/school-calendar/
