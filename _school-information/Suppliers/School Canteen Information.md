@@ -20,7 +20,7 @@ third_nav_title: Suppliers
 		</tr>
 		<tr height="35">
 			<td style="height: 35px; text-align: center;" height="35">Chinese Food Stall</td>
-			<td style="text-align: center;">30-June-23</td>
+			<td style="text-align: center;">02 October 2023</td>
 			<td style="text-align: center;">Various Chinese Food</td>
 		</tr>
 	</tbody>
