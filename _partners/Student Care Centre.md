@@ -3,7 +3,7 @@ title: Student Care Centre
 permalink: /partners/student-care-centre/
 description: ""
 ---
-<img src="/images/Partners/CLSH.png" style="width:30%" align="center"/>
+<img src="/images/Partners/CLSH.png" style="width:30%" align="center">
 
 #### About Us 
 
@@ -35,3 +35,11 @@ right attitudes to ingrain a love for learning. We hire coaches with the right p
 heart, and equip them to create amazing classroom experiences for their students
 
 <center><b>We are committed to bringing  out the best in every student</b></center>
+
+#### Contact Operating Hours
+Mondays  to Fridays: 10:00am - 7:00pm <br>
+School Holidays: 7:30am - 7:00pm
+
+#### Contact Details:
+Email: admission_cls_fpps@commitlearning.com.sg <br>
+Contact: +65 8933 0683 (Call/Whatsapp)
