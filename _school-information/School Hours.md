@@ -33,7 +33,7 @@ description: ""
 			<td style="text-align: center;"><strong>Curriculum Time (Primary 1 to Primary 6)</strong></td>
 		</tr>
 		<tr>
-			<td style="text-align: center;">Monday to Friday<br />
+			<td style="text-align: center;">Monday to Friday<br>
 			7.30 a.m. to 1.30 p.m. <strong>​​</strong></td>
 		</tr>
 		<tr>
@@ -62,4 +62,40 @@ description: ""
 
 |  |  |
 |---|---|
-| P3 - P6 | CCAs on Tuesday<br>2.00 p.m. to 3.45 p.m. <br>Additional training may be provided for some CCAs on Fridays between 2.00.p.m and 4.00.p.m. |
+| P3 - P6 | CCAs on Tuesday<br>2.00 p.m. to 3.45 p.m. <br>Additional training may be provided for some CCAs on Fridays between 2.00.p.m and 4.00.p.m. |</center></center>
+
+#### School Gate Operating Hours
+
+<table cellspacing="0" cellpadding="0" border="0">
+	<tbody>
+		<tr>
+			<td style="width:312px;">
+			<p><u><strong>Gates</strong></u></p>
+			</td>
+			<td style="width:312px;">
+			<p><u><strong>Opening times</strong></u></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:312px;">
+			<p>Main gate</p>
+			</td>
+			<td style="width:312px;">
+			<p>6.30 am to 6.00 pm</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:312px;">
+			<p>Gate 4 (Farrer Park Road)</p>
+			</td>
+			<td style="width:312px;" rowspan="2">
+			<p>6.45 to 7.30 am; 1.20 to 2.00 pm</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:312px;">
+			<p>Gate 7 (Gloucester Road)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
