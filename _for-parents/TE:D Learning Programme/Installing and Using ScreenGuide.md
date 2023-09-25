@@ -10,7 +10,8 @@ third_nav_title: TE:D Learning Programme
 #### Step 1.
 
 Download ScreenGuide for your device via the link below.
- 
+<br>For Android or Windows users, please use the following link for ScreenGuide
+ <br> <a href="https://screenguide.mosyle.com/">https://screenguide.mosyle.com/</a>
 |  |  |
 |---|---|
 | <a href="https://apps.apple.com/us/app/screenguide-parental-control/id1114158345"><img style="width:65%" src="/images/usg2.png"></a> |
