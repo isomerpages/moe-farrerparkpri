@@ -13,7 +13,7 @@ Download ScreenGuide for your device via the link below.
  
 |  |  |
 |---|---|
-| <a href="[https://play.google.com/store/apps/details?id=com.mosyle.screenguide](https://play.google.com/store/apps/details?id=com.mosyle.screenguide)"><img style="width:65%" src="/images/usg1.png"></a> | <a href="https://apps.apple.com/us/app/screenguide-parental-control/id1114158345"><img style="width:65%" src="/images/usg2.png"></a> |
+| <a href="https://apps.apple.com/us/app/screenguide-parental-control/id1114158345"><img style="width:65%" src="/images/usg2.png"></a> |
 
 #### Step 2.
 
