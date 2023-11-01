@@ -30,7 +30,13 @@ To submit for LOA please follow this link.
 <input type="checkbox" id="accordion1">  
   
 <label for="accordion1">Primary 1 Matters</label>  
-	<b> Year 2023 </b>
+<b>Year 2024 </b>
+	
+<ul>
+	<li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p1%20booklist.pdf" target="_blank"> 2024 P1 Booklist</a></li>
+</ul>
+
+<b> Year 2023 </b>
 <div>  
   
 <p>
@@ -66,7 +72,11 @@ Click on the link to download information. <br>
 <input type="checkbox" id="accordion2">  
   
 <label for="accordion2">Primary 2 Matters</label>  
-  
+ <b>Year 2024 </b>
+	
+<ul>
+	<li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p2%20booklist.pdf" target="_blank"> 2024 P2 Booklist</a></li>
+</ul>
 <div>  
   
 <p>
