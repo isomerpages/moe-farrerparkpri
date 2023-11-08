@@ -30,28 +30,18 @@ To submit for LOA please follow this link.
   
 <input id="accordion1" type="checkbox">  
   
-<label for="accordion1">Primary 1 Matters</label>  
+<label for="accordion1">**Primary 1 Matters**</label>  
   
 <div>  
- <table border="1">
-	<tbody>
-		<tr>
-			<td>
-			<ul>
-				<li><strong>Booklist</strong></li>
-			</ul>
-			</td>
-			<td>
+		<b> Year 2024 </b><br>
 			<ul>
 				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p1%20booklist.pdf">2024 P1 Booklist</a></li>
 			</ul>
-			</td>
-		</tr>
-	</tbody>
-</table>
+
 
 <p>
-	<b> Information for Parents </b><br><br>
+	<b>Year 2023 </b><br>
+	<b> Information for Parents </b><br>
 </p><ul>
 	<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P1/P1%20Total%20Curriculum%20Briefing_2023.pdf">P1 Parent Engagement Session (P1 Total Curriculum Briefing)</a></li>
 </ul>
@@ -62,13 +52,13 @@ Click on the link to download information. <br>
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m1.pdf" target="_blank">P1 Orientation Handbook (for 2023)</a>	<br>
 * <a href="https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/News%20and%20Information/P1%20Matters/2022%20P1%20Orientation%2019%20October%202022%20Slides.pdf" target="_blank">P1 Orientation Briefing Slides (for 2023) (19 October 2022)</a>	<br> (Re-upload)
 * <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m3.pdf" target="_blank">2023 Booklist</a>	<br>
-*  <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m4.pdf" target="_blank">School Bus Application</a>	<br><br><br>
+*  <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m4.pdf" target="_blank">School Bus Application</a>	<br><br>
 	
-<b> Parents Gateway </b><br><br>	
+<b> Parents Gateway </b><br>
 	
-<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/for-parents/parents-gateway/" target="_blank"><img src="/images/p1m.png" style="width:25%"></a> <br><br>
+<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/for-parents/parents-gateway/" target="_blank"><img src="/images/p1m.png" style="width:25%"></a> <br>
 	
-<b> Parent-Child Activities</b><br><br>	
+<b> Parent-Child Activities</b><br>
 *  <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m5.pdf" target="_blank">Parent Child Activity Booklet Tip 1 to Tip 4</a>	<br> 
 *  <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m6.pdf" target="_blank">Parent Child Activity Booklet Tip 5 to Tip 10</a>	<br> 	
 	
@@ -85,9 +75,9 @@ Click on the link to download information. <br>
 <label for="accordion2">Primary 2 Matters</label>  
   
 <div>  
-  
+<b> Year 2024 </b><br>
 <p>
-<b> Year 2023 </b><br><br>
+<b> Year 2023 </b><br>
 </p><ul>
 	<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P2/P2%20Total%20Curriculum%20Briefing_2023%20.pdf">P2 Parent Engagement Session (P2 Total Curriculum Briefing)</a></li>
 </ul>
