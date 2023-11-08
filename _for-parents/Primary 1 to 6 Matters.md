@@ -33,7 +33,23 @@ To submit for LOA please follow this link.
 <label for="accordion1">Primary 1 Matters</label>  
   
 <div>  
-  
+ <table border="1">
+	<tbody>
+		<tr>
+			<td>
+			<ul>
+				<li><strong>Booklist</strong></li>
+			</ul>
+			</td>
+			<td>
+			<ul>
+				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p1%20booklist.pdf">2024 P1 Booklist</a></li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 <p>
 	<b> Information for Parents </b><br><br>
 </p><ul>
