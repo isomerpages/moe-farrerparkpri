@@ -2,6 +2,7 @@
 title: Primary 1 to 6 Matters
 permalink: /for-parents/News-and-Information/p1-to-p6-matters/
 description: ""
+variant: markdown
 ---
 ### All Student Matters (2023)
 
@@ -24,9 +25,7 @@ To be granted LOA, your child must fulfil the following criteria :
 To submit for LOA please follow this link.  
 [Online Application Form for LOA](https://form.gov.sg/#!/61023b016bd2f30011b37e2a)
 <ul class="jekyllcodex_accordion">  
-  
-<li>  
-  
+
 <input type="checkbox" id="accordion1">  
   
 <label for="accordion1">Primary 1 Matters</label>  
@@ -66,7 +65,7 @@ Click on the link to download information. <br>
   
 </div>  
   
-</li>  
+  
 <li>  
   
 <input type="checkbox" id="accordion2">  
