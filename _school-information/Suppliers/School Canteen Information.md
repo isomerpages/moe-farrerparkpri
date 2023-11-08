@@ -3,6 +3,7 @@ title: School Canteen Information
 permalink: /school-information/suppliers/school-canteen-information/
 description: ""
 third_nav_title: Suppliers
+variant: markdown
 ---
 #### School Canteen Advertisement
 
@@ -20,7 +21,7 @@ third_nav_title: Suppliers
 		</tr>
 		<tr height="35">
 			<td style="height: 35px; text-align: center;" height="35">Chinese Food Stall</td>
-			<td style="text-align: center;">02 October 2023</td>
+			<td style="text-align: center;">30 November 2023</td>
 			<td style="text-align: center;">Various Chinese Food</td>
 		</tr>
 	</tbody>
