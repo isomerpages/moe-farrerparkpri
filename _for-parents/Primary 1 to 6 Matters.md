@@ -75,7 +75,10 @@ Click on the link to download information. <br>
 <label for="accordion2">Primary 2 Matters</label>  
   
 <div>  
-<b> Year 2024 </b><br>
+		<b> Year 2024 </b><br>
+			<ul>
+				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p2%20booklist.pdf">2024 P2 Booklist</a></li>
+			</ul>
 <p>
 <b> Year 2023 </b><br>
 </p><ul>
