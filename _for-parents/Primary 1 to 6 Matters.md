@@ -99,7 +99,10 @@ Click on the link below to download booklist for year 2023 <br>
 <label for="accordion3">Primary 3 Matters</label>  
   
 <div>  
-  
+  		<b> Year 2024 </b><br>
+			<ul>
+				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p3%20booklist.pdf">2024 P3 Booklist</a></li>
+			</ul>
 <p>
 <b> Year 2023 </b><br><br>	
 Click on the link below to download booklist for year 2023 <br>
@@ -124,7 +127,10 @@ Click on the link below to download the briefing slides.	<br>
 <label for="accordion4">Primary 4 Matters</label>  
   
 <div>  
-  
+  		<b> Year 2024 </b><br>
+			<ul>
+				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p4%20booklist.pdf">2024 P4 Booklist</a></li>
+			</ul>
 <p>
 <b> Year 2023 </b><br><br>
 Click on the link below to download booklist for year 2023 <br>
@@ -155,7 +161,11 @@ Click on the link below to download the briefing slides.	<br>
 <label for="accordion5">Primary 5 Matters</label>  
   
 <div>  
-  
+  		<b> Year 2024 </b><br>
+			<ul>
+				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p5%20booklist.pdf">2024 P5 Booklist</a></li>
+								<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p5%20(fdn).pdf">2024 P5 Foundation Booklist</a></li>
+			</ul>
 <p>
 <b> Year 2023 </b><br><br>
 Click on the link below to download booklist for year 2023 <br>
@@ -179,7 +189,11 @@ Click on the link below to download booklist for year 2023 <br>
 <label for="accordion6">Primary 6 Matters</label>  
   
 <div>  
-  
+  		<b> Year 2024 </b><br>
+			<ul>
+				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p6%20booklist.pdf">2024 P6 Booklist</a></li>
+				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p6%20(fdn).pdf">2024 P6 Foundation Booklist</a></li>
+			</ul>
 <p>
 <b> Year 2023 </b><br><br>
 Click on the link below to download booklist for year 2023 <br>
