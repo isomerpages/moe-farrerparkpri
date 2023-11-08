@@ -30,7 +30,7 @@ To submit for LOA please follow this link.
   
 <input id="accordion1" type="checkbox">  
   
-<label for="accordion1">**Primary 1 Matters**</label>  
+<label for="accordion1">Primary 1 Matters</label>  
   
 <div>  
 		<b> Year 2024 </b><br>
