@@ -2,12 +2,13 @@
 title: Primary 1 to 6 Matters
 permalink: /for-parents/News-and-Information/p1-to-p6-matters/
 description: ""
+variant: markdown
 ---
 ### All Student Matters (2023)
 
 Click on the link below to download the group personal accident information sheet for students.
 
-* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/insurance.pdf" target="_blank">Group Personal Accident Information Sheet</a>
+* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/insurance.pdf">Group Personal Accident Information Sheet</a>
 
 #### Leave of Absence (LOA)
  
@@ -27,33 +28,38 @@ To submit for LOA please follow this link.
   
 <li>  
   
-<input type="checkbox" id="accordion1">  
+<input id="accordion1" type="checkbox">  
   
 <label for="accordion1">Primary 1 Matters</label>  
   
 <div>  
-  
+		<b> Year 2024 </b><br>
+			<ul>
+				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p1%20booklist.pdf">2024 P1 Booklist</a></li>
+			</ul>
+
+
 <p>
-	<b> Information for Parents </b><br><br>
+	<b>Year 2023 </b><br>
+	<b> Information for Parents </b><br>
 </p><ul>
-	<li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P1/P1%20Total%20Curriculum%20Briefing_2023.pdf" target="_blank">P1 Parent Engagement Session (P1 Total Curriculum Briefing)</a></li>
+	<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P1/P1%20Total%20Curriculum%20Briefing_2023.pdf">P1 Parent Engagement Session (P1 Total Curriculum Briefing)</a></li>
 </ul>
 
 <br>
 Click on the link to download information. <br>
 	
-* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m1.pdf">P1 Orientation Handbook (for 2023)</a>	<br>
-* <a target="_blank" href="https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/News%20and%20Information/P1%20Matters/2022%20P1%20Orientation%2019%20October%202022%20Slides.pdf">P1 Orientation Briefing Slides (for 2023) (19 October 2022)</a>	<br> (Re-upload)
-* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m3.pdf">2023 Booklist</a>	<br>
-*  <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m4.pdf">School Bus Application</a>	<br><br><br>
+* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m1.pdf" target="_blank">P1 Orientation Handbook (for 2023)</a>	<br>
+* <a href="https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/News%20and%20Information/P1%20Matters/2022%20P1%20Orientation%2019%20October%202022%20Slides.pdf" target="_blank">P1 Orientation Briefing Slides (for 2023) (19 October 2022)</a>	<br> (Re-upload)
+*  <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m4.pdf" target="_blank">School Bus Application</a>	<br><br>
 	
-<b> Parents Gateway </b><br><br>	
+<b> Parents Gateway </b><br>
 	
-<a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/for-parents/parents-gateway/"><img style="width:25%" src="/images/p1m.png"></a> <br><br>
+<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/for-parents/parents-gateway/" target="_blank"><img src="/images/p1m.png" style="width:25%"></a> <br>
 	
-<b> Parent-Child Activities</b><br><br>	
-*  <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m5.pdf">Parent Child Activity Booklet Tip 1 to Tip 4</a>	<br> 
-*  <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m6.pdf">Parent Child Activity Booklet Tip 5 to Tip 10</a>	<br> 	
+<b> Parent-Child Activities</b><br>
+*  <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m5.pdf" target="_blank">Parent Child Activity Booklet Tip 1 to Tip 4</a>	<br> 
+*  <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m6.pdf" target="_blank">Parent Child Activity Booklet Tip 5 to Tip 10</a>	<br> 	
 	
 	
 <p></p>  
@@ -63,20 +69,21 @@ Click on the link to download information. <br>
 </li>  
 <li>  
   
-<input type="checkbox" id="accordion2">  
+<input id="accordion2" type="checkbox">  
   
 <label for="accordion2">Primary 2 Matters</label>  
   
 <div>  
-  
+		<b> Year 2024 </b><br>
+			<ul>
+				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p2%20booklist.pdf">2024 P2 Booklist</a></li>
+			</ul>
 <p>
-<b> Year 2023 </b><br><br>
+<b> Year 2023 </b><br>
 </p><ul>
-	<li><a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P2/P2%20Total%20Curriculum%20Briefing_2023%20.pdf" target="_blank">P2 Parent Engagement Session (P2 Total Curriculum Briefing)</a></li>
+	<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P2/P2%20Total%20Curriculum%20Briefing_2023%20.pdf">P2 Parent Engagement Session (P2 Total Curriculum Briefing)</a></li>
 </ul>
-Click on the link below to download booklist for year 2023 <br>
-* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p2m.pdf">P2 BOOKLIST.pdf</a>	
-<p></p>  
+  
   
 </div>  
   
@@ -84,21 +91,21 @@ Click on the link below to download booklist for year 2023 <br>
   
 <li>  
   
-<input type="checkbox" id="accordion3">  
+<input id="accordion3" type="checkbox">  
   
 <label for="accordion3">Primary 3 Matters</label>  
   
 <div>  
-  
+  		<b> Year 2024 </b><br>
+			<ul>
+				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p3%20booklist.pdf">2024 P3 Booklist</a></li>
+			</ul>
 <p>
-<b> Year 2023 </b><br><br>	
-Click on the link below to download booklist for year 2023 <br>
-* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p3m.pdf">P3 BOOKLIST.pdf</a>	
-<br><br>
+<b> Year 2023 </b><br>
 	
 <b>P3 Engagement Session 2023</b><br>
 Click on the link below to download the briefing slides.	<br>
-* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P3/p3%20and%204%20pes%202023.pdf">Primary 3 PES Slides</a>		
+* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P3/p3%20and%204%20pes%202023.pdf" target="_blank">Primary 3 PES Slides</a>		
 <br>
   
 </p>  
@@ -109,27 +116,28 @@ Click on the link below to download the briefing slides.	<br>
   
 <li>  
   
-<input type="checkbox" id="accordion4">  
+<input id="accordion4" type="checkbox">  
   
 <label for="accordion4">Primary 4 Matters</label>  
   
 <div>  
-  
+  		<b> Year 2024 </b><br>
+			<ul>
+				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p4%20booklist.pdf">2024 P4 Booklist</a></li>
+			</ul>
 <p>
-<b> Year 2023 </b><br><br>
-Click on the link below to download booklist for year 2023 <br>
-* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p4m1.pdf">P4 BOOKLIST.pdf</a>		<br><br>
+<b> Year 2023 </b><br>
 	
 <b> Primary 4 Subject-Based Banding 2022 </b><br>
 Our P4 Conversation with Parents Session was conducted on 25 March 2022 for Primary 4 parents.  <br>
 
 You may refer to the link below to view the Primary 4 Subject-Based Banding slides.	<br>
-* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p4m2.pdf">Primary 4 Subject-Based Banding Briefing.pdf</a>		
+* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p4m2.pdf" target="_blank">Primary 4 Subject-Based Banding Briefing.pdf</a>		
 <br><br>
 	
 <b>P4 Engagement Session 2023</b><br>
 Click on the link below to download the briefing slides.	<br>
-* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P3/p3%20and%204%20pes%202023.pdf">Primary 4 PES Slides</a>		
+* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P3/p3%20and%204%20pes%202023.pdf" target="_blank">Primary 4 PES Slides</a>		
 <br>
 	
 </p>  
@@ -140,22 +148,23 @@ Click on the link below to download the briefing slides.	<br>
 	
 <li>  
   
-<input type="checkbox" id="accordion5">  
+<input id="accordion5" type="checkbox">  
   
 <label for="accordion5">Primary 5 Matters</label>  
   
 <div>  
-  
+  		<b> Year 2024 </b><br>
+			<ul>
+				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p5%20booklist.pdf">2024 P5 Booklist</a></li>
+								<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p5%20(fdn).pdf">2024 P5 Foundation Booklist</a></li>
+			</ul>
 <p>
-<b> Year 2023 </b><br><br>
-Click on the link below to download booklist for year 2023 <br>
-* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p5m1.pdf">P5 FDN.pdf</a>		<br>
-* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p5m2.pdf">P5 BOOKLIST.pdf</a>		<br><br>	
+<b> Year 2023 </b><br>
 
 <b> Primary 5 Parent-Teacher Bonding Session </b><br>
 	Please refer to the link below to download the briefing slides.	<br>
-		* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes.pdf">P5 PES Briefing Slides.pdf</a>		<br>
-	*<a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes%20examples.pdf">P5 PES Examples Slides.pdf</a>		<br>
+		* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes.pdf" target="_blank">P5 PES Briefing Slides.pdf</a>		<br>
+	*<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes%20examples.pdf" target="_blank">P5 PES Examples Slides.pdf</a>		<br>
 </p>  
   
 </div>  
@@ -164,23 +173,23 @@ Click on the link below to download booklist for year 2023 <br>
 	
 <li>  
   
-<input type="checkbox" id="accordion6">  
+<input id="accordion6" type="checkbox">  
   
 <label for="accordion6">Primary 6 Matters</label>  
   
 <div>  
-  
+  		<b> Year 2024 </b><br>
+			<ul>
+				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p6%20booklist.pdf">2024 P6 Booklist</a></li>
+				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p6%20(fdn).pdf">2024 P6 Foundation Booklist</a></li>
+			</ul>
 <p>
-<b> Year 2023 </b><br><br>
-Click on the link below to download booklist for year 2023 <br>
-
-*  <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p6m1.pdf">P6 FDN.pdf</a>		<br>
-* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p6m2.pdf">P6 BOOKLIST.pdf</a>		<br><br>	 
+<b> Year 2023 </b><br> 
 	
 <b>P6 Parent-Teacher Bonding Session</b><br>
 Click the link below to download the briefing slides.<br>
-	* <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes.pdf">P6 PES Briefing Slides.pdf</a>		<br>
-		*<a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes%20examples.pdf">P6 PES Examples Slides.pdf</a>		<br>
+	* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes.pdf" target="_blank">P6 PES Briefing Slides.pdf</a>		<br>
+		*<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes%20examples.pdf" target="_blank">P6 PES Examples Slides.pdf</a>		<br>
 	
 </p>  
   
