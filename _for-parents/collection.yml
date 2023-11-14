@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Prize Giving Day 2023.md
       - Letters & Notifications.md
       - Primary 1 to 6 Matters.md
       - Assessment Matters.md
@@ -14,6 +13,7 @@ collections:
         new user).md
       - Student Learning Space/SLS Helpdesk.md
       - Parents Gateway.md
+      - Prize Giving Day 2023.md
       - Sexuality Education Programme 2023.md
       - Self Directed Learning (HBL)/.keep
       - Self Directed Learning (HBL)/Overview.md
