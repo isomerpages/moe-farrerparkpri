@@ -36,22 +36,11 @@ To submit for LOA please follow this link.
 		<b> Year 2024 </b><br>
 			<ul>
 				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p1%20booklist.pdf">2024 P1 Booklist</a></li>
+				<li> <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/P1%20%20%20P6%20Matters/p1202401.pdf">P1 Orientation Slides Part 1</a></li>
+				<li> <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/P1%20%20%20P6%20Matters/p12024.pdf">P1 Orientation Slides Part 2</a></li>
 			</ul>
 
 
-<p>
-	<b>Year 2023 </b><br>
-	<b> Information for Parents </b><br>
-</p><ul>
-	<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P1/P1%20Total%20Curriculum%20Briefing_2023.pdf">P1 Parent Engagement Session (P1 Total Curriculum Briefing)</a></li>
-</ul>
-
-<br>
-Click on the link to download information. <br>
-	
-* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m1.pdf" target="_blank">P1 Orientation Handbook (for 2023)</a>	<br>
-* <a href="https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/News%20and%20Information/P1%20Matters/2022%20P1%20Orientation%2019%20October%202022%20Slides.pdf" target="_blank">P1 Orientation Briefing Slides (for 2023) (19 October 2022)</a>	<br> (Re-upload)
-*  <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/p1m4.pdf" target="_blank">School Bus Application</a>	<br><br>
 	
 <b> Parents Gateway </b><br>
 	
