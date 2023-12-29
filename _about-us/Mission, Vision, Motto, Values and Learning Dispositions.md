@@ -2,6 +2,7 @@
 title: Mission, Vision, Motto, Values and Learning Dispositions
 permalink: /about-us/mission-vision-motto-values-learning-dispositions/
 description: ""
+variant: markdown
 ---
 ### MISSION
 
@@ -21,19 +22,12 @@ _A caring leader who is able to listen, empathise, serve_
 **Challenge the Limits**
 
 ### VALUES
-#### GRAIN
+#### CCE
 
-<b>G</b>raciousness<br>
-Be Courteous and Considerate
+##### <b>C</b>uriosity
+#####  **C**are
+#####  **E**mpathy
 
-**R**esponsibility<br>
-Be Responsible to Self, Family and Nation
-
-**A**daptability<br>
-Be Creative, Innovative and Resilient
-
-**IN**tegrity<br>
-Be Honest and Committed in Words and Deeds
 
 ### LEARNING DISPOSITIONS
 #### CHARM
@@ -41,7 +35,7 @@ Be Honest and Committed in Words and Deeds
 **C**uriosity<br>
 Be interested to learn
 
-**H**umility<Br>
+**H**umility<br>
 Be open-minded
 
 **A**daptability<br>
