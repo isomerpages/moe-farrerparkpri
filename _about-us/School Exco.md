@@ -2,6 +2,7 @@
 title: School Exco
 permalink: /about-us/exco/
 description: ""
+variant: markdown
 ---
 ### School Executive Committee
 
