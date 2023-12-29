@@ -2,10 +2,11 @@
 title: Teaching and Non–Teaching Staff
 permalink: /about-us/teaching-and-non-teaching-staff/
 description: ""
+variant: markdown
 ---
-#### Primary 1
+ #### Primary 1
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:759px;" width="759">
+<table width="759" style="width:759px;" cellspacing="0" cellpadding="0" border="1">
 	<tbody>
 		<tr>
 			<td style="width:130px;">
@@ -26,15 +27,15 @@ description: ""
 			<p>1 Graciousness</p>
 			</td>
 			<td style="width:60px;">
-			<p>Mrs Panner Selvam (Vignesh)<br>
-			Miss Chen Hui Fang</p>
+			<p>Mr Alex Lee Aik Huang<br>
+			Ms&nbsp;Liu Juan</p>
 			</td>
 			<td style="width:60px;">
 			<p>1 Responsibility</p>
 			</td>
 			<td style="width:60px;">
-			<p>Miss Lim Jen Yan<br>
-			Miss Aw Caili</p>
+			<p>Ms&nbsp;Monisha Samdas Budhrani<br>
+			Ms&nbsp;Lai Yan Ping</p>
 			</td>
 		</tr>
 		<tr>
@@ -42,15 +43,15 @@ description: ""
 			<p>1 Adaptability</p>
 			</td>
 			<td>
-			<p>Miss Lim Sheng Yong Joyce<br>
-			Miss Chin Kar Yin Karen&nbsp;</p>
+			<p>Ms&nbsp;Anny Tan<br>
+			Ms&nbsp;Lee Hwee Lin (Yvonne)</p>
 			</td>
 			<td>
 			<p>1 Integrity&nbsp;</p>
 			</td>
 			<td>
-			<p>Miss New Jia Rui Stephanie<br>
-			Mdm Harlina Bte Hussain&nbsp;</p>
+			<p>Ms&nbsp;Rochelle Sim Hui Yee<br>
+			Ms&nbsp;Low Xindi&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -58,15 +59,15 @@ description: ""
 			<p>1 Ready</p>
 			</td>
 			<td>
-			<p>Miss Sharonjit Kaur<br>
-			Miss Zhang Chenyang&nbsp;</p>
+			<p>Ms&nbsp;Candy Chua Lai Peng<br>
+			Mdm V.Poongkodi (Mrs Mani)</p>
 			</td>
 			<td>
 			<p>1 Charm&nbsp;</p>
 			</td>
 			<td>
-			<p>Miss Tan Jac See<br>
-			Miss Tan Geok Mei&nbsp;</p>
+			<p>Ms&nbsp;Chin Kar Yin Karen<br>
+			Ms&nbsp;Hon Mui Yong</p>
 			</td>
 		</tr>
 	</tbody>
@@ -74,7 +75,7 @@ description: ""
 
 #### Primary 2
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:757px;" width="757">
+<table width="757" style="width:757px;" cellspacing="0" cellpadding="0" border="1">
 	<tbody>
 		<tr>
 			<td style="width:145px;">
@@ -95,15 +96,15 @@ description: ""
 			<p>2 Graciousness</p>
 			</td>
 			<td style="width:60px;">
-			<p>Miss Jolie Toh Puay Xuan<br>
-			Miss Baidah Bte Ahmad</p>
+			<p>Ms&nbsp;Panneer Selvam (Vignesh)<br>
+			Ms&nbsp;Chen Huifang</p>
 			</td>
 			<td style="width:60px;">
 			<p>2 Responsibility</p>
 			</td>
 			<td style="width:60px;">
-			<p>Mr Alex Lee Aik Huang<br>
-			Miss Sandhiya Annandan</p>
+			<p>Ms&nbsp;Lim Jen Yan<br>
+			Ms&nbsp;Aw Caili</p>
 			</td>
 		</tr>
 		<tr>
@@ -111,15 +112,15 @@ description: ""
 			<p>2 Adaptability</p>
 			</td>
 			<td>
-			<p>Miss Yvonne Lee Hwee Ling<br>
-			Miss Shermin Low Simin&nbsp;</p>
+			<p>Ms&nbsp;Lim Sheng Yong Joyce<br>
+			Miss Ong Siew Choon Joanne</p>
 			</td>
 			<td>
 			<p>2 Integrity&nbsp;</p>
 			</td>
 			<td>
-			<p>Miss Rochelle Sim Hui Yee<br>
-			Miss Fok Ruiwen Jeryn&nbsp;</p>
+			<p>Ms&nbsp;New Jia Rui Stephanie<br>
+			Ms&nbsp;Harlina Bte Hussain</p>
 			</td>
 		</tr>
 		<tr>
@@ -127,21 +128,23 @@ description: ""
 			<p>2 Charm</p>
 			</td>
 			<td>
-			<p>Miss Chua Miang Joo<br>
-			Miss Hon Mui Yong&nbsp;</p>
+			<p>Ms&nbsp;Baidah bte Ahmad<br>
+			Ms&nbsp;Tan Geok Mei</p>
 			</td>
 			<td>
 			<p>2 Ready&nbsp;</p>
 			</td>
-			<td><p>Miss Goh Siang Lu Serene<br>
-				Mr Chu Luo Jun&nbsp;</p></td>
+			<td>
+			<p>Ms&nbsp;Sharonjit Kaur<br>
+			Ms&nbsp;Zhang Chenyang</p>
+			</td>
 		</tr>
 	</tbody>
 </table>
 
 #### Primary 3
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:757px;" width="757">
+<table width="757" style="width:757px;" cellspacing="0" cellpadding="0" border="1">
 	<tbody>
 		<tr>
 			<td style="width:145px;">
@@ -162,15 +165,15 @@ description: ""
 			<p>3 Graciousness</p>
 			</td>
 			<td style="width:60px;">
-			<p>Mr Lee Kim Fatt<br>
-			Miss Kok Xinyi Kerin</p>
+			<p>Ms&nbsp;Chua Miang Joo<br>
+			Mr&nbsp;Chu Luo Jun</p>
 			</td>
 			<td style="width:60px;">
 			<p>3 Responsibility</p>
 			</td>
 			<td style="width:60px;">
-			<p>Miss Jennifer Ng Siow Yan<br>
-			Mrs Anny Tan</p>
+			<p>Ms&nbsp;Chua Qi Yi<br>
+			Ms&nbsp;Toh Puay Joo Peggy</p>
 			</td>
 		</tr>
 		<tr>
@@ -178,15 +181,15 @@ description: ""
 			<p>3 Adaptability</p>
 			</td>
 			<td>
-			<p>Miss Ooi En Ping Charis<br>
-			Miss Low Xindi&nbsp;</p>
+			<p>Ms&nbsp;Fok Ruiwen Jeryn<br>
+			Ms&nbsp;Tan Lay Hwa</p>
 			</td>
 			<td>
 			<p>3 Integrity&nbsp;</p>
 			</td>
 			<td>
-			<p>Miss Teng Poh Yin Julia <br>
-		Mr Max Angelo Vijaya&nbsp;</p>
+			<p>Ms&nbsp;Vanessa Oh Kaiwen<br>
+			Mr&nbsp;Mohamed Azrai</p>
 			</td>
 		</tr>
 		<tr>
@@ -194,30 +197,14 @@ description: ""
 			<p>3 Ready</p>
 			</td>
 			<td>
-			<p>Miss Tricia Tork Hui Jia<br>
-			Miss Chia Mei Hua Florence&nbsp;</p>
+			<p>Ms&nbsp;Leong Hiew Ping<br>
+			Ms&nbsp;Jolie Toh Puay Xuan</p>
 			</td>
 			<td>
-			<p>3 Charm&nbsp;</p>
+			<p>&nbsp;</p>
 			</td>
 			<td>
-			<p>Mdm Nur Azizah Abdul Rahman<br>
-			Miss Kan Yue Lian&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>3 Curosity&nbsp;</p>
-			</td>
-			<td>
-			<p>Miss Chan See Mun Alison<br>
-			Miss Chua Lay Pengl&nbsp;</p>
-			</td>
-			<td>
-			<p align="center">&nbsp;</p>
-			</td>
-			<td>
-			<p align="center">&nbsp;</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
@@ -225,7 +212,7 @@ description: ""
 
 #### Primary 4
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:757px;" width="757">
+<table width="757" style="width:757px;" cellspacing="0" cellpadding="0" border="1">
 	<tbody>
 		<tr>
 			<td style="width:145px;">
@@ -246,15 +233,15 @@ description: ""
 			<p>4 Graciousness</p>
 			</td>
 			<td style="width:60px;">
-			<p>Miss Lim Jingwen<br>
-			Miss V.Poongkodi</p>
+			<p>Ms&nbsp;Lim Jingwen (Nicole)<br>
+			Mr&nbsp;Lee Kim Fatt</p>
 			</td>
 			<td style="width:60px;">
 			<p>4 Responsibility</p>
 			</td>
 			<td style="width:60px;">
-			<p>Miss Chua Qi Yi<br>
-			Miss Monisha Samdas Budhrani</p>
+			<p>Ms&nbsp;Jennifer Ng Siow Yan<br>
+			Ms&nbsp;Nur Afiqah bte Hassan</p>
 			</td>
 		</tr>
 		<tr>
@@ -262,15 +249,15 @@ description: ""
 			<p>4 Adaptability</p>
 			</td>
 			<td>
-			<p>Miss Leong Hiew Ping<br>
-			Mr Amos Kow Yuan Hong</p>
+			<p>Ms&nbsp;Ooi En Ping Charis<br>
+			Ms&nbsp;Chia Mei Hua (Florence)</p>
 			</td>
 			<td>
 			<p>4 Integrity&nbsp;</p>
 			</td>
 			<td>
-			<p>Miss Jhan Ling-Siou<br>
-			Miss Tan Lay Hwa&nbsp;</p>
+			<p>Ms&nbsp;Teng Poh Yin Julia<br>
+			Ms&nbsp;Max Angelo Vijaya</p>
 			</td>
 		</tr>
 		<tr>
@@ -278,18 +265,50 @@ description: ""
 			<p>4 Ready</p>
 			</td>
 			<td>
-			<p>Miss Lai Yan Ping<br>
-			Miss Toh Puay Joo Peggy&nbsp;</p>
+			<p>Ms&nbsp;Tricia Tork Hui Jia<br>
+			Ms&nbsp;Sandhiya Annandan</p>
+			</td>
+			<td>4 Charm</td>
+			<td>
+			<p>Ms&nbsp;Nur Azizah Abdul Rahman<br>
+			Mr&nbsp;Goh Kok Kwang Harrison</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>4 Adaptability</p>
+			</td>
+			<td>
+			<p>Ms&nbsp;Ooi En Ping Charis<br>
+			Ms&nbsp;Chia Mei Hua (Florence)</p>
+			</td>
+			<td>
+			<p>4 Integrity&nbsp;</p>
+			</td>
+			<td>
+			<p>Ms&nbsp;Teng Poh Yin Julia<br>
+			Ms&nbsp;Max Angelo Vijaya</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>4 Curiousity</p>
+			</td>
+			<td>
+			<p>Ms&nbsp;Chua Lay Peng<br>
+			Ms&nbsp;Rahimah Bte Madan</p>
 			</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
 		</tr>
 	</tbody>
 </table>
 
 #### Primary 5
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:789px;" width="789">
+<table width="789" style="width:789px;" cellspacing="0" cellpadding="0" border="1">
 	<tbody>
 		<tr>
 			<td style="width:143px;">
@@ -310,15 +329,15 @@ description: ""
 			<p>5 Graciousness</p>
 			</td>
 			<td style="width:60px;">
-			<p>Miss Elizabeth Lee Ming Chen<br>
-			Miss Yeo Yan Fang Jeolinita</p>
+			<p>Ms&nbsp;Hena Suhail<br>
+			Ms&nbsp;Leong Winnie</p>
 			</td>
 			<td style="width:60px;">
 			<p>5 Responsibility</p>
 			</td>
 			<td style="width:60px;">
-			<p>Miss Gomez Frances Lorraine<br>
-			Miss Cherandy Lim Sujun</p>
+			<p>Ms&nbsp;Clara Lim Shu Ying<br>
+			Ms&nbsp;Vellaisamy Indrani</p>
 			</td>
 		</tr>
 		<tr>
@@ -326,15 +345,15 @@ description: ""
 			<p>5 Adaptability</p>
 			</td>
 			<td>
-			<p>Miss Clara Lim Shu Ying<br>
-			Mrs Ranchisem Sivagnanam&nbsp;</p>
+			<p>Ms&nbsp;Ang Siam Gek Evelyn<br>
+			Ms&nbsp;Nurliza Sawi</p>
 			</td>
 			<td>
 			<p>5 Integrity&nbsp;</p>
 			</td>
 			<td>
-			<p>Miss Elaine Choo Yin Lin<br>
-			Mr Abdul Kadir K Hussan&nbsp;</p>
+			<p>Ms&nbsp;Norimah Kamari<br>
+			Ms&nbsp;Jhan Ling-Siou</p>
 			</td>
 		</tr>
 		<tr>
@@ -342,15 +361,14 @@ description: ""
 			<p>5 Ready</p>
 			</td>
 			<td>
-			<p>Miss Wu Huishan<br>
-			Mrs Thamzhai Salvai Ravichanthira&nbsp;</p>
+			<p>Ms&nbsp;Goh Siang Lu Serene<br>
+			Ms&nbsp;Nithya Nagaratnam</p>
 			</td>
 			<td>
-			<p>5 Charm&nbsp;</p>
+			<p>&nbsp;</p>
 			</td>
 			<td>
-			<p>Miss Nur Afiqah Bte Hasan<br>
-			Miss Chew Yuet Tze Eunice</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
@@ -358,7 +376,7 @@ description: ""
 
 #### Primary 6
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:789px;" width="789">
+<table width="789" style="width:789px;" cellspacing="0" cellpadding="0" border="1">
 	<tbody>
 		<tr>
 			<td style="width:143px;">
@@ -379,15 +397,15 @@ description: ""
 			<p>6 Graciousness</p>
 			</td>
 			<td style="width:60px;">
-			<p>Miss Rahimah Bte Madan<br>
-			Mr Ravinder Singh Swaran Singh</p>
+			<p>Ms&nbsp;Elizabeth Lee Ming Chen<br>
+			Ms&nbsp;Yeo Yan Fang Jeolinita</p>
 			</td>
 			<td style="width:60px;">
 			<p>6 Responsibility</p>
 			</td>
 			<td style="width:60px;">
-			<p>Miss Vanessa Oh Kaiwen<br>
-			Miss Vellaisamy Indrani</p>
+			<p>Ms&nbsp;Gomez Frances Lorraine<br>
+			Ms&nbsp;Cherandy Lim Sujun</p>
 			</td>
 		</tr>
 		<tr>
@@ -395,15 +413,15 @@ description: ""
 			<p>6 Adaptability</p>
 			</td>
 			<td>
-			<p>Miss Candy Chua Lai Peng<br>
-			Miss Ang Siam Gek Evelyn&nbsp;</p>
+			<p>Ms&nbsp;Ranchisem Sivagnanam<br>
+			Ms&nbsp;Chua Suat Hong (Jackie)</p>
 			</td>
 			<td>
 			<p>6 Integrity&nbsp;</p>
 			</td>
 			<td>
-			<p>Miss Chua Suat Hong<br>
-			Miss Nithya Nagaratnam&nbsp;</p>
+			<p>Ms&nbsp;Elaine Choo Yin Lin<br>
+			Mr&nbsp;Abdul Kadir K Hussan</p>
 			</td>
 		</tr>
 		<tr>
@@ -411,44 +429,43 @@ description: ""
 			<p>6 Ready</p>
 			</td>
 			<td>
-			<p>Mr Goh Kok Kwang Harrison<br>
-			Miss Hena Suhail&nbsp;</p>
+			<p>Ms&nbsp;Thamzhai Salvai Ravichanthira<br>
+			Ms&nbsp;Wu Huishan</p>
 			</td>
 			<td>
-			<p>&nbsp;</p>
+			<p>6 Charm</p>
 			</td>
-			<td>&nbsp;</td>
+			<td>Ms&nbsp;Chew Yuet Tze Eunice<br>
+			Mr&nbsp;Ravinder Singh Swaran Singh</td>
 		</tr>
 	</tbody>
 </table>
 
 #### Other Teaching Staff
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:789px;" width="789">
+<table width="789" style="width:789px;" cellspacing="0" cellpadding="0" border="1">
 	<tbody>
 		<tr>
 			<td style="width:60px;">
-			<p>
-						Mdm Norliyah Hasan<br>
-			Mrs Wong-Low Ai Rin<br>
-			Mdm Leong Meng Har<br>
-			Mdm Jumaliah Ahmad<br>
-			Miss Ong Siew Choon Joanne<br>
-			Miss Ong Lian Yong Yvonne <br>
-			Miss Shereen Lee Yun Eu <br>
-			Miss Audrey Loke</p>
+			<p>Ms&nbsp;Norliyah Hasan<br>
+			Ms&nbsp;Wong-Low Ai Rin<br>
+			Ms&nbsp;Goh Siew Ling<br>
+			Ms&nbsp;Tan Jac See<br>
+			Ms&nbsp;Kan Yue Lian<br>
+			Ms&nbsp;Lau Swee Bee Elena&nbsp;<br>
+			Ms&nbsp;Haymalatha Sithambaram<br>
+			Mr&nbsp;Goh Gim Siong</p>
 			</td>
 			<td style="width:60px;">
-			<p>
-			Mr Goh Gim Siong<br>
-			Miss Lau Swee Bee Elena<br>
-			Miss Haymalatha Sithambaram<br>
-			Mr Lim Kok Cha<br>
-			Miss Goh Siew Ling <br>
-			Miss Rini Farhanah <br>
-			Miss Liu Juan <br>
-			Miss Hafidah Bte Sulaiman <br>
-			Miss Sylvia Chua Bee Choo</p>
+			<p>Ms&nbsp;Rini Farhanah<br>
+			Ms&nbsp;Josephine Leong Yuehua<br>
+			Ms&nbsp;Ong Lian Yong Yvonne<br>
+			Ms Paula Png Que Hi<br>
+			Ms&nbsp;Susan<br>
+			Ms&nbsp;Song Nanette III<br>
+			Mdm&nbsp;Leong Meng Har<br>
+			Ms&nbsp;Sylvia Chua Bee Choo<br>
+			Mr&nbsp;Lim Kok Cha</p>
 			</td>
 		</tr>
 	</tbody>
@@ -456,7 +473,7 @@ description: ""
 
 #### Allied Educators
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:789px;" width="789">
+<table width="789" style="width:789px;" cellspacing="0" cellpadding="0" border="1">
 	<tbody>
 		<tr>
 			<td style="width:143px;">
@@ -465,10 +482,9 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:60px;">
-			<p>Miss Lim Jing Xuan<br>
-			Miss Lee Yan Yi<br>
-			Miss Nor Marziana Jumati<br>
-			Miss Tan Hooi Wan</p>
+			<p>Ms&nbsp;Lim Jing Xuan<br>
+			Ms&nbsp;Lee Yan Yi<br>
+			Ms&nbsp;Nor Marziana Jumati</p>
 			</td>
 		</tr>
 		<tr>
@@ -478,9 +494,8 @@ description: ""
 		</tr>
 		<tr>
 			<td>
-			<p>Miss Song Nanette III<br>
-			Miss Norashida Redwan<br>
-			Miss Phang Mun Ling Grace</p>
+			<p>Ms&nbsp;Norashida Redwan<br>
+			Ms&nbsp;Phang Mun Ling Grace</p>
 			</td>
 		</tr>
 		<tr>
@@ -490,7 +505,7 @@ description: ""
 		</tr>
 		<tr>
 			<td>
-			<p>Miss Lim Shini&nbsp;</p>
+			<p>Ms&nbsp;Lim Shini&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
@@ -498,7 +513,7 @@ description: ""
 
 #### Non-Teaching Staff
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:687px;" width="687">
+<table width="687" style="width:687px;" cellspacing="0" cellpadding="0" border="1">
 	<tbody>
 		<tr>
 			<td style="width:322px;">
@@ -510,7 +525,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="width:60px;">
-			<p>Miss Lim Siew Lian</p>
+			<p>Ms&nbsp;Lim Siew Lian</p>
 			</td>
 			<td style="width:60px;">
 			<p>Admin Manager</p>
@@ -542,7 +557,7 @@ description: ""
 		</tr>
 		<tr>
 			<td>
-			<p>Miss Tan Yee Siah</p>
+			<p>Ms&nbsp;Tan Yee Siah</p>
 			</td>
 			<td style="width:60px;">
 			<p>Admin Executive</p>
@@ -550,7 +565,7 @@ description: ""
 		</tr>
 		<tr>
 			<td>
-			<p>Miss Nur Adlina Binte Abdul Hamid&nbsp;</p>
+			<p>Ms&nbsp;Nur Adlina Binte Abdul Hamid&nbsp;</p>
 			</td>
 			<td>
 			<p>Admin Executive</p>
@@ -566,7 +581,7 @@ description: ""
 		</tr>
 		<tr>
 			<td>
-			<p>Miss Boo Suat Yen (Wendy)</p>
+			<p>Ms&nbsp;Boo Suat Yen (Wendy)</p>
 			</td>
 			<td>
 			<p>Corporate Support Officer&nbsp;</p>
@@ -590,22 +605,6 @@ description: ""
 		</tr>
 		<tr>
 			<td>
-			<p>Mdm Rajasulosanah D/O Govindasamy&nbsp;</p>
-			</td>
-			<td>
-			<p>Operations Support Officer&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>Mr Chan Mun Hung&nbsp;</p>
-			</td>
-			<td>
-			<p>Operations Support Officer&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
 			<p>Mdm Sumathi D/O Thamugham&nbsp;</p>
 			</td>
 			<td>
@@ -622,7 +621,7 @@ description: ""
 		</tr>
 		<tr>
 			<td>
-			<p>Mdm Wong Siew Gan</p>
+			<p>Mdm Wong Siew Gan (Annie)</p>
 			</td>
 			<td>
 			<p>Operations Support Officer&nbsp;</p>
@@ -638,15 +637,7 @@ description: ""
 		</tr>
 		<tr>
 			<td>
-			<p>Miss Yvonne Goh Si Jie&nbsp;</p>
-			</td>
-			<td>
-			<p>Desktop Engineer&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>Mr Ng Wei Tat&nbsp;</p>
+			<p>Mr Kenneth Foo</p>
 			</td>
 			<td>
 			<p>Desktop Engineer&nbsp;&nbsp;</p>
@@ -654,7 +645,7 @@ description: ""
 		</tr>
 		<tr>
 			<td>
-			<p>Miss Zaharatul Akmam Jaafar&nbsp;</p>
+			<p>Ms&nbsp;Zaharatul Akmam Jaafar&nbsp;</p>
 			</td>
 			<td>
 			<p>Library Assistance&nbsp;</p>
@@ -678,7 +669,7 @@ description: ""
 		</tr>
 		<tr>
 			<td>
-			<p>Miss Sim Hwee Choo&nbsp;</p>
+			<p>Mr Foo Yuen Kong</p>
 			</td>
 			<td>
 			<p>Security Officer&nbsp;&nbsp;</p>
