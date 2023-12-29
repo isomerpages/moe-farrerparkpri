@@ -66,7 +66,7 @@ variant: markdown
 		</tr>
 		<tr height="25">
 			<td style="height:25px;width:305px;" height="25">Year Head (Primary 4 - 6)</td>
-			<td style="width:271px;">Ms&nbsp;The Yu Leen</td>
+			<td style="width:271px;">Mrs&nbsp;The Yu Leen</td>
 		</tr>
 		<tr height="25">
 			<td style="height:25px;width:305px;" height="25">Assistant Year Head (Primary 1 - 3)</td>
@@ -74,7 +74,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td style="height:25px;width:305px;" height="25">Assistant Year Head (Primary 4 - 6)</td>
-			<td style="width:271px;">Ms&nbsp;See Pek Hwa Joanne&nbsp;</td>
+			<td style="width:271px;">Mdm&nbsp;See Pek Hwa Joanne&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="height:25px;width:305px;" height="25">Subject Head (Discipline)&nbsp;</td>
