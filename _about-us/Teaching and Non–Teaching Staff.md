@@ -4,7 +4,7 @@ permalink: /about-us/teaching-and-non-teaching-staff/
 description: ""
 variant: markdown
 ---
- #### Primary 1
+#### Primary 1
 
 <table width="759" style="width:759px;" cellspacing="0" cellpadding="0" border="1">
 	<tbody>
@@ -257,7 +257,7 @@ variant: markdown
 			</td>
 			<td>
 			<p>Ms&nbsp;Teng Poh Yin Julia<br>
-			Ms&nbsp;Max Angelo Vijaya</p>
+			Mr&nbsp;Max Angelo Vijaya</p>
 			</td>
 		</tr>
 		<tr>
@@ -292,7 +292,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td>
-			<p>4 Curiousity</p>
+			<p>4 Curiosity</p>
 			</td>
 			<td>
 			<p>Ms&nbsp;Chua Lay Peng<br>
