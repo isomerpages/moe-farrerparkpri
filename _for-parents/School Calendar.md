@@ -82,7 +82,7 @@ For more information you may aso refer to&nbsp;[MOE's website](https://www.moe.g
 	<tbody>
 		<tr>
 			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Youth Day</td>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">*Sun 30 Jun</span></td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Sun 30 Jun</span></td>
 		</tr>
 		<tr>
 			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Teachers' Day</td>
