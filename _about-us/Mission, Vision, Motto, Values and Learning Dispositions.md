@@ -25,8 +25,8 @@ _A caring leader who is able to listen, empathise, serve_
 #### CCE
 
 ##### <b>C</b>uriosity
-#####  **C**are
 #####  **E**mpathy
+#####  **C**are
 
 
 ### LEARNING DISPOSITIONS
