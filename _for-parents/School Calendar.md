@@ -2,148 +2,158 @@
 title: School Calendar
 permalink: /for-parents/school-calendar/
 description: ""
+variant: markdown
 ---
 ### School Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=admin_fpps%40moe.edu.sg&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=admin_fpps%40moe.edu.sg&amp;ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-#### School Terms and Holidays for 2023
+#### School Terms and Holidays for 2024
 
-For more information you may aso refer to [MOE's website](https://www.moe.gov.sg/education/school-terms-and-important-dates).  
+For more information you may aso refer to&nbsp;[MOE's website](https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024).  
 
-#### SCHOOL CALENDAR 2023
+#### SCHOOL CALENDAR 2024
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0">
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
 	<thead>
 		<tr>
-			<th colspan="2" style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-style:inherit">PRIMARY &amp; SECONDARY</span></th>
+			<th style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"><span style="font-style:inherit">PRIMARY &amp; SECONDARY</span></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td colspan="2" style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Semester I</td>
+			<td style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">Semester I</td>
 		</tr>
 		<tr>
 			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term I</span></td>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Tue 3 Jan to Fri 10 Mar</span></td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Tue 2 Jan to Fri 8 Mar</span></td>
 		</tr>
 		<tr>
 			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term II</span></td>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 20 Mar to Fri 26 May</span></td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 18 Mar to Fri 24 May</span></td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:normal">Semester I</span>I</td>
+			<td style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"><span style="font-weight:700;font-style:normal">Semester I</span>I</td>
 		</tr>
 		<tr>
 			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term III</span></td>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 26 Jun to Fri 1 Sep</span></td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 24 Jun to Fri 30 Sep</span></td>
 		</tr>
 		<tr>
 			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term IV</span></td>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 11 Sep to Fri 17 Nov</span></td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 9 Sep to Fri 15 Nov</span></td>
 		</tr>
 	</tbody>
 </table>
 
- 
- 
-####  SCHOOL VACATION 2023
+#### SCHOOL VACATION 2024
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0">
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
 	<thead>
 		<tr>
-			<th colspan="2" style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:normal">PRIMARY &amp; SECONDARY</span></th>
+			<th style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"><span style="font-weight:700;font-style:normal">PRIMARY &amp; SECONDARY</span></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color: rgb(83, 87, 106); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700;">Between Terms I &amp; II</span></td>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sat 11 Mar to Sun 19 Mar</td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sat 9 Mar to Sun 17 Mar</td>
 		</tr>
 		<tr>
 			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Between Semesters I &amp; II</span></td>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Sat 27 May to Sun 25 Jun</span></td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Sat 25 May to Sun 23 Jun</span></td>
 		</tr>
 		<tr>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Between Terms III &amp; IV</span></td>
-			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Sat 2 Sep to Sun 10 Sep</span></td>
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Sat 31 Sep to Sun 8 Sep</span></td>
 		</tr>
 		<tr>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">At End of School Year</span></td>
-			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Sat 18 Nov to Sun 31 Dec</span></td>
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Sat 16 Nov to Tue 31 Dec</span></td>
 		</tr>
 	</tbody>
 </table>
 
+#### SCHEDULED SCHOOL HOLIDAYS 2024
 
-#### SCHEDULED SCHOOL HOLIDAYS 2023
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<thead>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Youth Day</td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">*Sun 30 Jun</span></td>
+		</tr>
+		<tr>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Teachers' Day</td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Fri 30 Aug</span></td>
+		</tr>
+		<tr>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Children's Day</span></td>
+			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Fri 4 Oct</span></td>
+		</tr>
+	</tbody>
+</table>
 
-|  |  |
-|---|---|
-|Day after Hari Raya Puasa| Mon 24 Apr
-| Youth Day | Sun 2 Jul (The following Monday, 3 Jul will be a scheduled school holiday.) |
-| Day after National Day | Thur 10 Aug |
-| Teachers’ Day | Fri 1 Sep |
-| Children’s Day (for primary schools and primary sections of full schools only) | Fri 6 Oct |
+#### PUBLIC HOLIDAYS 2024
 
-#### PUBLIC HOLIDAYS 2023
- 
- <table class="tg" style="border-collapse:collapse;border-spacing:0">
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
 	<thead>
 		<tr>
-			<th rowspan="3" style="background-color:rgba(0, 0, 0, 0.15);border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Term I</th>
-			<th style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">New Year&rsquo;s Day</span></th>
-			<th style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">*Sun 1 Jan</span></th>
+			<th style="background-color:rgba(0, 0, 0, 0.15);border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" rowspan="3">Term I</th>
+			<th style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">New Year’s Day</span></th>
+			<th style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 1 Jan</span></th>
 		</tr>
 		<tr>
-			<th rowspan="2" style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Chinese New Year</span></th>
-			<th style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">**Sun 22 Jan</th>
+			<th style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" rowspan="2"><span style="font-weight:700;font-style:inherit">Chinese New Year</span></th>
+			<th style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sat 10 Feb*</th>
 		</tr>
 		<tr>
-			<th style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mon 23 Jan</th>
+			<th style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sun 11 Feb</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="4" style="background-color:rgba(0, 0, 0, 0.15);border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Term II</span></td>
+			<td style="background-color:rgba(0, 0, 0, 0.15);border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" rowspan="4">Term II</td>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Good Friday</span></td>
-			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Fri 7 Apr</span></td>
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Fri 29 Mar</span></td>
 		</tr>
 		<tr>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color: rgb(83, 87, 106); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700;">Hari Raya Puasa</span></td>
-			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">***Sat 22 Apr</span></td>
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Wed 10 Apr</span></td>
 		</tr>
 		<tr>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color: rgb(83, 87, 106); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700;">Labour Day</span></td>
-			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Tue 3 May1</span></td>
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Wed 1 May</span></td>
 		</tr>
 		<tr>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Vesak Day</span></td>
-			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fri 2 Jun</td>
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Wed 22 May</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:rgba(0, 0, 0, 0.15);border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:norma">Term III</span></td>
+			<td style="background-color:rgba(0, 0, 0, 0.15);border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:norma" rowspan="2">Term III</td>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Hari Raya Haji</span></td>
-			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Thur 29 Jun</td>
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mon 17 Jun</td>
 		</tr>
 		<tr>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">National Day</span></td>
-			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Wed 9 Aug</span></td>
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Fri 9 Aug</span></td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:rgba(0, 0, 0, 0.15);border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:norma">Term IV</span></td>
+			<td style="background-color:rgba(0, 0, 0, 0.15);border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:norma" rowspan="2">Term IV</td>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Deepavali</span></td>
-			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">****Sun 12 Nov</span></td>
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Thu 31 Oct</span></td>
 		</tr>
 		<tr>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Christmas Day</span></td>
-			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mon 25 Dec</td>
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Wed 25 Dec</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit">*Monday, 2 Jan, will be a public holiday.</span><br />
-			<span style="font-weight:inherit">**Tuesday, 24 Jan, will be a public holiday.</span><br />
-			<span style="font-weight:inherit">***Monday, 24 Apr, will be a school holiday.</span><br />
-			<span style="font-weight:inherit">****Monday, 13 Nov, will be a public holiday.</span><br />
+			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="3">
+			<p><span style="font-weight:inherit">*Monday, 12 Feb will be a public holiday and Tue, 13 Feb<br>
+			wiill be a school holiday and a designated day off-in-lieu.<br>
+			Schools will be closed, including the General Office,<br>
+			Student Care Centres and Kindergarten Care Centres.</span></p>
 			</td>
 		</tr>
 	</tbody>
