@@ -150,10 +150,9 @@ For more information you may aso refer to&nbsp;[MOE's website](https://www.moe.g
 		</tr>
 		<tr>
 			<td style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="3">
-			<p><span style="font-weight:inherit">*Monday, 12 Feb will be a public holiday and Tue, 13 Feb<br>
-			wiill be a school holiday and a designated day off-in-lieu.<br>
-			Schools will be closed, including the General Office,<br>
-			Student Care Centres and Kindergarten Care Centres.</span></p>
+			<p><span style="font-weight:inherit">*Monday, 12 Feb will be a public holiday and Tue, 13 Feb 
+			will be a school holiday and a designated day off-in-lieu.<br>
+			Schools will be closed, including the General Office, Student Care Centres and Kindergarten Care Centres.</span></p>
 			</td>
 		</tr>
 	</tbody>
