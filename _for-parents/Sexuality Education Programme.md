@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education Programme
-permalink: /for-parents/permalink/
+permalink: /cce/cce-modules/sexuality-education-growing-years/
 description: ""
 variant: tiptap
 ---
