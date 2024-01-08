@@ -2,6 +2,7 @@
 title: Co–Curricular Activities
 permalink: /farrerean-experience/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 ### CCA
 
@@ -50,7 +51,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MR MAX ANGELO VIJAYA</strong></td>
 			<td style="width:109px;">MISS SANDHIYA ANNANDAN</td>
-			<td style="width:109px;">MR GOH SIANG LU SERENE</td>
+			<td style="width:109px;">MISS GOH SIANG LU SERENE</td>
 			<td style="width:109px;">&nbsp;</td>
 			<td style="width:116px;">&nbsp;</td>
 		</tr>
