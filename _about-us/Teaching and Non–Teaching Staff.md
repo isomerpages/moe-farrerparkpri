@@ -276,22 +276,6 @@ variant: markdown
 		</tr>
 		<tr>
 			<td>
-			<p>4 Adaptability</p>
-			</td>
-			<td>
-			<p>Ms&nbsp;Ooi En Ping Charis<br>
-			Ms&nbsp;Chia Mei Hua (Florence)</p>
-			</td>
-			<td>
-			<p>4 Integrity&nbsp;</p>
-			</td>
-			<td>
-			<p>Ms&nbsp;Teng Poh Yin Julia<br>
-			Ms&nbsp;Max Angelo Vijaya</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
 			<p>4 Curiosity</p>
 			</td>
 			<td>

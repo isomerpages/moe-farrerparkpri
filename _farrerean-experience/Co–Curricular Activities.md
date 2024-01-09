@@ -12,7 +12,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 <center>
 <iframe allowfullscreen="true" height="474" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2ULwwMScxUIsW0Sd9P-oDEceA5UIBLlvj95Vf2JHSEZFoAqzCz2rEYMpkAzqqG-zK0Qt7Y7lw1vJW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 <br>
-<img align="center" src="/images/2023_cca_schedule_v4.jpeg">
+<img align="center" size="20%" src="/images/cca_t1_2024.jpeg">
 </center>
 
 <style type="text/css">.tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
@@ -50,18 +50,18 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MR MAX ANGELO VIJAYA</strong></td>
-			<td style="width:109px;">MISS SANDHIYA ANNANDAN</td>
-			<td style="width:109px;">MISS GOH SIANG LU SERENE</td>
-			<td style="width:109px;">&nbsp;</td>
+			<td style="width:109px;">MS SANDHIYA ANNANDAN</td>
+			<td style="width:109px;">MS GOH SIANG LU SERENE</td>
+			<td style="width:109px;">MS PEGGY FOO</td>
 			<td style="width:116px;">&nbsp;</td>
 		</tr>
 		<tr height="33">
 			<td style="height:33px;" height="33"><strong>Badminton</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
-			<td style="width:95px;"><strong>MISS FRANCES NIELD</strong></td>
-			<td style="width:109px;">MISS JHAN LING-SIOU</td>
-			<td style="width:109px;">MISS LEONG HIEW PING</td>
+			<td style="width:95px;"><strong>MR ABDUL KADIR</strong></td>
+			<td style="width:109px;">MS NUR AFIQAH HASSAN</td>
+			<td style="width:109px;">MS LIU JUAN</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -69,19 +69,21 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="height:33px;" height="33"><strong>Tennis</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>FRI 1400-1600</td>
-			<td style="width:95px;"><strong>MISS LOW XINDI</strong></td>
-			<td style="width:109px;">MISS LIM JENN YAN</td>
+			<td style="width:95px;"><strong>MS FRANCES NIELD</strong></td>
+			<td style="width:109px;">MS ROCHELLE SIM</td>
 			<td style="width:109px;">MISS MUI YONG</td>
-			<td style="width:109px;">MISS ROCHELLE SIM</td>
+			<td style="width:109px;">&nbsp;</td>
 			<td style="width:116px;">&nbsp;</td>
 		</tr>
 		<tr height="33">
 			<td style="height:33px;" height="33"><strong>Swimming</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
-			<td style="width:95px;"><strong>MISS SHARONJIT SINGH</strong></td>
-			<td style="width:109px;">MISS EVELYN ANG</td>
-			<td style="width:109px;">MISS ZHANG CHENYANG</td>
+			<td style="width:95px;"><strong>MS SHARONJIT SINGH</strong></td>
+			<td style="width:109px;">
+			<p>MS&nbsp;JHAN LING-SIOU</p>
+			</td>
+			<td style="width:109px;">MR JABSEN TAN</td>
 			<td style="width:109px;">&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -89,79 +91,79 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="height:33px;" height="33"><strong>Football</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>FRI 1400-1600</td>
-			<td style="width:95px;"><strong>MISS JEOLINITA YEO</strong></td>
-			<td style="width:109px;">MR ABDUL KADIR</td>
-			<td style="width:109px;">MISS HENA SUHAIL</td>
+			<td style="width:95px;"><strong>MS JEOLINITA YEO</strong></td>
+			<td style="width:109px;">MR RAVINDER SINGH</td>
+			<td style="width:109px;">MR MOHAMED AZRAI</td>
 			<td style="width:109px;">MR LEE KIM FATT</td>
-			<td>MR RAVINDER SINGH</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr height="33">
 			<td style="height:33px;" height="33"><strong>Floorball</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>FRI 1400-1600</td>
-			<td style="width:95px;"><strong>MISS JERYN FOK&nbsp;</strong></td>
-			<td style="width:109px;">MISS RAHIMAH MADAN</td>
-			<td style="width:109px;">MISS NUR AZIZAH ABDUL RAHMAN</td>
-			<td style="width:109px;">MISS CHUA MEI HUA</td>
-			<td style="width:116px;">MISS VANESSA OH</td>
+			<td style="width:95px;"><strong>MS JERYN FOK&nbsp;</strong></td>
+			<td style="width:109px;">MS RAHIMAH MADAN</td>
+			<td style="width:109px;">MS NUR AZIZAH ABDUL RAHMAN</td>
+			<td style="width:109px;">MS CHUA MEI HUA</td>
+			<td style="width:116px;">MS NURLIZA SAWI</td>
 		</tr>
 		<tr height="33">
 			<td style="height:33px;" height="33"><strong>Dance</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>FRI 1400-1600</td>
-			<td style="width:95px;"><strong>MISS ELAINE CHOO</strong></td>
-			<td style="width:109px;">MISS RANCHISEM SIVAGNANAM</td>
-			<td style="width:109px;">MISS THAMZHAI SALVAIRAVICHANTHIRA</td>
-			<td style="width:109px;">MISS CHUA LAY PENG</td>
+			<td style="width:95px;"><strong>MS ELAINE CHOO</strong></td>
+			<td style="width:109px;">MS RANCHISEM SIVAGNANAM</td>
+			<td style="width:109px;">MS THAMZHAI SALVAIRAVICHANTHIRA</td>
+			<td style="width:109px;">MS CHUA LAY PENG</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr height="33">
 			<td style="height:33px;" height="33"><strong>Guitar Ensemble</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>FRI 1400-1600</td>
-			<td style="width:95px;"><strong>MISS CHERANDY LIM</strong></td>
-			<td style="width:109px;">MISS KAN YUE LIAN</td>
-			<td style="width:109px;">MISS V POONGKODI</td>
-			<td style="width:109px;">MISS EUNICE CHEW</td>
+			<td style="width:95px;"><strong>MS CHERANDY LIM</strong></td>
+			<td style="width:109px;">MS ZHANG CHENYANG</td>
+			<td style="width:109px;">MS V POONGKODI</td>
+			<td style="width:109px;">MS EUNICE CHEW</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr height="33">
 			<td style="height:33px;" height="33"><strong>Instrumental Ensemble</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>FRI 1400-1600</td>
-			<td style="width:95px;"><strong>MISS GOH SIEW LING</strong></td>
-			<td style="width:109px;">MISS CHEN HUI FANG</td>
+			<td style="width:95px;"><strong>MS CHEN HUI FANG</strong></td>
+			<td style="width:109px;">MS GOH SIEW LING</td>
 			<td style="width:109px;">MR CHU LUO JUN</td>
-			<td style="width:109px;">MISS TAN GEOK MEI</td>
-			<td>MISS PEGGY FOO</td>
+			<td style="width:109px;">MS TAN GEOK MEI</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr height="32">
 			<td style="height:33px;" height="32"><strong>Drama</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
-			<td style="width:95px;"><strong>MISS WU HUISHAN</strong></td>
-			<td style="width:109px;">MISS JENNIFER NG</td>
-			<td style="width:109px;">MISS V INDRANI</td>
-			<td style="width:109px;">MISS TAN LAY HUA&nbsp;</td>
+			<td style="width:95px;"><strong>MS WU HUISHAN</strong></td>
+			<td style="width:109px;">MS TAN LAY HWA</td>
+			<td style="width:109px;">MS V INDRANI</td>
+			<td style="width:109px;">&nbsp;</td>
 			<td style="width:116px;">&nbsp;</td>
 		</tr>
 		<tr height="33">
 			<td style="height:33px;" height="33"><strong>Art</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
-			<td style="width:95px;"><strong>MISS CANDY CHUA</strong></td>
-			<td style="width:109px;">MISS BAIDAH AHMAD</td>
-			<td style="width:109px;">MISS CHARIS OOI</td>
-			<td style="width:109px;">&nbsp;</td>
+			<td style="width:95px;"><strong>MS CANDY CHUA</strong></td>
+			<td style="width:109px;">MS BAIDAH AHMAD</td>
+			<td style="width:109px;">MS VANESSA OH</td>
+			<td style="width:109px;">MS NORIMAH KAMARI</td>
 			<td style="width:116px;">&nbsp;</td>
 		</tr>
 		<tr height="33">
 			<td style="height:33px;" height="33"><strong>Infocomm</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
-			<td style="width:95px;"><strong>MISS ALISON CHAN</strong></td>
-			<td style="width:109px;">MISS LAI YAN PING</td>
-			<td style="width:109px;">MR AMOS KOW</td>
+			<td style="width:95px;"><b>MS LAI YAN PING</b></td>
+			<td style="width:109px;">MS CLARA LIM</td>
+			<td style="width:109px;">MS EVELYN ANG</td>
 			<td style="width:109px;">&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -169,9 +171,9 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="height:33px;" height="33"><strong>Env Sce Club</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
-			<td style="width:95px;"><strong>MISS NICOLE LIM</strong></td>
-			<td style="width:109px;">MISS SYLVIA CHUA</td>
-			<td style="width:109px;">MISS NUR AFIQAH HASSAN</td>
+			<td style="width:95px;"><strong>MS AI RIN LOW</strong></td>
+			<td style="width:109px;">MS SYLVIA CHUA</td>
+			<td style="width:109px;">MS LEONG HIEW PING</td>
 			<td style="width:109px;">&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -179,9 +181,9 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="height:33px;" height="32"><strong>BB</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
-			<td style="width:95px;"><strong>MISS JOLIE TOH</strong></td>
-			<td style="width:109px;">MISS SHERMIN LOW</td>
-			<td style="width:109px;">MISS AW CAILI</td>
+			<td style="width:95px;"><strong>MS AW CAILI</strong></td>
+			<td style="width:109px;">MS CHARIS OOI</td>
+			<td style="width:109px;">MS PANEER SELVAM</td>
 			<td style="width:109px;">&nbsp;</td>
 			<td style="width:116px;">&nbsp;</td>
 		</tr>
@@ -190,9 +192,9 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MR HARRISON GOH</strong></td>
-			<td style="width:109px;">MISS HARLINA HUSSAIN</td>
-			<td style="width:109px;">MISS CLARA LIM</td>
-			<td style="width:109px;">MISS MONISHA SAMDAS</td>
+			<td style="width:109px;">MS HARLINA HUSSAIN</td>
+			<td style="width:109px;">MS MONISHA SAMDAS</td>
+			<td style="width:109px;">&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
 	</tbody>
