@@ -81,7 +81,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MS SHARONJIT SINGH</strong></td>
 			<td style="width:109px;">
-			<p>MS&nbsp;JHAN LING-SIOU</p>
+			<p>MS JHAN LING-SIOU</p>
 			</td>
 			<td style="width:109px;">MR JABSEN TAN</td>
 			<td style="width:109px;">&nbsp;</td>
