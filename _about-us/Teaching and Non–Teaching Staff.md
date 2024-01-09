@@ -268,7 +268,7 @@ variant: markdown
 			<p>Ms&nbsp;Tricia Tork Hui Jia<br>
 			Ms&nbsp;Sandhiya Annandan</p>
 			</td>
-			<td>4 Charm</td>
+			<td><p>4 Charm</p></td>
 			<td>
 			<p>Ms&nbsp;Nur Azizah Abdul Rahman<br>
 			Mr&nbsp;Goh Kok Kwang Harrison</p>
