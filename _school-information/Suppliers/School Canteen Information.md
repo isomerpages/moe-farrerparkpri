@@ -21,7 +21,7 @@ variant: markdown
 		</tr>
 		<tr height="35">
 			<td style="height: 35px; text-align: center;" height="35">Chinese Food Stall</td>
-			<td style="text-align: center;">30 November 2023</td>
+			<td style="text-align: center;">8 March 2024</td>
 			<td style="text-align: center;">Various Chinese Food</td>
 		</tr>
 	</tbody>
