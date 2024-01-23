@@ -14,36 +14,39 @@ For more information you may aso refer to&nbsp;[MOE's website](https://www.moe.g
 
 #### SCHOOL CALENDAR 2024
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg">
-	<thead>
-		<tr>
-			<th style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"><span style="font-style:inherit">PRIMARY &amp; SECONDARY</span></th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">Semester I</td>
-		</tr>
-		<tr>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term I</span></td>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Tue 2 Jan to Fri 8 Mar</span></td>
-		</tr>
-		<tr>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term II</span></td>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 18 Mar to Fri 24 May</span></td>
-		</tr>
-		<tr>
-			<td style="background-color:rgba(0, 0, 0, 0.15);border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"><span style="font-weight:700;font-style:normal">Semester I</span>I</td>
-		</tr>
-		<tr>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term III</span></td>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 24 Jun to Fri 30 Sep</span></td>
-		</tr>
-		<tr>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:inherit">Term IV</span></td>
-			<td style="border-color:#000000;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mon 9 Sep to Fri 15 Nov</span></td>
-		</tr>
-	</tbody>
+<table style="border-collapse: collapse; border-spacing: 0;" class="tg">
+<thead>
+<tr>
+<th colspan="2" style="background-color: rgba(0, 0, 0, 0.15); color: #53576a; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;"><span style="font-style: inherit;">PRIMARY &amp; SECONDARY</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2" style="background-color: rgba(0, 0, 0, 0.15); color: #53576a; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;">Semester I</td>
+</tr>
+<tr>
+<td style="color: #53576a; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;"><span style="font-weight: bold; font-style: inherit;">Term I</span></td>
+<td style="color: #53576a; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;"><span style="font-weight: inherit; font-style: inherit;">Tue 2 Jan to Fri 8 Mar*</span></td>
+</tr>
+<tr>
+<td style="color: #53576a; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;"><span style="font-weight: bold; font-style: inherit;">Term II</span></td>
+<td style="color: #53576a; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;"><span style="font-weight: inherit; font-style: inherit;">Mon 18 Mar to Fri 24 May</span></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color: rgba(0, 0, 0, 0.15); color: #53576a; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;"><span style="font-weight: bold; font-style: normal;">Semester I</span>I</td>
+</tr>
+<tr>
+<td style="color: #53576a; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;"><span style="font-weight: bold; font-style: inherit;">Term III</span></td>
+<td style="color: #53576a; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;"><span style="font-weight: inherit; font-style: inherit;">Mon 24 Jun to Fri 30 Sep</span></td>
+</tr>
+<tr>
+<td style="color: #53576a; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;"><span style="font-weight: bold; font-style: inherit;">Term IV</span></td>
+<td style="color: #53576a; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;"><span style="font-weight: inherit; font-style: inherit;">Mon 9 Sep to Fri 15 Nov</span></td>
+</tr>
+<tr>
+<td colspan="2" style="border-color:black;border-style:solid;border-width:1px;color:#53576A;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">*Primary 1 and Kindergarten 1 will start school on Tuesday, 2 January 2024. Primary 2 to 6 and Kindergarten 2 will start school on Wednesday, 3 January 2024.</td>
+</tr>
+</tbody>
 </table>
 
 #### SCHOOL VACATION 2024
