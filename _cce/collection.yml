@@ -1,0 +1,19 @@
+collections:
+  cce:
+    output: true
+    order:
+      - Overview.md
+      - Reward and Recognition.md
+      - Pupil Suggestion.md
+      - CCE Modules/Sexuality Education Programme.md
+      - CCE Modules/Cyber Wellness.md
+      - CCE Modules/Education and Career Guidance (ECG).md
+      - CCE Modules/.keep
+      - CCE Experiences/Values In Action.md
+      - CCE Experiences/Outdoor Learning Experience.md
+      - CCE Experiences/Overseas Learning Journey.md
+      - CCE Experiences/National Education Commemorative Days.md
+      - CCE Experiences/NE Show.md
+      - CCE Experiences/Internationalisation Programme.md
+      - CCE Experiences/.keep
+      - CCE Lessons.md

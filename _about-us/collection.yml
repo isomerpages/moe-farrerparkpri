@@ -1,0 +1,11 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Thoughts.md
+      - Mission, Vision, Motto, Values and Learning Dispositions.md
+      - School Rules.md
+      - School Crest, Song and Pupil's Creed.md
+      - School Exco.md
+      - Teaching and Non–Teaching Staff.md
+      - MOE Kindergarten@Farrer Park.md

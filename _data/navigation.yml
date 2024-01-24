@@ -1,0 +1,65 @@
+logo: /images/fpslogo.png
+links:
+  - title: About Us
+    url: /about-us/mission-vision-motto-values-learning-dispositions/
+    sublinks:
+      - title: Principal's Thoughts
+        url: /about-us/principals-thoughts/
+      - title: Mission, Vision, Motto, Values
+        url: /about-us/mission-vision-motto-values-learning-dispositions/
+      - title: School Rules
+        url: /about-us/school-rules/
+      - title: School Crest, Song and Creed
+        url: /about-us/school-crest-and-school-song/
+      - title: School Exco
+        url: /about-us/exco/
+      - title: Teaching & Non-Teaching Staff
+        url: /about-us/teaching-and-non-teaching-staff/
+      - title: MOE Kindergarten @ Farrer Park
+        url: /moe-kindergarten/overview/
+  - title: School Information
+    collection: school-information
+  - title: Farrerean Experience
+    url: /farrerean-experience/english/
+    sublinks:
+      - title: English
+        url: /farrerean-experience/english/
+      - title: Mathematics
+        url: /farrerean-experience/mathematics/
+      - title: Science
+        url: /farrerean-experience/science/
+      - title: Mother Tongue
+        url: /farrerean-experience/Mother-Tongue/chinese/
+      - title: Aesthetics
+        url: /farrerean-experience/aesthetics/
+      - title: Physical Education
+        url: /farrerean-experience/sports-and-physical-education/
+      - title: CCE
+        url: /farrerean-experience/cce/
+      - title: Co–Curricular Activities
+        url: /farrerean-experience/co-curricular-activities/
+      - title: ICT
+        url: /ict/overview/
+      - title: Distinctive Programme
+        url: /distinctive-programme/overview/
+  - title: Partners
+    url: /partners/student-care-centre/
+    sublinks:
+      - title: Student Care Centre
+        url: /partners/student-care-centre/
+      - title: Parent Support Group
+        url: /partners/Parent-Support-Group/overview/
+      - title: School Advisory Committee
+        url: /partners/school-advisory-committee/
+      - title: Pek Kio CC
+        url: /partners/pek-kio-cc/
+      - title: Family Matters
+        url: /partners/Family-Matters/overview/
+  - title: For Parents
+    collection: for-parents
+  - title: MK@FP
+    collection: moe-kindergarten
+  - title: For Staff
+    url: https://sites.google.com/moe.edu.sg/fpps-staff-only/home?authuser=0
+  - title: Contact Us
+    url: /about-us/contact-us/
