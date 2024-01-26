@@ -5,6 +5,6 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
-### Online registration for MOE Kindergarten 2024
+### Online registration for MOE Kindergarten Open House 2024
 
-Coming Soon.
+Click [here](https://form.gov.sg/654c2c4128c6d00011d38319) for registration to attend the open house.
