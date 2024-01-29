@@ -112,7 +112,7 @@ variant: markdown
 			<p>2 Adaptability</p>
 			</td>
 			<td>
-			<p>Ms&nbsp;Lim Sheng Yong Joyce<br>
+			<p>Mr&nbsp;Tan Jebsen<br>
 			Miss Ong Siew Choon Joanne</p>
 			</td>
 			<td>
