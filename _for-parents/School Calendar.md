@@ -37,7 +37,7 @@ For more information you may aso refer to&nbsp;[MOE's website](https://www.moe.g
 </tr>
 <tr>
 <td style="color: #53576a; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;"><span style="font-weight: bold; font-style: inherit;">Term III</span></td>
-<td style="color: #53576a; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;"><span style="font-weight: inherit; font-style: inherit;">Mon 24 Jun to Fri 30 Sep</span></td>
+<td style="color: #53576a; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;"><span style="font-weight: inherit; font-style: inherit;">Mon 24 Jun to Fri 30 Aug</span></td>
 </tr>
 <tr>
 <td style="color: #53576a; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid #000000;"><span style="font-weight: bold; font-style: inherit;">Term IV</span></td>
