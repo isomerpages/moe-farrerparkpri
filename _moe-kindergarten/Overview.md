@@ -6,7 +6,8 @@ variant: markdown
 ---
 ### MOE Kindergarten @ Farrer Park
 
-<img src="/images/moek1.png" style="width:80%">
+<img src="/images/MK/MK_Open_House_Poster_2024.jpg" style="width:80%">
+
 
 MOE Kindergarten @ Farrer Park was started in 2014 and was one of the first few MOE Kindergartens (MK) that were set up to provide quality and affordable preschool education to children. Over the years, many children have grown through the hands of our dedicated MK educators as well as through the MK curriculum. We aim to nurture children holistically so that they are confident, demonstrate strong social skills and have a good foundation in literacy and numeracy.  
   
