@@ -2,6 +2,7 @@
 title: School Hours
 permalink: /about-us/school-hours/
 description: ""
+variant: markdown
 ---
 #### General Office (Monday to Friday)
 
@@ -48,8 +49,8 @@ description: ""
 | <center>Level | <center>Recess |
 |:---:|:---:|
 | P1 and P4 | 9.00 a.m. to 9.30 a.m. |
-| P2 and P3 | 9.30 a.m. to 10.00 a.m. |
-|  P5 and P6 |  10.00 a.m. to 10.30 a.m. |
+| P2 and P5 | 9.30 a.m. to 10.00 a.m. |
+|  P3 and P6 |  10.00 a.m. to 10.30 a.m. |
 
 #### Lunch Break
 
