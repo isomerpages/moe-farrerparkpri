@@ -15,9 +15,6 @@ sections:
         - title: Achievements
           description: ""
           url: /achievements/year-2023/
-        - title: MK Open House 2024
-          description: ""
-          url: https://www.farrerparkpri.moe.edu.sg/moe-kindergarten/for-parents/open-house/
         - title: School Calendar
           description: ""
           url: /for-parents/school-calendar/
