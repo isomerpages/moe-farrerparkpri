@@ -97,5 +97,9 @@ variant: markdown
 			<td style="height:25px;width:305px;" height="25">Subject Head (Chinese Language)&nbsp;</td>
 			<td style="width:271px;">Ms Leong Winnie</td>
 		</tr>
+				<tr height="25">
+			<td style="height:25px;width:305px;" height="25">Level Head (Science)&nbsp;</td>
+			<td style="width:271px;">Ms Jackie Chua</td>
+		</tr>
 	</tbody>
 </table>
