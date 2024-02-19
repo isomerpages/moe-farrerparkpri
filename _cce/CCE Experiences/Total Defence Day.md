@@ -30,4 +30,6 @@ During recess, interactive activities encouraged students to reflect on personal
 
 Additionally, the support of the Singapore Police Force officers further enriched the event with a vehicle and equipment display, offering students insights into safeguarding our country. These officers exemplify dedication and courage in their duty to prevent, deter, and detect crime. They serve as pillars of security in our society, instilling confidence in our students and reminding us all of the importance of collective defence and vigilance.
 
-<iframe align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yqqQ9S28znI?si=LDVtQZG_IiZPOpf3" height="315" width="560"></iframe>
+<center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yqqQ9S28znI?si=LDVtQZG_IiZPOpf3" height="315" width="560"></iframe>
+</center>
