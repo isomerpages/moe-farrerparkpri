@@ -10,4 +10,4 @@ description: ""
 <br>
 <a target="_blank" href="/files/2024/Open_House_Presentation.pdf">MOE Kindergarten Open House 2024 Slides</a>
 
-**MK@FP Waitlist Application Form Link: [Register Here](https://go.gov.sg/2024-fp-waitlist-form)**
+**MK@FP Waitlist Application Form Link: <a target="_blank" href="https://go.gov.sg/2024-fp-waitlist-form"> Register Here</a>**
