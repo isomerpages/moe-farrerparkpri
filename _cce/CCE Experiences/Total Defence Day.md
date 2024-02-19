@@ -19,3 +19,13 @@ During assembly, students watched a scenario video presentation, vividly illustr
 <img style="width:45%" height="auto" width="100%" src="/images/CCE/TDD%202024/WhatsApp_Image_2024_02_15_at_10_01_06_AM__2_.jpeg">
 
 During recess, interactive activities encouraged students to reflect on personal contributions to Total Defence, fostering a sense of collective responsibility. Parents from the Parents Support Group played a crucial role in enhancing the recess activities by actively engaging with students and creating immersive learning experiences. Their involvement not only added depth to the activities but also fostered a sense of community support. 
+
+<img align="left" style="width:45%" height="auto" width="100%" src="/images/CCE/TDD%202024/WhatsApp_Image_2024_02_19_at_9_34_56_AM.jpeg">
+<img style="width:45%" height="auto" width="100%" src="/images/CCE/TDD%202024/WhatsApp_Image_2024_02_19_at_9_34_56_AM_1.jpeg">
+<br>
+<img align="left" style="width:45%" height="auto" width="100%" src="/images/CCE/TDD%202024/WhatsApp_Image_2024_02_19_at_9_34_56_AM_2.jpeg">
+<img style="width:45%" height="auto" width="100%" src="/images/CCE/TDD%202024/WhatsApp_Image_2024_02_19_at_9_34_56_AM_3.jpeg">
+
+
+
+Additionally, the support of the Singapore Police Force officers further enriched the event with a vehicle and equipment display, offering students insights into safeguarding our country. These officers exemplify dedication and courage in their duty to prevent, deter, and detect crime. They serve as pillars of security in our society, instilling confidence in our students and reminding us all of the importance of collective defence and vigilance.
