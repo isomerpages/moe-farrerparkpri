@@ -3,14 +3,12 @@ collections:
     output: true
     order:
       - Overview.md
-      - Joyful Learning/Learning Through Play.md
       - Joyful Learning/.keep
+      - Joyful Learning/Learning Through Play.md
       - Joyful Learning/Overview.md
       - Joyful Learning/K1 Care 2023.md
       - Joyful Learning/K1 Love 2023.md
       - Joyful Learning/K2 Care 2023.md
       - Joyful Learning/K2 Love 2023.md
-      - For Parents/.keep
-      - For Parents/Overview.md
-      - For Parents/Open House.md
+      - Open House.md
       - KCare.md
