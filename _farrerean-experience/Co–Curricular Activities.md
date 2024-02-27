@@ -179,7 +179,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 		</tr>
 		<tr height="32">
 			<td style="height:33px;" height="32"><strong>BB</strong></td>
-			<td>TUE 1400-1545</td>
+			<td>FRI 1400-1600</td>
 			<td>&nbsp;</td>
 			<td style="width:95px;"><strong>MS AW CAILI</strong></td>
 			<td style="width:109px;">MS CHARIS OOI</td>
