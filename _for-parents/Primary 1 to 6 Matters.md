@@ -87,7 +87,7 @@ To submit for LOA please follow this link.
 <div>  
   		<b> Year 2024 </b><br>
 			<ul>
-				<li><a target="_blank" href="/files/2024/P1%20%20%20P6%20Matters/p3_p4_fpps_connects.pdf">Primary 3 FPPS Connects</a>
+				<li><a target="_blank" href="/files/2024/P1%20%20%20P6%20Matters/p3_p4_fpps_connects.pdf">Primary 3 FPPS Connects Slides</a>
 				</li>
 				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p3%20booklist.pdf">2024 P3 Booklist</a></li>
 			</ul>
@@ -114,7 +114,7 @@ Click on the link below to download the briefing slides.	<br>
 <div>  
   		<b> Year 2024 </b><br>
 			<ul>
-								<li><a target="_blank" href="/files/2024/P1%20%20%20P6%20Matters/p3_p4_fpps_connects.pdf">Primary 4 FPPS Connects</a>
+								<li><a target="_blank" href="/files/2024/P1%20%20%20P6%20Matters/p3_p4_fpps_connects.pdf">Primary 4 FPPS Connects Slides</a>
 				</li>
 				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p4%20booklist.pdf">2024 P4 Booklist</a></li>
 			</ul>
