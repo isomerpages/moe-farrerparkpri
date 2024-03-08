@@ -4,7 +4,7 @@ permalink: /for-parents/News-and-Information/p1-to-p6-matters/
 description: ""
 variant: markdown
 ---
-### All Student Matters (2024)
+### All Student Matters
 
 Click on the link below to download the group personal accident information sheet for students.
 
