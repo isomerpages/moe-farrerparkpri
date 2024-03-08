@@ -35,6 +35,8 @@ To submit for LOA please follow this link.
 <div>  
 		<b> Year 2024 </b><br>
 			<ul>
+								<li><a target="_blank" href="/files/2024/P1%20%20%20P6%20Matters/p1_fpps_connects.pdf">Primary 1 FPPS Connects Slides</a>
+				</li>
 				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p1%20booklist.pdf">2024 P1 Booklist</a></li>
 				<li> <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/P1%20%20%20P6%20Matters/p1202401.pdf">P1 Orientation Slides Part 1</a></li>
 				<li> <a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/P1%20%20%20P6%20Matters/p12024.pdf">P1 Orientation Slides Part 2</a></li>
@@ -65,6 +67,8 @@ To submit for LOA please follow this link.
 <div>  
 		<b> Year 2024 </b><br>
 			<ul>
+								<li><a target="_blank" href="/files/2024/P1%20%20%20P6%20Matters/p2_fpps_connects.pdf">Primary 2 FPPS Connects Slides</a>
+				</li>
 				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p2%20booklist.pdf">2024 P2 Booklist</a></li>
 			</ul>
 <p>
