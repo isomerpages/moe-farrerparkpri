@@ -17,6 +17,7 @@ The school leaders usher in the new year with a blast! (Mdm Rahima, Mr Yong, Mr 
 How eye-catching the whiteboards had become!
 ![](/images/2024/CNY/2.jpg)
 Pupil representatives leading the school in saying New Year greetings!
+
 #### P1 MTL Fortnight Activities – Clay moulding（泥塑）
  
 
