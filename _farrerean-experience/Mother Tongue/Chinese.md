@@ -13,8 +13,7 @@ On February 9th, the school celebrated Lunar New Year 2024 with lots of exciteme
 The highlight of the day was the grand finale in the hall, where everyone gathered to watch a thrilling Lion Dance and join in a fun sing-along. It was a fantastic day filled with joy and laughter, making the start of the Year of the Dragon truly special. Happy Dragon Lunar New Year 2024!
 ![](/images/2024/CNY/3.jpg)
 The school leaders usher in the new year with a blast! (Mdm Rahima, Mr Yong, Mr Ramesh, and Mr Yap)
-![](/images/2024/CNY/1.jpg)
-![](/images/2024/CNY/4.jpg)
+<br><img align="left" style="width:40%" height="auto" width="100%" src="/images/2024/CNY/1.jpg"><img align="center" style="width:40%" height="auto" width="100%" src="/images/2024/CNY/4.jpg">
 How eye-catching the whiteboards had become!
 ![](/images/2024/CNY/2.jpg)
 Pupil representatives leading the school in saying New Year greetings!
