@@ -3,7 +3,7 @@ title: Sexuality Education Programme
 permalink: /cce/cce-modules/sexuality-education-growing-years/
 description: ""
 third_nav_title: CCE Modules
-variant: tiptap
+variant: markdown
 ---
 <h3>MOE Sexuality Education in Schools</h3>
 <p>1. Sexuality Education (SEd) in schools aims to enable students to understand
