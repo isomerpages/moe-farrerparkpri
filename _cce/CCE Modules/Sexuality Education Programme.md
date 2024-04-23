@@ -140,7 +140,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -158,7 +158,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 10</p>
+<p>Term 3 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ and how to seek help for themselves and their friends.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -221,7 +221,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 4 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -253,6 +253,6 @@ providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable <a href="/files/2024/SEd_Parent_Opt_out_Form__Updated_3_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 22nd March 2024.</p>
+The completed opt-out form is to be submitted by 30th April 2024.</p>
 <p>10. Parents can contact the school at 62952272 for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
