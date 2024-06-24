@@ -52,7 +52,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="width:95px;"><strong>MR MAX ANGELO VIJAYA</strong></td>
 			<td style="width:109px;">MS SANDHIYA ANNANDAN</td>
 			<td style="width:109px;">MS GOH SIANG LU SERENE</td>
-			<td style="width:109px;">MS PEGGY FOO</td>
+			<td style="width:109px;">MS PEGGY TOH</td>
 			<td style="width:116px;">&nbsp;</td>
 		</tr>
 		<tr height="33">
