@@ -605,14 +605,6 @@ variant: markdown
 		</tr>
 		<tr>
 			<td>
-			<p>Mdm Wong Siew Gan (Annie)</p>
-			</td>
-			<td>
-			<p>Operations Support Officer&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
 			<p>Mdm Lee Yoke Chan&nbsp;</p>
 			</td>
 			<td>
@@ -621,7 +613,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td>
-			<p>Mr Kenneth Foo</p>
+			<p>Mr Hashvin</p>
 			</td>
 			<td>
 			<p>Desktop Engineer&nbsp;&nbsp;</p>
@@ -632,7 +624,7 @@ variant: markdown
 			<p>Ms&nbsp;Zaharatul Akmam Jaafar&nbsp;</p>
 			</td>
 			<td>
-			<p>Library Assistance&nbsp;</p>
+			<p>Library Assistant&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
