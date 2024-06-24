@@ -112,8 +112,8 @@ variant: markdown
 			<p>2 Adaptability</p>
 			</td>
 			<td>
-			<p>Mr&nbsp;Tan Jebsen<br>
-			Miss Ong Siew Choon Joanne</p>
+			<p>Ms Nadia Cheriyan<br>
+			Ms Kan Yue Lian</p>
 			</td>
 			<td>
 			<p>2 Integrity&nbsp;</p>
