@@ -59,8 +59,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="height:33px;" height="33"><strong>Badminton</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>&nbsp;</td>
-			<td style="width:95px;"><strong>MR ABDUL KADIR</strong></td>
-			<td style="width:109px;">MS NUR AFIQAH HASSAN</td>
+			<td style="width:95px;"><strong>MS NUR AFIQAH HASSAN</strong></td>
 			<td style="width:109px;">MS LIU JUAN</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
@@ -83,7 +82,7 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="width:109px;">
 			MS JHAN LING-SIOU
 			</td>
-			<td style="width:109px;">MR JABSEN TAN</td>
+			<td style="width:109px;">MR JEBSEN TAN</td>
 			<td style="width:109px;">&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -91,17 +90,16 @@ CCAs are an essential part of a Farrereans’ holistic education. They are an in
 			<td style="height:33px;" height="33"><strong>Football</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>FRI 1400-1600</td>
-			<td style="width:95px;"><strong>MS JEOLINITA YEO</strong></td>
+			<td style="width:95px;"><strong>MR LEE KIM FATT</strong></td>
 			<td style="width:109px;">MR RAVINDER SINGH</td>
 			<td style="width:109px;">MR MOHAMED AZRAI</td>
-			<td style="width:109px;">MR LEE KIM FATT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr height="33">
 			<td style="height:33px;" height="33"><strong>Floorball</strong></td>
 			<td>TUE 1400-1545</td>
 			<td>FRI 1400-1600</td>
-			<td style="width:95px;"><strong>MS JERYN FOK&nbsp;</strong></td>
+			<td style="width:95px;"><strong>MS JEOLINITA YEO&nbsp;</strong></td>
 			<td style="width:109px;">MS RAHIMAH MADAN</td>
 			<td style="width:109px;">MS NUR AZIZAH ABDUL RAHMAN</td>
 			<td style="width:109px;">MS CHUA MEI HUA</td>
