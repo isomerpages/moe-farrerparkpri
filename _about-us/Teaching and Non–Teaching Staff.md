@@ -112,8 +112,8 @@ variant: markdown
 			<p>2 Adaptability</p>
 			</td>
 			<td>
-			<p>Mr&nbsp;Tan Jebsen<br>
-			Miss Ong Siew Choon Joanne</p>
+			<p>Ms Nadia Cheriyan<br>
+			Ms Kan Yue Lian</p>
 			</td>
 			<td>
 			<p>2 Integrity&nbsp;</p>
@@ -181,7 +181,7 @@ variant: markdown
 			<p>3 Adaptability</p>
 			</td>
 			<td>
-			<p>Ms&nbsp;Fok Ruiwen Jeryn<br>
+			<p>Mr Tan Jebsen<br>
 			Ms&nbsp;Tan Lay Hwa</p>
 			</td>
 			<td>
@@ -346,7 +346,7 @@ variant: markdown
 			</td>
 			<td>
 			<p>Ms&nbsp;Goh Siang Lu Serene<br>
-			Ms&nbsp;Nithya Nagaratnam</p>
+			Ms&nbsp;Nithya Nagaratnam<br>Ms Goh Siew Ling</p>
 			</td>
 			<td>
 			<p>&nbsp;</p>
@@ -405,7 +405,7 @@ variant: markdown
 			</td>
 			<td>
 			<p>Ms&nbsp;Elaine Choo Yin Lin<br>
-			Mr&nbsp;Abdul Kadir K Hussan</p>
+			Ms Joanne See</p>
 			</td>
 		</tr>
 		<tr>
@@ -433,23 +433,20 @@ variant: markdown
 			<td style="width:60px;">
 			<p>Ms&nbsp;Norliyah Hasan<br>
 			Ms&nbsp;Wong-Low Ai Rin<br>
-			Ms&nbsp;Goh Siew Ling<br>
 			Ms&nbsp;Tan Jac See<br>
-			Ms&nbsp;Kan Yue Lian<br>
 			Ms&nbsp;Lau Swee Bee Elena&nbsp;<br>
 			Ms&nbsp;Haymalatha Sithambaram<br>
-			Mr&nbsp;Goh Gim Siong</p>
+			Mr&nbsp;Goh Gim Siong<br>
+			</p>
 			</td>
 			<td style="width:60px;">
-			<p>Ms&nbsp;Rini Farhanah<br>
-			Ms&nbsp;Josephine Leong Yuehua<br>
-			Ms&nbsp;Ong Lian Yong Yvonne<br>
-			Ms Paula Png Que Hi<br>
-			Ms&nbsp;Susan<br>
-			Ms&nbsp;Song Nanette III<br>
+			<p>Ms Tam Xin Yi<br>
 			Mdm&nbsp;Leong Meng Har<br>
 			Ms&nbsp;Sylvia Chua Bee Choo<br>
-			Mr&nbsp;Lim Kok Cha</p>
+			Mr&nbsp;Lim Kok Cha<br>
+			Ms Ong Siew Choon Joanne<br>
+			Ms Mai Zi Shan
+				</p>
 			</td>
 		</tr>
 	</tbody>
@@ -605,14 +602,6 @@ variant: markdown
 		</tr>
 		<tr>
 			<td>
-			<p>Mdm Wong Siew Gan (Annie)</p>
-			</td>
-			<td>
-			<p>Operations Support Officer&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
 			<p>Mdm Lee Yoke Chan&nbsp;</p>
 			</td>
 			<td>
@@ -621,7 +610,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td>
-			<p>Mr Kenneth Foo</p>
+			<p>Mr Hashvin</p>
 			</td>
 			<td>
 			<p>Desktop Engineer&nbsp;&nbsp;</p>
@@ -632,32 +621,17 @@ variant: markdown
 			<p>Ms&nbsp;Zaharatul Akmam Jaafar&nbsp;</p>
 			</td>
 			<td>
-			<p>Library Assistance&nbsp;</p>
+			<p>Library Assistant&nbsp;</p>
 			</td>
-		</tr>
-		<tr>
+			</tr>
+				<tr>
 			<td>
-			<p>Mr Chua Chin Seng Jason&nbsp;</p>
-			</td>
-			<td>
-			<p>Security Officer&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>Mr Kenny Tay Joo Kiat&nbsp;</p>
+			<p>Ms Choo Li Hwa</p>
 			</td>
 			<td>
-			<p>Security Officer&nbsp;&nbsp;</p>
+			<p>Receptionist</p>
 			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>Mr Foo Yuen Kong</p>
-			</td>
-			<td>
-			<p>Security Officer&nbsp;&nbsp;</p>
-			</td>
+			
 		</tr>
 	</tbody>
 </table>
