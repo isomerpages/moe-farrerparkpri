@@ -2,11 +2,12 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
 ### Announcements
 
 
-* [Primary 1 Matters (2023)](https://staging.d2n2vioi5ki3lh.amplifyapp.com/for-parents/News-and-Information/p1-to-p6-matters/) 
+* [Interaction with P for Primary 1 2024](https://go.gov.sg/2024ptalk) 
 * [Application for Leave of Absence (LOA)](https://staging.d2n2vioi5ki3lh.amplifyapp.com/for-parents/News-and-Information/p1-to-p6-matters/)
 
 ### **7 Things Every Parent Can Do to Keep Kids Cyber-Safe: A tech dads special**
