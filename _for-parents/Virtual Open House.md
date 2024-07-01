@@ -17,9 +17,9 @@ Take a peek into how different subjects are taught at FPPS, our distinctive prog
 
 An interactive journey for your child to experience a day at FPPS!
 
-*   **[Dialogue with Parents](https://form.gov.sg/64a4cbf7921cd400124efa3f)**
+*   **[Interaction with P for Primary 1 2024](https://go.gov.sg/2024ptalk)**
 
-A sharing by School Leaders on learning at FPPS.
+A sharing by our Principal, Mr Dennis Yap on learning at FPPS.
 
 There are 8 sessions in person. For more details, please&nbsp;[click here](https://go.gov.sg/2024ptalk)&nbsp;today.  
    
