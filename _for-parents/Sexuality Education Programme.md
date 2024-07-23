@@ -174,7 +174,7 @@ and how to seek help for themselves and their friends.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 </tbody>
