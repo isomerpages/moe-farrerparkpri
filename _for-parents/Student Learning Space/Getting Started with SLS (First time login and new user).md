@@ -19,7 +19,7 @@ You may refer to the link below for browser support information.
 
 1\. SLS can be accessed from&nbsp;<a target="_blank" href="https://vle.learning.moe.edu.sg/login">https://vle.learning.moe.edu.sg/login</a>
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRcLVw6PEkL4Axh-s99J-OfQlqkVDEsIkkf9wHTLAyRWrnaa0UZ_t5dcrZnTFmtThztuI3trTy7qf2/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRcLVw6PEkL4Axh-s99J-OfQlqkVDEsIkkf9wHTLAyRWrnaa0UZ_t5dcrZnTFmtThztuI3trTy7qf2/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 
 
 **SLS SUPPORT**
