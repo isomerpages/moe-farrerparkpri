@@ -3,6 +3,7 @@ title: Getting Started with SLS (First time login and new user)
 permalink: /for-parents/Student-Learning-Space/getting-started/
 description: ""
 third_nav_title: Student Learning Space
+variant: markdown
 ---
 ### GETTING STARTED
  
@@ -18,7 +19,7 @@ You may refer to the link below for browser support information.
 
 1\. SLS can be accessed from&nbsp;<a target="_blank" href="https://vle.learning.moe.edu.sg/login">https://vle.learning.moe.edu.sg/login</a>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT1CqhZn2elbY8K1eVXpOUkciPsPZWnlJoBs0_VFz_hkHKBQdR8OPSlgSkg3szHkv5VhEIaB5VM0A5h/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRcLVw6PEkL4Axh-s99J-OfQlqkVDEsIkkf9wHTLAyRWrnaa0UZ_t5dcrZnTFmtThztuI3trTy7qf2/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 
 
 **SLS SUPPORT**
