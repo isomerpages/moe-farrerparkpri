@@ -2,6 +2,8 @@ collections:
   for-parents:
     output: true
     order:
+      - Singapore Youth Festival/SYF 2024.md
+      - Singapore Youth Festival/.keep
       - Letters & Notifications.md
       - Primary 1 to 6 Matters.md
       - Assessment Matters.md
