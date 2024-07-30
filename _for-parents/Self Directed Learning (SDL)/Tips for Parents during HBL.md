@@ -2,7 +2,7 @@
 title: Tips for Parents during HBL
 permalink: /for-parents/self-directed-learning/tips/
 description: ""
-third_nav_title: Self Directed Learning (HBL)
+third_nav_title: Self Directed Learning (SDL)
 ---
 ### Tips For Parents During Home-based Learning
  

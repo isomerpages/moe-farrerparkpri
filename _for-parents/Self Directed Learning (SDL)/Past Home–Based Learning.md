@@ -2,7 +2,7 @@
 title: Past Home–Based Learning
 permalink: /for-parents/self-directed-learning/past-hbl/
 description: ""
-third_nav_title: Self Directed Learning (HBL)
+third_nav_title: Self Directed Learning (SDL)
 ---
 #### Monday 17 October 2022
   

@@ -2,15 +2,12 @@
 title: Overview
 permalink: /for-parents/self-directed-learning/overview/
 description: ""
-third_nav_title: Self Directed Learning (HBL)
+third_nav_title: Self Directed Learning (SDL)
+variant: markdown
 ---
 Dear Parents,  
   
-Please visit this page for Self-Directed Learning (HBL) activities at Farrer Park Primary School. Home-based Learning (HBL) is not confined to E-learning and may include offline work that involves reading or writing.  
-  
-#### HBL To Be Announced Soon
-
-  
+Please visit this page for Self-Directed Learning (SDL) activities at Farrer Park Primary School. 
 
 #### Common issues and how to resolve them
  
@@ -27,16 +24,6 @@ For example,
 Tan Xiao Ming has a MIMS ID of&nbsp;**TAN_XIAO_MING@students.edu.sg**  
 
 All our school account IDs (Google, Koobits) take reference from this MIMS ID. 
-
-**3) The HBL page is not updating.**
-
-During the HBL period, our HBL page is updated every morning by&nbsp;**7.00am**. Click on the refresh button on your browser. It might require you to click a few times.  
-  
-Alternatively, you could also try clearing your browser cache. Here is a link to a website that shows you how to do this. ([**Link**](https://www.downing.nz/simple-steps-to-refresh-your-website-browser-cache/))  
-  
-**4) We don't see the HBL activities for the previous days.**
-All instructions for previous HBL activities are consolidated on our&nbsp;[**Past Home-based Learning**](https://www.farrerparkpri.moe.edu.sg/for-parents/home-based-learning/past-home-based-learning)&nbsp;page located on the the navigation bar on the top left of out HBL page.  
-  
 
 #### YouTube Links for HBL
 
