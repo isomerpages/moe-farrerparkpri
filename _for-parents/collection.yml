@@ -2,8 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Singapore Youth Festival/SYF 2024.md
-      - Singapore Youth Festival/.keep
       - Letters & Notifications.md
       - Primary 1 to 6 Matters.md
       - Assessment Matters.md
@@ -16,11 +14,13 @@ collections:
       - Student Learning Space/SLS Helpdesk.md
       - Parents Gateway.md
       - Prize Giving Day 2023.md
-      - Sexuality Education Programme.md
       - Self Directed Learning (HBL)/.keep
       - Self Directed Learning (HBL)/Overview.md
       - Self Directed Learning (HBL)/Tips for Parents during HBL.md
       - Self Directed Learning (HBL)/Past Home–Based Learning.md
+      - Sexuality Education Programme.md
+      - Singapore Youth Festival/.keep
+      - Singapore Youth Festival/SYF 2024.md
       - TE:D Learning Programme/.keep
       - TE:D Learning Programme/Overview.md
       - TE:D Learning Programme/TE:D Learning Programme Screenguide Workshop
