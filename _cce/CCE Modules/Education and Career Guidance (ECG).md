@@ -3,12 +3,13 @@ title: Education and Career Guidance (ECG)
 permalink: /cce/CCE-Modules/ECG/
 description: ""
 third_nav_title: CCE Modules
+variant: markdown
 ---
 ### Education and Career Guidance (ECG) 
 
 #### P4 Work Shadowing
 
-Pupils to experience and appreciate for a day the work environment that their parents or relative face.  Pupils will also be able to understand the importance of work in our daily lives as well as increase their social awareness about the different job scopes.
+Pupils to experience and appreciate for a day the work environment that their parents or relative face.&nbsp; Pupils will also be able to understand the importance of work in our daily lives as well as increase their social awareness about the different job scopes.
 
 |  |  |
 |---|---|
@@ -31,9 +32,3 @@ MySkillsFuture lessons are conducted for P5 and P6 pupils.
 My skillsfuture portal a one-stop portal which enables Singaporeans of all ages to make informed education and career choices and empowers them for lifelong learning.
 
 It is designed to help students discover their interests and strengths, and guide their education and career development at every stage of their education journey.
-
-  
-
-Please use the link below to find out more about the portal.
-
-[www.myskillsfuture.sg/primary](http://www.myskillsfuture.sg/primary)
