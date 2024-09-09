@@ -171,10 +171,7 @@ Together with your child, fill in the expectations/activity in the first column.
 | Watch (TV programme) | 50 |
 | (Favourite activity during the weekend) | 60 |
 
-**Template A – Weekly Schedule**  
-[Click here](https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/For%20Parents/HBL/template.docx)&nbsp;to download template  
 
-Please upload doc file.
   
 #### Example D
 
