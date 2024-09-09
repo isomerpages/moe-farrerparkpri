@@ -11,10 +11,6 @@ variant: markdown
 
 The Singapore Student Learning Space (SLS) is accessible through the internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience).
 
-You may refer to the link below for browser support information.
-
-[https://docs.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/OSBrowserRequirements.html](https://docs.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/OSBrowserRequirements.html)  
-
 **FIRST LOGIN**
 
 1\. SLS can be accessed from&nbsp;<a target="_blank" href="https://vle.learning.moe.edu.sg/login">https://vle.learning.moe.edu.sg/login</a>
