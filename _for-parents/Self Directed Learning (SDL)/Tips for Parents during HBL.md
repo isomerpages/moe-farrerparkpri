@@ -3,6 +3,7 @@ title: Tips for Parents during HBL
 permalink: /for-parents/self-directed-learning/tips/
 description: ""
 third_nav_title: Self Directed Learning (SDL)
+variant: markdown
 ---
 ### Tips For Parents During Home-based Learning
  
@@ -124,8 +125,6 @@ When Kids Are Anxious About Coronavirus: What to Do.&nbsp; Retrieved 25 Mar 2020
 
 [https://www.understood.org/en/friends-feelings/managing-feelings/stress-anxiety/child-anxious-coronavirus](https://www.understood.org/en/friends-feelings/managing-feelings/stress-anxiety/child-anxious-coronavirus)
 
-Learning From Home. Retrieved 25 Mar 2020&nbsp;[https://www.education.vic.gov.au/parents/learning/Pages/home-learning.aspx#link24](https://www.education.vic.gov.au/parents/learning/Pages/home-learning.aspx#link24)  
-[](https://www.education.vic.gov.au/parents/learning/Pages/home-learning.aspx#link24)
 
 #### Example A – Social Stories
 
@@ -145,7 +144,6 @@ A schedule for older children
 #### Example C
 
 Behaviour monitoring charts to ensure your child follows the schedule  
-(From&nbsp;[https://www.printableshelter.com/printable-behaviour-chart-for-behaviour-monitoring/](https://www.printableshelter.com/printable-behaviour-chart-for-behaviour-monitoring/))
 
 <img src="/images/ebss3.png" style="width:50%">
 
