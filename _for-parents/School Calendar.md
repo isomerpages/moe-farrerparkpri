@@ -6,7 +6,8 @@ variant: markdown
 ---
 ### School Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=admin_fpps%40moe.edu.sg&amp;ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=fpps%40moe.edu.sg&amp;ctz=Asia%2FSingapore"></iframe>
+
 
 #### School Terms and Holidays for 2024
 
