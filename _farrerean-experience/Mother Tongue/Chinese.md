@@ -15,6 +15,8 @@ The show, performed in the traditional Peking Opera style with dynamic martial a
 
 This enriching experience has significantly boosted students' interest in Chinese language and culture, with positive feedback from parents highlighting the success of the event.
 
+![](/images/2024/Chinese%20CPES/Chinese_CPES_2024.jpg)
+
 #### 2024 Lunar New Year Celebration
 On February 9th, the school celebrated Lunar New Year 2024 with lots of excitement! Every class decorated their whiteboards with red packets and other colorful materials. Students had a blast playing a quiz game to test their knowledge about Lunar New Year.
 
