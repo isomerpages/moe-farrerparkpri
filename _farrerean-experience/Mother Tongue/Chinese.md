@@ -7,6 +7,16 @@ variant: markdown
 ---
 ### Chinese
 
+#### Cultural Performance Exposure Scheme (CPES)
+
+An initiative by the Committee to Promote Chinese Language Learning (CPCLL), the Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划) aims to immerse students in Chinese dramas and language-related performances by local and international arts groups. On July 29th 2024, our Primary 4 pupils attended a captivating Chinese theatre performance, “Monkey Subdues White-Skeleton Demon” (孙悟空三打白骨精), at the Tampines East Community Club, presented by the Singapore Chinese Arts Centre.
+
+The show, performed in the traditional Peking Opera style with dynamic martial arts scenes, provided an authentic cultural experience. Following the performance, students were introduced to the rich heritage of Peking Opera, deepening their appreciation of this timeless art form.
+
+This enriching experience has significantly boosted students' interest in Chinese language and culture, with positive feedback from parents highlighting the success of the event.
+
+![](/images/2024/Chinese%20CPES/Chinese_CPES_2024.jpg)
+
 #### 2024 Lunar New Year Celebration
 On February 9th, the school celebrated Lunar New Year 2024 with lots of excitement! Every class decorated their whiteboards with red packets and other colorful materials. Students had a blast playing a quiz game to test their knowledge about Lunar New Year.
 
