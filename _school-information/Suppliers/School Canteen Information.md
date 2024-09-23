@@ -21,8 +21,13 @@ variant: markdown
 		</tr>
 		<tr height="35">
 			<td style="height: 35px; text-align: center;" height="35">Chinese Food Stall</td>
-			<td style="text-align: center;">24 May 2024</td>
-			<td style="text-align: center;">Various Chinese Food</td>
+			<td style="text-align: center;">30 Oct 2024</td>
+			<td style="text-align: center;">Any type of Chinese Food</td>
+		</tr>
+				<tr height="35">
+			<td style="height: 35px; text-align: center;" height="35">Halal Food Stall</td>
+			<td style="text-align: center;">30 Oct 2024</td>
+			<td style="text-align: center;">Any type of Halal Food</td>
 		</tr>
 	</tbody>
 </table>
