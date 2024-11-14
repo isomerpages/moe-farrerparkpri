@@ -6,7 +6,8 @@ variant: markdown
 ---
 ### Announcements
 
-
+* Click [here](https://www.farrerparkpri.moe.edu.sg/for-parents/pgd/) for Prize Giving Day 2024 e-brochure and photos
+* Click [here](https://go.gov.sg/fppsp6gradphotos) for P6 Graduation 2024 photos. Username and password will be provided by the form teachers. Click on "Sharing" to view the photos. Accessible through desktop/laptop only. Link valid till 20th November 2024.
 * [Interaction with P for Primary 1 2024](https://go.gov.sg/2024ptalk) 
 * [Application for Leave of Absence (LOA)](https://staging.d2n2vioi5ki3lh.amplifyapp.com/for-parents/News-and-Information/p1-to-p6-matters/)
 
