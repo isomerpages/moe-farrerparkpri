@@ -46,7 +46,7 @@ variant: markdown
 
 ###### All Levels
 <ul>
-	<li><a target="/files/2024/Letter_for_All_Parents_2024___FPPS_UNIFORM.pdf">School Uniform</a>
+	<li><a href="/files/2024/Letter_for_All_Parents_2024___FPPS_UNIFORM.pdf" target="_blank">School Uniform</a>
 	</li>
 	<li>
 <a href="/files/Cycling%20Advisory%20Letter%20To%20Parents.pdf" target="_blank">Cycling Advisory Letter</a>
