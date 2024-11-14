@@ -9,6 +9,8 @@ variant: markdown
 Click on the link below to download the group personal accident information sheet for students.
 
 * <a target="_blank" href="/files/2024/P1%20%20%20P6%20Matters/Product_Fact_Sheet__Year_2024_May__Revised.pdf">Group Personal Accident Information Sheet</a>
+* Year 2025 Primary 1 - 6 Booklists
+	* 
 
 
 #### Leave of Absence (LOA)
