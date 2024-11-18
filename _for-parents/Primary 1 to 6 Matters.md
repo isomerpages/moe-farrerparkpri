@@ -44,8 +44,9 @@ To submit for LOA please follow this link.
 <label for="accordion1">Primary 1 Matters</label>  
  <div>
 	 <b> Year 2025 </b><br>
-				</div></li><li><a target="_blank" href="/files/2025/2024_P1_Orientation_FINAL.pdf">P1 Orientation Slides</a></li>
-	
+	 <ul>
+				</ul></div></li><li><a target="_blank" href="/files/2025/2024_P1_Orientation_FINAL.pdf">P1 Orientation Slides</a></li>
+	</ul>
 <div>  
 		<b> Year 2024 </b><br>
 			<ul>
@@ -214,4 +215,3 @@ Click the link below to download the briefing slides.<br>
   
 </li>  	
 	
-</ul>
