@@ -45,8 +45,8 @@ To submit for LOA please follow this link.
  <div>
 	 <b> Year 2025 </b><br>
 	 <ul>
-				</ul></div></li><li><a target="_blank" href="/files/2025/2024_P1_Orientation_FINAL.pdf">P1 Orientation Slides</a></li>
-	</ul>
+				<li><a target="_blank" href="/files/2025/2024_P1_Orientation_FINAL.pdf">P1 Orientation Slides</a></li>
+	</ul></div>
 <div>  
 		<b> Year 2024 </b><br>
 			<ul>
@@ -73,7 +73,7 @@ To submit for LOA please follow this link.
 </div>  
   
   
-<li>  
+</li><li>  
   
 <input id="accordion2" type="checkbox">  
   
@@ -213,5 +213,4 @@ Click the link below to download the briefing slides.<br>
   
 </div>  
   
-</li>  	
-	
+</li></ul>
