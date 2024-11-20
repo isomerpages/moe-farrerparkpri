@@ -192,6 +192,13 @@ Click on the link below to download the briefing slides.	<br>
 <label for="accordion6">Primary 6 Matters</label>  
   
 <div>  
+	<p>
+<b> Year 2025 </b><br> 
+</p><ul>
+	<li>
+	 <a href="/files/2025/2024_PSLE_Briefing_Slides_for_Students_and_Resources_for_Teachers_for_Website.pdf" target="_blank">PSLE 2024 Briefing Slides</a>		</li></ul>		<br>
+	
+<p></p>  
   		<b> Year 2024 </b><br>
 			<ul>
 												<li><a target="_blank" href="/files/2024/P1%20%20%20P6%20Matters/p6_fpps_connects.pdf">Primary 6 FPPS Connects Slides</a>
@@ -201,15 +208,7 @@ Click on the link below to download the briefing slides.	<br>
 				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p6%20booklist.pdf">2024 P6 Booklist</a></li>
 				<li><a target="_blank" href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/2024/Booklists/2024%20p6%20(fdn).pdf">2024 P6 Foundation Booklist</a></li>
 			</ul>
-<p>
-<b> Year 2023 </b><br> 
-	
-<b>P6 Parent-Teacher Bonding Session</b><br>
-Click the link below to download the briefing slides.<br>
-	* <a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes.pdf" target="_blank">P6 PES Briefing Slides.pdf</a>		<br>
-		*<a href="https://staging.d2n2vioi5ki3lh.amplifyapp.com/files/All%20Student%20Matters/P5/2023%20pes%20examples.pdf" target="_blank">P6 PES Examples Slides.pdf</a>		<br>
-	
-</p>  
+
   
 </div>  
   
