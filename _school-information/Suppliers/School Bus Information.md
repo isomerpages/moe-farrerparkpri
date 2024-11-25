@@ -3,6 +3,7 @@ title: School Bus Information
 permalink: /school-information/suppliers/school-bus-information/
 description: ""
 third_nav_title: Suppliers
+variant: markdown
 ---
 #### School Bus Services
 
@@ -35,30 +36,30 @@ Fax: <strong>67486685&nbsp;</strong><br><br>
 		</tr>
 		<tr height="35">
 			<td style="height: 35px; text-align: center;" height="35">Up to 2km</td>
-			<td style="text-align: center;">$215.00</td>
-			<td style="text-align: center;">$220.00</td>
-			<td style="text-align: center;">$185.00</td>
-			<td style="text-align: center;">$190.00</td>
-			<td style="text-align: center;">$85.00</td>
-			<td style="text-align: center;">$90.00</td>
+			<td style="text-align: center;">$242.95</td>
+			<td style="text-align: center;">$248.60</td>
+			<td style="text-align: center;">$209.05</td>
+			<td style="text-align: center;">$214.70</td>
+			<td style="text-align: center;">$96.05</td>
+			<td style="text-align: center;">$101.70</td>
 		</tr>
 		<tr height="35">
 			<td style="height: 35px; text-align: center;" height="35">&gt;2-4km</td>
-			<td style="text-align: center;">$235.00</td>
-			<td style="text-align: center;">$240.00</td>
-			<td style="text-align: center;">$210.00</td>
-			<td style="text-align: center;">$215.00</td>
-			<td style="text-align: center;">$145.00</td>
-			<td style="text-align: center;">$150.00</td>
+			<td style="text-align: center;">$265.55</td>
+			<td style="text-align: center;">$271.20</td>
+			<td style="text-align: center;">$237.30</td>
+			<td style="text-align: center;">$242.95</td>
+			<td style="text-align: center;">$163.85</td>
+			<td style="text-align: center;">$169.50</td>
 		</tr>
 		<tr height="35">
 			<td style="height: 35px; text-align: center;" height="35">&gt;4-6km</td>
-			<td style="text-align: center;">$255.00</td>
-			<td style="text-align: center;">$260.00</td>
-			<td style="text-align: center;">$230.00</td>
-			<td style="text-align: center;">$235.00</td>
-			<td style="text-align: center;">$165.00</td>
-			<td style="text-align: center;">$170.00</td>
+			<td style="text-align: center;">$288.15</td>
+			<td style="text-align: center;">$293.80</td>
+			<td style="text-align: center;">$259.90</td>
+			<td style="text-align: center;">$265.55</td>
+			<td style="text-align: center;">$186.45</td>
+			<td style="text-align: center;">$192.10</td>
 		</tr>
 	</tbody>
 </table>
@@ -81,21 +82,21 @@ Fax: <strong>67486685&nbsp;</strong><br><br>
 		</tr>
 		<tr height="35">
 			<td style="height: 35px; text-align: center;" height="35">Up to 2km</td>
-			<td style="text-align: center;" colspan="2">$10.00</td>
-			<td style="text-align: center;" colspan="2">$8.00</td>
-			<td style="text-align: center;" colspan="2">$6.00</td>
+			<td style="text-align: center;" colspan="2">$11.30</td>
+			<td style="text-align: center;" colspan="2">$9.04</td>
+			<td style="text-align: center;" colspan="2">$6.78</td>
 		</tr>
 		<tr height="35">
 			<td style="height: 35px; text-align: center;" height="35">&gt;2-4km</td>
-			<td style="text-align: center;" colspan="2">$11.00</td>
-			<td style="text-align: center;" colspan="2">$9.00</td>
-			<td style="text-align: center;" colspan="2">$7.00</td>
+			<td style="text-align: center;" colspan="2">$12.43</td>
+			<td style="text-align: center;" colspan="2">$10.17</td>
+			<td style="text-align: center;" colspan="2">$7.91</td>
 		</tr>
 		<tr height="35">
 			<td style="height: 35px; text-align: center;" height="35">&gt;4-6km</td>
-			<td style="text-align: center;" colspan="2">$12.00</td>
-			<td style="text-align: center;" colspan="2">$10.00</td>
-			<td style="text-align: center;" colspan="2">$8.00</td>
+			<td style="text-align: center;" colspan="2">$13.56</td>
+			<td style="text-align: center;" colspan="2">$11.30</td>
+			<td style="text-align: center;" colspan="2">$9.04</td>
 		</tr>
 	</tbody>
 </table>
