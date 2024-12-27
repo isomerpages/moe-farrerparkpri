@@ -9,9 +9,9 @@ We bade farewell to 2024 on a high note. The school has ended 2024 very well. We
 
 Just like how the lyrics found in the school song described, the school is like a plant that has blossomed to become a big strong tree. This tree supported by the deep roots of the 9 schools which formed its heritage. Farrer Park Primary School Version 2.0 (FPPS 2.0) is an amalgamation of 9 schools over 7 decades as depicted in the mural below. <br></p><div class="isomer-image-wrapper"><img style="width: 100%;" height="auto" width="100%" src="/images/p_thoughts_2024_pic_1.png"></div><p>         
 
-As a school, we strive to give our children a balanced and holistic educational experience that will prepare them for a life of learning and thriving, that every child would be “A Fountain of Knowledge” with a “Heart of Gold” as espoused by the school’s Vision, anchored on the school Values of **Curiosity, Empathy** and **Care**.
+As a school, we strive to give our children a balanced and holistic educational experience that will prepare them for a life of learning and thriving, that every child would be “A Fountain of Knowledge” with a “Heart of Gold” as espoused by the school’s Vision, anchored on the school Values of <b>Curiosity, Empathy</b> and <b>Care</b>.
 
-I look forward to the new year. May we enter 2025 with a great sense of anticipation and hope, anchored on **Values**, working towards the Vision of the school.
+I look forward to the new year. May we enter 2025 with a great sense of anticipation and hope, anchored on <b>Values</b>, working towards the Vision of the school.</p><p>
 
 In your service,<br>
 Dennis Yap<br>
