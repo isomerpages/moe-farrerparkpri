@@ -558,51 +558,77 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>6 Graciousness</p>
+<td rowspan="2" colspan="1">
+<p><strong>6 Graciousness</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Elizabeth Lee Ming Chen
-<br>Ms&nbsp;Yeo Yan Fang Jeolinita</p>
+<p>Ms Hena Suhail</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong>6 Responsibility</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Gomez Frances Lorraine
-<br>Ms&nbsp;Cherandy Lim Sujun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Adaptability</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Ranchisem Sivagnanam
-<br>Ms&nbsp;Chua Suat Hong (Jackie)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Integrity&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Elaine Choo Yin Lin
-<br>Ms Joanne See</p>
+<p>Ms Clara Lim Shu Ying</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Ready</p>
+<p>Mr Lee Kim Fatt</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Thamzhai Salvai Ravichanthira
-<br>Ms&nbsp;Wu Huishan</p>
+<p>Ms Vellaisamy Indrani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>6 Ready</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Charm</p>
+<p>Ms Tan Geok Mei</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong>6 Integrity&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Chew Yuet Tze Eunice
-<br>Mr&nbsp;Ravinder Singh Swaran Singh</p>
+<p>Ms Norimah bte Kamari</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nithya Nagaratnam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jhan Ling-Siou</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>6 Adaptability</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Siam Gek Evelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurliza bte Sawi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
