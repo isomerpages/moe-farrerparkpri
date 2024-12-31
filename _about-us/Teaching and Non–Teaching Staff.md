@@ -828,7 +828,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hashvin</p>
+<p>Mr Mohammad Rizal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms NurSyafiqah Athira Binti Mohd Ridzuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ungku Mohd Hanafi Bin Ungku&nbsp;&nbsp; Mohd Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer&nbsp;&nbsp;</p>
@@ -840,14 +856,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Library Assistant&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Choo Li Hwa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Receptionist</p>
 </td>
 </tr>
 </tbody>
