@@ -858,6 +858,22 @@ variant: tiptap
 <p>Library Assistant&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Chin Seng Jason</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Security Guard</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Anbarasan s/o Shanmugam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Security Guard</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
