@@ -12,9 +12,6 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: Achievements
-          description: ""
-          url: /achievements/year-2023/
         - title: School Calendar
           description: ""
           url: /for-parents/school-calendar/
