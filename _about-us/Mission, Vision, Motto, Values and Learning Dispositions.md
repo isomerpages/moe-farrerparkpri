@@ -22,9 +22,8 @@ _A caring leader who is able to listen, empathise, serve_
 **Challenge the Limits**
 
 ### VALUES
-#### CEC
 
-##### <b>C</b>uriosity
+##### **C**uriosity
 #####  **E**mpathy
 #####  **C**are
 
