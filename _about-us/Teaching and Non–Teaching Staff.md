@@ -642,22 +642,22 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Norliyah Hasan
-<br>Ms&nbsp;Wong-Low Ai Rin
-<br>Ms&nbsp;Tan Jac See
-<br>Ms&nbsp;Lau Swee Bee Elena&nbsp;
-<br>Ms&nbsp;Haymalatha Sithambaram
-<br>Mr&nbsp;Goh Gim Siong
-<br>
-</p>
+<p>Ms&nbsp;Ooi En Ping Charis
+<br>Ms&nbsp;Jeanette Yee Yu Wen
+<br>Ms&nbsp;Lau Swee Bee Elena
+<br>Ms&nbsp;Khoo May Ying Elaine
+<br>Ms&nbsp;Nur Amanina bte Zaini
+<br>Mr&nbsp;Lim Kok Cha
+<br>Ms Sylvia Chua Bee Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tam Xin Yi
-<br>Mdm&nbsp;Leong Meng Har
-<br>Ms&nbsp;Sylvia Chua Bee Choo
-<br>Mr&nbsp;Lim Kok Cha
-<br>Ms Ong Siew Choon Joanne
-<br>Ms Mai Zi Shan</p>
+<p>Ms Candy Chua Lai Peng
+<br>Ms Zhang Chenyang
+<br>Mr&nbsp;Quek Yixian Timothy
+<br>Ms&nbsp;Waheeda bte Mohd
+<br>Ms Edna Lee Su-Mei
+<br>Mdm Leong Meng Har</p>
+<p>Ms Loh Sook Han</p>
 </td>
 </tr>
 </tbody>
@@ -706,8 +706,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Non-Teaching Staff</h4><pre><code>	&lt;/tr&gt;
-&lt;/tbody&gt;</code></pre>
+<h4>Non-Teaching Staff</h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
