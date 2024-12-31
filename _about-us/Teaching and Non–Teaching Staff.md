@@ -40,7 +40,7 @@ variant: tiptap
 <p>Ms Tricia Tork</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><strong>1  Curiosity</strong>
+<p><strong>1 Curiosity</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -457,51 +457,75 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>5 Graciousness</p>
+<td rowspan="2" colspan="1">
+<p><strong>5 Graciousness</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Hena Suhail
-<br>Ms&nbsp;Leong Winnie</p>
+<p>Mr Goh Kok Kwang Harrison</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong>5 Responsibility</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Clara Lim Shu Ying
-<br>Ms&nbsp;Vellaisamy Indrani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Adaptability</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Ang Siam Gek Evelyn
-<br>Ms&nbsp;Nurliza Sawi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Integrity&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Norimah Kamari
-<br>Ms&nbsp;Jhan Ling-Siou</p>
+<p>Ms Lim Jingwen (Nicole)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Ready</p>
+<p>Ms Thamzhai Salvai Ravichanthira</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Goh Siang Lu Serene
-<br>Ms&nbsp;Nithya Nagaratnam
-<br>Ms Goh Siew Ling</p>
+<p>Ms Gomez Frances Lorraine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>5 Ready</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Aw Caili</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong>&nbsp;5 Integrity&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Elaine Choo Yin Lin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ravinder Singh Swaran Singh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Azizah bte Abdul Rahman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>5 Adaptability</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Elizabeth Lee Ming Chen</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong>5 Charm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jennifer Ng Siow Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Max Angelo Vijaya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kan Yue Lian</p>
 </td>
 </tr>
 </tbody>
