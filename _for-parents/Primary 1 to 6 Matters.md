@@ -8,7 +8,7 @@ variant: markdown
 
 Click on the link below to download the group personal accident information sheet for students.
 
-* <a target="_blank" href="/files/2024/P1%20%20%20P6%20Matters/Product_Fact_Sheet__Year_2024_May__Revised.pdf">Group Personal Accident Information Sheet</a>
+* <a target="_blank" href="/files/2025/Product_Fact_Sheet__Year_2025_.pdf">Group Personal Accident Information Sheet</a>
 * Year 2025 Primary 1 - 6 Booklists
 	* [Primary 1](/files/2025/Booklists/P1_BOOKLIST.pdf)
 	* [Primary 2](/files/2025/Booklists/P2_BOOKLIST.pdf)
