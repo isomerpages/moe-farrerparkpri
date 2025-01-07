@@ -49,7 +49,7 @@ variant: markdown
 	<li><a href="/files/2025/Booklists/Letter_for_All_Parents_2024___FPPS.pdf" target="_blank">School Uniform</a>
 	</li>
 	<li>
-<a href="/files/Cycling%20Advisory%20Letter%20To%20Parents.pdf" target="_blank">Cycling Advisory Letter</a>
+<a href="/files/2025/Cycling_Advisory_Letter_To_Parents.pdf" target="_blank">Cycling Advisory Letter</a>
 	</li>
 		<li>
 <a href="/files/Letters%20and%20Notifications/All%20Levels/act%20and%20scamshield%20infographic%20for%20moe%20(special%20broadcast).pdf" target="_blank">ACT and Scamshield Infographic</a>
