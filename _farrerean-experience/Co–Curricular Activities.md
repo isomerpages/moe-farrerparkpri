@@ -12,9 +12,7 @@ to learn and apply values, knowledge and skills. Farrereans develop these
 values and character while they uncover their talents and competencies
 as they ready themselves for a rapidly changing world. They foster friendships
 as they learn, play and grow together.</p>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 200px">
 <colgroup>
 <col>
