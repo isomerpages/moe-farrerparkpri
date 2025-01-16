@@ -375,7 +375,7 @@ as they learn, play and grow together.</p>
 <p>MS CLARA LIM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS EVELYN ANG</p>
+<p>MS STEPHANIE NEW</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -400,10 +400,10 @@ as they learn, play and grow together.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SYLVIA CHUA</p>
+<p>MS ZUBAIDAH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS LEONG HIEW PING</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -424,14 +424,14 @@ as they learn, play and grow together.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS AW CAILI</strong>
+<p><strong>MR HARRISON GOH</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CHARIS OOI</p>
+<p>MS AW CAILI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS PANEER SELVAM</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -452,14 +452,14 @@ as they learn, play and grow together.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR HARRISON GOH</strong>
+<p><strong>MS MONISHA SAMDAS</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS HARLINA HUSSAIN</p>
+<p>MS MIANG JOO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS MONISHA SAMDAS</p>
+<p>MS VIGNESHSWARI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
