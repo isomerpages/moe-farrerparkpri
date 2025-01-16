@@ -56,7 +56,8 @@ as they learn, play and grow together.</p>
 <p>TUE 1400-1545</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;FRI
+<br>1400 - 1600</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR MAX ANGELO VIJAYA</strong>
@@ -66,10 +67,10 @@ as they learn, play and grow together.</p>
 <p>MS SANDHIYA ANNANDAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS GOH SIANG LU SERENE</p>
+<p>MS PEGGY TOH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS PEGGY TOH</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
