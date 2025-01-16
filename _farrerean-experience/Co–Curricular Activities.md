@@ -316,7 +316,7 @@ as they learn, play and grow together.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS TAN LAY HWA</p>
+<p>MS ZHANG CHENYANG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS V INDRANI</p>
@@ -340,11 +340,11 @@ as they learn, play and grow together.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS CANDY CHUA</strong>
+<p><strong>MS BAIDAH AHMAD</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS BAIDAH AHMAD</p>
+<p>MS CANDY CHUA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS VANESSA OH</p>
@@ -353,7 +353,7 @@ as they learn, play and grow together.</p>
 <p>MS NORIMAH KAMARI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;MS CHARIS OOI</p>
 </td>
 </tr>
 <tr>
