@@ -235,10 +235,10 @@ as they learn, play and grow together.</p>
 <p>MS RANCHISEM SIVAGNANAM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS THAMZHAI SALVAIRAVICHANTHIRA</p>
+<p>MS CHUA LAY PENG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CHUA LAY PENG</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -260,13 +260,13 @@ as they learn, play and grow together.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS ZHANG CHENYANG</p>
+<p>MS KAN YUE LIAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS V POONGKODI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS EUNICE CHEW</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -274,7 +274,7 @@ as they learn, play and grow together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Instrumental Ensemble</strong>
+<p><strong>Percussion Ensemble</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -294,7 +294,7 @@ as they learn, play and grow together.</p>
 <p>MR CHU LUO JUN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS TAN GEOK MEI</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
