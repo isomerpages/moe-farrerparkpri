@@ -113,7 +113,7 @@ as they learn, play and grow together.</p>
 <p>TUE 1400-1545</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FRI 1400-1600</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS FRANCES NIELD</strong>
@@ -123,10 +123,10 @@ as they learn, play and grow together.</p>
 <p>MS ROCHELLE SIM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MISS MUI YONG</p>
+<p>MS NICOLE HON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;MS SHARON YAP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
