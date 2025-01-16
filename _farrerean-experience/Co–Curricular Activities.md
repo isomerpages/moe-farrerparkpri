@@ -319,7 +319,7 @@ as they learn, play and grow together.</p>
 <p>MS ZHANG CHENYANG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS V INDRANI</p>
+<p>MS INDRANI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
