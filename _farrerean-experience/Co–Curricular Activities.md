@@ -151,7 +151,7 @@ as they learn, play and grow together.</p>
 <p>MS JHAN LING-SIOU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR JEBSEN TAN</p>
+<p>MS HARLINA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -182,7 +182,7 @@ as they learn, play and grow together.</p>
 <p>MR MOHAMED AZRAI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;MS NADIA KATERINA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
