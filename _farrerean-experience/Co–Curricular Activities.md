@@ -56,7 +56,8 @@ as they learn, play and grow together.</p>
 <p>TUE 1400-1545</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;FRI
+<br>1400 - 1600</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR MAX ANGELO VIJAYA</strong>
@@ -66,10 +67,10 @@ as they learn, play and grow together.</p>
 <p>MS SANDHIYA ANNANDAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS GOH SIANG LU SERENE</p>
+<p>MS PEGGY TOH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS PEGGY TOH</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -112,7 +113,7 @@ as they learn, play and grow together.</p>
 <p>TUE 1400-1545</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FRI 1400-1600</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS FRANCES NIELD</strong>
@@ -122,10 +123,10 @@ as they learn, play and grow together.</p>
 <p>MS ROCHELLE SIM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MISS MUI YONG</p>
+<p>MS NICOLE HON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;MS SHARON YAP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -150,7 +151,7 @@ as they learn, play and grow together.</p>
 <p>MS JHAN LING-SIOU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR JEBSEN TAN</p>
+<p>MS HARLINA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -181,7 +182,7 @@ as they learn, play and grow together.</p>
 <p>MR MOHAMED AZRAI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;MS NADIA KATERINA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -234,10 +235,10 @@ as they learn, play and grow together.</p>
 <p>MS RANCHISEM SIVAGNANAM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS THAMZHAI SALVAIRAVICHANTHIRA</p>
+<p>MS CHUA LAY PENG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CHUA LAY PENG</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -259,13 +260,13 @@ as they learn, play and grow together.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS ZHANG CHENYANG</p>
+<p>MS KAN YUE LIAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS V POONGKODI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS EUNICE CHEW</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -273,7 +274,7 @@ as they learn, play and grow together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Instrumental Ensemble</strong>
+<p><strong>Percussion Ensemble</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -293,7 +294,7 @@ as they learn, play and grow together.</p>
 <p>MR CHU LUO JUN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS TAN GEOK MEI</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -315,7 +316,7 @@ as they learn, play and grow together.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS TAN LAY HWA</p>
+<p>MS ZHANG CHENYANG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS V INDRANI</p>
@@ -339,11 +340,11 @@ as they learn, play and grow together.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS CANDY CHUA</strong>
+<p><strong>MS BAIDAH AHMAD</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS BAIDAH AHMAD</p>
+<p>MS CANDY CHUA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS VANESSA OH</p>
@@ -352,7 +353,7 @@ as they learn, play and grow together.</p>
 <p>MS NORIMAH KAMARI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;MS CHARIS OOI</p>
 </td>
 </tr>
 <tr>
@@ -374,7 +375,7 @@ as they learn, play and grow together.</p>
 <p>MS CLARA LIM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS EVELYN ANG</p>
+<p>MS STEPHANIE NEW</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -399,10 +400,10 @@ as they learn, play and grow together.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SYLVIA CHUA</p>
+<p>MS ZUBAIDAH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS LEONG HIEW PING</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -423,14 +424,14 @@ as they learn, play and grow together.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MS AW CAILI</strong>
+<p><strong>MR HARRISON GOH</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CHARIS OOI</p>
+<p>MS AW CAILI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS PANEER SELVAM</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -451,14 +452,14 @@ as they learn, play and grow together.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR HARRISON GOH</strong>
+<p><strong>MS MONISHA SAMDAS</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS HARLINA HUSSAIN</p>
+<p>MS MIANG JOO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS MONISHA SAMDAS</p>
+<p>MS VIGNESHSWARI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
