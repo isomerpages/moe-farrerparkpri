@@ -41,7 +41,7 @@ description: ""
 <blockquote>
 <h4>Language Awards</h4>
 </blockquote>
-<p><strong>Best Script Award 2024 (Malay Storytelling Competition):</strong>
+<p><strong>Best Script Award 2024 (Malay Storytelling Competition)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
