@@ -15,4 +15,7 @@ sections:
         - title: School Calendar
           description: ""
           url: /for-parents/school-calendar/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
 ---
