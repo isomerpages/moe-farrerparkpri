@@ -15,4 +15,7 @@ sections:
         - title: School Calendar
           description: ""
           url: /for-parents/school-calendar/
+        - title: Achievements
+          description: ""
+          url: /achievements/
 ---
