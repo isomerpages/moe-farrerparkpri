@@ -41,4 +41,3 @@ You may click <a target="_blank" href="https://go.gov.sg/moe-sexuality-education
 
 <strong>At Farrer Park Primary School, the following Sexuality Education lessons will be taught in 2025: </strong>
 </ol>
-
