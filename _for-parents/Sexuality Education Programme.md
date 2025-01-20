@@ -45,5 +45,6 @@ You may click <a target="_blank" href="https://go.gov.sg/moe-sexuality-education
 <h4>Information for Parents</h4>
 <ol>
 <li value="8">Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
-	<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also accessible <a target="_blank" href="https://go.gov.sg/fpps-cce-sed">here</a>. The completed opt-out form is to be submitted by 30 April 2025.</li>
+<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also accessible <a target="_blank" href="https://go.gov.sg/fpps-cce-sed">here</a>. The completed opt-out form is to be submitted by 30 April 2025.</li>
+<li>Parents can contact the school at 62952272 for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
