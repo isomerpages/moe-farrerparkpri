@@ -4,7 +4,7 @@ permalink: /cce/cce-modules/sexuality-education-growing-years/
 description: ""
 variant: markdown
 ---
-<h3>Moe Sexuality Education in Schools</h3>
+<h4>MOE Sexuality Education in Schools</h4>
 <ol>
 <li>Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</li>
 <li>The <strong>Goals</strong> of Sexuality Education are:
@@ -24,3 +24,4 @@ You may click <a target="_blank" href="https://go.gov.sg/moe-sexuality-education
 </ol>
 </li>
 </ol>
+<h4>Overview of Farrer Park Primary School's Sexuality Education Programme for 2025</h4>
