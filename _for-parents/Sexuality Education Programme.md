@@ -41,7 +41,7 @@ You may click <a target="_blank" href="https://go.gov.sg/moe-sexuality-education
 
 <strong>At Farrer Park Primary School, the following Sexuality Education lessons will be taught in 2025: </strong>
 </ol>
-<iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSu8kmGi96b3Bifr8WZic2yfFSBZm1AycOaw0fScoqThdqBguaeZLwLwU9M1pQG_arOGZuxw_hh0QXX/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSu8kmGi96b3Bifr8WZic2yfFSBZm1AycOaw0fScoqThdqBguaeZLwLwU9M1pQG_arOGZuxw_hh0QXX/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 <h4>Information for Parents</h4>
 <ol>
 <li value="8">Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. Please refer to the attached letter <a target="_blank" href="/files/2025/MOE_Sexuality_Education_Parent_Opt_out_Form_2025_fpps.pdf">here</a> sent on 17 Jan 2025</li>
