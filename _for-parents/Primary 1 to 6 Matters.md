@@ -70,7 +70,7 @@ start of the year</p>
 <ul>
 <li>
 <p>Primary 1 Matters</p>
-<p><strong> Year 2025 </strong>
+<p><strong>Year 2025 </strong>
 <br>
 </p>
 <ul data-tight="true" class="tight">
