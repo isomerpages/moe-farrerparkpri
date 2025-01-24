@@ -20,10 +20,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/Assesment letters/2025_P1_NWA_Letter.pdf" rel="noopener nofollow" target="_blank">Primary 1 Non-Weighted Assessment</a>
+</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/Assesment letters/2025_P2_NWA_Letter.pdf" rel="noopener nofollow" target="_blank">Primary 2 Non-Weighted Assessment</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -36,10 +46,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/Assesment letters/2025_P3_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">Primary 3 Assessment</a>
+</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/Assesment letters/2025_P4_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">Primary 4 Assessment</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -52,10 +72,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/Assesment letters/2025_P5_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">Primary 5 Assessment</a>
+</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/Assesment letters/2025_P6_Assessment_Letter.pdf" rel="noopener nofollow" target="_blank">Primary 6 Assessment</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
