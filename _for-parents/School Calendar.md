@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>THe 2 Jan to Fri 14 Mar*</p>
+<p>Tue 2 Jan to Fri 14 Mar*</p>
 </td>
 </tr>
 <tr>
