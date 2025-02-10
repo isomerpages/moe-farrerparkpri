@@ -20,13 +20,7 @@ For more information visit&nbsp;[MOE Kindergarten&nbsp;website](https://www.moe.
 
 | MK@FP Educators |
 |:---:|
-| Ms. Anooradha d/o Subramaniam – MK Centre Head<br><br>Ms. Chin Shan Ping, Angel – English Language<br><br>Ms. Tan Kian Muar - English Language<br><br>Mr. Donovan Wong De Wen - English Language<br><br>Ms. Renugadevi d/o Rajasegaran – English Language<br><br>Ms. Nadiah Nazurah Binte Abdul Kalam – Malay Language<br><br>Ms. Chen Xiao Ni – Chinese Language<br><br>Ms. Cheng Wan Feng – Chinese Language<br><br>Ms. Qiu Feng – Chinese Language<br><br>Ms. Yu Li – Chinese Language<br><br>Ms. Ansuyanayagi Ambigapathi Manivannan – Tamil Language |
-
-#### We Are a Healthy Pre-School
-
-MOE Kindergarten @ Farrer Park has attained the&nbsp;**Platinum**&nbsp;status for Healthy Pre-School (HPS)!
-
-<p><a href="https://www.healthhub.sg/live-healthy/1267/healthy-pre-school-accreditation-framework" target="_blank"><img style="width:65%" src="/images/moek2.png"></a></p>
+| Ms. Anooradha d/o Subramaniam – MK Centre Head<br><br>Ms. Chin Shan Ping, Angel – English Language<br><br>Ms. Tan Kian Muar - English Language<br><br>Mr. Donovan Wong De Wen - English Language<br><br>Ms. Renugadevi d/o Rajasegaran – English Language<br><br>Ms. Nadiah Nazurah Binte Abdul Kalam – Malay Language<br><br>Ms. Chen Xiao Ni – Chinese Language<br><br>Ms. Cheng Wan Feng – Chinese Language<br><br>Ms. Germaine Chua Kay Yin – Chinese Language<br><br>Ms. Yu Li – Chinese Language<br><br>Ms. Ansuyanayagi Ambigapathi Manivannan – Tamil Language |
 
 #### MOE Kindergarten @ Farrer Park
 
