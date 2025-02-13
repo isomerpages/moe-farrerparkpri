@@ -2,7 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Welcome To Our Open Houe.md
+      - Welcome To Our Open House.md
       - Overview.md
       - Joyful Learning/.keep
       - Joyful Learning/Learning Through Play.md
