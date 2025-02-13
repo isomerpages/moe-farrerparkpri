@@ -1,6 +1,6 @@
 ---
-title: K1 Care 2024
-permalink: /moe-kindergarten/joyful-learning/k1-care-2024/
+title: K1 Care
+permalink: /moe-kindergarten/joyful-learning/k1-care/
 description: ""
 third_nav_title: Joyful Learning
 variant: markdown

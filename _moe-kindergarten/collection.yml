@@ -2,14 +2,14 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Welcome To Our Open Houe.md
+      - Welcome To Our Open House.md
       - Overview.md
       - Joyful Learning/.keep
       - Joyful Learning/Learning Through Play.md
       - Joyful Learning/Overview.md
-      - Joyful Learning/K1 Care 2024.md
-      - Joyful Learning/K1 Respect 2024.md
-      - Joyful Learning/K2 Care 2024.md
-      - Joyful Learning/K2 Love 2024.md
+      - Joyful Learning/K1 Care.md
+      - Joyful Learning/K1 Respect.md
+      - Joyful Learning/K2 Care.md
+      - Joyful Learning/K2 Love.md
       - K1 Orientation.md
       - KCare.md

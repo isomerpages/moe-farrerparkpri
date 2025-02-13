@@ -1,6 +1,6 @@
 ---
-title: K1 Respect 2024
-permalink: /moe-kindergarten/joyful-learning/k1-respect-2024/
+title: K1 Respect
+permalink: /moe-kindergarten/joyful-learning/k1-respect/
 description: ""
 third_nav_title: Joyful Learning
 variant: markdown

@@ -1,6 +1,6 @@
 ---
-title: K2 Love 2024
-permalink: /moe-kindergarten/joyful-learning/k2-love-2024/
+title: K2 Love
+permalink: /moe-kindergarten/joyful-learning/k2-love/
 description: ""
 third_nav_title: Joyful Learning
 variant: markdown
