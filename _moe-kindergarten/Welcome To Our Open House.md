@@ -14,8 +14,8 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Do look out for our presentation slides which will be uploaded after MK
-Open House.</p>
+<p>Click <a href="/files/2025/MKOH_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the MK Open House slides</p>
 </li>
 </ul>
 <h3><sup>2025 MOE Kindergarten Registration Exercise</sup></h3>
