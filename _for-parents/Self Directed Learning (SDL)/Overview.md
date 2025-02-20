@@ -49,9 +49,7 @@ Public holiday and school holiday closed**
 Please take note that we may not be able to respond to your problem immediately. We thank you for your patience.  
 
 **2) School General Office Tel:**&nbsp;62952272&nbsp;  
-  
 During Non-School Operating Hours  
-  
 **SLS Helpdesk: 67026513**  
 **Email:**&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)  
 When emailing to SLS Helpdesk, please include your child's full name, school, User ID and form class.  
@@ -64,25 +62,19 @@ Saturdays:
 \*Closed on Sundays &amp; Public Holidays  
 
 **School Helpline for Google Suite**
-
 Google Classroom  
 [https://classroom.google.com/](https://classroom.google.com/)  
-  
 For matters regarding Google Account for your child, please use the form below  
 and we will contact you.  
 [https://go.gov.sg/fppshelpdesk](https://go.gov.sg/fppshelpdesk)  
-  
 School General Office Tel:&nbsp;62952272&nbsp;(8AM to 4PM)  
 
 **KOOBITS**  
 [https://www.koobits.com/](https://www.koobits.com/)  
-  
 **Koobits Support**  
 Online feedback:&nbsp;[https://support.koobits.com/hc/en-gb/requests/new](https://support.koobits.com/hc/en-gb/requests/new)  
 
 **Ezhishi**  
-  
-[https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)  
-  
+  [https://www.ezhishi.com/](https://www.ezhishi.com/) 
 **ezhishi Helpdesk: 67427555  
 Email: service@ecombay.com**
