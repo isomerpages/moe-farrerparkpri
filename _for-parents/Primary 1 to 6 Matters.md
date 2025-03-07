@@ -70,9 +70,6 @@ start of the year</p>
 <ul>
 <li>
 <p>Primary 1 Matters</p>
-<p><strong>Year 2025 </strong>
-<br>
-</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/2025/2024_P1_Orientation_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation Slides</a>
@@ -81,44 +78,28 @@ start of the year</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p>
-<br>
+<p><a href="/files/2025/FPPS Connects/P1_Total_Curriculum_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">P1 Total Curriculum Briefing</a>
 </p>
 </li>
 </ul>
-<p></p>
 </li>
 <li>
 <p>Primary 2 Matters</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/FPPS Connects/P2_Total_Curriculum_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">P2 Total Curriculum Briefing</a>
+</p>
+</li>
+</ul>
 </li>
 <li>
 <p>Primary 3 Matters</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>
-<br>
-</p>
-</li>
-</ul>
-<p></p>
 </li>
 <li>
 <p>Primary 4 Matters</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>
-<br>
-</p>
-</li>
-</ul>
-<p></p>
 </li>
 <li>
 <p>Primary 5 Matters</p>
-<p>
-<br>
-</p>
 <p></p>
 </li>
 <li>
