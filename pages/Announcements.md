@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Announcements
 
-* Click [here](https://www.farrerparkpri.moe.edu.sg/for-parents/News-and-Information/p1-to-p6-matters/) to access the Total Curriculum Briefing Slides for various levels during FPPS Connects.
+* Click [here](https://www.farrerparkpri.moe.edu.sg/for-parents/News-and-Information/p1-to-p6-matters/) to access the Briefing Slides for various levels during FPPS Connects.
 * School Uniform Closure Notice: Dear parents, do take note that of our online and retail shop closure dates.
  Chinese New Year: Online shop (23 Jan - 2 Feb 2025), Retail Shop (27 Jan - 2 Feb 2025) and
  Stock Take: Online shop (25 Feb to 5 Mar 2025). Retail Shop (27 Feb - 5 Mar 2025)

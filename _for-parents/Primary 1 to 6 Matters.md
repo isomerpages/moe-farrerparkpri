@@ -94,17 +94,34 @@ start of the year</p>
 </li>
 <li>
 <p>Primary 3 Matters</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/FPPS Connects/2025_P3___P4_FPPS_Connects_13_Mar.pdf" rel="noopener nofollow" target="_blank">P3 FPPS Connects</a>
+</p>
+</li>
+</ul>
 </li>
 <li>
 <p>Primary 4 Matters</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/FPPS Connects/2025_P3___P4_FPPS_Connects_13_Mar.pdf" rel="noopener nofollow" target="_blank">P4 FPPS Connects</a>
+</p>
+</li>
+</ul>
 </li>
 <li>
 <p>Primary 5 Matters</p>
-<p></p>
 </li>
 <li>
 <p>Primary 6 Matters</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/FPPS Connects/2025_P6_FPPS_Connects_14_Mar.pdf" rel="noopener nofollow" target="_blank">P6 FPPS Connects</a>
+</p>
 <p></p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
