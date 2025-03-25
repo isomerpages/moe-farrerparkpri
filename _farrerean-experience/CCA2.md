@@ -27,3 +27,60 @@ At Farrer Park Primary School, our CCA programme is designed to provide students
 </tr>
 </tbody>
 </table>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td bgcolor="51a72c" colspan="5" style="width: 20%; text-align: center;"><span style="color: #ffffff;"><strong>Physical Sports</strong></span></td>
+</tr>
+<tr bgcolor="eaf1e9">
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+</tr>
+<tr bgcolor="d2e1ce">
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+</tr>
+<tr bgcolor="eaf1e9">
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+</tr>
+<tr bgcolor="d2e1ce">
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+</tr>
+<tr bgcolor="eaf1e9">
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+</tr>
+<tr bgcolor="d2e1ce">
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
