@@ -34,32 +34,32 @@ At Farrer Park Primary School, our CCA programme is designed to provide students
 <td bgcolor="51a72c" colspan="5" style="width: 20%; text-align: center;"><span style="color: #ffffff;"><strong>Physical Sports</strong></span></td>
 </tr>
 <tr bgcolor="eaf1e9">
-<td style="width: 20%; text-align: center;">CCA</td>
-<td style="width: 20%; text-align: center;">Session 1</td>
-<td style="width: 20%; text-align: center;">Session 2</td>
-<td style="width: 20%; text-align: center;">Teacher IC</td>
-<td style="width: 20%; text-align: center;">Teachers</td>
+<td style="width: 20%; text-align: center;"><strong>CCA</strong></td>
+<td style="width: 20%; text-align: center;"><strong>Session 1</strong></td>
+<td style="width: 20%; text-align: center;"><strong>Session 2</strong></td>
+<td style="width: 20%; text-align: center;"><strong>Teacher IC</strong></td>
+<td style="width: 20%; text-align: center;"><strong>Teachers</strong></td>
 </tr>
 <tr bgcolor="d2e1ce">
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">Basketball</td>
+<td style="width: 20%; text-align: center;">Tuesday<br>1400 - 1545</td>
+<td style="width: 20%; text-align: center;">Friday<br>1400 - 1600</td>
+<td style="width: 20%;vertical-align: middle;">Mr Max Angelo</td>
+<td style="width: 20%;">Ms Sandhiya<br>Ms Peggy Toh</td>
 </tr>
 <tr bgcolor="eaf1e9">
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">Badminton</td>
+<td style="width: 20%; text-align: center;">Tuesday<br>1400 - 1545</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
+<td style="width: 20%;">Ms Nur Afiqah</td>
+<td style="width: 20%;">Ms Liu Juan</td>
 </tr>
 <tr bgcolor="d2e1ce">
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">Tennis</td>
+<td style="width: 20%; text-align: center;">Tuesday<br>1400 - 1545</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
+<td style="width: 20%;">Ms Frances Nield</td>
+<td style="width: 20%;">Ms Nicole Hon<br>Ms Sharon Yap<br>Ms Rochelle Sim</td>
 </tr>
 <tr bgcolor="eaf1e9">
 <td style="width: 20%;">&nbsp;</td>
