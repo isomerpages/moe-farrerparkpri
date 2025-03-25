@@ -15,7 +15,15 @@ Our CCA programme is structured to provide students with a broad-based exposure 
 </td>
 </tr>
 <tr>
-<td bgcolor="eaf1e9" colspan="2" style="width: 100%; border-style: solid;">&nbsp;</td>
+<td bgcolor="eaf1e9" colspan="2" style="width: 100%; border-style: solid;"><span style="text-decoration: underline;"><strong>Objective</strong></span><br>
+At Farrer Park Primary School, our CCA programme is designed to provide students with enriching experiences that support their holistic development. Through CCAs, we aim to enable students to
+	
+* **Discover Their Interests &amp; Talents** - Try out different activities and find what they love.
+* **Build Character** - Instill values such as Curiosity, Empathy, and Care, aligning with FPPS's core values. 
+* **Develop Useful Life Skills** - Cultivate leadership, teamwork, and resilience through active participation. 	
+* **Foster Social Integration** -  Encourage collaboration and friendship among peers from diverse backgrounds.	
+* **Feel a Sense of Belonging** - Be part of a caring and inclusive school community.	
+</td>
 </tr>
 </tbody>
 </table>
