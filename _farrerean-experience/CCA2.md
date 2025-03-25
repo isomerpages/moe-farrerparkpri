@@ -28,17 +28,17 @@ At Farrer Park Primary School, our CCA programme is designed to provide students
 </tbody>
 </table>
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: red;">
 <tbody>
 <tr>
 <td bgcolor="51a72c" colspan="5" style="width: 20%; text-align: center;"><span style="color: #ffffff;"><strong>Physical Sports</strong></span></td>
 </tr>
 <tr bgcolor="eaf1e9">
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 20%;">&nbsp;</td>
+<td style="width: 20%; text-align: center;">CCA</td>
+<td style="width: 20%; text-align: center;">Session 1</td>
+<td style="width: 20%; text-align: center;">Session 2</td>
+<td style="width: 20%; text-align: center;">Teacher IC</td>
+<td style="width: 20%; text-align: center;">Teachers</td>
 </tr>
 <tr bgcolor="d2e1ce">
 <td style="width: 20%;">&nbsp;</td>
