@@ -4,7 +4,7 @@ permalink: /cca2/
 variant: markdown
 description: ""
 ---
-<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: red;">
+<table border="5" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: red;">
 <tbody>
 <tr>
 <td bgcolor="d2e1ce" style="width: 50%;"><span style="text-decoration: underline;"><strong>Vision</strong></span><br>
