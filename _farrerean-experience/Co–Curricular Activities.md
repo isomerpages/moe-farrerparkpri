@@ -36,10 +36,10 @@ At Farrer Park Primary School, our CCA programme is designed to provide students
 <td style="width: 100%;">
 <span style="text-decoration: underline;"><strong>Programmes</strong></span><br>FPPS offers a wide range of CCAs categorized into four main domains:<strong><br></strong>
 <ul>
-<li>Physical Sports</li>
-<li>Clubs &amp; Societies</li>
-<li>Uniformed Groups</li>
-<li>Visual &amp; Performing Arts</li>
+<li style="font-size:16px">Physical Sports</li>
+<li style="font-size:16px">Clubs &amp; Societies</li>
+<li style="font-size:16px">Uniformed Groups</li>
+<li style="font-size:16px">Visual &amp; Performing Arts</li>
 </ul>
 Through active participation in these CCAs, students not only pursue their passions but also embody the school's motto, "Challenge the Limits," by pushing boundaries and striving for excellence in all endeavors. <br>For a preview of each CCA: <a target="_blank" href="https://go.gov.sg/fpps-cca">https://go.gov.sg/fpps-cca</a></td>
 </tr>
