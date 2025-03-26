@@ -8,7 +8,7 @@ description: ""
 <tbody>
 <tr>
 <td bgcolor="d2e1ce" style="width: 50%;"><span style="text-decoration: underline;"><strong>Vision</strong></span><br>
-To cultivate well-rounded individuals who embody our school's vision of being a "Fountain of Knowledge" and possessing a "Heart of Gold."
+To cultivate well-rounded individuals who embody our school's vision of being a "<em><strong>Fountain of Knowledge</strong></em>" and possessing a "<em><strong>Heart of Gold</strong></em>."
 </td>
 <td bgcolor="d2e1ce" style="width: 50%;"><span style="text-decoration: underline;"><strong>Approach</strong></span><br>
 Our CCA programme is structured to provide students with a broad-based exposure across various domains, allowing them to make informed choices about their areas of interest.
@@ -27,7 +27,14 @@ At Farrer Park Primary School, our CCA programme is designed to provide students
 </tr>
 </tbody>
 </table>
-
+<p><strong>Programmes<br></strong>FPPS offers a wide range of CCAs categorized into four main domains:<strong><br></strong></p>
+<ul>
+<li>Physical Sports</li>
+<li>Clubs &amp; Societies</li>
+<li>Uniformed Groups</li>
+<li>Visual &amp; Performing Arts</li>
+</ul>
+Through active participation in these CCAs, students not only pursue their passions but also embody the school's motto, "Challenge the Limits," by pushing boundaries and striving for excellence in all endeavors. <br>For a preview of each CCA: <a target="_blank" href="https://go.gov.sg/fpps-cca">https://go.gov.sg/fpps-cca</a><p></p>
 <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: red;">
 <tbody>
 <tr>
