@@ -133,3 +133,59 @@ At Farrer Park Primary School, our CCA programme is designed to provide students
 </tr>
 </tbody>
 </table>
+<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: red;">
+<tbody>
+<tr>
+<td bgcolor="51a72c" colspan="5" style="width: 20%; text-align: center;"><span style="color: #ffffff;"><strong>Clubs &amp; Societies</strong></span></td>
+</tr>
+<tr bgcolor="eaf1e9">
+<td style="width: 20%; text-align: center;"><strong>CCA</strong></td>
+<td style="width: 20%; text-align: center;"><strong>Session 1</strong></td>
+<td style="width: 20%; text-align: center;"><strong>Session 2</strong></td>
+<td style="width: 20%; text-align: center;"><strong>Teacher IC</strong></td>
+<td style="width: 20%; text-align: center;"><strong>Teachers</strong></td>
+</tr>
+<tr bgcolor="d2e1ce">
+<td style="width: 20%; text-align: center; vertical-align: middle;">Environmental Science</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
+<td style="width: 20%; vertical-align: middle;">Ms Ai Rin Low</td>
+<td style="width: 20%; vertical-align: middle;">Ms Zubaidah</td>
+</tr>
+<tr bgcolor="eaf1e9">
+<td style="width: 20%; text-align: center; vertical-align: middle;">Infocomm Technology</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
+<td style="width: 20%; vertical-align: middle;">Ms Lai Yan Ping</td>
+<td style="width: 20%;">Ms Clara Lim<br>Ms Stephanie New</td>
+</tr>
+</tbody>
+</table>
+<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: red;">
+<tbody>
+<tr>
+<td bgcolor="51a72c" colspan="5" style="width: 20%; text-align: center;"><span style="color: #ffffff;"><strong>Uniformed Groups</strong></span></td>
+</tr>
+<tr bgcolor="eaf1e9">
+<td style="width: 20%; text-align: center;"><strong>CCA</strong></td>
+<td style="width: 20%; text-align: center;"><strong>Session 1</strong></td>
+<td style="width: 20%; text-align: center;"><strong>Session 2</strong></td>
+<td style="width: 20%; text-align: center;"><strong>Teacher IC</strong></td>
+<td style="width: 20%; text-align: center;"><strong>Teachers</strong></td>
+</tr>
+<tr bgcolor="d2e1ce">
+<td style="width: 20%; text-align: center; vertical-align: middle;">Scouts</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
+<td style="width: 20%; vertical-align: middle;">Ms Monisha Samdas</td>
+<td style="width: 20%; vertical-align: middle;">Ms Miang Joo<br>Ms Vigneshwari</td>
+</tr>
+<tr bgcolor="eaf1e9">
+<td style="width: 20%; text-align: center; vertical-align: middle;">Boy's Brigade</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">Friday<br>1400 - 1600</td>
+<td style="width: 20%; vertical-align: middle;">Mr Harrison Goh</td>
+<td style="width: 20%;">Ms Aw Caili</td>
+</tr>
+</tbody>
+</table>
