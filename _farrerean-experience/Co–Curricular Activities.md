@@ -36,7 +36,7 @@ At Farrer Park Primary School, our CCA programme is designed to provide students
 <li>Visual &amp; Performing Arts</li>
 </ul>
 Through active participation in these CCAs, students not only pursue their passions but also embody the school's motto, "Challenge the Limits," by pushing boundaries and striving for excellence in all endeavors. <br>For a preview of each CCA: <a target="_blank" href="https://go.gov.sg/fpps-cca">https://go.gov.sg/fpps-cca</a>
-<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: black;">
+<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
 <tbody>
 <tr>
 <td bgcolor="51a72c" colspan="5" style="width: 20%; text-align: center;"><span style="color: #ffffff;"><strong>Physical Sports</strong></span></td>
@@ -92,7 +92,7 @@ Through active participation in these CCAs, students not only pursue their passi
 </tr>
 </tbody>
 </table>
-<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: red;">
+<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
 <tbody>
 <tr>
 <td bgcolor="51a72c" colspan="5" style="width: 20%; text-align: center;"><span style="color: #ffffff;"><strong>Visual &amp; Performing Arts</strong></span></td>
@@ -141,7 +141,7 @@ Through active participation in these CCAs, students not only pursue their passi
 </tr>
 </tbody>
 </table>
-<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: red;">
+<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
 <tbody>
 <tr>
 <td bgcolor="51a72c" colspan="5" style="width: 20%; text-align: center;"><span style="color: #ffffff;"><strong>Clubs &amp; Societies</strong></span></td>
@@ -169,7 +169,7 @@ Through active participation in these CCAs, students not only pursue their passi
 </tr>
 </tbody>
 </table>
-<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: red;">
+<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
 <tbody>
 <tr>
 <td bgcolor="51a72c" colspan="5" style="width: 20%; text-align: center;"><span style="color: #ffffff;"><strong>Uniformed Groups</strong></span></td>
