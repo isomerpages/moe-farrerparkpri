@@ -4,6 +4,7 @@ permalink: /cca2/
 variant: markdown
 description: ""
 ---
+# CCA
 <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: red;">
 <tbody>
 <tr>
