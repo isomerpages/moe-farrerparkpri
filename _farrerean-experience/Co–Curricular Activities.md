@@ -62,7 +62,7 @@ Through active participation in these CCAs, students not only pursue their passi
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
 <td style="width: 20%; vertical-align: middle;">Ms Frances Nield</td>
-<td style="width: 20%; vertical-align: middle;">Ms Rochelle<br>Ms Nicole Hon<br>Ms Sharon Yap</td>
+<td style="width: 20%; vertical-align: middle;">Ms Rochelle<br>Ms Chenyang<br>Ms Nicole Hon</td>
 </tr>
 <tr bgcolor="eaf1e9">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Football</td>
@@ -118,7 +118,7 @@ Through active participation in these CCAs, students not only pursue their passi
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
 <td style="width: 20%; vertical-align: middle;">Ms Baidah Ahmad</td>
-<td style="width: 20%;">Ms Norimah<br>Ms Candy Chua<br>Ms Vanessa Oh</td>
+<td style="width: 20%;">Ms Norimah<br>Ms Charis Ooi<br>Ms Vanessa Oh<br>Ms Candy Chua</td>
 </tr>
 <tr bgcolor="eaf1e9">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Modern Dance</td>
@@ -132,7 +132,7 @@ Through active participation in these CCAs, students not only pursue their passi
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
 <td style="width: 20%; vertical-align: middle;">Ms Wu Huishan</td>
-<td style="width: 20%; vertical-align: middle;">Ms Indrani<br>Ms Chenyang</td>
+<td style="width: 20%; vertical-align: middle;">Ms Indrani<br>Ms Sharon Yap</td>
 </tr>
 <tr bgcolor="eaf1e9">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Guitar Ensemble</td>
