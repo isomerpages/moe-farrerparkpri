@@ -41,7 +41,7 @@ At Farrer Park Primary School, our CCA programme is designed to provide students
 <li style="font-size:16px">Uniformed Groups</li>
 <li style="font-size:16px">Visual &amp; Performing Arts</li>
 </ul>
-Through active participation in these CCAs, students not only pursue their passions but also embody the school's motto, "Challenge the Limits," by pushing boundaries and striving for excellence in all endeavors. <br>For a preview of each CCA: <a target="_blank" href="https://go.gov.sg/fpps-cca">https://go.gov.sg/fpps-cca</a></td>
+Through active participation in these CCAs, students not only pursue their passions but also embody the school's motto, "<em><strong>Challenge the Limits</strong></em>" by pushing boundaries and striving for excellence in all endeavors. <br>For a preview of each CCA: <a target="_blank" href="https://go.gov.sg/fpps-cca">https://go.gov.sg/fpps-cca</a></td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +83,7 @@ Through active participation in these CCAs, students not only pursue their passi
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Friday<br>1400 - 1600</td>
 <td style="width: 20%; vertical-align: middle;">Ms Jeolinita Yeo</td>
-<td style="width: 20%; vertical-align: middle;">Ms Rahima<br>Ms Nurliza<br>Ms Nur Azizah<br>Ms Chua Mei Hua</td>
+<td style="width: 20%; vertical-align: middle;">Ms Rahima<br>Ms Nurliza<br>Ms Nur Azizah<br>Ms Chia Mei Hua</td>
 </tr>
 <tr bgcolor="d2e1ce">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Badminton</td>
