@@ -5,13 +5,14 @@ description: ""
 variant: markdown
 ---
 <h3>CCA</h3>
+<font size="3">
 <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
 <tbody>
 <tr>
 <td bgcolor="d2e1ce" style="width: 50%; border: 1px solid white;"><span style="text-decoration: underline;"><strong>Vision</strong></span><br>
 To cultivate well-rounded individuals who embody our school's vision of being a "<em><strong>Fountain of Knowledge</strong></em>" and possessing a "<em><strong>Heart of Gold</strong></em>."
 </td>
-<td bgcolor="d2e1ce" style="width: 50%; border: 1px solid white;"><strong>Approach</strong><br>
+<td bgcolor="d2e1ce" style="width: 50%; border: 1px solid white;"><span style="text-decoration: underline;"><strong>Approach</strong></span><br>
 Our CCA programme is structured to provide students with a broad-based exposure across various domains, allowing them to make informed choices about their areas of interest.
 </td>
 </tr>
@@ -33,7 +34,7 @@ At Farrer Park Primary School, our CCA programme is designed to provide students
 <tbody>
 <tr>
 <td style="width: 100%;">
-<strong>Programmes<br></strong>FPPS offers a wide range of CCAs categorized into four main domains:<strong><br></strong>
+<span style="text-decoration: underline;"><strong>Programmes</strong></span><br>FPPS offers a wide range of CCAs categorized into four main domains:<strong><br></strong>
 <ul>
 <li>Physical Sports</li>
 <li>Clubs &amp; Societies</li>
@@ -205,3 +206,4 @@ Through active participation in these CCAs, students not only pursue their passi
 </tr>
 </tbody>
 </table>
+</font>
