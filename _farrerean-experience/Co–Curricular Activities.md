@@ -5,18 +5,18 @@ description: ""
 variant: markdown
 ---
 <h3>CCA</h3>
-<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: red;">
+<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
 <tbody>
 <tr>
-<td bgcolor="d2e1ce" style="width: 50%;"><span style="text-decoration: underline;"><strong>Vision</strong></span><br>
+<td bgcolor="d2e1ce" style="width: 50%; border: 1px solid white;"><span style="text-decoration: underline;"><strong>Vision</strong></span><br>
 To cultivate well-rounded individuals who embody our school's vision of being a "<em><strong>Fountain of Knowledge</strong></em>" and possessing a "<em><strong>Heart of Gold</strong></em>."
 </td>
-<td bgcolor="d2e1ce" style="width: 50%;"><span style="text-decoration: underline;"><strong>Approach</strong></span><br>
+<td bgcolor="d2e1ce" style="width: 50%; border: 1px solid white;"><strong>Approach</strong><br>
 Our CCA programme is structured to provide students with a broad-based exposure across various domains, allowing them to make informed choices about their areas of interest.
 </td>
 </tr>
 <tr>
-<td bgcolor="eaf1e9" colspan="2" style="width: 100%; border-style: solid;"><span style="text-decoration: underline;"><strong>Objective</strong></span><br>
+<td bgcolor="eaf1e9" colspan="2" style="width: 100%;  border: 1px solid white;"><span style="text-decoration: underline;"><strong>Objective</strong></span><br>
 At Farrer Park Primary School, our CCA programme is designed to provide students with enriching experiences that support their holistic development. Through CCAs, we aim to enable students to
 	
 * **Discover Their Interests &amp; Talents** - Try out different activities and find what they love.
@@ -35,7 +35,7 @@ At Farrer Park Primary School, our CCA programme is designed to provide students
 <li>Uniformed Groups</li>
 <li>Visual &amp; Performing Arts</li>
 </ul>
-Through active participation in these CCAs, students not only pursue their passions but also embody the school's motto, "Challenge the Limits," by pushing boundaries and striving for excellence in all endeavors. <br>For a preview of each CCA: <a target="_blank" href="https://go.gov.sg/fpps-cca">https://go.gov.sg/fpps-cca</a><p></p>
+Through active participation in these CCAs, students not only pursue their passions but also embody the school's motto, "Challenge the Limits," by pushing boundaries and striving for excellence in all endeavors. <br>For a preview of each CCA: <a target="_blank" href="https://go.gov.sg/fpps-cca">https://go.gov.sg/fpps-cca</a>
 <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: red;">
 <tbody>
 <tr>
