@@ -1,13 +1,15 @@
 ---
 title: K2 Care
-permalink: /moe-kindergarten/joyful-jearning/k2-care/
+permalink: /moe-kindergarten/joyful-learning/k2-care/
 description: ""
 third_nav_title: Joyful Learning
 variant: markdown
 ---
+### English Language
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVn5Ii7Y2vH7RE3JeUA91xSx8feicgT-GWKv4ANjrk0jgKvatNFKCxMIUj1w90Ri0d8uU6tFy3S2w-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
 ### Chinese Language
-
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSrwJKpRs95dNLbGds6CDqsTbroiNHc34-_OFYU6AB5kpxKHqgJ0rGUi3YFUjKpeHz_f7qZbtyBn7qS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-### Tamil Language
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSkiMUzsVh2kkZxeF6EzArl_f0dVwgbTOmHlaLodaFbWrUpkyrw_sFGiiWbkjlcPAntdQqWbSwtC9xi/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKs6v_oX1oxUt45ZhOFJ25SqBTsNY1H0XG9j_m4pHgVQomE9FhdcoIcwe5baHJXijvXBdMSnSeYB_j/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<br>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vReE-YD4k74Atiu_T3HC10utkV9pjnYAt7Q2RTvpeEX2Jtsq1kl_paS04pURFW2fNOVXcYrKhfMkXI7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
