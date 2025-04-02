@@ -35,7 +35,7 @@ variant: markdown
 <td bgcolor="eaf1e9" colspan="3" style="width: 99.863%; border: 1px solid white;">On 6th November 2024, the Deepavali Assembly Programme titled <strong>‘Celebrations’</strong> was presented by AKT Creations. The programme highlighted the cultural significance of Deepavali and its associated traditions.</td>
 </tr>
 <tr>
-<td colspan="2" style="width: 50%; border: 1px solid white;"><img src="/images/2025/MT%20Tamil/Picture4.jpg" align="center"></td>
+<td style="width: 50%; border: 1px solid white;"><img src="/images/2025/MT%20Tamil/Picture4.jpg" align="center"></td>
 <td style="width: 50%; border: 1px solid white;"><img src="/images/2025/MT%20Tamil/Picture5.jpg" align="center"></td>
 </tr>
 <tr>
