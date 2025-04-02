@@ -42,9 +42,9 @@ variant: markdown
 <td bgcolor="d2e1ce" colspan="3" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>MTL Fortnight Activities</strong></td>
 </tr>
 <tr>
-<td style="width: 33.2877%; border: 1px solid white;">&nbsp;</td>
-<td style="width: 33.2877%; border: 1px solid white;">&nbsp;</td>
-<td style="width: 33.2877%; border: 1px solid white;">&nbsp;</td>
+<td style="width: 33.2877%; border: 1px solid white;"><img src="/images/2025/MT%20Tamil/Picture6.jpg" align="center"></td>
+<td style="width: 33.2877%; border: 1px solid white;"><img src="/images/2025/MT%20Tamil/Picture7.jpg" align="center"></td>
+<td style="width: 33.2877%; border: 1px solid white;"><img src="/images/2025/MT%20Tamil/Picture8.jpg" align="center"></td>
 </tr>
 </tbody>
 </table>
