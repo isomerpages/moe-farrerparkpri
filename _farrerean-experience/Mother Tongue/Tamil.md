@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Mother Tongue
 variant: markdown
 ---
-<h3>CCA</h3>
+<h3>Tamil</h3>
 <table border="1" style="width: 100%; border-collapse: collapse; border: 1px solid white;">
 <tbody>
 <tr>
@@ -13,11 +13,10 @@ variant: markdown
 </tr>
 <tr>
 <td bgcolor="eaf1e9" colspan="3" style="width: 99.863%; border: 1px solid white;">Tamil Language Learning and Promotion Committee (TLLPC) introduced the Cultural Performance Exposure Fund (CPEF) to encourage students to experience and enjoy Tamil cultural performances. On 21st March 2024, our Primary 3 pupils attended a Tamil drama titled <strong>Parameswara</strong> by Avant Theatre, enhancing their interest in the Tamil language and culture.</td>
-</tr>
+	</tr>
 <tr>
-<td style="width: 33.2877%; border: 1px solid white;">&nbsp;</td>
-<td style="width: 33.2877%; border: 1px solid white;">&nbsp;</td>
-<td style="width: 33.2877%; border: 1px solid white;">&nbsp;</td>
+<td colspan="3" style="width: 33.2877%; border: 1px solid white;">
+	<img src="/images/2025/MT%20Tamil/Picture1.jpg" align="center"></td>
 </tr>
 <tr>
 <td bgcolor="d2e1ce" colspan="3" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>2024 Spelling Bee Competition</strong></td>
@@ -26,9 +25,8 @@ variant: markdown
 <td bgcolor="eaf1e9" colspan="3" style="width: 99.863%; border: 1px solid white;">Some of our Primary 5 students participated in the annual Tamil Spelling Bee competition organized by Mediacorp. They displayed excellent team spirit, reached the semi-finals, and received their trophies on 23rd March 2024.</td>
 </tr>
 <tr>
-<td style="width: 33.2877%; border: 1px solid white;">&nbsp;</td>
-<td style="width: 33.2877%; border: 1px solid white;">&nbsp;</td>
-<td style="width: 33.2877%; border: 1px solid white;">&nbsp;</td>
+<td colspan="2" style="width: 50%; border: 1px solid white;">&nbsp;</td>
+<td style="width: 50%; border: 1px solid white;">&nbsp;</td>
 </tr>
 <tr>
 <td bgcolor="d2e1ce" colspan="3" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Deepavali Assembly Programme</strong></td>
