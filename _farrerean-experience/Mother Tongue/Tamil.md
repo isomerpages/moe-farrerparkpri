@@ -25,8 +25,8 @@ variant: markdown
 <td bgcolor="eaf1e9" colspan="3" style="width: 99.863%; border: 1px solid white;">Some of our Primary 5 students participated in the annual Tamil Spelling Bee competition organized by Mediacorp. They displayed excellent team spirit, reached the semi-finals, and received their trophies on 23rd March 2024.</td>
 </tr>
 <tr>
-<td colspan="2" style="width: 50%; border: 1px solid white;">&nbsp;</td>
-<td style="width: 50%; border: 1px solid white;">&nbsp;</td>
+<td colspan="2" style="width: 50%; border: 1px solid white;"><img src="/images/2025/MT%20Tamil/Picture2.jpg" align="center"></td>
+<td style="width: 50%; border: 1px solid white;"><img src="/images/2025/MT%20Tamil/Picture3.jpg" align="center"></td>
 </tr>
 <tr>
 <td bgcolor="d2e1ce" colspan="3" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Deepavali Assembly Programme</strong></td>
