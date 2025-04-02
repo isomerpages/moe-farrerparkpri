@@ -112,6 +112,12 @@ start of the year</p>
 </li>
 <li>
 <p>Primary 5 Matters</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/FPPS Connects/2025_P5_FPPS_Connects_28_Mar.pdf" rel="noopener nofollow" target="_blank">P5 FPPS Connects</a>
+</p>
+</li>
+</ul>
 </li>
 <li>
 <p>Primary 6 Matters</p>
