@@ -24,33 +24,29 @@ third_nav_title: Mother Tongue
     <img alt="Recess Activities" src="/images/2025/MT%20Malay/Picture5.jpg">
     <img alt="Recess Activities" src="/images/2025/MT%20Malay/Picture6.jpg">
 </details>
+<strong><span style="text-decoration: underline;">Mother Tongue Language Fortnight Activities</span></strong>
+<details>
+    <summary><strong>P1 – Folk Songs</strong></summary>
+    <img alt="Folk Song Picture 1" src="/images/2025/MT%20Malay/Picture7.jpg">
+    <img alt="Folk Song Picture 2" src="/images/2025/MT%20Malay/Picture8.jpg">
+</details>
 
 <details>
-    <summary><strong>Mother Tongue Language Fortnight Activities</strong></summary>
+    <summary><strong>P2 – Folk Songs</strong></summary>
+    <img alt="Folk Song Picture 3" src="/images/2025/MT%20Malay/Picture9.jpg">
+    <img alt="Folk Song Picture 4" src="/images/2025/MT%20Malay/Picture10.jpg">
+</details>
 
-    <details>
-        <summary><strong>P1 – Folk Songs</strong></summary>
-        <img src="/images/2025/MT%20Malay/Picture7.jpg">
-        <img src="/images/2025/MT%20Malay/Picture8.jpg">
-    </details>
+<details>
+    <summary><strong>P3 – Folk Tales</strong></summary>
+    <img alt="Folk Tales Picture 1" src="/images/2025/MT%20Malay/Picture11.jpg">
+    <img alt="Folk Tales Picture 2" src="/images/2025/MT%20Malay/Picture12.jpg">
+</details>
 
-    <details>
-        <summary><strong>P2 – Folk Songs</strong></summary>
-        <img src="/images/2025/MT%20Malay/Picture9.jpg">
-        <img src="/images/2025/MT%20Malay/Picture10.jpg">
-    </details>
-
-    <details>
-        <summary><strong>P3 – Folk Tales</strong></summary>
-        <img src="/images/2025/MT%20Malay/Picture11.jpg">
-        <img src="/images/2025/MT%20Malay/Picture12.jpg">
-    </details>
-
-    <details>
-        <summary><strong>P4 – Angklung Introduction</strong></summary>
-        <img src="/images/2025/MT%20Malay/Picture13.jpg">
-        <img src="/images/2025/MT%20Malay/Picture14.jpg">
-    </details>
+<details>
+    <summary><strong>P4 – Angklung Introduction</strong></summary>
+    <img alt="Angklung Picture 1" src="/images/2025/MT%20Malay/Picture13.jpg">
+    <img alt="Angklung Picture 2" src="/images/2025/MT%20Malay/Picture14.jpg">
 </details>
 
 <details>
