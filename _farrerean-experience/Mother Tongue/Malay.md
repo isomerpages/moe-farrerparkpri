@@ -101,7 +101,16 @@ variant: markdown
 <tr>
 	<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture24.jpg"></td>
 <td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture25.jpg"></td>
+</tr>
+<tr>
+<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Malay Storytelling Competition organised by Anglo-Chinese School (Junior)</strong></td>
+</tr>
+<tr>
+<td bgcolor="eaf1e9" colspan="2" style="width: 99.863%; border: 1px solid white;">Congratulations to <strong>Balqisya Binti Mohammed Barkathullah</strong> from 1 Integrity for winning the <strong>Best Script</strong> award in the Malay Storytelling Competition organized by Anglo-Chinese School (Junior)! Your creativity and storytelling skills truly stand out. Keep up the great work!</td>
 
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Malay/Picture27.jpg"></td>
 </tr>
 </tbody>
 </table>
