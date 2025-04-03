@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Mother Tongue
 ---
-<h2>Malay Language Events &amp; Activities 2024</h2>
+<h2>Malay</h2>
 
 <details>
     <summary><strong>Cepat Tepat Competition 2024</strong></summary>
