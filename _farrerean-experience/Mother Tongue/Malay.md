@@ -3,70 +3,93 @@ title: Malay
 permalink: /farrerean-experience/Mother-Tongue/malay/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
-### Malay
+<h3>Malay</h3>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Cepat Tepat Competition 2024</strong></td>
+</tr>
+<tr>
+<td bgcolor="eaf1e9" colspan="2" style="width: 99.863%; border: 1px solid white;">Organised by the Malay Language Learning and Promotion Committee (MLLPC) in partnership with Mediacorp.</td>
 
-#### P1 MTL Fortnight Activities – ‘Dokoh’ and ‘Tanjak’
- 
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Malay/Picture1.jpg"></td>
 
+</tr>
+<tr>
+<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Hari Raya Concert 2024</strong></td>
 
-<img src="/images/mt14.png" style="width:70%">
-
-Students having fun with the Dokoh making.
-
-
-<img src="/images/mt15.png" style="width:70%">
-
-
-Students trying out the Tanjak. 
-
-  
-
-#### P2 MTL Fortnight Activities – Traditional Games
- 
-
-Students having fun playing traditional games.  
-  
-
-<img src="/images/mt16.png" style="width:70%">
-
-<img src="/images/mt17.png" style="width:70%">
-
-#### P3 MTL Fortnight Activities – Kain Pelikat and Kain Batik
- 
-
-Students trying out the kain pelikat and kain batik.  
-  
-
-<img src="/images/mt18.png" style="width:70%">
-
-<img src="/images/mt19.png" style="width:70%">
-
-#### P4 MTL Fortnight Activities – Wayang Kulit
- 
-
-Pupils introduced to traditional Malay performing art: Wayang Kulit.  
-  
-
-<img src="/images/mt20.png" style="width:70%">
-
-
-#### P5 MTL Fortnight Activities – Batik
- 
-
-Pupils painting beautiful art pieces of “Batik”.  
-  
-
-<img src="/images/mt21.png" style="width:70%">
-
-<img src="/images/mt22.png" style="width:70%">
-
-#### P6 MTL Fortnight Activities – Jawi Calligraphy
- 
-
-Pupils trying to write in Jawi and Khat.  
-  
-
-<img src="/images/mt23.png" style="width:70%">
-
-<img src="/images/mt24.png" style="width:70%">
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture2.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture3.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
