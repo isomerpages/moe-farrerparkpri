@@ -21,19 +21,17 @@ variant: markdown
 </tr>
 <tr>
 <td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Hari Raya Concert 2024</strong></td>
-
 </tr>
 <tr>
 <td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture2.jpg"></td>
 <td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture3.jpg"></td>
 </tr>
 <tr>
-<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
-<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Hari Raya Celebration Recess Activities</strong></td>
 </tr>
 <tr>
-<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
-<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture5.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture6.jpg"></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
