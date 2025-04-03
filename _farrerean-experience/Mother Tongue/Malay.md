@@ -86,11 +86,21 @@ variant: markdown
 <td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture20.jpg"></td>
 </tr>
 	<tr>
-<td bgcolor="eaf1e9" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>P6 – Mother Tongue Camp</strong></td>
+<td bgcolor="eaf1e9" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>P5 Rakan Bahasa Penterjemah Pintar (Malay Translation Competition)</strong></td>
 </tr>
 <tr>
-<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture19.jpg"></td>
-<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture20.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture21.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture22.jpg"></td>
+</tr>
+<tr>
+<td bgcolor="eaf1e9" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>P4  Malay CPEF Theatre and Cultural Performance @ Sri Warisan Performing Arts Ltd</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture24.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture25.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Malay/Picture26.jpg"></td>
 </tr>
 </tbody>
 </table>
