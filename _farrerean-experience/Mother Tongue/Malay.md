@@ -9,15 +9,14 @@ variant: markdown
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">Cepat Tepat Competition 2024</td>
-<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Cepat Tepat Competition 2024</strong></td>
 </tr>
 <tr>
-<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
-<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td bgcolor="eaf1e9" colspan="2" style="width: 99.863%; border: 1px solid white;">Organised by the Malay Language Learning and Promotion Committee (MLLPC) in partnership with Mediacorp.</td>
+
 </tr>
 <tr>
-<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture1.jpg"></td>
 <td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;">&nbsp;</td>
 </tr>
 <tr>
