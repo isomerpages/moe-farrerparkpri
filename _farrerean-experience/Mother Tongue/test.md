@@ -48,7 +48,40 @@ third_nav_title: Mother Tongue
     <img alt="Angklung Picture 1" src="/images/2025/MT%20Malay/Picture13.jpg">
     <img alt="Angklung Picture 2" src="/images/2025/MT%20Malay/Picture14.jpg">
 </details>
+<details>
+    <summary><strong>P5 – Dikir Barat</strong></summary>
+    <img alt="Dikir Barat Picture 1" src="/images/2025/MT%20Malay/Picture15.jpg">
+    <img alt="Dikir Barat Picture 2" src="/images/2025/MT%20Malay/Picture16.jpg">
+</details>
 
+<details>
+    <summary><strong>P6 – Bengkel Kewartawanan (Journalism Workshop)</strong></summary>
+    <img alt="Journalism Workshop Picture 1" src="/images/2025/MT%20Malay/Picture17.jpg">
+    <img alt="Journalism Workshop Picture 2" src="/images/2025/MT%20Malay/Picture18.jpg">
+</details>
+
+<details>
+    <summary><strong>P6 – Mother Tongue Camp</strong></summary>
+    <img alt="Mother Tongue Camp Picture 1" src="/images/2025/MT%20Malay/Picture19.jpg">
+    <img alt="Mother Tongue Camp Picture 2" src="/images/2025/MT%20Malay/Picture20.jpg">
+</details>
+
+<details>
+    <summary><strong>P5 Rakan Bahasa Penterjemah Pintar (Malay Translation Competition)</strong></summary>
+    <img alt="Malay Translation Competition Picture 1" src="/images/2025/MT%20Malay/Picture21.jpg">
+    <img alt="Malay Translation Competition Picture 2" src="/images/2025/MT%20Malay/Picture22.jpg">
+</details>
+
+<details>
+    <summary><strong>P4 Malay CPEF Theatre and Cultural Performance @ Sri Warisan Performing Arts Ltd</strong></summary>
+    <img alt="Cultural Performance Picture" src="/images/2025/MT%20Malay/Picture26.jpg">
+</details>
+
+<details>
+    <summary><strong>Additional Pictures of CPEF Theatre and Cultural Performance</strong></summary>
+    <img alt="CPEF Picture 1" src="/images/2025/MT%20Malay/Picture24.jpg">
+    <img alt="CPEF Picture 2" src="/images/2025/MT%20Malay/Picture25.jpg">
+</details>
 <details>
     <summary><strong>Malay Storytelling Competition</strong></summary>
     <p>Congratulations to <strong>Balqisya Binti Mohammed Barkathullah</strong> from 1 Integrity for winning the <strong>Best Script</strong> award in the Malay Storytelling Competition organized by Anglo-Chinese School (Junior)!</p>
