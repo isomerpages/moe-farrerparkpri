@@ -40,7 +40,7 @@ The event was a tremendous success, receiving positive feedback from both teache
 </tr>
 	<tr>
 <td bgcolor="eaf1e9" colspan="2" style="width: 99.863%; border: 1px solid white;">As part of the <strong>Cultural Performance Exposure Scheme (CPES)</strong> (“文化随意门”计划), an initiative by the <strong>Committee to Promote Chinese Language Learning (CPCLL)</strong>, our Primary 4 students had the wonderful opportunity to immerse themselves in the richness of Chinese performing arts.
-<br>On <strong>July 29, 2024</strong>, they attended a captivating theatrical performance titled <em>“Monkey Subdues the White-Skeleton Demon”</em> (孙悟空三打白骨精) at <strong>Tampines East Community Club</strong>, presented by the <strong>Singapore Chinese Arts Centre</strong>.
+<br>On July 29, 2024, they attended a captivating theatrical performance titled <strong><em>“Monkey Subdues the White-Skeleton Demon”</em> (孙悟空三打白骨精)</strong> at Tampines East Community Club, presented by the Singapore Chinese Arts Centre.
 <br>Staged in the traditional <strong>Peking Opera</strong> style and featuring exhilarating martial arts scenes, the performance provided students with an authentic cultural experience. Following the show, they also gained insights into the rich history and artistry of Peking Opera, deepening their appreciation for this enduring art form.
 <br>The event received enthusiastic responses from both students and parents. Many parents expressed how the experience had sparked a greater interest in the <strong>Chinese language and culture</strong>, making it a meaningful and memorable learning journey for all.
 </td>
