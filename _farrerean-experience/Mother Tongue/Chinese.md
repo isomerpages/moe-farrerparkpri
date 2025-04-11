@@ -43,13 +43,10 @@ The event was a tremendous success, receiving positive feedback from both teache
 On July 29, 2024, they attended a captivating theatrical performance titled “Monkey Subdues the White-Skeleton Demon” (孙悟空三打白骨精) at Tampines East Community Club, presented by the Singapore Chinese Arts Centre.<br>
 Staged in the traditional Peking Opera style and featuring exhilarating martial arts scenes, the performance provided students with an authentic cultural experience. Following the show, they also gained insights into the rich history and artistry of Peking Opera, deepening their appreciation for this enduring art form.<br>
 The event received enthusiastic responses from both students and parents. Many parents expressed how the experience had sparked a greater interest in the Chinese language and culture, making it a meaningful and memorable learning journey for all.
-
 </td>
-
 </tr>
-<tr>
-<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture2.jpg"></td>
-<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture3.jpg"></td>
+	<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Chinese/Picture3.jpg"></td>
 </tr>
 <tr>
 <td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Hari Raya Celebration Recess Activities</strong></td>
