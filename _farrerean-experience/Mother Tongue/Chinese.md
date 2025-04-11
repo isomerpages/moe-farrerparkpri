@@ -70,17 +70,36 @@ The event was a tremendous success, receiving positive feedback from both teache
 <td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>10th National Primary School “Picture Book Creation” Competition 2024</strong></td>
 </tr>
 <tr>
-<td bgcolor="eaf1e9" colspan="2" style="width: 99.863%; border: 1px solid white;">In July 2024, two groups of our students proudly took part in the <strong>10th National Children's Picture Book Creation Competition</strong>, hosted by Nan Hua Primary School. The competition served as a valuable platform for young minds to express their creativity, imagination, and storytelling abilities through both illustrations and text.
+<td bgcolor="eaf1e9" colspan="2" style="width: 99.863%; border: 1px solid white;">In July 2024, two groups of our students proudly took part in the <strong>10th National Children's "Picture Book Creation" Competition</strong>, hosted by Nan Hua Primary School. The competition served as a valuable platform for young minds to express their creativity, imagination, and storytelling abilities through both illustrations and text.
 <br>Our students embraced the challenge with enthusiasm, demonstrating impressive artistic talent and originality. From planning storylines to choosing colours and crafting compositions, they thoughtfully brought their ideas to life—transforming their narratives into visually captivating picture books.
 <br>Through this hands-on experience, the students not only honed their writing and drawing skills but also gained a deeper appreciation for the creative process involved in picture book creation.
 <br>We remain committed to encouraging our students to participate in such enriching opportunities that nurture their imagination and expressive abilities. A heartfelt thank you to our supportive parents—and let’s continue to celebrate the incredible achievements of our young storytellers.</td>
 </tr>
-<tr>
-<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture7.jpg"></td>
-<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture8.jpg"></td>
+		<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Chinese/Picture7.png"></td>
+</tr>
+			<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Chinese/Picture8.png"></td>
+</tr>
+	<tr>
+<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>15th National Inter-Primary Schools Chinese Poetry Writing Competition</strong></td>
 </tr>
 <tr>
-<td bgcolor="eaf1e9" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>P2 – Folk Songs</strong></td>
+<td bgcolor="eaf1e9" colspan="2" style="width: 99.863%; border: 1px solid white;">Our students took part in the <strong>15th National Inter-Primary Schools Chinese Poetry Writing Competition</strong> with great enthusiasm, showcasing their vivid imagination and remarkable literary talent. The competition provided a meaningful platform for young writers to express their thoughts and reflections on life through the beauty of Chinese poetry.
+<br>This enriching experience not only strengthened students' writing skills but also sparked a deeper passion for poetry. Many of our students produced outstanding works that captured the attention of the judges and earned high praise.
+<br>We are proud to announce the following achievements:
+<ul>
+<li>
+🥉 <strong>Bronze Award</strong>: <em>Tyler Siow (P4, 2024)</em>
+</li>
+<li>
+🌟 <strong>Outstanding Award</strong>: <em>Zhu Ning Can (P3, 2024)</em>
+</li>
+<li>
+🌟 <strong>Outstanding Award</strong>: <em>Ke Yan Han (P3, 2024)</em>
+</li>
+</ul>
+<br>Each poem is a vibrant expression of thought and creativity—crafted with care and meaning. We extend our heartfelt thanks to the dedicated teachers, supportive parents, and talented students who made this success possible.</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture9.jpg"></td>
