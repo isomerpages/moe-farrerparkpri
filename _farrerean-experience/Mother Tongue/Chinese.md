@@ -5,78 +5,119 @@ description: ""
 third_nav_title: Mother Tongue
 variant: markdown
 ---
-### Chinese
+<h3>Chinese</h3>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>2025 Lunar New Year Celebration</strong></td>
+</tr>
+<tr>
+<td bgcolor="eaf1e9" colspan="2" style="width: 99.863%; border: 1px solid white;">We celebrated the Lunar New Year on January 28. Through this celebration, students had the opportunity to appreciate Chinese culture and experience the joy of traditional Chinese activities. <br>In addition to the traditional New Year festivities and the lion dance performance, we set up various booths where children could engage in traditional Chinese activities, such as:<br>
+<ul>
+<li><strong>写福字</strong> (writing good fortune characters)</li>
+<li><strong>投壶</strong> (pitch-pot)</li>
+<li><strong>泥塑</strong> (clay sculpture)</li>
+<li><strong>写祝语</strong> (writing festive greetings)</li>
+</ul>
+The event was a tremendous success, receiving positive feedback from both teachers and students. The students participated with great enthusiasm, which significantly deepened their interest in the Chinese language and culture. 
+</td>
 
-#### Cultural Performance Exposure Scheme (CPES)
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Chinese/Picture1.png"></td>
+</tr>
+<tr>
+<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Hari Raya Concert 2024</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture2.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture3.jpg"></td>
+</tr>
+<tr>
+<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Hari Raya Celebration Recess Activities</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture5.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture6.jpg"></td>
+</tr>
+<tr>
+<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Mother Tongue Language Fortnight Activities</strong></td>
+</tr>
+<tr>
+<td bgcolor="eaf1e9" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>P1 – Folk Songs</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture7.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture8.jpg"></td>
+</tr>
+<tr>
+<td bgcolor="eaf1e9" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>P2 – Folk Songs</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture9.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture10.jpg"></td>
+</tr>
+<tr>
+<td bgcolor="eaf1e9" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>P3 – Folk Tales</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture11.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture12.jpg"></td>
+</tr>
+<tr>
+<td bgcolor="eaf1e9" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>P4 – Angklung Introduction</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture13.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture14.jpg"></td>
+</tr>
+<tr>
+<td bgcolor="eaf1e9" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>P5 – Dikir Barat</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture15.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture16.jpg"></td>
+</tr>
+<tr>
+<td bgcolor="eaf1e9" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>P6 – Bengkel Kewartawanan (Journalism Workshop)</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture17.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture18.jpg"></td>
+</tr>
+<tr>
+<td bgcolor="eaf1e9" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>P6 – Mother Tongue Camp</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture19.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture20.jpg"></td>
+</tr>
+	<tr>
+<td bgcolor="eaf1e9" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>P5 Rakan Bahasa Penterjemah Pintar (Malay Translation Competition)</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture21.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture22.jpg"></td>
+</tr>
+<tr>
+<td bgcolor="eaf1e9" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>P4  Malay CPEF Theatre and Cultural Performance @ Sri Warisan Performing Arts Ltd</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Malay/Picture26.jpg"></td>
+</tr>
+<tr>
+	<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture24.jpg"></td>
+<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture25.jpg"></td>
+</tr>
+<tr>
+<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Malay Storytelling Competition organised by Anglo-Chinese School (Junior)</strong></td>
+</tr>
+<tr>
+<td bgcolor="eaf1e9" colspan="2" style="width: 99.863%; border: 1px solid white;">Congratulations to <strong>Balqisya Binti Mohammed Barkathullah</strong> from 1 Integrity for winning the <strong>Best Script</strong> award in the Malay Storytelling Competition organized by Anglo-Chinese School (Junior)! Your creativity and storytelling skills truly stand out. Keep up the great work!</td>
 
-An initiative by the Committee to Promote Chinese Language Learning (CPCLL), the Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划) aims to immerse students in Chinese dramas and language-related performances by local and international arts groups. On July 29th 2024, our Primary 4 pupils attended a captivating Chinese theatre performance, “Monkey Subdues White-Skeleton Demon” (孙悟空三打白骨精), at the Tampines East Community Club, presented by the Singapore Chinese Arts Centre.
-
-The show, performed in the traditional Peking Opera style with dynamic martial arts scenes, provided an authentic cultural experience. Following the performance, students were introduced to the rich heritage of Peking Opera, deepening their appreciation of this timeless art form.
-
-This enriching experience has significantly boosted students' interest in Chinese language and culture, with positive feedback from parents highlighting the success of the event.
-
-![](/images/2024/Chinese%20CPES/5.jpg)
-
-#### 2024 Lunar New Year Celebration
-On February 9th, the school celebrated Lunar New Year 2024 with lots of excitement! Every class decorated their whiteboards with red packets and other colorful materials. Students had a blast playing a quiz game to test their knowledge about Lunar New Year.
-
-The highlight of the day was the grand finale in the hall, where everyone gathered to watch a thrilling Lion Dance and join in a fun sing-along. It was a fantastic day filled with joy and laughter, making the start of the Year of the Dragon truly special. Happy Dragon Lunar New Year 2024!
-![](/images/2024/CNY/3.jpg)
-The school leaders usher in the new year with a blast! (Mdm Rahima, Mr Yong, Mr Ramesh, and Mr Yap)
-<br><img align="left" style="width:40%" height="auto" width="100%" src="/images/2024/CNY/1.jpg"><img align="center" style="width:40%" height="auto" width="100%" src="/images/2024/CNY/4.jpg">
-How eye-catching the whiteboards had become!
-![](/images/2024/CNY/2.jpg)
-Pupil representatives leading the school in saying New Year greetings!
-
-#### P1 MTL Fortnight Activities – Clay moulding（泥塑）
- 
-
-Students proudly presenting their animal clay figurine that they made.
-
-<img src="/images/mt2.png" style="width:70%">
-
-<img src="/images/mt3.png" style="width:70%">
-
-#### P2 MTL Fortnight Activities – Bean art (豆画)
- 
-
-Students learnt to make an art piece with beans!
-
-<img src="/images/mt4.png" style="width:70%">
-
-<img src="/images/mt5.png" style="width:70%">
-
-#### P3 MTL Fortnight Activities – Chinese knots (中国结)
- 
-
-Students putting their fingers to the test! They made beautiful Chinese knots.
-
-<img src="/images/mt6.png" style="width:70%">
-
-<img src="/images/mt7.png" style="width:70%">
-
-#### P4 MTL Fortnight Activities – Egg painting (蛋画)
- 
-
-Pupils learn to draw Chinese opera masks on eggs.
-
-<img src="/images/mt8.png" style="width:70%">
-
-<img src="/images/mt9.png" style="width:70%">
-
-#### P5 MTL Fortnight Activities – Lantern making（灯笼）
- 
-
-Pupils making traditional Chinese lanterns.
-
-<img src="/images/mt10.png" style="width:70%">
-
-<img src="/images/mt11.png" style="width:70%">
-
-#### P6 MTL Fortnight Activities – Kite making（风筝）
-
-Pupils make their own kite, an invention by the ancient Chinese.
-
-<img src="/images/mt12.png" style="width:70%">
-
-<img src="/images/mt13.png" style="width:70%">
+</tr>
+<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Malay/Picture27.jpg"></td>
+</tr>
+</tbody>
+</table>
