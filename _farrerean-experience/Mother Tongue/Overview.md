@@ -33,19 +33,19 @@ variant: markdown
 <td bgcolor="51a72c" style="width: 20%; text-align: center;"><span style="color: #ffffff;"><strong>Description</strong></span></td>
 </tr>
 <tr bgcolor="eaf1e9">
-<td style="width: 20%; text-align: center; vertical-align: middle;">Reading Programme</td>
-<td style="width: 20%; vertical-align: middle; text-align: left;">This school wide reading programme aims to build up pupils’ interest in reading Mother Tongue books. Post-reading activities are conducted after pupils completed reading the MT story books.</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;"><strong>Reading Programme
+</strong></td><td style="width: 20%; vertical-align: middle; text-align: left;">This school wide reading programme aims to build up pupils’ interest in reading Mother Tongue books. Post-reading activities are conducted after pupils completed reading the MT story books.</td>
 </tr>
 <tr bgcolor="d2e1ce">
-<td style="width: 20%; text-align: center; vertical-align: middle;">MT Language Fortnight</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;"><strong>MT Language Fortnight</strong></td>
 <td style="width: 20%; vertical-align: middle; text-align: left;">The MTL Fortnight aims to create an immersive environment for our pupils in their learning of the Mother Tongue language and culture. During the 2 weeks programme, a variety of cultural and language activities related to the Mother Tongue languages are organised for pupils. These activities provide platforms for students to actively learn MT and the associated culture to experience MT as a ‘living language’.</td>
 </tr>
 <tr bgcolor="eaf1e9">
-<td style="width: 20%; text-align: center; vertical-align: middle;">MT Language and Cultural Camp</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;"><strong>MT Language and Cultural Camp</strong></td>
 <td style="width: 20%; vertical-align: middle; text-align: left;">P6 pupils participate in activities related to Mother Tongue language and culture in this annual day camp. Activities include artefact making, playing traditional games and quizzes.</td>
 </tr>
 <tr bgcolor="d2e1ce">
-<td style="width: 20%; text-align: center; vertical-align: middle;">CPES / CPEF</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;"><strong>CPES / CPEF</strong></td>
 <td style="width: 20%; vertical-align: middle; text-align: left;">To cultivate the interest of pupils in cultural performances and in learning Mother Tongue language, pupils attend suitable theatre plays at public performance arts venues outside of school.</td>
 </tr>
 </tbody>
