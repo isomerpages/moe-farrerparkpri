@@ -67,10 +67,13 @@ The event was a tremendous success, receiving positive feedback from both teache
 <td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Chinese/Picture6.png"></td>
 </tr>
 <tr>
-<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Mother Tongue Language Fortnight Activities</strong></td>
+<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>10th National Primary School “Picture Book Creation” Competition 2024</strong></td>
 </tr>
 <tr>
-<td bgcolor="eaf1e9" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>P1 – Folk Songs</strong></td>
+<td bgcolor="eaf1e9" colspan="2" style="width: 99.863%; border: 1px solid white;">In July 2024, two groups of our students proudly took part in the <strong>10th National Children's Picture Book Creation Competition</strong>, hosted by Nan Hua Primary School. The competition served as a valuable platform for young minds to express their creativity, imagination, and storytelling abilities through both illustrations and text.
+<br>Our students embraced the challenge with enthusiasm, demonstrating impressive artistic talent and originality. From planning storylines to choosing colours and crafting compositions, they thoughtfully brought their ideas to life—transforming their narratives into visually captivating picture books.
+<br>Through this hands-on experience, the students not only honed their writing and drawing skills but also gained a deeper appreciation for the creative process involved in picture book creation.
+<br>We remain committed to encouraging our students to participate in such enriching opportunities that nurture their imagination and expressive abilities. A heartfelt thank you to our supportive parents—and let’s continue to celebrate the incredible achievements of our young storytellers.</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture7.jpg"></td>
