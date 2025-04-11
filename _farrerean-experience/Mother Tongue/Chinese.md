@@ -27,7 +27,16 @@ The event was a tremendous success, receiving positive feedback from both teache
 <td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Chinese/Picture1.png"></td>
 </tr>
 <tr>
-<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Hari Raya Concert 2024</strong></td>
+  <td bgcolor="eaf1e9" style="text-align: left; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2">
+    The School Leaders ushered in the new year with a blast!<br>
+    (From left to right: Mdm Rahima, Mr Yap and Mr Yong)
+  </td>
+</tr>
+	<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Chinese/Picture2.jpg"></td>
+</tr>
+<tr>
+<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Chinese Cultural Performance Exposure Scheme (CPES) - 2024</strong></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture2.jpg"></td>
