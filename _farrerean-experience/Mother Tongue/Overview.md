@@ -6,6 +6,7 @@ third_nav_title: Mother Tongue
 variant: markdown
 ---
 <h3>Mother Tongue</h3>
+<font size="3">
 <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
 <tbody>
 	<tr>
@@ -54,4 +55,4 @@ Useful information for parents who wish to find out how they can support their c
 Parents’ Guide to MTL Curriculum (available in both English and the respective Mother Tongue Languages) can be downloaded <a target="_blank" href="https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages/#:~:text=To%20equip%20parents%20with%20a%20better%20understanding%20of,both%20English%20and%20the%20respective%20Mother%20Tongue%20Languages.">here</a>.
 </td></tr>
 </tbody>
-</table>
+</table></font>
