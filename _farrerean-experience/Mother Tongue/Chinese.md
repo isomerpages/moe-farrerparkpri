@@ -57,9 +57,14 @@ The event was a tremendous success, receiving positive feedback from both teache
 <br>More than just language learning, this event allows students to connect with traditional art forms and cultural practices. Through active participation, they build confidence in using their mother tongue while developing a deeper appreciation for the value of preserving their cultural heritage.
 </td>
 </tr>
-<tr>
-<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture5.jpg"></td>
-<td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture6.jpg"></td>
+	<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Chinese/Picture4.png"></td>
+</tr>
+		<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Chinese/Picture5.png"></td>
+</tr>
+		<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Chinese/Picture6.png"></td>
 </tr>
 <tr>
 <td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Mother Tongue Language Fortnight Activities</strong></td>
