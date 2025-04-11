@@ -16,8 +16,8 @@ variant: markdown
 <td bgcolor="d2e1ce" style="width: 50%; border: 1px solid white;"><span style="text-decoration: underline;"><strong>Vision</strong></span><br>To nurture confident and effective communicators who are rooted in their culture and proficient in their Mother Tongue Languages.</td>
 </tr>
 <tr>
-<td bgcolor="eaf1e9" colspan="2" style="width: 100%; border: 1px solid white;">
-<p><span style="text-decoration: underline;"><strong>Objective</strong></span><br>At Farrer Park Primary School, we aim at providing a holistic education whereby every child will be able to master listening, speaking, reading, writing and communication skills in their MTL and appreciate his/her culture.</p>
+<td bgcolor="eaf1e9" colspan="2" style="width: 100%; border: 1px solid white; font-size:16px;">
+<p><span style="text-decoration: underline;"><strong>Objective</strong></span><br>At Farrer Park Primary School, we aim to provide a holistic education whereby every child will be able to master listening, speaking, reading, writing and communication skills in their MTL and appreciate his/her culture.</p>
 <p>The Mother Tongue Department at Farrer Park Primary School provides a linguistically rich and vibrant cultural environment for pupils to attain these skills.</p>
 </td>
 </tr>
@@ -26,7 +26,7 @@ variant: markdown
 <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
 <tbody>
 <tr>
-<td style="width: 100%;"><span style="text-decoration: underline;"><strong>Programmes</strong></span><br>These are the key programmes at Farrer Park Primary School for the 3 Mother Tongue Languages:<strong><br></strong>
+<td style="width: 100%;"><span style="text-decoration: underline;"><strong>Programmes</strong></span><br>Below are the main MTL programmes at Farrer Park Primary School:<strong><br></strong>
 <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
 <tbody>
 <tr>
