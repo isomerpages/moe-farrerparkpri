@@ -17,7 +17,7 @@ variant: markdown
 </tr>
 <tr>
 <td bgcolor="eaf1e9" colspan="2" style="width: 100%; border: 1px solid white;">
-<p><span style="text-decoration: underline;"><strong>Objective</strong></span><br>At Farrer Park Primary School, we aim at providing a holistic education whereby every child will be able to master listening, speaking, reading, writing and communication skills in their MTL and appreciate his/her culture.</p>
+<p><span style="text-decoration: underline;"><strong>Objective</strong></span><br>At Farrer Park Primary School, we aim to provide a holistic education whereby every child will be able to master listening, speaking, reading, writing and communication skills in their MTL and appreciate his/her culture.</p>
 <p>The Mother Tongue Department at Farrer Park Primary School provides a linguistically rich and vibrant cultural environment for pupils to attain these skills.</p>
 </td>
 </tr>
