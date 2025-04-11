@@ -49,7 +49,13 @@ The event received enthusiastic responses from both students and parents. Many p
 <td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MT%20Chinese/Picture3.jpg"></td>
 </tr>
 <tr>
-<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Hari Raya Celebration Recess Activities</strong></td>
+<td bgcolor="d2e1ce" colspan="2" style="text-align: center; width: 99.863%; border: 1px solid white;"><strong>Mother Tongue Language Fortnight - 2024</strong></td>
+</tr>
+		<tr>
+<td bgcolor="eaf1e9" colspan="2" style="width: 99.863%; border: 1px solid white;"><strong>Mother Tongue Language Fortnight</strong> is a meaningful annual event organised by the school to ignite students' passion for their mother tongue and strengthen their cultural identity through rich and diverse experiences.
+<br>Throughout the fortnight, students take part in a wide array of engaging language and cultural activities such as <strong>clay sculpture</strong>, <strong>bean art</strong>, <strong>fan painting</strong>, <strong>Tai Chi</strong>, <strong>lantern making</strong>, and <strong>seal carving</strong>. These hands-on sessions provide an immersive environment for students to explore the beauty of their mother tongue beyond the classroom.
+<br>More than just language learning, this event allows students to connect with traditional art forms and cultural practices. Through active participation, they build confidence in using their mother tongue while developing a deeper appreciation for the value of preserving their cultural heritage.
+</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 50%; border: 1px solid white; vertical-align: middle;"><img src="/images/2025/MT%20Malay/Picture5.jpg"></td>
