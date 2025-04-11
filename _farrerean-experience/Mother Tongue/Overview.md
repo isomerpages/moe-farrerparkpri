@@ -8,6 +8,9 @@ variant: markdown
 <h3>Mother Tongue</h3>
 <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
 <tbody>
+	<tr>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MTPicture1.jpg"></td>
+</tr>
 <tr>
 <td bgcolor="d2e1ce" style="width: 50%; border: 1px solid white;"><span style="text-decoration: underline;"><strong>Vision</strong></span><br>To nurture confident and effective communicators who are rooted in their culture and proficient in their Mother Tongue Languages.</td>
 </tr>
