@@ -26,7 +26,7 @@ variant: markdown
 <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
 <tbody>
 <tr>
-<td style="width: 100%;"><span style="text-decoration: underline;"><strong>Programmes</strong></span><br>These are the key programmes at Farrer Park Primary School for the 3 Mother Tongue Languages:<strong><br></strong>
+<td style="width: 100%;"><span style="text-decoration: underline;"><strong>Programmes</strong></span><br>Below are the main MTL programmes at Farrer Park Primary School:<strong><br></strong>
 <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
 <tbody>
 <tr>
