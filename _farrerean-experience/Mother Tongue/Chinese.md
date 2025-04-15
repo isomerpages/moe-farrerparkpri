@@ -13,11 +13,11 @@ variant: markdown
 </tr>
 <tr>
 <td bgcolor="eaf1e9" colspan="2" style="width: 99.863%; border: 1px solid white;">We celebrated the Lunar New Year on January 28. Through this celebration, students had the opportunity to appreciate Chinese culture and experience the joy of traditional Chinese activities. <br>In addition to the traditional New Year festivities and the lion dance performance, we set up various booths where children could engage in traditional Chinese activities, such as:<br>
-<ul>
-<li><strong>写福字</strong> (writing good fortune characters)</li>
-<li><strong>投壶</strong> (pitch-pot)</li>
-<li><strong>泥塑</strong> (clay sculpture)</li>
-<li><strong>写祝语</strong> (writing festive greetings)</li>
+<ul style="font-size: 16px;">
+  <li style="font-size: 16px;"><strong>写福字</strong> (writing good fortune characters)</li>
+  <li style="font-size: 16px;"><strong>投壶</strong> (pitch-pot)</li>
+  <li style="font-size: 16px;"><strong>泥塑</strong> (clay sculpture)</li>
+  <li style="font-size: 16px;"><strong>写祝语</strong> (writing festive greetings)</li>
 </ul>
 The event was a tremendous success, receiving positive feedback from both teachers and students. The students participated with great enthusiasm, which significantly deepened their interest in the Chinese language and culture. 
 </td>
