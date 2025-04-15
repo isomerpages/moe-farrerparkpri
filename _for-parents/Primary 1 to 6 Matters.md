@@ -4,8 +4,9 @@ permalink: /for-parents/news-and-information/p1-to-p6-matters/
 description: ""
 variant: markdown
 ---
+<font size="3">
 <div style="background-color: #eaf1e9; padding: 0px; border-radius: 0px;">
-  <h3 style="background-color: #d2e1ce; padding: 10px;">All Student Matters</h3>
+  <h5 style="background-color: #d2e1ce; padding: 10px;">All Student Matters</h5>
   <ul>
     <li><a rel="noopener noreferrer nofollow" target="_blank" href="/files/2025/Product_Fact_Sheet__Year_2025_.pdf"> Group Personal Accident Information Sheet </a></li>
     <li><strong>Year 2025 Primary 1 - 6 Booklists</strong>
@@ -25,7 +26,7 @@ variant: markdown
     </li>
     <li><a rel="noopener noreferrer nofollow" target="_blank" href="/files/2025/Binder_Bus_2025.pdf">School Bus 2025 Form</a></li>
   </ul>
-  <h4 style="margin-top: 30px; background-color: #d2e1ce; padding: 10px;">Leave of Absence (LOA)</h4>
+  <h5 style="margin-top: 30px; background-color: #d2e1ce; padding: 10px;">Leave of Absence (LOA)</h5>
   <p>The Leave of Absence (LOA) scheme applies to all Singapore Citizen (SC) and Permanent Resident (PR) children.</p>
   <ul>
     <li>An SC or PR</li>
@@ -34,7 +35,7 @@ variant: markdown
     <li>Or: Registered for P1 but overseas at the start of the year</li>
   </ul>
   <p><a rel="noopener noreferrer nofollow" target="_blank" href="https://form.gov.sg/#!/61023b016bd2f30011b37e2a">Online Application Form for LOA</a></p>
-  <h4 style="margin-top: 30px; background-color: #d2e1ce; padding: 10px;">Level-Specific Information</h4>
+  <h5 style="margin-top: 30px; background-color: #d2e1ce; padding: 10px;">Level-Specific Information</h5>
   <details style="margin-bottom: 10px;">
     <summary style="font-weight: bold; cursor: pointer; padding: 8px; background-color: #d2e1ce; border-radius: px;">Primary 1</summary>
     <ul style="margin-top: 10px; padding-left: 20px;">
@@ -72,4 +73,4 @@ variant: markdown
       <li><a rel="noopener nofollow" target="_blank" href="/files/2025/FPPS Connects/2025_P6_FPPS_Connects_14_Mar.pdf">P6 FPPS Connects</a></li>
     </ul>
   </details>
-</div>
+</div></font>

@@ -1,7 +1,8 @@
 ---
 title: Assessment Matters
-permalink: /for-parents/News-and-Information/assessment-matters/
+permalink: /for-parents/news-and-information/assessment-matters/
 description: ""
+variant: markdown
 ---
 There are no weighted assessment for P1 and P2 Levels  
 
@@ -107,8 +108,8 @@ There are no weighted assessment for P1 and P2 Levels
 			<td style="box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0.5em 0.75em; vertical-align: top; text-align: center;">Term 4 - PSLE</td>
 		</tr>
 		<tr style="box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;">
-			<td style="box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top; text-align: center;">Term Review<br />
-			(non-weighted)<br />
+			<td style="box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top; text-align: center;">Term Review<br>
+			(non-weighted)<br>
 			All subjects are full papers</td>
 			<td style="box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top; text-align: center;">30%</td>
 			<td style="box-sizing: border-box; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0.5em 0.75em; vertical-align: top; text-align: center;">70%</td>
@@ -170,7 +171,7 @@ There are no weighted assessment for P1 and P2 Levels
 		</tr>
 		<tr>
 			<td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td>
-			<td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&ge; 90</td>
+			<td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">≥ 90</td>
 		</tr>
 		<tr>
 			<td style="border-color:#343434;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td>
@@ -217,7 +218,7 @@ There are no weighted assessment for P1 and P2 Levels
 		<tr>
 			<td style="background-color:#DDD;border-color:#343434;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">AL</td>
 			<td style="background-color:#DDD;border-color:#343434;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mark Range&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
-			<td style="background-color:#DDD;border-color:#343434;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Equivalent<br />
+			<td style="background-color:#DDD;border-color:#343434;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Equivalent<br>
 			​Standard Level AL</td>
 		</tr>
 		<tr>
