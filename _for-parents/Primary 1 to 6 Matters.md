@@ -4,6 +4,7 @@ permalink: /for-parents/news-and-information/p1-to-p6-matters/
 description: ""
 variant: markdown
 ---
+<font size="3">
 <div style="background-color: #eaf1e9; padding: 0px; border-radius: 0px;">
   <h3 style="background-color: #d2e1ce; padding: 10px;">All Student Matters</h3>
   <ul>
@@ -72,4 +73,4 @@ variant: markdown
       <li><a rel="noopener nofollow" target="_blank" href="/files/2025/FPPS Connects/2025_P6_FPPS_Connects_14_Mar.pdf">P6 FPPS Connects</a></li>
     </ul>
   </details>
-</div>
+</div></font>
