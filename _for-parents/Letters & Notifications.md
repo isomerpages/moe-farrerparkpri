@@ -4,7 +4,6 @@ permalink: /for-parents/news-and-information/letters-and-notifications/
 description: ""
 variant: markdown
 ---
-<h3>Letters &amp; Notifications</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; background-color: #eaf1e9; padding: 10px;">
   
   <div style="flex: 1 1 300px; border: 2px solid #d2e1ce; background-color: #ffffff; padding: 15px;">
