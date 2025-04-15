@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div style="background-color: #eaf1e9; padding: 0px; border-radius: 0px;">
-  <h3 style="background-color: #d2e1ce; padding: 10px;">All Student Matters</h3>
+  <h4 style="background-color: #d2e1ce; padding: 10px;">All Student Matters</h4>
   <ul style="font-size: 16px;">
     <li style="font-size: 16px;"><a rel="noopener noreferrer nofollow" target="_blank" href="/files/2025/Product_Fact_Sheet__Year_2025_.pdf"> Group Personal Accident Information Sheet </a></li>
     <li style="font-size: 16px;"><strong>Year 2025 Primary 1 - 6 Booklists</strong>
@@ -26,7 +26,7 @@ variant: markdown
     <li style="font-size: 16px;"><a rel="noopener noreferrer nofollow" target="_blank" href="/files/2025/Binder_Bus_2025.pdf">School Bus 2025 Form</a></li>
   </ul>
 
-  <h3 style="margin-top: 30px; background-color: #d2e1ce; padding: 10px;">Leave of Absence (LOA)</h3>
+  <h4 style="margin-top: 30px; background-color: #d2e1ce; padding: 10px;">Leave of Absence (LOA)</h4>
   <p style="font-size: 16px;">The Leave of Absence (LOA) scheme applies to all Singapore Citizen (SC) and Permanent Resident (PR) children.</p>
   <ul style="font-size: 16px;">
     <li style="font-size: 16px;">An SC or PR</li>
@@ -36,7 +36,7 @@ variant: markdown
   </ul>
   <p style="font-size: 16px;"><a rel="noopener noreferrer nofollow" target="_blank" href="https://form.gov.sg/#!/61023b016bd2f30011b37e2a">Online Application Form for LOA</a></p>
 
-  <h3 style="margin-top: 30px; background-color: #d2e1ce; padding: 10px;">Level-Specific Information</h3>
+  <h4 style="margin-top: 30px; background-color: #d2e1ce; padding: 10px;">Level-Specific Information</h4>
   <details style="margin-bottom: 10px;">
     <summary style="font-weight: bold; cursor: pointer; padding: 8px; background-color: #d2e1ce; border-radius: 5px;">Primary 1</summary>
     <ul style="margin-top: 10px; padding-left: 20px; font-size: 16px;">
