@@ -7,11 +7,10 @@ variant: markdown
 <div style="margin-bottom: 20px;" class="iframe-wrapper">
   <iframe style="border: 0;" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=fpps%40moe.edu.sg&amp;ctz=Asia%2FSingapore"></iframe>
 </div>
-<h4 style="color: #51a72c;">School Terms and Holidays for 2025</h4>
-<br>
+<h4>School Terms and Holidays for 2025</h4>
 For more information, you may also refer to
   <a href="https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025" rel="noopener noreferrer nofollow" target="_blank">MOE's website</a>.
-<h4 style="color: #51a72c;">School Calendar 2025</h4>
+<h4>School Calendar 2025</h4>
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tbody>
     <tr style="background-color: #51a72c; color: white;">
@@ -48,7 +47,7 @@ For more information, you may also refer to
   </tbody>
 </table>
 
-<h4 style="color: #51a72c;">School Vacation 2025</h4>
+<h4>School Vacation 2025</h4>
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tbody>
     <tr style="background-color: #51a72c; color: white;">
@@ -73,7 +72,7 @@ For more information, you may also refer to
   </tbody>
 </table>
 
-<h4 style="color: #51a72c;">Scheduled School Holidays 2025</h4>
+<h4>Scheduled School Holidays 2025</h4>
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tbody>
     <tr style="background-color: #d2e1ce;">
@@ -91,7 +90,7 @@ For more information, you may also refer to
   </tbody>
 </table>
 
-<h4 style="color: #51a72c;">Public Holidays 2025</h4>
+<h4>Public Holidays 2025</h4>
 <table style="width: 100%; border-collapse: collapse;">
   <tbody>
     <tr style="background-color: #51a72c; color: white;">
