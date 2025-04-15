@@ -35,7 +35,6 @@ variant: markdown
       </li>
       <li><a rel="noopener noreferrer nofollow" target="_blank" href="/files/2025/Binder_Bus_2025.pdf">School Bus 2025 Form</a></li>
     </ul>
-
     <h3 style="margin-top: 30px; background-color: #d2e1ce; padding: 10px;">Leave of Absence (LOA)</h3>
     <p>The Leave of Absence (LOA) scheme applies to all Singapore Citizen (SC) and Permanent Resident (PR) children.</p>
     <ul>
@@ -44,8 +43,7 @@ variant: markdown
       <li>Accompanying parent on overseas posting and will return to rejoin school</li>
       <li>Or: Registered for P1 but overseas at the start of the year</li>
     </ul>
-    <p><a rel="noopener noreferrer nofollow" target="_blank" href="https://form.gov.sg/#!/61023b016bd2f30011b37e2a">Online Application Form for LOA</a></p>
-
+<a rel="noopener noreferrer nofollow" target="_blank" href="https://form.gov.sg/#!/61023b016bd2f30011b37e2a">Online Application Form for LOA</a>
     <h3 style="margin-top: 30px; background-color: #d2e1ce; padding: 10px;">Level-Specific Information</h3>
     <details style="margin-bottom: 10px;">
       <summary style="font-weight: bold; cursor: pointer; padding: 8px; background-color: #d2e1ce; border-radius: 5px;">Primary 1</summary>
@@ -54,35 +52,30 @@ variant: markdown
         <li><a rel="noopener nofollow" target="_blank" href="/files/2025/FPPS Connects/P1_Total_Curriculum_Briefing_2025.pdf">P1 Total Curriculum Briefing</a></li>
       </ul>
     </details>
-
     <details style="margin-bottom: 10px;">
       <summary style="font-weight: bold; cursor: pointer; padding: 8px; background-color: #d2e1ce; border-radius: 5px;">Primary 2</summary>
       <ul style="margin-top: 10px; padding-left: 20px;">
         <li><a rel="noopener nofollow" target="_blank" href="/files/2025/FPPS Connects/P2_Total_Curriculum_Briefing_2025.pdf">P2 Total Curriculum Briefing</a></li>
       </ul>
     </details>
-
     <details style="margin-bottom: 10px;">
       <summary style="font-weight: bold; cursor: pointer; padding: 8px; background-color: #d2e1ce; border-radius: 5px;">Primary 3</summary>
       <ul style="margin-top: 10px; padding-left: 20px;">
         <li><a rel="noopener nofollow" target="_blank" href="/files/2025/FPPS Connects/2025_P3___P4_FPPS_Connects_13_Mar.pdf">P3 FPPS Connects</a></li>
       </ul>
     </details>
-
     <details style="margin-bottom: 10px;">
       <summary style="font-weight: bold; cursor: pointer; padding: 8px; background-color: #d2e1ce; border-radius: 5px;">Primary 4</summary>
       <ul style="margin-top: 10px; padding-left: 20px;">
         <li><a rel="noopener nofollow" target="_blank" href="/files/2025/FPPS Connects/2025_P3___P4_FPPS_Connects_13_Mar.pdf">P4 FPPS Connects</a></li>
       </ul>
     </details>
-
     <details style="margin-bottom: 10px;">
       <summary style="font-weight: bold; cursor: pointer; padding: 8px; background-color: #d2e1ce; border-radius: 5px;">Primary 5</summary>
       <ul style="margin-top: 10px; padding-left: 20px;">
         <li><a rel="noopener nofollow" target="_blank" href="/files/2025/FPPS Connects/2025_P5_FPPS_Connects_28_Mar.pdf">P5 FPPS Connects</a></li>
       </ul>
     </details>
-
     <details>
       <summary style="font-weight: bold; cursor: pointer; padding: 8px; background-color: #d2e1ce; border-radius: 5px;">Primary 6</summary>
       <ul style="margin-top: 10px; padding-left: 20px;">
