@@ -91,8 +91,6 @@ There are no weighted assessment for P1 and P2 Levels
     </tr>
   </tbody>
 </table>
-
-<br>
 <h2>Grading System and Marks Range</h2>
 
 <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; font-size: 14px;">
@@ -127,7 +125,6 @@ There are no weighted assessment for P1 and P2 Levels
   </tbody>
 </table>
 
-<br>
 <table class="tg" style="border-collapse:collapse;border-spacing:0">
   <thead>
     <tr style="background-color: #d2e1ce;">
@@ -210,6 +207,3 @@ There are no weighted assessment for P1 and P2 Levels
     </tr>
   </tbody>
 </table>
-
-
-
