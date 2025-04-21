@@ -3,45 +3,73 @@ title: Installing and Using ScreenGuide
 permalink: /ict/Manage-your-Childs-Device/installing-and-using-screenguide/
 description: ""
 third_nav_title: TE:D Learning Programme
+variant: markdown
 ---
-### Follow the 3 steps to setup ScreenGuide.
- 
+<h3 style="margin-bottom: 20px;">Follow the 3 Steps to Setup ScreenGuide</h3>
 
-#### Step 1.
+<h4>Step 1</h4>
+<p>
+Download ScreenGuide for your device using the links below:
+</p>
 
-Download ScreenGuide for your device via the link below.
-<br>For Android or Windows users, please use the following link for ScreenGuide
- <br> <a href="https://screenguide.mosyle.com/">https://screenguide.mosyle.com/</a>
-|  |  |
-|---|---|
-| <a href="https://apps.apple.com/us/app/screenguide-parental-control/id1114158345"><img style="width:65%" src="/images/usg2.png"></a> |
+<p>
+For Android or Windows users, visit:<br>
+<a target="_blank" href="https://screenguide.mosyle.com/">https://screenguide.mosyle.com/</a>
+</p>
 
-#### Step 2.
+<table style="border: none; width: 100%; margin-top: 10px;">
+  <tbody><tr>
+    <td style="text-align: center; vertical-align: middle;">
+      <a target="_blank" href="https://apps.apple.com/us/app/screenguide-parental-control/id1114158345">
+        <img alt="Download ScreenGuide from App Store" style="width:65%;" src="/images/usg2.png">
+      </a>
+    </td>
+  </tr>
+</tbody></table>
 
-### School Passcode: <u>99BFF</u>
+<hr style="margin: 30px 0;">
 
-<iframe width="625" height="351" src="https://www.youtube.com/embed/bXI3G9waJVM?list=PLTHVutaljrzkHPotUmPLi9NFNBwgDVr2N" title="Tutorial: How to create your account and add your child’s iPad in ScreenGuide Parental Control App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<h4>Step 2</h4>
 
-#### Step 3.
+<p>
+<strong>School Passcode:</strong> <u>99BFF</u>
+</p>
 
-Inform school that you have installed ScreenGuide and wish to self-managed your child's iPad.
+<iframe allowfullscreen="" frameborder="0" title="Tutorial: How to create your account and add your child’s iPad in ScreenGuide Parental Control App" src="https://www.youtube.com/embed/bXI3G9waJVM?list=PLTHVutaljrzkHPotUmPLi9NFNBwgDVr2N" height="351" width="625"></iframe>
 
-Click <a href="https://form.gov.sg/63bf4675994d6d00122c4bf2">here</a> to submit the online form.
+<hr style="margin: 30px 0;">
 
-#### Other useful guide
+<h4>Step 3</h4>
+<p>
+Inform the school that you have installed ScreenGuide and wish to self-manage your child’s iPad.
+</p>
+<p>
+Click <a target="_blank" href="https://form.gov.sg/63bf4675994d6d00122c4bf2">here</a> to submit the online form.
+</p>
 
-##### Adding additional guardian on ScreenGuide
+<hr style="margin: 30px 40px;">
 
-<iframe width="364" height="203" src="https://www.youtube.com/embed/fQT-Dp7ixsU" title="ScreenGuide 102 - Adding Additional Guardian to Family" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<h4>Other Useful Guides</h4>
 
-##### Remotely lock child's iPad
-
-<iframe width="376" height="211" src="https://www.youtube.com/embed/T9AY4eB_aWA?list=PLTHVutaljrzkHPotUmPLi9NFNBwgDVr2N" title="Learn how to remotely lock your child’s iPad using ScreenGuide App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##### Filter inappropriate Web content
-
-<iframe width="369" height="207" src="https://www.youtube.com/embed/kwK49124dts?list=PLTHVutaljrzkHPotUmPLi9NFNBwgDVr2N" title="How to filter inappropriate Web content for your children" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##### Configuring screen time
-
-<iframe width="365" height="204" src="https://www.youtube.com/embed/fC1TnaMfI-E?list=PLTHVutaljrzkHPotUmPLi9NFNBwgDVr2N" title="How to configure Screen Time and balance your child's screen exposure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<table style="width: 100%; border-spacing: 20px;">
+  <tbody><tr>
+    <td style="text-align: center;">
+      <strong>Adding Additional Guardian</strong><br>
+      <iframe allowfullscreen="" frameborder="0" title="ScreenGuide 102 - Adding Additional Guardian to Family" src="https://www.youtube.com/embed/fQT-Dp7ixsU" height="203" width="364"></iframe>
+    </td>
+    <td style="text-align: center;">
+      <strong>Remotely Lock Child's iPad</strong><br>
+      <iframe allowfullscreen="" frameborder="0" title="Remotely Lock iPad" src="https://www.youtube.com/embed/T9AY4eB_aWA?list=PLTHVutaljrzkHPotUmPLi9NFNBwgDVr2N" height="211" width="376"></iframe>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <strong>Filter Inappropriate Content</strong><br>
+      <iframe allowfullscreen="" frameborder="0" title="Filter Inappropriate Web Content" src="https://www.youtube.com/embed/kwK49124dts?list=PLTHVutaljrzkHPotUmPLi9NFNBwgDVr2N" height="207" width="369"></iframe>
+    </td>
+    <td style="text-align: center;">
+      <strong>Configuring Screen Time</strong><br>
+      <iframe allowfullscreen="" frameborder="0" title="Configure Screen Time" src="https://www.youtube.com/embed/fC1TnaMfI-E?list=PLTHVutaljrzkHPotUmPLi9NFNBwgDVr2N" height="204" width="365"></iframe>
+    </td>
+  </tr>
+</tbody></table>
