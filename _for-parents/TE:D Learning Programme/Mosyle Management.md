@@ -3,37 +3,60 @@ title: Mosyle Management
 permalink: /for-parents/TED-Learning-Programme/managing-learning-device/
 description: ""
 third_nav_title: TE:D Learning Programme
+variant: markdown
 ---
-### Managing your Child's Learning Device with Screenguide
+<h3 style="padding-bottom: 10px;">Managing your Child's Learning Device with Screenguide</h3>
 
-<img src="/images/ict7.png" style="width:30%">
+<img alt="Screenguide Illustration" src="/images/ict7.png" style="width:30%; margin-bottom: 15px;">
 
-Farrer Park Primary School incorporated Mobile Device Management software, Mosyle, to manage our students’ iPad learning device usage as well as screen time. This powerful software allow school and parents to monitor and manage the child’s device remotely.  
+<p>
+Farrer Park Primary School uses Mobile Device Management software, <strong>Mosyle</strong>, to manage students’ iPad learning device usage and screen time. This software enables the school and parents to monitor and manage the child’s device remotely.
+</p>
 
-Managing your Child's Device  
-To work in partnership with our parents, Farrer Park Primary School has two options for the management of learning devices for the TE:D programme.
+<h4 style="margin-top: 25px;">Managing your Child's Device</h4>
 
-<img src="/images/ict8.png" style="width:50px;height:50px;margin-right:15px;" align = "left"> **Option 1: Management in Partnership with Parents**
+<p>
+To work in partnership with our parents, Farrer Park Primary School offers two options for managing learning devices under the TE:D programme.
+</p>
 
-School-managed on Weekdays from <b>7.00am to 1.30pm<br/></b>
-Lunch Break: <b>1.30pm - 2.00pm.</b> (iPad will be locked out from ALL Apps)<br/>
-Parent-managed using Screenguide after 2.00pm.  
-  
-\*School Holidays are fully managed by parents
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img alt="Option 1 Icon" style="width:50px; height:50px; margin-right:15px;" src="/images/ict8.png">
+  <div>
+    <strong>Option 1: Management in Partnership with Parents</strong><br>
+    School-managed on weekdays from <strong>7.00am to 1.30pm</strong><br>
+    <strong>Lunch Break:</strong> 1.30pm – 2.00pm (iPad will be locked from all apps)<br>
+    Parent-managed using Screenguide after 2.00pm<br>
+    <br>
+    *School holidays are fully managed by parents.
+  </div>
+</div>
 
-<img src="/images/ict9.png" style="width:50px;height:50px;margin-right:15px;" align = "left"> **Option 2: School Managed**
+<div style="display: flex; align-items: flex-start; margin-top: 25px;">
+  <img alt="Option 2 Icon" style="width:50px; height:50px; margin-right:15px;" src="/images/ict9.png">
+  <div>
+    <strong>Option 2: School Managed</strong><br>
+    Weekdays (School Profile): <strong>7.00am to 1.30pm</strong><br>
+    <strong>Lunch Break:</strong> 1.30pm – 2.00pm (iPad will be locked from all apps)<br>
+    Learning apps available for self-directed learning: <strong>2.00pm to 5.30pm</strong><br>
+    After 5.30pm: all apps will be locked<br>
+    Weekend/School Holidays: <strong>7.00am to 11.00am</strong> and <strong>2.00pm to 5.30pm</strong><br>
+    <br>
+    *Note: The school profile only shows learning apps. If parents would like to allow personal app usage, please <a href="https://form.gov.sg/63bf4675994d6d00122c4bf2" target="_blank">click here</a> to opt for Option 1.
+  </div>
+</div>
 
-Weekdays (School Profile): <b>7.00am to 1.30pm  <br/></b>
-Lunch Break: <b>1.30pm - 2.00pm. </b>(iPad will be locked out from ALL Apps)<br/>
-Learning Apps available for self-directed learning: <b>2.00pm to 5.30pm <br/></b>
-After 5.30pm, all Apps will be locked out from iPad.<br/>
-Weekend/School Holiday: <b>7.00am to 11.00am, 2.00pm to 5.30pm</b>
+<p style="margin-top: 25px;">
+In both Option 1 and 2, the school ensures that all required learning apps are installed and updated.
+</p>
 
- *Note that School profile can only see learning Apps. If parents wish to allow child to use personal Apps, please click <a href="https://form.gov.sg/63bf4675994d6d00122c4bf2" target="_blank">here</a> to inform school to opt for Option 1: Management in Partnership with Parents 
- <br/><br/>
-In both Option 1 and 2, school will ensure that the apps needed for learning in the classroom are installed and updated.<br/>
+<p>
+To promote a healthy balance of screen time and rest, Option 2 provides students with access after school until 5.30pm, as well as two screen time blocks on weekends and holidays (7.00am to 11.00am, and 2.00pm to 5.30pm).
+</p>
 
-To ensure that our students have a good balance of screen time and rest, Option 2 allows our students access to their learning devices after school till 5.30pm as well as two three-hour blocks on weekends (7.00am to 11.00am,  2.00pm to 5.30pm) as well as during school holidays in the morning and afternoon.
-  
-To maximise the potential of their learning devices, we highly recommend that our parents choose Option 1, which will allow us to work in partnership to develop good learning device habits in our children both in school and at home.<br/><br/>
-To activate Option 1, parents need to setup the Screenguide app for monitoring and control of their child’s iPad. You may click <a href="https://www.farrerparkpri.moe.edu.sg/ict/Manage-your-Childs-Device/installing-and-using-screenguide/" target="_blank">here</a> for Installation and usage guide.
+<p>
+However, to maximise the benefits of their learning devices, we strongly encourage parents to choose <strong>Option 1</strong>. This allows us to collaborate more closely in nurturing healthy digital habits both in school and at home.
+</p>
+
+<p>
+To activate Option 1, parents must install and set up the Screenguide app for iPad monitoring. Please <a href="https://www.farrerparkpri.moe.edu.sg/ict/Manage-your-Childs-Device/installing-and-using-screenguide/" target="_blank">click here</a> for the installation and user guide.
+</p>
