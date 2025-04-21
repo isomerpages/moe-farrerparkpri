@@ -20,14 +20,7 @@ variant: markdown
       <td style="width: 251px; text-align: center; background-color: #d2e1ce;"><strong>Requirements</strong></td>
     </tr>
     <tr height="35">
-      <td style="height: 35px; text-align: center; background-color: #eaf1e9;" height="35">Chinese Food Stall</td>
-      <td style="text-align: center; background-color: #eaf1e9;">30 Oct 2024</td>
-      <td style="text-align: center; background-color: #eaf1e9;">Any type of Chinese Food</td>
-    </tr>
-    <tr height="35">
-      <td style="height: 35px; text-align: center; background-color: #eaf1e9;" height="35">Halal Food Stall</td>
-      <td style="text-align: center; background-color: #eaf1e9;">30 Oct 2024</td>
-      <td style="text-align: center; background-color: #eaf1e9;">Any type of Halal Food</td>
+      <td colspan="3" style="height: 35px; text-align: center; background-color: #eaf1e9;" height="35">Check again for updates</td>
     </tr>
   </tbody>
 </table>
