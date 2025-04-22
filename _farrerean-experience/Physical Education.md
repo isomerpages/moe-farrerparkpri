@@ -82,7 +82,7 @@ variant: markdown
 <tr>
 <td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">&nbsp;</td>
 <td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;"><strong>Curiosity-Driven Learning</strong><br>Create opportunities for students to discover new sports and activities</td>
-<td style="vertical-align: top; background-color: #d2e1ce; padding: 20px;">s</td>
+<td style="vertical-align: top; background-color: #d2e1ce; padding: 20px;"><img style="width: 100px; height: auto;" src="/images/2025/PE/Untitled_2.jpg"></td>
 </tr>
 <tr>
 <td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">&nbsp;</td>
