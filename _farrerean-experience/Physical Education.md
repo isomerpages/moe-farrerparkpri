@@ -28,45 +28,39 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table style="width:100%; border-collapse: collapse;">
+<table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <tbody>
     <tr>
-      <td style="width: 15%; background-color: #eaf1e9; text-align: center; vertical-align: middle;">
-        <img style="width: 100px;" src="/images/2025/PE/Untitled_2.jpg">
+      <td style="width: 20%; background-color: #d6ecdf; text-align: center; vertical-align: middle; padding: 15px;">
+        <img style="width: 100px; height: auto;" src="/images/2025/PE/Untitled_2.jpg">
       </td>
-      <td style="width: 25%; background-color: #d2e1ce; font-weight: bold; vertical-align: middle;">
-        Physical Development &amp; Curiosity
-      </td>
-      <td style="background-color: #eaf1e9; vertical-align: middle;">
-        <ul>
+      <td style="background-color: #eaf1e9; padding: 15px; color: #333;">
+        <div style="background-color: #d2e1ce; font-weight: bold; padding: 10px;">Physical Development &amp; Curiosity</div>
+        <ul style="padding-left: 20px; margin-top: 10px;">
           <li>Develop fundamental movement skills while encouraging exploration of movement possibilities</li>
           <li>Foster curiosity about different sports, movement patterns, and physical activities</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="background-color: #eaf1e9; text-align: center; vertical-align: middle;">
-        <img style="width: 100px;" src="/images/2025/PE/Untitled_3.jpg">
+      <td style="background-color: #d6ecdf; text-align: center; vertical-align: middle; padding: 15px;">
+        <img style="width: 100px; height: auto;" src="/images/2025/PE/Untitled_3.jpg">
       </td>
-      <td style="background-color: #d2e1ce; font-weight: bold; vertical-align: middle;">
-        Character &amp; Empathy
-      </td>
-      <td style="background-color: #eaf1e9; vertical-align: middle;">
-        <ul>
+      <td style="background-color: #eaf1e9; padding: 15px; color: #333;">
+        <div style="background-color: #d2e1ce; font-weight: bold; padding: 10px;">Character &amp; Empathy</div>
+        <ul style="padding-left: 20px; margin-top: 10px;">
           <li>Develop awareness of others' challenges and strengths during physical activities</li>
           <li>Practice inclusive behaviour and mutual support during team activities</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="background-color: #eaf1e9; text-align: center; vertical-align: middle;">
-        <img style="width: 100px;" src="/images/2025/PE/Untitled_4.jpg">
+      <td style="background-color: #d6ecdf; text-align: center; vertical-align: middle; padding: 15px;">
+        <img style="width: 100px; height: auto;" src="/images/2025/PE/Untitled_4.jpg">
       </td>
-      <td style="background-color: #d2e1ce; font-weight: bold; vertical-align: middle;">
-        Health, Wellness, Safety &amp; Care
-      </td>
-      <td style="background-color: #eaf1e9; vertical-align: middle;">
-        <ul>
+      <td style="background-color: #eaf1e9; padding: 15px; color: #333;">
+        <div style="background-color: #d2e1ce; font-weight: bold; padding: 10px;">Health, Wellness, Safety &amp; Care</div>
+        <ul style="padding-left: 20px; margin-top: 10px;">
           <li>Promote self-care through proper exercise, nutrition, and rest</li>
           <li>Foster environmental care and safety during outdoor activities</li>
         </ul>
@@ -75,11 +69,47 @@ variant: markdown
   </tbody>
 </table>
 
-
-
-
-Useful information for parents who wish to find out how they can support their children in the learning of Mother Tongue Language:<br>
-Parents’ Guide to MTL Curriculum (available in both English and the respective Mother Tongue Languages) can be downloaded <a target="_blank" href="https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages/#:~:text=To%20equip%20parents%20with%20a%20better%20understanding%20of,both%20English%20and%20the%20respective%20Mother%20Tongue%20Languages.">here</a>.
+<table border="0" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td colspan="2" style="width: 50%; vertical-align: top; background-color: #eaf1e9; padding: 20px;">
+<div style="background-color: #51a72c; padding: 10px; font-weight: bold; font-size: 18px;">Approach</div>
+</td>
+<td style="vertical-align: top; background-color: #d2e1ce; padding: 20px;">
+<div style="background-color: #51a72c; padding: 10px; font-weight: bold; font-size: 18px;">Programmes</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">&nbsp;</td>
+<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;"><strong>Curiosity-Driven Learning</strong><br>Create opportunities for students to discover new sports and activities</td>
+<td style="vertical-align: top; background-color: #d2e1ce; padding: 20px;">s</td>
+</tr>
+<tr>
+<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">&nbsp;</td>
+<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;"><strong>Empathy-Building Activities</strong><br>Pair / Group tasks require students to work together across different ability levels and subjects</td>
+<td rowspan="3" style="vertical-align: top; background-color: #d2e1ce; padding: 20px;">
+<p style="margin-top: 15px;">In Farrer Park Primary School, there are many PE programmes which keep our Farreans active and fit throughout the year, that will enable them to develop a lifelong passion for physical games and sports.</p>
+<ul style="padding-left: 20px; margin-top: 10px;">
+<li>P1-6 Interclass Games</li>
+<li>P4 SwimSafer</li>
+<li>Children’s Day Farreans Challenge</li>
+<li>P5 Outdoor Camp</li>
+<li>P1-6 Recess Games</li>
+<li>Active Youth Recharge (AYR)</li>
+<li>Sports Education Programme (SEP)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">&nbsp;</td>
+<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;"><strong>Care-Centred Environment</strong><br>Create safe spaces for trying new activities without judgment</td>
+</tr>
+<tr>
+<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">&nbsp;</td>
+<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;"><strong>Progressive Development</strong><br>Provide differentiated activities that cater to various abilities<br>Regular feedback sessions focusing on growth and improvement<br>Integration of social-emotional learning in physical activities</td>
+</tr>
+</tbody>
+</table>
 
 
 </font>
