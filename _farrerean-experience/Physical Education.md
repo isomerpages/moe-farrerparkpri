@@ -9,7 +9,7 @@ variant: markdown
 <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
 <tbody>
 	<tr>
-<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/MTPicture1.jpg"></td>
+<td style="text-align: center; width: 25%; border: 1px solid white; vertical-align: middle;" colspan="2"><img src="/images/2025/PE/Untitled_1.jpg"></td>
 </tr>
 <tr>
 <td bgcolor="d2e1ce" style="width: 50%; border: 1px solid white;"><span style="text-decoration: underline;"><strong>Vision</strong></span><br>To nurture physically competent, empathetic, and curious learners who embrace an active lifestyle, demonstrate strong sporting values, and care for themselves and others through physical education.</td>
