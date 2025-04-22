@@ -21,7 +21,7 @@ variant: markdown
     </tr>
     <tr>
       <td bgcolor="eaf1e9" colspan="2" style="width: 100%; border: 1px solid white; font-size: 16px;">
-        <p style="font-size: 16px;"><span style="text-decoration: underline;"><strong>Objective</strong></span></p>
+        <span style="font-size: 16px;"><span style="text-decoration: underline;"><strong>Objective</strong></span><br>
         In Farrer Park Primary School, the objectives of Physical Education (PE) aim to develop physically competent and confident individuals who enjoy a lifetime of active and healthy living. PE focuses on:
         <ul style="font-size: 16px; padding-left: 20px; margin-top: 10px;">
           <li style="font-size: 16px;">Movement competence</li>
@@ -30,7 +30,7 @@ variant: markdown
           <li style="font-size: 16px;">Core values</li>
           <li style="font-size: 16px;">Enjoyment of physical activities</li>
         </ul>
-      </td>
+      </span></td>
     </tr>
   </tbody>
 </table>
