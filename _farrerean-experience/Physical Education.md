@@ -28,36 +28,58 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
-<tbody>
-<tr>
-<td style="width: 100%;"><span style="text-decoration: underline;"><strong>Programmes</strong></span><br>Below are the main MTL programmes at Farrer Park Primary School:<strong><br></strong>
-<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
-<tbody>
-<tr>
-<td bgcolor="51a72c" style="width: 20%; text-align: center;"><span style="color: #ffffff;"><strong>Programmes</strong></span></td>
-<td bgcolor="51a72c" style="width: 20%; text-align: center;"><span style="color: #ffffff;"><strong>Description</strong></span></td>
-</tr>
-<tr bgcolor="eaf1e9">
-<td style="width: 20%; text-align: center; vertical-align: middle;"><strong>Reading Programme
-</strong></td><td style="width: 20%; vertical-align: middle; text-align: left;">This school wide reading programme aims to build up pupils’ interest in reading Mother Tongue books. Post-reading activities are conducted after pupils completed reading the MT story books.</td>
-</tr>
-<tr bgcolor="d2e1ce">
-<td style="width: 20%; text-align: center; vertical-align: middle;"><strong>MT Language Fortnight</strong></td>
-<td style="width: 20%; vertical-align: middle; text-align: left;">The MTL Fortnight aims to create an immersive environment for our pupils in their learning of the Mother Tongue language and culture. During the 2 weeks programme, a variety of cultural and language activities related to the Mother Tongue languages are organised for pupils. These activities provide platforms for students to actively learn MT and the associated culture to experience MT as a ‘living language’.</td>
-</tr>
-<tr bgcolor="eaf1e9">
-<td style="width: 20%; text-align: center; vertical-align: middle;"><strong>MT Language and Cultural Camp</strong></td>
-<td style="width: 20%; vertical-align: middle; text-align: left;">P6 pupils participate in activities related to Mother Tongue language and culture in this annual day camp. Activities include artefact making, playing traditional games and quizzes.</td>
-</tr>
-<tr bgcolor="d2e1ce">
-<td style="width: 20%; text-align: center; vertical-align: middle;"><strong>CPES / CPEF</strong></td>
-<td style="width: 20%; vertical-align: middle; text-align: left;">To cultivate the interest of pupils in cultural performances and in learning Mother Tongue language, pupils attend suitable theatre plays at public performance arts venues outside of school.</td>
-</tr>
-</tbody>
+<table style="width:100%; border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="width: 15%; background-color: #eaf1e9; text-align: center; vertical-align: middle;">
+        <img style="width: 100px;" src="/images/2025/PE/Untitled_2.jpg">
+      </td>
+      <td style="width: 25%; background-color: #d2e1ce; font-weight: bold; vertical-align: middle;">
+        Physical Development &amp; Curiosity
+      </td>
+      <td style="background-color: #eaf1e9; vertical-align: middle;">
+        <ul>
+          <li>Develop fundamental movement skills while encouraging exploration of movement possibilities</li>
+          <li>Foster curiosity about different sports, movement patterns, and physical activities</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; text-align: center; vertical-align: middle;">
+        <img style="width: 100px;" src="/images/2025/PE/Untitled_3.jpg">
+      </td>
+      <td style="background-color: #d2e1ce; font-weight: bold; vertical-align: middle;">
+        Character &amp; Empathy
+      </td>
+      <td style="background-color: #eaf1e9; vertical-align: middle;">
+        <ul>
+          <li>Develop awareness of others' challenges and strengths during physical activities</li>
+          <li>Practice inclusive behaviour and mutual support during team activities</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; text-align: center; vertical-align: middle;">
+        <img style="width: 100px;" src="/images/2025/PE/Untitled_4.jpg">
+      </td>
+      <td style="background-color: #d2e1ce; font-weight: bold; vertical-align: middle;">
+        Health, Wellness, Safety &amp; Care
+      </td>
+      <td style="background-color: #eaf1e9; vertical-align: middle;">
+        <ul>
+          <li>Promote self-care through proper exercise, nutrition, and rest</li>
+          <li>Foster environmental care and safety during outdoor activities</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+
+
+
 Useful information for parents who wish to find out how they can support their children in the learning of Mother Tongue Language:<br>
 Parents’ Guide to MTL Curriculum (available in both English and the respective Mother Tongue Languages) can be downloaded <a target="_blank" href="https://www.schoolbag.edu.sg/story/how-parents-can-support-their-children-in-the-learning-of-mother-tongue-languages/#:~:text=To%20equip%20parents%20with%20a%20better%20understanding%20of,both%20English%20and%20the%20respective%20Mother%20Tongue%20Languages.">here</a>.
-</td></tr>
-</tbody>
-</table></font>
+
+
+</font>
