@@ -70,46 +70,71 @@ variant: markdown
 </table>
 
 <table border="0" style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<td colspan="2" style="width: 50%; vertical-align: top; background-color: #eaf1e9; padding: 20px;">
-<div style="background-color: #51a72c; padding: 10px; font-weight: bold; font-size: 18px;">Approach</div>
-</td>
-<td style="vertical-align: top; background-color: #d2e1ce; padding: 20px;">
-<div style="background-color: #51a72c; padding: 10px; font-weight: bold; font-size: 18px;">Programmes</div>
-</td>
-</tr>
-<tr>
-<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">&nbsp;</td>
-<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;"><strong>Curiosity-Driven Learning</strong><br>Create opportunities for students to discover new sports and activities</td>
-<td style="vertical-align: top; background-color: #d2e1ce; padding: 20px;"><img style="width: 100px; height: auto;" src="/images/2025/PE/Untitled_2.jpg"></td>
-</tr>
-<tr>
-<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">&nbsp;</td>
-<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;"><strong>Empathy-Building Activities</strong><br>Pair / Group tasks require students to work together across different ability levels and subjects</td>
-<td rowspan="3" style="vertical-align: top; background-color: #d2e1ce; padding: 20px;">
-<p style="margin-top: 15px;">In Farrer Park Primary School, there are many PE programmes which keep our Farreans active and fit throughout the year, that will enable them to develop a lifelong passion for physical games and sports.</p>
-<ul style="padding-left: 20px; margin-top: 10px;">
-<li>P1-6 Interclass Games</li>
-<li>P4 SwimSafer</li>
-<li>Children’s Day Farreans Challenge</li>
-<li>P5 Outdoor Camp</li>
-<li>P1-6 Recess Games</li>
-<li>Active Youth Recharge (AYR)</li>
-<li>Sports Education Programme (SEP)</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">&nbsp;</td>
-<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;"><strong>Care-Centred Environment</strong><br>Create safe spaces for trying new activities without judgment</td>
-</tr>
-<tr>
-<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">&nbsp;</td>
-<td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;"><strong>Progressive Development</strong><br>Provide differentiated activities that cater to various abilities<br>Regular feedback sessions focusing on growth and improvement<br>Integration of social-emotional learning in physical activities</td>
-</tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td colspan="2" style="width: 50%; vertical-align: top; background-color: #eaf1e9; padding: 20px;">
+        <div style="background-color: #51a72c; padding: 10px; font-weight: bold; font-size: 18px;">Approach</div>
+      </td>
+      <td style="vertical-align: top; background-color: #d2e1ce; padding: 20px;">
+        <div style="background-color: #51a72c; padding: 10px; font-weight: bold; font-size: 18px;">Programmes</div>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">
+        <img src="/images/2025/PE/Untitled_6.png" style="width: 150px; display: block; margin: 0 auto;">
+      </td>
+      <td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">
+        <strong>Curiosity-Driven Learning</strong><br>
+        Create opportunities for students to discover new sports and activities
+      </td>
+      <td style="vertical-align: top; background-color: #d2e1ce; padding: 20px;">
+        <img src="/images/2025/PE/Untitled_5.png" style="width: 150px; display: block; margin: 0 auto;">
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">
+        <img src="/images/2025/PE/Untitled_7.png" style="width: 150px; display: block; margin: 0 auto;">
+      </td>
+      <td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">
+        <strong>Empathy-Building Activities</strong><br>
+        Pair / Group tasks require students to work together across different ability levels and subjects
+      </td>
+      <td rowspan="3" style="vertical-align: top; background-color: #d2e1ce; padding: 20px;">
+        <p style="margin-top: 15px;">In Farrer Park Primary School, there are many PE programmes which keep our Farreans active and fit throughout the year, that will enable them to develop a lifelong passion for physical games and sports.</p>
+        <ul style="padding-left: 20px; margin-top: 10px;">
+          <li>P1-6 Interclass Games</li>
+          <li>P4 SwimSafer</li>
+          <li>Children’s Day Farreans Challenge</li>
+          <li>P5 Outdoor Camp</li>
+          <li>P1-6 Recess Games</li>
+          <li>Active Youth Recharge (AYR)</li>
+          <li>Sports Education Programme (SEP)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">
+        <img src="/images/2025/PE/Untitled_8.png" style="width: 150px; display: block; margin: 0 auto;">
+      </td>
+      <td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">
+        <strong>Care-Centred Environment</strong><br>
+        Create safe spaces for trying new activities without judgment
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">
+        <img src="/images/2025/PE/Untitled_9.png" style="width: 150px; display: block; margin: 0 auto;">
+      </td>
+      <td style="vertical-align: top; background-color: #eaf1e9; padding: 20px;">
+        <strong>Progressive Development</strong><br>
+        Provide differentiated activities that cater to various abilities<br>
+        Regular feedback sessions focusing on growth and improvement<br>
+        Integration of social-emotional learning in physical activities
+      </td>
+    </tr>
+  </tbody>
 </table>
+
 
 
 </font>
