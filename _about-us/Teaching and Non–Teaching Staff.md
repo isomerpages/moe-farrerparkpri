@@ -330,7 +330,7 @@ variant: markdown
       </td>
     </tr>
     <tr>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">
+      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">
         Ms Lim Jing Xuan
       </td>
     </tr>
@@ -340,7 +340,7 @@ variant: markdown
       </td>
     </tr>
     <tr>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">
+      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">
         Ms Nor Marziana Jumati
       </td>
     </tr>
@@ -350,7 +350,7 @@ variant: markdown
       </td>
     </tr>
     <tr>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">
+      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">
         Ms Norashida Redwan
       </td>
     </tr>
