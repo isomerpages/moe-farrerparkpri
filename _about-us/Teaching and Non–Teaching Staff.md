@@ -5,875 +5,459 @@ description: ""
 variant: markdown
 ---
 <h4>Primary 1</h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table style="min-width: 100px; border-collapse: collapse;"><colgroup> <col> <col> <col> <col> </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
+<tr style="background-color: #51a72c;">
+<td style="border: 1px solid #ccc; padding: 8px;"><strong>Class</strong></td>
+<td style="border: 1px solid #ccc; padding: 8px;"><strong>Form Teacher</strong></td>
+<td style="border: 1px solid #ccc; padding: 8px;"><strong>Class</strong></td>
+<td style="border: 1px solid #ccc; padding: 8px;"><strong>Form Teacher</strong></td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p><strong>1 Care</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tricia Tork</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>1 Curiosity</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Jen Yan</p>
-</td>
+<td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>1 Care</strong></td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Tricia Tork</td>
+<td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>1 Curiosity</strong></td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Lim Jen Yan</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Harlina Hussain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sandhiya Annandan</p>
-</td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Harlina Hussain</td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Sandhiya Annandan</td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p><strong>1 Empathy</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Yan Fang Jeolinita</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>1 Honesty</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nadia Katerina Cheriyan Bte Salim</p>
-</td>
+<td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>1 Empathy</strong></td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Yeo Yan Fang Jeolinita</td>
+<td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>1 Honesty</strong></td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Nadia Katerina Cheriyan Bte Salim</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Panneer Selvam (Vignes)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Lay Peng</p>
-</td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Panneer Selvam (Vignes)</td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Chua Lay Peng</td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p><strong>1 Kindness</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sharonjit Kaur Gill</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+<td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>1 Kindness</strong></td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Sharonjit Kaur Gill</td>
+<td rowspan="2" colspan="2" style="border: 1px solid #ccc; padding: 8px; text-align: center;"></td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chen Huifang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Chen Huifang</td>
 </tr>
 </tbody>
 </table>
+
 <h4>Primary 2</h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>2 Graciousness</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Alex Lee Aik Huang</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>2 Responsibility</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Monisha Samdas Budhrani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Liu Juan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lai Yan Ping</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>2 Adaptability</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Anny Tan</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>2 Integrity&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Rochelle Sim Hui Yee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ma Lai Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Afiqah Bte Hassan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>2 Charm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nicole Hon</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>2 Ready&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chew Yuet Tze Eunice</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chin Kar Yin Karen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms V.Poongkodi (Mrs Mani)</p>
-</td>
-</tr>
-</tbody>
+<table style="min-width: 100px; border-collapse: collapse;">
+  <colgroup>
+    <col>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+  <tbody>
+    <tr style="background-color: #51a72c;">
+      <td style="border:1px solid #ccc; padding:8px;"><strong>Class</strong></td>
+      <td style="border:1px solid #ccc; padding:8px;"><strong>Form Teacher</strong></td>
+      <td style="border:1px solid #ccc; padding:8px;"><strong>Class</strong></td>
+      <td style="border:1px solid #ccc; padding:8px;"><strong>Form Teacher</strong></td>
+    </tr>
+    <tr>
+      <td style="background-color:#d2e1ce; border:1px solid #ccc; padding:8px;" rowspan="2"><strong>2 Graciousness</strong></td>
+      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Mr Alex Lee Aik Huang</td>
+      <td style="background-color:#d2e1ce; border:1px solid #ccc; padding:8px;" rowspan="2"><strong>2 Responsibility</strong></td>
+      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms Monisha Samdas Budhrani</td>
+    </tr>
+    <tr>
+      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms Liu Juan</td>
+      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms Lai Yan Ping</td>
+    </tr>
+    <tr>
+      <td style="background-color:#d2e1ce; border:1px solid #ccc; padding:8px;" rowspan="2"><strong>2 Adaptability</strong></td>
+      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms Anny Tan</td>
+      <td style="background-color:#d2e1ce; border:1px solid #ccc; padding:8px;" rowspan="2"><strong>2 Integrity</strong></td>
+      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms Rochelle Sim Hui Yee</td>
+    </tr>
+    <tr>
+      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms Ma Lai Leng</td>
+      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms Nur Afiqah Bte Hassan</td>
+    </tr>
+    <tr>
+      <td style="background-color:#d2e1ce; border:1px solid #ccc; padding:8px;" rowspan="2"><strong>2 Charm</strong></td>
+      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms Nicole Hon</td>
+      <td style="background-color:#d2e1ce; border:1px solid #ccc; padding:8px;" rowspan="2"><strong>2 Ready</strong></td>
+      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms Chew Yuet Tze Eunice</td>
+    </tr>
+    <tr>
+      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms Chin Kar Yin Karen</td>
+      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms V.Poongkodi (Mrs Mani)</td>
+    </tr>
+  </tbody>
 </table>
-<h4>Primary 3</h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>3 Graciousness</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Goh Siew Ling</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>3 Responsibility</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Vanessa Oh Kaiwen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chia Mei Hua (Florence)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ranchisem Sivagnanam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>3 Adaptability</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wu Huishan</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>&nbsp;3 Integrity&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Ms Siti Zubaidah bte Jumani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Cherandy Lim Sujun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms New Jia Rui Stephanie</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>3 Ready</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Rahimah Bte Madan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wong-Low Ai Rin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
+
+<h4 style="color: #51a72c;">Primary 3</h4>
+<table style="min-width: 100px; border-collapse: collapse;">
+  <colgroup>
+    <col>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+  <tbody>
+    <tr style="background-color: #51a72c;">
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Class</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Form Teacher</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Class</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Form Teacher</strong></td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Graciousness</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Goh Siew Ling</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Responsibility</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Vanessa Oh Kaiwen</td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Chia Mei Hua (Florence)</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Ranchisem Sivagnanam</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Adaptability</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Wu Huishan</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Integrity</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Siti Zubaidah bte Jumani</td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Cherandy Lim Sujun</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms New Jia Rui Stephanie</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Ready</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Rahimah Bte Madan</td>
+      <td style="border: 1px solid #ccc; padding: 8px; text-align: center;" rowspan="2" colspan="2"></td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Wong-Low Ai Rin</td>
+    </tr>
+  </tbody>
 </table>
+
 <h4>Primary 4</h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 Graciousness</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Miang Joo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>4 Responsibility</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Qi Yi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chu Luo Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Toh Puay Joo Peggy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 Ready</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jolie Toh Puay Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>4 Adaptability</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Lay Hwa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Baidah Bte Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Norliyah bte Mohamad Hasan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 Integrity&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yap Miao Koon Sharon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamed Azrai Bin Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
+<table style="min-width: 100px; border-collapse: collapse;">
+  <colgroup>
+    <col>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+  <tbody>
+    <tr style="background-color: #51a72c;">
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Class</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Form Teacher</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Class</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Form Teacher</strong></td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>4 Graciousness</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Chua Miang Joo</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>4 Responsibility</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Chua Qi Yi</td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Chu Luo Jun</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Toh Puay Joo Peggy</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>4 Ready</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Jolie Toh Puay Xuan</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>4 Adaptability</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Tan Lay Hwa</td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Baidah Bte Ahmad</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Norliyah bte Mohamad Hasan</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>4 Integrity</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Yap Miao Koon Sharon</td>
+      <td style="border: 1px solid #ccc; padding: 8px; text-align: center;" rowspan="2" colspan="2"></td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Mohamed Azrai Bin Ahmad</td>
+    </tr>
+  </tbody>
 </table>
+
+
 <h4>Primary 5</h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>5 Graciousness</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Kok Kwang Harrison</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>5 Responsibility</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Jingwen (Nicole)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Thamzhai Salvai Ravichanthira</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Gomez Frances Lorraine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>5 Ready</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Aw Caili</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>&nbsp;5 Integrity&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Elaine Choo Yin Lin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ravinder Singh Swaran Singh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Azizah bte Abdul Rahman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>5 Adaptability</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Elizabeth Lee Ming Chen</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>5 Charm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jennifer Ng Siow Yan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Max Angelo Vijaya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Kan Yue Lian</p>
-</td>
-</tr>
-</tbody>
+<table style="min-width: 100px; border-collapse: collapse;">
+  <colgroup>
+    <col>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+  <tbody>
+    <tr style="background-color: #51a72c;">
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Class</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Form Teacher</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Class</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Form Teacher</strong></td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>5 Graciousness</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Goh Kok Kwang Harrison</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>5 Responsibility</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Lim Jingwen (Nicole)</td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Thamzhai Salvai Ravichanthira</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Gomez Frances Lorraine</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>5 Ready</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Aw Caili</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>5 Integrity</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Elaine Choo Yin Lin</td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Ravinder Singh Swaran Singh</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Nur Azizah bte Abdul Rahman</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>5 Adaptability</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Elizabeth Lee Ming Chen</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>5 Charm</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Jennifer Ng Siow Yan</td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Max Angelo Vijaya</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Kan Yue Lian</td>
+    </tr>
+  </tbody>
 </table>
+
 <h4>Primary 6</h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>6 Graciousness</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hena Suhail</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>6 Responsibility</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Clara Lim Shu Ying</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Kim Fatt</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Vellaisamy Indrani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>6 Ready</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Geok Mei</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><strong>6 Integrity&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Norimah bte Kamari</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nithya Nagaratnam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jhan Ling-Siou</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>6 Adaptability</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ang Siam Gek Evelyn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nurliza bte Sawi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
+<table style="min-width: 100px; border-collapse: collapse;">
+  <colgroup>
+    <col>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+  <tbody>
+    <tr style="background-color: #51a72c;">
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Class</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Form Teacher</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Class</strong></td>
+      <td style="border: 1px solid #ccc; padding: 8px;"><strong>Form Teacher</strong></td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>6 Graciousness</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Hena Suhail</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>6 Responsibility</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Clara Lim Shu Ying</td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Lee Kim Fatt</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Vellaisamy Indrani</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>6 Ready</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Tan Geok Mei</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>6 Integrity</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Norimah bte Kamari</td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Nithya Nagaratnam</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Jhan Ling-Siou</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>6 Adaptability</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Ang Siam Gek Evelyn</td>
+      <td rowspan="2" style="border: 1px solid #ccc; padding: 8px;"></td>
+      <td rowspan="2" style="border: 1px solid #ccc; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Nurliza bte Sawi</td>
+    </tr>
+  </tbody>
 </table>
+
 <h4>Other Teaching Staff</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Ooi En Ping Charis
-<br>Ms&nbsp;Jeanette Yee Yu Wen
-<br>Ms&nbsp;Lau Swee Bee Elena
-<br>Ms&nbsp;Khoo May Ying Elaine
-<br>Ms&nbsp;Nur Amanina bte Zaini
-<br>Mr&nbsp;Lim Kok Cha
-<br>Ms Sylvia Chua Bee Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Candy Chua Lai Peng
-<br>Ms Zhang Chenyang
-<br>Mr&nbsp;Quek Yixian Timothy
-<br>Ms&nbsp;Waheeda bte Mohd
-<br>Ms Edna Lee Su-Mei
-<br>Mdm Leong Meng Har</p>
-<p>Ms Loh Sook Han</p>
-</td>
-</tr>
-</tbody>
+<table style="min-width: 50px; border-collapse: collapse;">
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
+  <tbody>
+    <tr>
+      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Ms Ooi En Ping Charis</td>
+      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Ms Candy Chua Lai Peng</td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Jeanette Yee Yu Wen</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Zhang Chenyang</td>
+    </tr>
+    <tr>
+      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Ms Lau Swee Bee Elena</td>
+      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Mr Quek Yixian Timothy</td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Khoo May Ying Elaine</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Waheeda bte Mohd</td>
+    </tr>
+    <tr>
+      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Ms Nur Amanina bte Zaini</td>
+      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Ms Edna Lee Su-Mei</td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Lim Kok Cha</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mdm Leong Meng Har</td>
+    </tr>
+    <tr>
+      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Ms Sylvia Chua Bee Choo</td>
+      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Ms Loh Sook Han</td>
+    </tr>
+  </tbody>
 </table>
+
 <h4>Allied Educators</h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Special Education Needs Officer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Lim Jing Xuan
-<br>Ms&nbsp;Lee Yan Yi
-<br>Ms&nbsp;Nor Marziana Jumati</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Counsellor</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Norashida Redwan
-<br>Ms&nbsp;Phang Mun Ling Grace</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Student Welfare Officer&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Lim Shini&nbsp;</p>
-</td>
-</tr>
-</tbody>
+<table style="min-width: 25px; border-collapse: collapse;">
+  <colgroup>
+    <col>
+  </colgroup>
+  <tbody>
+    <tr>
+      <td style="background-color: #51a72c; border: 1px solid #ccc; padding: 8px;">
+        <strong>Special Education Needs Officer</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">
+        Ms Lim Jing Xuan
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">
+        Ms Lee Yan Yi
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">
+        Ms Nor Marziana Jumati
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #51a72c; border: 1px solid #ccc; padding: 8px;">
+        <strong>School Counsellor</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">
+        Ms Norashida Redwan
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">
+        Ms Phang Mun Ling Grace
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #51a72c; border: 1px solid #ccc; padding: 8px;">
+        <strong>Student Welfare Officer</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">
+        Ms Lim Shini
+      </td>
+    </tr>
+  </tbody>
 </table>
+
 <h4>Non-Teaching Staff</h4>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Marhaini Usalli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Lim Siew Lian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Surjit Singh S/O Sewa Singh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Khairul Amilin Bin Khalid</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jeremy Guo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Tan Yee Siah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Nur Adlina Binte Abdul Hamid&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Rudy Lim Boen Seng&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Executive&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Boo Suat Yen (Wendy)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Shahirah Bte Abdul Rahman&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Siew Lan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sumathi D/O Thamugham&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Azman Bin Shuib&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Yoke Chan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohammad Rizal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms NurSyafiqah Athira Binti Mohd Ridzuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ungku Mohd Hanafi Bin Ungku&nbsp;&nbsp; Mohd Salleh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Zaharatul Akmam Jaafar&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Library Assistant&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Chin Seng Jason</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Security Guard</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Anbarasan s/o Shanmugam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Security Guard</p>
-</td>
-</tr>
-</tbody>
+<table style="min-width: 50px; border-collapse: collapse;">
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
+  <tbody>
+    <tr style="background-color: #d2e1ce;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Mdm Marhaini Usalli</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Admin Manager</td>
+    </tr>
+    <tr style="background-color: #eaf1e9;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Ms Lim Siew Lian</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Admin Manager</td>
+    </tr>
+    <tr style="background-color: #d2e1ce;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Mr Surjit Singh S/O Sewa Singh</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Operation Manager</td>
+    </tr>
+    <tr style="background-color: #eaf1e9;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Mr Khairul Amilin Bin Khalid</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">ICT Manager</td>
+    </tr>
+    <tr style="background-color: #d2e1ce;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Mr Jeremy Guo</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">ICT Manager</td>
+    </tr>
+    <tr style="background-color: #eaf1e9;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Ms Tan Yee Siah</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Admin Executive</td>
+    </tr>
+    <tr style="background-color: #d2e1ce;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Ms Nur Adlina Binte Abdul Hamid</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Admin Executive</td>
+    </tr>
+    <tr style="background-color: #eaf1e9;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Mr Rudy Lim Boen Seng</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Admin Executive</td>
+    </tr>
+    <tr style="background-color: #d2e1ce;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Ms Boo Suat Yen (Wendy)</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Corporate Support Officer</td>
+    </tr>
+    <tr style="background-color: #eaf1e9;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Mdm Shahirah Bte Abdul Rahman</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Corporate Support Officer</td>
+    </tr>
+    <tr style="background-color: #d2e1ce;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Mdm Tan Siew Lan</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Operations Support Officer</td>
+    </tr>
+    <tr style="background-color: #eaf1e9;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Mdm Sumathi D/O Thamugham</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Operations Support Officer</td>
+    </tr>
+    <tr style="background-color: #d2e1ce;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Mr Mohd Azman Bin Shuib</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Operations Support Officer</td>
+    </tr>
+    <tr style="background-color: #eaf1e9;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Mdm Lee Yoke Chan</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Operations Support Officer</td>
+    </tr>
+    <tr style="background-color: #d2e1ce;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Mr Mohammad Rizal</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Operations Support Officer</td>
+    </tr>
+    <tr style="background-color: #eaf1e9;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Ms NurSyafiqah Athira Binti Mohd Ridzuan</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Desktop Engineer</td>
+    </tr>
+    <tr style="background-color: #d2e1ce;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Mr Ungku Mohd Hanafi Bin Ungku Mohd Salleh</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Desktop Engineer</td>
+    </tr>
+    <tr style="background-color: #eaf1e9;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Ms Zaharatul Akmam Jaafar</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Library Assistant</td>
+    </tr>
+    <tr style="background-color: #d2e1ce;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Mr Chua Chin Seng Jason</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Security Guard</td>
+    </tr>
+    <tr style="background-color: #eaf1e9;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Mr Anbarasan s/o Shanmugam</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Security Guard</td>
+    </tr>
+  </tbody>
 </table>
-<p></p>
