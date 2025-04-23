@@ -4,9 +4,6 @@ permalink: /about-us/mission-vision-motto-values-learning-dispositions/
 description: ""
 variant: markdown
 ---
-<div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #000;">
-
-  
   <div style="background-color: #eaf1e9; border-left: 8px solid #51a72c; padding: 20px; margin-bottom: 20px;">
     <h3 style="margin-top: 0; color: #51a72c;">MISSION</h3>
     <p><strong>Creating Opportunities</strong><br>
@@ -51,4 +48,3 @@ variant: markdown
     </ul>
   </div>
 
-</div>
