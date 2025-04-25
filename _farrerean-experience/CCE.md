@@ -29,15 +29,11 @@ variant: markdown
     </ul>
   </div>
 </div>
-
-
   
-<div style="background-color: #d2e1ce; padding: 20px; border-radius: 8px; margin-bottom: 30px; font-size: 16px;">
-  <span style="font-size: 16px; margin-top: 0;"><u><strong>CCE Anchored in FPPS Culture</strong></u></span><br><br>
-  Our CCE efforts are grounded in our school culture that values every student as an individual, nurturing their emotional, moral, and social well-being.<br><br>
-  We strive to build a school community where students develop positive relationships, a strong sense of identity, and confidence to lead and contribute to society.
+<div style="background-color: #FFFFFF; padding: 20px; border-radius: 8px; margin-bottom: 30px; font-size: 16px; text-align: center; border: 2px solid #d2e1ce;">
+  <img style="max-width: 50%; height: auto; border-radius: 8px;" alt="FPPS CCE Framework" src="/images/2025/CCE/Picture1.png"><br>
+  <strong>FPPS Character and Citizenship Education (CCE) Framework</strong>
 </div>
-
 
   
 <div style="background-color: #eaf1e9; padding: 20px; border-radius: 8px; margin-bottom: 30px;">
