@@ -97,4 +97,4 @@ variant: markdown
 
 </div>
 
-<p>Click <a style="font-size: 16px;" href="https://www.farrerparkpri.moe.edu.sg/cce/overview/">here</a> to learn more about Character and Citizenship Education (CCE).</p>
+<p>Click <a href="https://www.farrerparkpri.moe.edu.sg/cce/overview/">here</a> to learn more about Character and Citizenship Education (CCE).</p>
