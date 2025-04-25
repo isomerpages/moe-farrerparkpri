@@ -2,27 +2,95 @@
 title: CCE
 permalink: /farrerean-experience/cce/
 description: ""
+variant: markdown
 ---
+<div>
 
-### CCE
-<img src="/images/cce1.png" style="width:80%">
-
-Character and Citizenship Education (CCE) is the heart of education in Farrer Park Primary School (FPPS).  As a school, we strive to nurture good character in our pupils so that they have the moral resolve to traverse a fast-changing unpredictable future with a strong sense of responsibility to contribute to society.
+  <h3>Character and Citizenship Education (CCE)</h3>
 
   
-
-CCE emphasises the connectedness of our school GRAIN values, social and emotional competencies and 21st century competencies which include civic literacy, global awareness and cross-cultural skills.
+  <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
+    <div style="flex: 1; background-color: #d2e1ce; padding: 20px; border-radius: 8px;">
+      <p style="font-size: 16px; margin-top: 0;"><u><strong>Vision</strong></u><br>
+      CCE is at the heart of education at FPPS, shaping students into responsible individuals with a strong moral compass. We strive to nurture lifelong learners who are not only of good character but also resilient, socially aware, and curious about the world around them. With a spirit of curiosity and a heart of gold, our students will be ready to adapt and contribute meaningfully to society in a rapidly changing world.</p>
+    </div>
+    <div style="flex: 1; background-color: #d2e1ce; padding: 20px; border-radius: 8px;">
+      <p style="font-size: 16px; margin-top: 0;"><u><strong>Approach</strong></u></p>
+      <p style="font-size: 16px;"><strong>School Values:</strong> Care, Curiosity, and Empathy, fostering a culture of kindness, lifelong learning, and understanding.</p>
+      <p style="font-size: 16px;"><strong>Social-Emotional Competencies:</strong> Developing Social awareness, self-awareness, self-management, relationship management, and responsible decision-making.</p>
+      <p style="font-size: 16px;"><strong>Emerging 21st Century Competencies (21CC):</strong></p>
+      <ul style="font-size: 16px;">
+        <li>Critical, Adaptive and Inventive Thinking</li>
+        <li>Communication, Collaboration and Information Skills</li>
+        <li>Civic, Global and Cross-Cultural Literacy</li>
+      </ul>
+    </div>
+  </div>
 
   
+  <div style="background-color: #d2e1ce; padding: 20px; border-radius: 8px; margin-bottom: 30px;">
+    <p style="font-size: 16px; margin-top: 0;"><u><strong>CCE Anchored in FPPS Culture</strong></u></p>
+    <p style="font-size: 16px;">Our CCE efforts are grounded in our school culture that values every student as an individual, nurturing their emotional, moral, and social well-being. We strive to build a school community where students develop positive relationships, a strong sense of identity, and confidence to lead and contribute to society.</p>
+  </div>
 
-Anchored on our GRAIN values, CCE at Farrer Park comprises the following domains:
+  
+  <div style="background-color: #eaf1e9; padding: 20px; border-radius: 8px; margin-bottom: 30px;">
+    <p style="font-size: 16px; margin-top: 0;"><u><strong>Objective</strong></u></p>
+    <p style="font-size: 16px;"><strong>CCE Department Objectives</strong></p>
+    <ol style="font-size: 16px;">
+      <li><strong>To realise the goals of CCE 2021</strong> by developing:
+        <ol style="font-size: 16px;" type="a">
+          <li>Good character</li>
+          <li>Resilience and social-emotional well-being</li>
+          <li>Future-readiness</li>
+          <li>Active citizenship in every student</li>
+        </ol>
+      </li>
+      <li><strong>To nurture confident learners with hearts of gold</strong>, guided by our school vision, through meaningful and intentional CCE experiences that shape values, build empathy, and empower students to make a positive difference.</li>
+    </ol>
 
-|  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|
-| Character Education | Values In Action | National Education | Education and Career Guidance | Cyber Wellness |  Leadership Development | Internationalisation Programme  |
+   <p style="font-size: 16px;"><u><strong>CCE 2021 Curriculum Frame and Key Levers @ FPPS</strong></u></p>
 
-CCE Outcomes for the different levels include:
+   <p style="font-size: 16px;"><strong>Key Lever 1: A Caring and Enabling School Environment at FPPS</strong></p>
+    <ul style="font-size: 16px;">
+      <li>Characterized by caring and responsible leadership, a pervasive growth mindset, emotional and physical safety, and a focus on learning and development of students, teachers and all other members of the school community.</li>
+      <li>Supportive peer relationships contribute to the building of a caring and supportive peer culture, by students for students.</li>
+      <li>For the cultivation of dispositions of character and citizenship, and social-emotional well-being.</li>
+      <li>Students are empowered to become their best selves.</li>
+    </ul>
 
-<table class="iveo_table ives_tab_1 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(69, 69, 69); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="130" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">Level</font></span></b></p></td><td width="486" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">CCE Outcomes</font></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="130" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">1</font></span></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">Self</font></span></p></td><td width="486" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">A pupil who is able to take care of self, make friends and show care for family members.</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="130" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">2</font></span></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">Self and Family</font></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="130" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">3</font></span></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">School</font></span></p></td><td width="486" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">A pupil who is able to build positive relationships and work in teams to contribute to school and community.</font></span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="130" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">4</font></span></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">School and Community</font></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="130" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">5</font></span></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">Community and Nation</font></span></p></td><td width="486" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">A pupil that contributes to the community and nation and is a self-directed learner who is informed of the globalised world.</font></span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></font></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="130" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;">6</font></span></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font face="trebuchet ms, sans-serif" size="4" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Nation and World</span></font></p></td></tr></tbody></table>
+   <p style="font-size: 16px;"><strong>Key Lever 2: Enactment of CCE with Intentionality</strong></p>
+    <ul style="font-size: 16px;">
+      <li>Enactment through CCE Lessons during curriculum time, planned student development learning experiences beyond the classroom, teachable moments during other subject lessons and learning opportunities beyond school.</li>
+      <li>Specific CCE learning outcomes are articulated, and planned activities such as cohort learning journeys are incorporated with the intention of realising the identified learning outcomes.</li>
+    </ul>
 
-Click [here](https://www.farrerparkpri.moe.edu.sg/cce/overview/) to learn more about Character and Citizenship Education (CCE).
+   <p style="font-size: 16px;"><strong>Key Lever 3: Cultivation of Learner Agency</strong></p>
+    <ul style="font-size: 16px;">
+      <li>Creating space for students to be heard and encouraged to play an active role in what and how they learn, provides opportunities for them to develop agency or self-directedness, responsibility and ownership of their learning.</li>
+      <li>Empowers students to contribute purposefully to their community by providing opportunities for contribution to family, school and community through Values in Action (VIA) projects.</li>
+      <li>For Education and Career Guidance (ECG), equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work.</li>
+    </ul>
+  </div>
+
+  
+  <div style="background-color: #ffffff; border-left: 6px solid #51a72c; padding: 20px; border-radius: 8px;">
+    <p style="font-size: 16px; margin-top: 0;"><strong><u>CCE Curriculum Content Areas</u></strong></p>
+    <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; font-size: 16px;">
+      <li>Character Education</li>
+      <li>National Education (NE)</li>
+      <li>Sexuality Education (SEd)</li>
+      <li>Education and Career Guidance (ECG)</li>
+      <li>Cyber Wellness</li>
+      <li>Mental Health</li>
+      <li>Family Education</li>
+      <li>Leadership Development</li>
+      <li>Internationalisation Programme</li>
+      <li>Integration Programme</li>
+      <li>Peer Support and Relationships (PSR)</li>
+      <li>Values in Action (VIA)</li>
+    </ul>
+  </div>
+
+</div>
+<p style="font-size: 16px;">Click <a style="font-size: 16px;" href="https://www.farrerparkpri.moe.edu.sg/cce/overview/">here</a> to learn more about Character and Citizenship Education (CCE).</p>
