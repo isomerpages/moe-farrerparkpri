@@ -9,69 +9,76 @@ variant: markdown
   <h3>Character and Citizenship Education (CCE)</h3>
 
   
-  <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
-    <div style="flex: 1; background-color: #d2e1ce; padding: 20px; border-radius: 8px;">
-      <p style="font-size: 16px; margin-top: 0;"><u><strong>Vision</strong></u><br>
-      CCE is at the heart of education at FPPS, shaping students into responsible individuals with a strong moral compass. We strive to nurture lifelong learners who are not only of good character but also resilient, socially aware, and curious about the world around them. With a spirit of curiosity and a heart of gold, our students will be ready to adapt and contribute meaningfully to society in a rapidly changing world.</p>
-    </div>
-    <div style="flex: 1; background-color: #d2e1ce; padding: 20px; border-radius: 8px;">
-      <p style="font-size: 16px; margin-top: 0;"><u><strong>Approach</strong></u></p>
-      <p style="font-size: 16px;"><strong>School Values:</strong> Care, Curiosity, and Empathy, fostering a culture of kindness, lifelong learning, and understanding.</p>
-      <p style="font-size: 16px;"><strong>Social-Emotional Competencies:</strong> Developing Social awareness, self-awareness, self-management, relationship management, and responsible decision-making.</p>
-      <p style="font-size: 16px;"><strong>Emerging 21st Century Competencies (21CC):</strong></p>
-      <ul style="font-size: 16px;">
-        <li>Critical, Adaptive and Inventive Thinking</li>
-        <li>Communication, Collaboration and Information Skills</li>
-        <li>Civic, Global and Cross-Cultural Literacy</li>
-      </ul>
-    </div>
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
+  <div style="flex: 1; background-color: #d2e1ce; padding: 20px; border-radius: 8px; font-size: 16px;">
+    <span><u><strong>Vision</strong></u></span><br><br>
+    CCE is at the heart of education at FPPS, shaping students into responsible individuals with a strong moral compass.<br><br>
+    We strive to nurture lifelong learners who are not only of good character but also resilient, socially aware, and curious about the world around them.<br><br>
+    With a spirit of curiosity and a heart of gold, our students will be ready to adapt and contribute meaningfully to society in a rapidly changing world.
   </div>
+
+  <div style="flex: 1; background-color: #d2e1ce; padding: 20px; border-radius: 8px; font-size: 16px;">
+    <span><u><strong>Approach</strong></u></span><br><br>
+    <strong>School Values:</strong> Care, Curiosity, and Empathy, fostering a culture of kindness, lifelong learning, and understanding.<br><br>
+    <strong>Social-Emotional Competencies:</strong> Developing Social awareness, self-awareness, self-management, relationship management, and responsible decision-making.<br><br>
+    <strong>Emerging 21st Century Competencies (21CC):</strong><br>
+    <ul style="font-size: 16px; margin-top: 5px;">
+      <li>Critical, Adaptive and Inventive Thinking</li>
+      <li>Communication, Collaboration and Information Skills</li>
+      <li>Civic, Global and Cross-Cultural Literacy</li>
+    </ul>
+  </div>
+</div>
+
 
   
-  <div style="background-color: #d2e1ce; padding: 20px; border-radius: 8px; margin-bottom: 30px;">
-    <p style="font-size: 16px; margin-top: 0;"><u><strong>CCE Anchored in FPPS Culture</strong></u></p>
-    <p style="font-size: 16px;">Our CCE efforts are grounded in our school culture that values every student as an individual, nurturing their emotional, moral, and social well-being. We strive to build a school community where students develop positive relationships, a strong sense of identity, and confidence to lead and contribute to society.</p>
-  </div>
+<div style="background-color: #d2e1ce; padding: 20px; border-radius: 8px; margin-bottom: 30px; font-size: 16px;">
+  <span style="font-size: 16px; margin-top: 0;"><u><strong>CCE Anchored in FPPS Culture</strong></u></span><br><br>
+  Our CCE efforts are grounded in our school culture that values every student as an individual, nurturing their emotional, moral, and social well-being.<br><br>
+  We strive to build a school community where students develop positive relationships, a strong sense of identity, and confidence to lead and contribute to society.
+</div>
+
 
   
-  <div style="background-color: #eaf1e9; padding: 20px; border-radius: 8px; margin-bottom: 30px;">
-    <p style="font-size: 16px; margin-top: 0;"><u><strong>Objective</strong></u></p>
-    <p style="font-size: 16px;"><strong>CCE Department Objectives</strong></p>
-    <ol style="font-size: 16px;">
-      <li><strong>To realise the goals of CCE 2021</strong> by developing:
-        <ol style="font-size: 16px;" type="a">
-          <li>Good character</li>
-          <li>Resilience and social-emotional well-being</li>
-          <li>Future-readiness</li>
-          <li>Active citizenship in every student</li>
-        </ol>
-      </li>
-      <li><strong>To nurture confident learners with hearts of gold</strong>, guided by our school vision, through meaningful and intentional CCE experiences that shape values, build empathy, and empower students to make a positive difference.</li>
-    </ol>
+<div style="background-color: #eaf1e9; padding: 20px; border-radius: 8px; margin-bottom: 30px;">
+  <span style="font-size: 16px;"><u><strong>Objective</strong></u></span><br><br>
+  <span style="font-size: 16px;"><strong>CCE Department Objectives</strong></span>
+  <ol style="font-size: 16px;">
+    <li><strong>To realise the goals of CCE 2021</strong> by developing:
+      <ol style="font-size: 16px;" type="a">
+        <li>Good character</li>
+        <li>Resilience and social-emotional well-being</li>
+        <li>Future-readiness</li>
+        <li>Active citizenship in every student</li>
+      </ol>
+    </li>
+    <li><strong>To nurture confident learners with hearts of gold</strong>, guided by our school vision, through meaningful and intentional CCE experiences that shape values, build empathy, and empower students to make a positive difference.</li>
+  </ol>
 
-   <p style="font-size: 16px;"><u><strong>CCE 2021 Curriculum Frame and Key Levers @ FPPS</strong></u></p>
+  <span style="font-size: 16px;"><u><strong>CCE 2021 Curriculum Frame and Key Levers @ FPPS</strong></u></span><br>
 
-   <p style="font-size: 16px;"><strong>Key Lever 1: A Caring and Enabling School Environment at FPPS</strong></p>
-    <ul style="font-size: 16px;">
-      <li>Characterized by caring and responsible leadership, a pervasive growth mindset, emotional and physical safety, and a focus on learning and development of students, teachers and all other members of the school community.</li>
-      <li>Supportive peer relationships contribute to the building of a caring and supportive peer culture, by students for students.</li>
-      <li>For the cultivation of dispositions of character and citizenship, and social-emotional well-being.</li>
-      <li>Students are empowered to become their best selves.</li>
-    </ul>
+  <span style="font-size: 16px;"><strong>Key Lever 1: A Caring and Enabling School Environment at FPPS</strong></span>
+  <ul style="font-size: 16px;">
+    <li>Characterized by caring and responsible leadership, a pervasive growth mindset, emotional and physical safety, and a focus on learning and development of students, teachers and all other members of the school community.</li>
+    <li>Supportive peer relationships contribute to the building of a caring and supportive peer culture, by students for students.</li>
+    <li>For the cultivation of dispositions of character and citizenship, and social-emotional well-being.</li>
+    <li>Students are empowered to become their best selves.</li>
+  </ul>
 
-   <p style="font-size: 16px;"><strong>Key Lever 2: Enactment of CCE with Intentionality</strong></p>
-    <ul style="font-size: 16px;">
-      <li>Enactment through CCE Lessons during curriculum time, planned student development learning experiences beyond the classroom, teachable moments during other subject lessons and learning opportunities beyond school.</li>
-      <li>Specific CCE learning outcomes are articulated, and planned activities such as cohort learning journeys are incorporated with the intention of realising the identified learning outcomes.</li>
-    </ul>
+  <span style="font-size: 16px;"><strong>Key Lever 2: Enactment of CCE with Intentionality</strong></span>
+  <ul style="font-size: 16px;">
+    <li>Enactment through CCE Lessons during curriculum time, planned student development learning experiences beyond the classroom, teachable moments during other subject lessons and learning opportunities beyond school.</li>
+    <li>Specific CCE learning outcomes are articulated, and planned activities such as cohort learning journeys are incorporated with the intention of realising the identified learning outcomes.</li>
+  </ul>
 
-   <p style="font-size: 16px;"><strong>Key Lever 3: Cultivation of Learner Agency</strong></p>
-    <ul style="font-size: 16px;">
-      <li>Creating space for students to be heard and encouraged to play an active role in what and how they learn, provides opportunities for them to develop agency or self-directedness, responsibility and ownership of their learning.</li>
-      <li>Empowers students to contribute purposefully to their community by providing opportunities for contribution to family, school and community through Values in Action (VIA) projects.</li>
-      <li>For Education and Career Guidance (ECG), equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work.</li>
-    </ul>
-  </div>
+  <span style="font-size: 16px;"><strong>Key Lever 3: Cultivation of Learner Agency</strong></span>
+  <ul style="font-size: 16px;">
+    <li>Creating space for students to be heard and encouraged to play an active role in what and how they learn, provides opportunities for them to develop agency or self-directedness, responsibility and ownership of their learning.</li>
+    <li>Empowers students to contribute purposefully to their community by providing opportunities for contribution to family, school and community through Values in Action (VIA) projects.</li>
+    <li>For Education and Career Guidance (ECG), equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work.</li>
+  </ul>
+</div>
+
 
   
   <div style="background-color: #ffffff; border-left: 6px solid #51a72c; padding: 20px; border-radius: 8px;">
