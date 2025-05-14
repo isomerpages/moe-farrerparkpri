@@ -36,4 +36,8 @@ sections:
             2025), Retail Shop (27 Feb - 5 Mar 2025)"
           link_text: ""
           link_url: ""
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
