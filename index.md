@@ -18,4 +18,9 @@ sections:
         - title: Achievements
           description: ""
           url: /achievements/
+  - resources:
+      title: Resources test
+      subtitle: test
+      id: resources
+      button: test
 ---
