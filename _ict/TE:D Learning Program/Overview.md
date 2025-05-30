@@ -1,10 +1,10 @@
 ---
 title: Overview
-permalink: /ict/overview/
+permalink: /ict/ted-learning-program/overview/
 description: ""
 third_nav_title: TE:D Learning Program
+variant: tiptap
 ---
-
 #### What is the TE:D Learning Programme?
 
 <img src="/images/ted1.png" style="width:60%">
