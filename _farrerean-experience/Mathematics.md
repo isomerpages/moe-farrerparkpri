@@ -6,30 +6,31 @@ variant: markdown
 ---
 <h3>Mathematics</h3>
 <font size="3">
-<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white; border-radius: 10px;">
+<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
   <tbody>
     <tr>
-      <td bgcolor="eaf1e9" colspan="4" style="text-align: center; border: 1px solid white;">
-        <img style="width: 22%; margin: 1%;" alt="Math Activity 1" src="/images/2025/Mathematics/img1.jpg">
-        <img style="width: 22%; margin: 1%;" alt="Math Activity 2" src="/images/2025/Mathematics/img2.jpg">
-        <img style="width: 22%; margin: 1%;" alt="Math Activity 3" src="/images/2025/Mathematics/img3.jpg">
-        <img style="width: 22%; margin: 1%;" alt="Math Activity 4" src="/images/2025/Mathematics/img4.jpg">
+      <td bgcolor="eaf1e9" style="text-align: center; border: 1px solid white;" colspan="5">
+        <img style="width: 18%; margin: 0.5%;" alt="Math Image 1" src="/images/2025/Math/math_1.jpg">
+        <img style="width: 18%; margin: 0.5%;" alt="Math Image 2" src="/images/2025/Math/math_2.jpg">
+        <img style="width: 18%; margin: 0.5%;" alt="Math Image 3" src="/images/2025/Math/math_3.jpg">
+        <img style="width: 18%; margin: 0.5%;" alt="Math Image 4" src="/images/2025/Math/math_4.jpg">
+        <img style="width: 18%; margin: 0.5%;" alt="Math Image 5" src="/images/2025/Math/math_5.jpg">
       </td>
     </tr>
     <tr>
-      <td bgcolor="d2e1ce" style="width: 100%; border: 1px solid white;">
+      <td bgcolor="d2e1ce" style="border: 1px solid white;" colspan="5">
         <span style="text-decoration: underline;"><strong>Vision</strong></span><br>
         Inspiring confident and caring problem-solvers who challenge limits and grow through learning.
       </td>
     </tr>
     <tr>
-      <td bgcolor="eaf1e9" style="width: 100%; border: 1px solid white;">
+      <td bgcolor="eaf1e9" style="border: 1px solid white;" colspan="5">
         <span style="text-decoration: underline;"><strong>Mission</strong></span><br>
         To nurture curious minds and resilient learners through meaningful mathematical experiences that develop thinking, empathy, and a love for learning.
       </td>
     </tr>
     <tr>
-      <td bgcolor="d2e1ce" style="width: 100%; border: 1px solid white;">
+      <td bgcolor="d2e1ce" style="border: 1px solid white;" colspan="5">
         <span style="text-decoration: underline;"><strong>Approach</strong></span><br>
         In line with Jerome Bruner’s Concrete-Pictorial-Abstract approach, our pupils are provided with opportunities to engage in hands-on activities using manipulatives to learn new concepts. These learning experiences are then translated to pictorial, then abstract representations.<br><br>
         Teachers make deliberate choices on the instructional strategies based on learners’ profiles and needs, and the nature of the concepts to be taught. The engagement phase can include one or more of the following:
@@ -41,7 +42,7 @@ variant: markdown
       </td>
     </tr>
     <tr>
-      <td bgcolor="eaf1e9" style="width: 100%; border: 1px solid white;">
+      <td bgcolor="eaf1e9" style="border: 1px solid white;" colspan="5">
         <span style="text-decoration: underline;"><strong>Objective</strong></span><br>
         Our guiding beliefs and commitments are to
         <ul style="margin: 0; padding-left: 20px; font-size: 16px;">
@@ -56,10 +57,10 @@ variant: markdown
   </tbody>
 </table>
 
-<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white; border-radius: 10px; margin-top: 20px;">
+<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white; margin-top: 20px;">
   <tbody>
     <tr>
-      <td style="width: 100%;">
+      <td>
         <span style="text-decoration: underline;"><strong>Programmes</strong></span><br>
         <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
           <tbody>
@@ -72,20 +73,20 @@ variant: markdown
               </td>
             </tr>
             <tr bgcolor="eaf1e9">
-              <td style="text-align: center; vertical-align: middle;"><strong>Financial Literacy Programmes</strong></td>
-              <td style="text-align: left; vertical-align: middle;">These programmes help students understand money management, budgeting, and real-life financial decisions through engaging, age-appropriate tasks.</td>
+              <td style="text-align: center;"><strong>Financial Literacy Programmes</strong></td>
+              <td>These programmes help students understand money management, budgeting, and real-life financial decisions through engaging, age-appropriate tasks.</td>
             </tr>
             <tr bgcolor="d2e1ce">
-              <td style="text-align: center; vertical-align: middle;"><strong>Mathematics Numeracy Programmes</strong></td>
-              <td style="text-align: left; vertical-align: middle;">Focused on strengthening foundational skills in number sense, operations, and real-world mathematical application.</td>
+              <td style="text-align: center;"><strong>Mathematics Numeracy Programmes</strong></td>
+              <td>Focused on strengthening foundational skills in number sense, operations, and real-world mathematical application.</td>
             </tr>
             <tr bgcolor="eaf1e9">
-              <td style="text-align: center; vertical-align: middle;"><strong>Learning Support Programmes</strong></td>
-              <td style="text-align: left; vertical-align: middle;">Targeted support for students who require additional guidance in mathematical understanding and confidence building.</td>
+              <td style="text-align: center;"><strong>Learning Support Programmes</strong></td>
+              <td>Targeted support for students who require additional guidance in mathematical understanding and confidence building.</td>
             </tr>
             <tr bgcolor="d2e1ce">
-              <td style="text-align: center; vertical-align: middle;"><strong>Mathematics Games</strong></td>
-              <td style="text-align: left; vertical-align: middle;">Interactive and engaging activities designed to reinforce concepts and promote logical thinking in a fun way.</td>
+              <td style="text-align: center;"><strong>Mathematics Games</strong></td>
+              <td>Interactive and engaging activities designed to reinforce concepts and promote logical thinking in a fun way.</td>
             </tr>
           </tbody>
         </table>
