@@ -2,49 +2,95 @@
 title: Mathematics
 permalink: /farrerean-experience/mathematics/
 description: ""
+variant: markdown
 ---
-### Mathematics
+<h3>Mathematics</h3>
+<font size="3">
+<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white; border-radius: 10px;">
+  <tbody>
+    <tr>
+      <td bgcolor="eaf1e9" colspan="4" style="text-align: center; border: 1px solid white;">
+        <img style="width: 22%; margin: 1%;" alt="Math Activity 1" src="/images/2025/Mathematics/img1.jpg">
+        <img style="width: 22%; margin: 1%;" alt="Math Activity 2" src="/images/2025/Mathematics/img2.jpg">
+        <img style="width: 22%; margin: 1%;" alt="Math Activity 3" src="/images/2025/Mathematics/img3.jpg">
+        <img style="width: 22%; margin: 1%;" alt="Math Activity 4" src="/images/2025/Mathematics/img4.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="d2e1ce" style="width: 100%; border: 1px solid white;">
+        <span style="text-decoration: underline;"><strong>Vision</strong></span><br>
+        Inspiring confident and caring problem-solvers who challenge limits and grow through learning.
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="eaf1e9" style="width: 100%; border: 1px solid white;">
+        <span style="text-decoration: underline;"><strong>Mission</strong></span><br>
+        To nurture curious minds and resilient learners through meaningful mathematical experiences that develop thinking, empathy, and a love for learning.
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="d2e1ce" style="width: 100%; border: 1px solid white;">
+        <span style="text-decoration: underline;"><strong>Approach</strong></span><br>
+        In line with Jerome Bruner’s Concrete-Pictorial-Abstract approach, our pupils are provided with opportunities to engage in hands-on activities using manipulatives to learn new concepts. These learning experiences are then translated to pictorial, then abstract representations.<br><br>
+        Teachers make deliberate choices on the instructional strategies based on learners’ profiles and needs, and the nature of the concepts to be taught. The engagement phase can include one or more of the following:
+        <ul style="margin: 0; padding-left: 20px; font-size: 16px;">
+          <li>Activity-based Learning</li>
+          <li>Inquiry-based Learning</li>
+          <li>Direct Instruction</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="eaf1e9" style="width: 100%; border: 1px solid white;">
+        <span style="text-decoration: underline;"><strong>Objective</strong></span><br>
+        Our guiding beliefs and commitments are to
+        <ul style="margin: 0; padding-left: 20px; font-size: 16px;">
+          <li>develop deep conceptual understanding to build a strong foundation for lifelong learning.</li>
+          <li>nurture problem-solving competencies through meaningful, real-world tasks that challenge and engage.</li>
+          <li>cultivate metacognition, encouraging students to reflect, monitor, and adapt their thinking.</li>
+          <li>foster positive attitudes by creating a safe and supportive environment where students can take risks and grow.</li>
+          <li>promote values of curiosity, empathy, and care, empowering students to collaborate and contribute thoughtfully.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-At Farrer Park Primary School, we believe in grounding a strong foundation in mathematical concepts and skills in our pupils. By enabling our pupils to be adept at numeracy, we prepare them to be able to apply their acquired skills for everyday life. Another key tenet in our approach is the development of reasoning and critical thinking skills through communication. Getting the final answer in a word problem is never enough. Our pupils stretch their thinking as they express their ideas and logic with precise mathematical language, articulate how they drew connections and reasoned mathematically, and evaluate different methods for solving the same problem. Through these, we grow excellence in our pupils’ thinking skills.  
-  
-At the same time, through ICT-enabled lessons, manipulatives and carefully selected games that develop critical thinking, we generate interest in learning Mathematics and help our pupils develop confidence and a positive attitude towards their learning.  
-
-#### Acquiring Strong Numeracy Skills for Real Life
-
-<img src="/images/math1.png" style="width:80%">
-
-In line with Jerome Bruner’s Concrete-Pictorial-Abstract approach, our pupils are provided with opportunities to engage in hands-on activities using manipulatives to learn new concepts. These learning experiences are then translated to pictorial, then abstract representations. Through this progressive approach, our pupils explore and learn about Maths, and understand more deeply how this can be seen and applied in everyday life.
-
-  
-
-<img src="/images/math2.png" style="width:80%">
-
-We believe that mathematical concepts should always be taught with an explicit link to real life, so that our pupils can find meaning and purpose in their learning. The pupils learn to convert the different denominations of money and to add and subtract money. These concepts in Mathematics are used on a daily basis in their lives.
-
-<img src="/images/math3.png" style="width:80%">
-
-At the Upper Primary, pupils continue to undergo learning experiences where they apply their numerical skills to more challenging concepts like ratio, percentage and speed. Here, our Primary 6 pupils learn about the concept of percentage change through an exploration of real life advertisements, as they compete in an exciting in-class competition to find the sales item with the greatest percentage decrease.
-
-#### Developing Reasoning and Critical Thinking Skills
- 
-<img src="/images/math4.png" style="width:80%">
-
-Communicating mathematical ideas clearly helps our pupils sharpen their mathematical thinking. Here, our Primary 1 students are reading a story to illustrate the concept of subtraction. Beyond that, they pair up to explain how they arrive at their answers. Through this, their thinking is made visible, and they are challenged to articulate their thoughts clearly.
-
-<img src="/images/math5.png" style="width:80%">
-
-Mathematical reasoning is a habit of mind we aim to inculcate in our pupils, and we do that by providing opportunities for students to express the thinking behind their answers. In these pictures, our Primary 4 pupils are required to construct diagrams on their iPads, justify why they are examples or non-examples of symmetrical figures, and explain the thought process behind drawing them.
-
-<img src="/images/math6.png" style="width:80%">
-
-In the Upper Primary, our pupils are challenged to come up with different solutions for a problem, and analyse and evaluate the merits of each solution. Here, our Primary 6 pupils examine two solutions to a problem on ratio. In what cases will the model method be preferred, and in what scenarios do the same method pose a challenge? Our pupils analyse mathematical situations and construct logical arguments, and a lively debate ensues.
-
-#### Encouraging Critical Thinking
- 
-<img src="/images/math7.png" style="width:80%">
-
-<img src="/images/math8.png" style="width:80%">
-
-  
-
-During recess, our pupils have access to games that develop strategic and logical thinking, including Sudoku, Othello, Rummikub, Blokus, and more. The games provide a fun and inviting platform for pupils to learn through play. Through these games, they develop strategic thinking skills, patience, an ability to focus as well as social skills as they work in groups or play against their friends.
+<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white; border-radius: 10px; margin-top: 20px;">
+  <tbody>
+    <tr>
+      <td style="width: 100%;">
+        <span style="text-decoration: underline;"><strong>Programmes</strong></span><br>
+        <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
+          <tbody>
+            <tr>
+              <td bgcolor="51a72c" style="width: 30%; text-align: center;">
+                <span style="color: #ffffff;"><strong>Programmes</strong></span>
+              </td>
+              <td bgcolor="51a72c" style="width: 70%; text-align: center;">
+                <span style="color: #ffffff;"><strong>Description</strong></span>
+              </td>
+            </tr>
+            <tr bgcolor="eaf1e9">
+              <td style="text-align: center; vertical-align: middle;"><strong>Financial Literacy Programmes</strong></td>
+              <td style="text-align: left; vertical-align: middle;">These programmes help students understand money management, budgeting, and real-life financial decisions through engaging, age-appropriate tasks.</td>
+            </tr>
+            <tr bgcolor="d2e1ce">
+              <td style="text-align: center; vertical-align: middle;"><strong>Mathematics Numeracy Programmes</strong></td>
+              <td style="text-align: left; vertical-align: middle;">Focused on strengthening foundational skills in number sense, operations, and real-world mathematical application.</td>
+            </tr>
+            <tr bgcolor="eaf1e9">
+              <td style="text-align: center; vertical-align: middle;"><strong>Learning Support Programmes</strong></td>
+              <td style="text-align: left; vertical-align: middle;">Targeted support for students who require additional guidance in mathematical understanding and confidence building.</td>
+            </tr>
+            <tr bgcolor="d2e1ce">
+              <td style="text-align: center; vertical-align: middle;"><strong>Mathematics Games</strong></td>
+              <td style="text-align: left; vertical-align: middle;">Interactive and engaging activities designed to reinforce concepts and promote logical thinking in a fun way.</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</font>
