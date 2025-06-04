@@ -15,6 +15,10 @@ sections:
         - title: Achievements
           description: ""
           url: /achievements/
+        - title: Primary 1 - 6 mattters
+          description: ""
+          url: /for-parents/news-and-information/p1-to-p6-matters/
+      variant: center
   - announcements:
       title: Announcements
       id: announcements
