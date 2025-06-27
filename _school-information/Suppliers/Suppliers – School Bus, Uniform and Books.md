@@ -27,7 +27,7 @@ variant: markdown
         63 Ubi Ave 1 #04-09 Singapore 408937<br>
         Tel: 6352 2741<br>
         Operating hours: Mon-Fri, 9.30am to 6pm (1-2pm lunch)<br>
-        Website: <a target="_blank" href="http://www.shanghai-uniforms.com">www.shanghai-uniforms.com</a>
+        Website: <a target="_blank" href="https://shanghai-uniforms.sg/">https://shanghai-uniforms.sg/</a>
       </td>
       <td style="text-align:center;">
         Steadfast Transport Service<br>
