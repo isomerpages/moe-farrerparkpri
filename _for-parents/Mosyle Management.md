@@ -2,7 +2,6 @@
 title: Mosyle Management
 permalink: /for-parents/TED-Learning-Programme/managing-learning-device/
 description: ""
-third_nav_title: TE:D Learning Programme
 variant: markdown
 ---
 <h3 style="padding-bottom: 10px;">Managing your Child's Learning Device with Screenguide</h3>

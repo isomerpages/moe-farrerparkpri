@@ -2,7 +2,6 @@
 title: Installing and Using ScreenGuide
 permalink: /ict/Manage-your-Childs-Device/installing-and-using-screenguide/
 description: ""
-third_nav_title: TE:D Learning Programme
 variant: markdown
 ---
 <h3 style="margin-bottom: 20px;">Follow the 3 Steps to Setup ScreenGuide</h3>
