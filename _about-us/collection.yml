@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Virtual School Tour.md
       - Principal's Thoughts.md
       - Mission, Vision, Motto, Values and Learning Dispositions.md
       - School Rules.md
@@ -10,3 +9,4 @@ collections:
       - School Exco.md
       - Teaching and Non–Teaching Staff.md
       - MOE Kindergarten@Farrer Park.md
+      - Virtual School Tour.md
