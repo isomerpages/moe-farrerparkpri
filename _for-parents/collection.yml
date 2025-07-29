@@ -2,8 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Installing and Using ScreenGuide.md
-      - Mosyle Management.md
       - Letters & Notifications.md
       - Primary 1 to 6 Matters.md
       - Assessment Matters.md
@@ -26,5 +24,7 @@ collections:
       - TE:D Learning Programme/Overview.md
       - TE:D Learning Programme/TE:D Learning Programme Screenguide Workshop
         2023.md
+      - Mosyle Management.md
+      - Installing and Using ScreenGuide.md
       - Virtual Open House.md
       - Useful Tips.md
