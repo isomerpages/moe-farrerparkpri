@@ -18,32 +18,79 @@ third_nav_title: Joyful Learning
 
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px;">
-    <a href="#img1"><img style="width:100%; border-radius: 12px; cursor:pointer;" alt="Image 1" src="/images/2025/MK/1.jpg"></a>
-    <a href="#img2"><img style="width:100%; border-radius: 12px; cursor:pointer;" alt="Image 2" src="/images/2025/MK/2.jpg"></a>
-    <a href="#img3"><img style="width:100%; border-radius: 12px; cursor:pointer;" alt="Image 3" src="/images/2025/MK/3.jpg"></a>
+    <a style="display:block;" href="#lb1"><img style="width:100%; border-radius: 12px; cursor:pointer;" alt="Image 1" src="/images/2025/MK/1.jpg"></a>
+    <a style="display:block;" href="#lb2"><img style="width:100%; border-radius: 12px; cursor:pointer;" alt="Image 2" src="/images/2025/MK/2.jpg"></a>
+    <a style="display:block;" href="#lb3"><img style="width:100%; border-radius: 12px; cursor:pointer;" alt="Image 3" src="/images/2025/MK/3.jpg"></a>
   </div>
-
 </div>
 
 
-<div style="position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9); display:none; align-items:center; justify-content:center; z-index:1000;" id="img1">
-  <a style="position:absolute; top:20px; right:40px; font-size:40px; color:white; text-decoration:none;" href="#">×</a>
-  <img style="max-width:90%; max-height:80%;" src="/images/2025/MK/1.jpg">
+<div class="lightbox" id="lb1">
+  <a aria-label="Close" class="lb-backdrop" href="#"></a>
+  <img alt="Image 1 large" src="/images/2025/MK/1.jpg">
+  <a aria-label="Close" class="lb-close" href="#">×</a>
 </div>
 
-<div style="position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9); display:none; align-items:center; justify-content:center; z-index:1000;" id="img2">
-  <a style="position:absolute; top:20px; right:40px; font-size:40px; color:white; text-decoration:none;" href="#">×</a>
-  <img style="max-width:90%; max-height:80%;" src="/images/2025/MK/2.jpg">
+<div class="lightbox" id="lb2">
+  <a aria-label="Close" class="lb-backdrop" href="#"></a>
+  <img alt="Image 2 large" src="/images/2025/MK/2.jpg">
+  <a aria-label="Close" class="lb-close" href="#">×</a>
 </div>
 
-<div style="position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9); display:none; align-items:center; justify-content:center; z-index:1000;" id="img3">
-  <a style="position:absolute; top:20px; right:40px; font-size:40px; color:white; text-decoration:none;" href="#">×</a>
-  <img style="max-width:90%; max-height:80%;" src="/images/2025/MK/3.jpg">
+<div class="lightbox" id="lb3">
+  <a aria-label="Close" class="lb-backdrop" href="#"></a>
+  <img alt="Image 3 large" src="/images/2025/MK/3.jpg">
+  <a aria-label="Close" class="lb-close" href="#">×</a>
 </div>
 
 <style>
-  /* Show overlay only when targeted */
-  #img1:target, #img2:target, #img3:target {
+  /* Base overlay (hidden by default) */
+  .lightbox {
+    position: fixed;
+    inset: 0;
     display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0,0,0,.9);
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: opacity .2s ease;
+    z-index: 9999;
+  }
+
+  /* Show when targeted */
+  .lightbox:target {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
+  /* Image styling */
+  .lightbox img {
+    max-width: 90vw;
+    max-height: 80vh;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,.5);
+  }
+
+  /* Clickable backdrop to close */
+  .lb-backdrop {
+    position: absolute;
+    inset: 0;
+    display: block;
+    content: "";
+  }
+
+  /* Close button */
+  .lb-close {
+    position: absolute;
+    top: 16px;
+    right: 24px;
+    font-size: 40px;
+    line-height: 1;
+    color: #fff;
+    text-decoration: none;
+    padding: 4px 10px;
   }
 </style>
