@@ -23,14 +23,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Interaction With P
-          date: 03 July 2025
-          announcement: Dear Parents, thank you for your interest in Farrer Park Primary
-            School! Our Principal, Mr Dennis Yap, will be sharing more about
-            what makes our school special. Click the link below to choose your
-            slot. We look forward to seeing you!
-          link_text: Interaction With P
-          link_url: https://go.gov.sg/2025ptalk
         - title: 📣 Stay Connected with Us!
           date: 04 June 2025
           announcement: We’re on Facebook! 🎉 Follow us for the latest updates, and
