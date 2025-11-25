@@ -41,4 +41,10 @@ sections:
             Orientation slides under "Primary 1 Matters".
           link_text: Primary 1 Matters
           link_url: https://www.farrerparkpri.moe.edu.sg/for-parents/news-and-information/p1-to-p6-matters/
+        - title: 2026 School Essentials
+          date: 25 November 2025
+          announcement: Click below for the 2026 book list, bus application form, and
+            uniform information. All files are available under “All Matters”.
+          link_text: P1-P6 Matters
+          link_url: https://www.farrerparkpri.moe.edu.sg/for-parents/news-and-information/p1-to-p6-matters/
 ---
