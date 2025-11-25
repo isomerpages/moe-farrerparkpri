@@ -16,20 +16,20 @@ variant: markdown
           <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2026/For%20Parents/P2_BOOKLIST.pdf">Primary 2</a></li>
           <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2026/For%20Parents/P3_BOOKLIST.pdf">Primary 3</a></li>
           <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2026/For%20Parents/P4_BOOKLIST.pdf">Primary 4</a></li>
-          <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2025/Booklists/P5_BOOKLIST.pdf">Primary 5 Standard</a></li>
-          <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2025/Booklists/P5__FDN_.pdf">Primary 5 Foundation</a></li>
-          <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2025/Booklists/P6_BOOKLIST.pdf">Primary 6 Standard</a></li>
-          <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2025/Booklists/P6__FDN_.pdf">Primary 6 Foundation</a></li>
+          <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2026/For%20Parents/P5_BOOKLIST.pdf">Primary 5 Standard</a></li>
+          <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2026/For%20Parents/P5__FDN_.pdf">Primary 5 Foundation</a></li>
+          <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2026/For%20Parents/P6_BOOKLIST.pdf">Primary 6 Standard</a></li>
+          <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2026/For%20Parents/P6__FDN_.pdf">Primary 6 Foundation</a></li>
         </ul>
       </details>
 			[]()
 			[]()
 			[]()
 			[]()
-			[](/files/2026/For%20Parents/P5__FDN_.pdf)
-			[](/files/2026/For%20Parents/P5_BOOKLIST.pdf)
-			[](/files/2026/For%20Parents/P6__FDN_.pdf)
-			[](/files/2026/For%20Parents/P6_BOOKLIST.pdf)
+			[]()
+			[]()
+			[]()
+			[](
 			
     </li>
     <li style="font-size: 16px;"><a rel="noopener noreferrer nofollow" target="_blank" href="/files/2026/For%20Parents/2026_Bus_Application_form.pdf">School Bus Application Form</a></li>
