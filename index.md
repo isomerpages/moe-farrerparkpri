@@ -47,4 +47,10 @@ sections:
             uniform information. All files are available under “All Matters”.
           link_text: P1-P6 Matters
           link_url: https://www.farrerparkpri.moe.edu.sg/for-parents/news-and-information/p1-to-p6-matters/
+        - title: MK Orientation 2026
+          date: 25 November 2025
+          announcement: Dear K1 2026 parents/guardians, click below to access the K1
+            Orientation slides.
+          link_text: MK Orientation
+          link_url: https://www.farrerparkpri.moe.edu.sg/moe-kindergarten/k1-orientation/
 ---
