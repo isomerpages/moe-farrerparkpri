@@ -26,9 +26,10 @@ variant: markdown
 			[]()
 			[]()
 			[]()
-			
-			
-			
+			[](/files/2026/For%20Parents/P5__FDN_.pdf)
+			[](/files/2026/For%20Parents/P5_BOOKLIST.pdf)
+			[](/files/2026/For%20Parents/P6__FDN_.pdf)
+			[](/files/2026/For%20Parents/P6_BOOKLIST.pdf)
 			
     </li>
     <li style="font-size: 16px;"><a rel="noopener noreferrer nofollow" target="_blank" href="/files/2026/For%20Parents/2026_Bus_Application_form.pdf">School Bus Application Form</a></li>
