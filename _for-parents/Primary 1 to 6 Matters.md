@@ -22,7 +22,7 @@ variant: markdown
           <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2025/Booklists/P6__FDN_.pdf">Primary 6 Foundation</a></li>
         </ul>
       </details>
-    </li>[](/files/2026/For%20Parents/2026_Uniform_Brochure.pdf)
+    </li>
     <li style="font-size: 16px;"><a rel="noopener noreferrer nofollow" target="_blank" href="/files/2026/For%20Parents/2026_Bus_Application_form.pdf">School Bus Application Form</a></li>
     <li style="font-size: 16px;"><a rel="noopener noreferrer nofollow" target="_blank" href="/files/2026/For%20Parents/2026_Uniform_Brochure.pdf">School Uniform Letter</a></li>
   </ul>
