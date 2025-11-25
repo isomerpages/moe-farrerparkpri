@@ -40,7 +40,7 @@ variant: markdown
   <details style="margin-bottom: 10px;">
     <summary style="font-weight: bold; cursor: pointer; padding: 8px; background-color: #d2e1ce; border-radius: 5px;">Primary 1</summary>
     <ul style="margin-top: 10px; padding-left: 20px; font-size: 16px;">
-      <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2025/2024_P1_Orientation_FINAL.pdf">P1 Orientation Slides</a></li>
+      <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2026/For%20Parents/P1_Orientation_Deck_2025_Website.pdf">P1 Orientation Slides 2026</a></li>
       <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2025/FPPS Connects/P1_Total_Curriculum_Briefing_2025.pdf">P1 Total Curriculum Briefing</a></li>
     </ul>
   </details>
