@@ -258,14 +258,14 @@ variant: markdown
       <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Gomez Frances Lorraine</td>
     </tr>
     <tr>
-      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>6 Ready</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Tan Geok Mei</td>
-      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>6 Integrity</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Norimah bte Kamari</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>6 Empathy</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Elizabeth Lee Ming Chen</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>6 Honesty</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Elaine Choo Yin Lin</td>
     </tr>
     <tr>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Nithya Nagaratnam</td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Jhan Ling-Siou</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Max Angelo Vijaya</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Nur Azizah bte Abdul Rahman</td>
     </tr>
     <tr>
       <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>6 Adaptability</strong></td>
