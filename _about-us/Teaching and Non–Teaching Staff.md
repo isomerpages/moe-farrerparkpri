@@ -267,16 +267,15 @@ variant: markdown
       <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Max Angelo Vijaya</td>
       <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Nur Azizah bte Abdul Rahman</td>
     </tr>
-    <tr>
-      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>6 Adaptability</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Ang Siam Gek Evelyn</td>
-      <td rowspan="2" style="border: 1px solid #ccc; padding: 8px;"></td>
-      <td rowspan="2" style="border: 1px solid #ccc; padding: 8px;"></td>
+    <tr><td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>6 Kindness</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Aw Caili</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>6 Respect</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Jennifer Ng Siow Yan</td>
     </tr>
     <tr>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Nurliza bte Sawi</td>
-    </tr>
-  </tbody>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Ravinder Singh Swaran Singh</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Baidah Bte Ahmad</td>
+  </tr></tbody>
 </table>
 
 <h4>Other Teaching Staff</h4>
