@@ -12,15 +12,15 @@ variant: markdown
   </div>
 
   <p style="font-size: 16px;">
-    We bade farewell to 2024 on a high note. The school has ended 2024 very well. We were very encouraged by our PSLE results over the past 2 years! In 2024, we saw many of our children doing exceptionally well at PSLE and were placed in secondary schools of their choices. This is a testament of the hard work and dedication of our teachers and the support given to the children by their families.
+Welcome to a new year! We bade farewell to 2025 again on a high note. We ended 2025 very well. We were very encouraged by our PSLE results over the past 3 years! In 2025, again we saw our children doing exceptionally well at PSLE and were placed in secondary schools of their choices. This is a testament to the hard work and dedication of our teachers and the support given to the children by their families.
   </p>
 
   <p style="font-size: 16px;">
-    The children have also done well in Creative Areas. Our Modern Dance and Chinese Orchestra (Drums Ensemble) bagged <strong>Certificates of Distinction</strong> while the Guitar Ensemble received the <strong>Certificate of Accomplishment</strong> at the Singapore Youth Festival 2024. On the sporting front, our children have also won prizes in sports such as <em>Swimming, Athletics, Taekwondo, Squash, Tennis</em> and <em>Football</em>.
+This year we welcome another School Leader to our School Leadership Team. She is Ms Janice Beh. Ms Beh brings with her much experience from MOE HQ, having served in many Divisions such as Higher Education, Special Education and Early Childhood Education. We are indeed glad that Ms Beh is with us.
   </p>
 
   <p style="font-size: 16px;">
-    Just like how the lyrics found in the school song described, the school is like a plant that has blossomed to become a big strong tree. This tree is supported by the deep roots of the 9 schools which formed its heritage. <strong>Farrer Park Primary School Version 2.0 (FPPS 2.0)</strong> is an amalgamation of 9 schools over 7 decades as depicted in the mural below.
+Just as the lyrics found in the school song described, the school is like a plant that has grown to become a big strong tree. This tree is supported by the deep roots of the 9 schools which contributed to her history over 7 decades as depicted in the mural below.
   </p>
 
   <div style="text-align: center; margin: 30px 0;">
@@ -28,11 +28,11 @@ variant: markdown
   </div>
 
   <p style="font-size: 16px;">
-    As a school, we strive to give our children a balanced and holistic educational experience that will prepare them for a life of learning and thriving. Every child would be <strong>“A Fountain of Knowledge”</strong> with a <strong>“Heart of Gold”</strong>, as espoused by the school’s Vision, anchored on the school Values of <strong>Curiosity</strong>, <strong>Empathy</strong> and <strong>Care</strong>.
+As a school, we will strive to give our children a balanced and holistic educational experience that will prepare them for a life of learning and thriving, that every child would be “A Fountain of Knowledge” with a “Heart of Gold” as espoused by the school’s Vision, anchored on the school Values of <strong>Curiosity, Empathy</strong> and <strong>Care</strong>.
   </p>
 
   <p style="font-size: 16px;">
-    I look forward to the new year. May we enter 2025 with a great sense of anticipation and hope, anchored on <strong>Values</strong>, working towards the Vision of the school.
+    I look forward to the new year. May we enter 2026 with a great sense of anticipation and hope, anchored on <strong>Values</strong>, working towards the Vision of the school.
   </p>
 
   <p style="font-size: 16px;">
