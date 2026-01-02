@@ -167,20 +167,20 @@ variant: markdown
     <tr>
       <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>4 Empathy</strong></td>
       <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Wu Huishan</td>
-      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>4 Adaptability</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Tan Lay Hwa</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>4 Honesty</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms New Jia Rui Stephanie</td>
     </tr>
     <tr>
       <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Nur Amanina bte Zaini</td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Norliyah bte Mohamad Hasan</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Siti Zubaidah bte Jumani</td>
     </tr>
     <tr>
-      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>4 Integrity</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Yap Miao Koon Sharon</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>4 Kindness</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Wong-Low Ai Rin</td>
       <td style="border: 1px solid #ccc; padding: 8px; text-align: center;" rowspan="2" colspan="2"></td>
     </tr>
     <tr>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Mohamed Azrai Bin Ahmad</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Rahimah Bte Madan</td>
     </tr>
   </tbody>
 </table>
