@@ -222,14 +222,12 @@ variant: markdown
       <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Cherandy Lim Sujun</td>
     </tr>
     <tr>
-      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>5 Adaptability</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Elizabeth Lee Ming Chen</td>
-      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>5 Charm</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Jennifer Ng Siow Yan</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>5 Kindness</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Nurliza bte Sawi</td>
+      <td style="border: 1px solid #ccc; padding: 8px; text-align: center;" rowspan="2" colspan="2"></td>
     </tr>
     <tr>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Max Angelo Vijaya</td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Kan Yue Lian</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Vellaisamy Indrani</td>
     </tr>
   </tbody>
 </table>
