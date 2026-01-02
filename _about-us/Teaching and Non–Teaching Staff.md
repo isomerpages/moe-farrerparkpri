@@ -4,6 +4,7 @@ permalink: /about-us/teaching-and-non-teaching-staff/
 description: ""
 variant: markdown
 ---
+<h4> Updating 2026 teaching and non-teaching staff in progress. <br>Please check back later. Thank you</h4>
 <h4>Primary 1</h4>
 <table style="min-width: 100px; border-collapse: collapse;"><colgroup> <col> <col> <col> <col> </colgroup>
 <tbody>
@@ -38,7 +39,7 @@ variant: markdown
 <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Monisha Samdas Budhrani</td>
 <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>1 Respect</strong></td><td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Liu Juan</td>
 </tr>
-<tr><td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Chen Huifang</td>
+<tr><td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Mohamed Azrai Bin Ahmad</td>
 	<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Toh Puay Joo Peggy</td>
 </tr>
 
@@ -61,10 +62,10 @@ variant: markdown
       <td style="border:1px solid #ccc; padding:8px;"><strong>Form Teacher</strong></td>
     </tr>
     <tr>
-      <td style="background-color:#d2e1ce; border:1px solid #ccc; padding:8px;" rowspan="2"><strong>2 Graciousness</strong></td>
-      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Mr Alex Lee Aik Huang</td>
-      <td style="background-color:#d2e1ce; border:1px solid #ccc; padding:8px;" rowspan="2"><strong>2 Responsibility</strong></td>
-      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms Monisha Samdas Budhrani</td>
+      <td style="background-color:#d2e1ce; border:1px solid #ccc; padding:8px;" rowspan="2"><strong>2 Care</strong></td>
+      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms Tricia Tork</td>
+      <td style="background-color:#d2e1ce; border:1px solid #ccc; padding:8px;" rowspan="2"><strong>2 Curiosity</strong></td>
+      <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms Lim Jen Yan</td>
     </tr>
     <tr>
       <td style="background-color:#eaf1e9; border:1px solid #ccc; padding:8px;">Ms Liu Juan</td>
