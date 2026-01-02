@@ -7,7 +7,7 @@ variant: markdown
 <div style="background-color: #eaf1e9; padding: 0px; border-radius: 0px;">
   <h4 style="background-color: #d2e1ce; padding: 10px;">All Student Matters</h4>
   <ul style="font-size: 16px;">
-    <li style="font-size: 16px;"><a rel="noopener noreferrer nofollow" target="_blank" href="/files/2025/Product_Fact_Sheet__Year_2025_.pdf"> Group Personal Accident Information Sheet </a></li>
+    <li style="font-size: 16px;"><a rel="noopener noreferrer nofollow" target="_blank" href="/files/2026/GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS.pdf"> Group Personal Accident Information Sheet </a></li>
     <li style="font-size: 16px;"><strong>Year 2026 Primary 1 - 6 Booklists</strong>
       <details style="margin-bottom: 10px;">
         <summary style="font-weight: bold; cursor: pointer; padding: 8px; background-color: #d2e1ce; border-radius: 5px;">Booklist for Primary 1 - 6</summary>
