@@ -109,32 +109,32 @@ variant: markdown
       <td style="border: 1px solid #ccc; padding: 8px;"><strong>Form Teacher</strong></td>
     </tr>
     <tr>
-      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Graciousness</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Goh Siew Ling</td>
-      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Responsibility</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Vanessa Oh Kaiwen</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Curiosity</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Tan Geok Mei</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Empathy</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Chua Miang Joo</td>
     </tr>
     <tr>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Chia Mei Hua (Florence)</td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Ranchisem Sivagnanam</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Waheeda bte Mohd</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Nur Afiqah Bte Hassan</td>
     </tr>
     <tr>
-      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Adaptability</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Wu Huishan</td>
-      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Integrity</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Siti Zubaidah bte Jumani</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Honesty</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Candy Chua Lai Peng</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Kindness</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Chu Luo Jun</td>
     </tr>
     <tr>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Cherandy Lim Sujun</td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms New Jia Rui Stephanie</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Zhang Chenyang</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms V.Poongkodi (Mrs Mani)</td>
     </tr>
     <tr>
-      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Ready</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Rahimah Bte Madan</td>
+      <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Care</strong></td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Norliyah bte Mohamad Hasan</td>
       <td style="border: 1px solid #ccc; padding: 8px; text-align: center;" rowspan="2" colspan="2"></td>
     </tr>
     <tr>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Wong-Low Ai Rin</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Lau Swee Bee Elena</td>
     </tr>
   </tbody>
 </table>
