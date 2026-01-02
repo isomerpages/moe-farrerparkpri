@@ -15,32 +15,33 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>1 Care</strong></td>
-<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Tricia Tork</td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Alex Lee</td>
 <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>1 Curiosity</strong></td>
-<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Lim Jen Yan</td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Jolie Toh</td>
 </tr>
 <tr>
-<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Harlina Hussain</td>
-<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Sandhiya Annandan</td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Lai Yan Ping</td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Anny Tan</td>
 </tr>
 <tr>
 <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>1 Empathy</strong></td>
-<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Yeo Yan Fang Jeolinita</td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Ma Lai Leng</td>
 <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>1 Honesty</strong></td>
-<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Nadia Katerina Cheriyan Bte Salim</td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Chew Yuet Tze Eunice</td>
 </tr>
 <tr>
-<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Panneer Selvam (Vignes)</td>
-<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Chua Lay Peng</td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Nicole Hon</td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Jeanette Yee Yu Wen</td>
 </tr>
 <tr>
 <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>1 Kindness</strong></td>
-<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Sharonjit Kaur Gill</td>
-<td rowspan="2" colspan="2" style="border: 1px solid #ccc; padding: 8px; text-align: center;"></td>
+<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Monisha Samdas Budhrani</td>
+<td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>1 Respect</strong></td><td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Liu Juan</td>
 </tr>
-<tr>
-<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Chen Huifang</td>
+<tr><td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Chen Huifang</td>
+	<td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Toh Puay Joo Peggy</td>
 </tr>
+
 </tbody>
 </table>
 
