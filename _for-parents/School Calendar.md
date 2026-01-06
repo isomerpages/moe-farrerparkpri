@@ -21,22 +21,22 @@ For more information, you may also refer to
     </tr>
     <tr style="background-color: #eaf1e9;">
       <td style="padding: 8px;">Term I</td>
-      <td style="padding: 8px;">Tuesday, 2 January to Friday, 13 March</td>
+      <td style="padding: 8px;">2 January to 13 March</td>
     </tr>
     <tr style="background-color: #d2e1ce;">
       <td style="padding: 8px;">Term II</td>
-      <td style="padding: 8px;">Monday, 23 March to Friday, 29 May</td>
+      <td style="padding: 8px;">23 March to 29 May</td>
     </tr>
     <tr style="background-color: #eaf1e9;">
       <td style="padding: 8px;" colspan="2"><strong>Semester II</strong></td>
     </tr>
     <tr style="background-color: #d2e1ce;">
       <td style="padding: 8px;">Term III</td>
-      <td style="padding: 8px;">Monday, 29 June to Friday, 4 September</td>
+      <td style="padding: 8px;">29 June to 4 September</td>
     </tr>
     <tr style="background-color: #eaf1e9;">
       <td style="padding: 8px;">Term IV</td>
-      <td style="padding: 8px;">Monday, 14 September to Friday, 20 November</td>
+      <td style="padding: 8px;">14 September to 20 November</td>
     </tr>
     <tr style="background-color: #f9f9f9;">
       <td style="padding: 8px; font-style: italic;" colspan="2">
@@ -72,20 +72,20 @@ For more information, you may also refer to
   </tbody>
 </table>
 
-<h4>Scheduled School Holidays 2025</h4>
+<h4>Scheduled School Holidays 2026</h4>
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tbody>
     <tr style="background-color: #d2e1ce;">
       <td style="padding: 8px;">Youth Day</td>
-      <td style="padding: 8px;">Sun 6 Jul<br>(The following Mon 7 Jul will be a school holiday)</td>
+      <td style="padding: 8px;">5 July<br>(The following Mon 6 Jul will be a school holiday)</td>
     </tr>
     <tr style="background-color: #eaf1e9;">
       <td style="padding: 8px;">Teachers' Day</td>
-      <td style="padding: 8px;">Fri 5 Sep</td>
+      <td style="padding: 8px;">4 September</td>
     </tr>
     <tr style="background-color: #d2e1ce;">
       <td style="padding: 8px;">Children's Day</td>
-      <td style="padding: 8px;">Fri 3 Oct</td>
+      <td style="padding: 8px;">2 October</td>
     </tr>
   </tbody>
 </table>
