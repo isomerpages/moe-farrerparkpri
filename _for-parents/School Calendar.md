@@ -144,8 +144,8 @@ For more information, you may also refer to
     </tr>
     <tr style="background-color: #f9f9f9;">
       <td style="padding: 8px; font-style: italic;" colspan="3">
-        *Mon, 9 Jun will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.<br>
-        *Mon, 11 Aug will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.
+        *Mon, 21 March, 1 June, 9 November, will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.<br>
+        *Monday, 10 August will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.
       </td>
     </tr>
   </tbody>
