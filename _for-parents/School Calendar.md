@@ -7,10 +7,10 @@ variant: markdown
 <div style="margin-bottom: 20px;" class="iframe-wrapper">
   <iframe style="border: 0;" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=fpps%40moe.edu.sg&amp;ctz=Asia%2FSingapore"></iframe>
 </div>
-<h4>School Terms and Holidays for 2025</h4>
+<h4>School Terms and Holidays for 2026</h4>
 For more information, you may also refer to
-  <a href="https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025" rel="noopener noreferrer nofollow" target="_blank">MOE's website</a>.
-<h4>School Calendar 2025</h4>
+  <a href="https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026" rel="noopener noreferrer nofollow" target="_blank">MOE's website</a>.
+<h4>School Calendar 2026</h4>
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tbody>
     <tr style="background-color: #51a72c; color: white;">
@@ -21,27 +21,27 @@ For more information, you may also refer to
     </tr>
     <tr style="background-color: #eaf1e9;">
       <td style="padding: 8px;">Term I</td>
-      <td style="padding: 8px;">Tue 2 Jan to Fri 14 Mar*</td>
+      <td style="padding: 8px;">Tuesday, 2 January to Friday, 13 March</td>
     </tr>
     <tr style="background-color: #d2e1ce;">
       <td style="padding: 8px;">Term II</td>
-      <td style="padding: 8px;">Mon 24 Mar to Fri 30 May</td>
+      <td style="padding: 8px;">Monday, 23 March to Friday, 29 May</td>
     </tr>
     <tr style="background-color: #eaf1e9;">
       <td style="padding: 8px;" colspan="2"><strong>Semester II</strong></td>
     </tr>
     <tr style="background-color: #d2e1ce;">
       <td style="padding: 8px;">Term III</td>
-      <td style="padding: 8px;">Mon 30 Jun to Fri 5 Sep</td>
+      <td style="padding: 8px;">Monday, 29 June to Friday, 4 September</td>
     </tr>
     <tr style="background-color: #eaf1e9;">
       <td style="padding: 8px;">Term IV</td>
-      <td style="padding: 8px;">Mon 15 Sep to Fri 21 Nov</td>
+      <td style="padding: 8px;">Monday, 14 September to Friday, 20 November</td>
     </tr>
     <tr style="background-color: #f9f9f9;">
       <td style="padding: 8px; font-style: italic;" colspan="2">
-        *Primary 1 and Kindergarten 1 will start school on Thursday, 2 January 2025.<br>
-        Primary 2 to 6 and Kindergarten 2 will start school on Friday, 3 January 2025.
+        *Primary 1 and Kindergarten 1 will start school on Friday, 2 January 2026.<br>
+        Primary 2 to 6 and Kindergarten 2 will start school on Monday, 5 January 2026.
       </td>
     </tr>
   </tbody>
