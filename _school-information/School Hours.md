@@ -4,7 +4,6 @@ permalink: /about-us/school-hours/
 description: ""
 variant: markdown
 ---
-
 <h4>General Office Hours (Monday to Friday)</h4>
 <table style="border-collapse:collapse; margin-bottom:20px; width:500px;" border="1" cellpadding="10" cellspacing="0">
   <tbody><tr style="background-color:#51a72c;">
@@ -51,11 +50,11 @@ variant: markdown
       <td>9.00 a.m. to 9.30 a.m.</td>
     </tr>
     <tr>
-      <td>P2 and P5</td>
+      <td>P2 and P6</td>
       <td>9.30 a.m. to 10.00 a.m.</td>
     </tr>
     <tr>
-      <td>P3 and P6</td>
+      <td>P3 and P5</td>
       <td>10.00 a.m. to 10.30 a.m.</td>
     </tr>
   </tbody>
