@@ -47,7 +47,7 @@ For more information, you may also refer to
   </tbody>
 </table>
 
-<h4>School Vacation 2025</h4>
+<h4>School Vacation 2026</h4>
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tbody>
     <tr style="background-color: #51a72c; color: white;">
@@ -55,19 +55,19 @@ For more information, you may also refer to
     </tr>
     <tr style="background-color: #d2e1ce;">
       <td style="padding: 8px;">Between Terms I &amp; II</td>
-      <td style="padding: 8px;">Sat 15 Mar to Sun 23 Mar</td>
+      <td style="padding: 8px;">16 March to 20 March</td>
     </tr>
     <tr style="background-color: #eaf1e9;">
       <td style="padding: 8px;">Between Semesters I &amp; II</td>
-      <td style="padding: 8px;">Sat 31 May to Sun 29 Jun</td>
+      <td style="padding: 8px;">1 June to 26 June</td>
     </tr>
     <tr style="background-color: #d2e1ce;">
       <td style="padding: 8px;">Between Terms III &amp; IV</td>
-      <td style="padding: 8px;">Sat 6 Sep to Sun 14 Sep</td>
+      <td style="padding: 8px;">7 September to 11 September</td>
     </tr>
     <tr style="background-color: #eaf1e9;">
       <td style="padding: 8px;">At End of School Year</td>
-      <td style="padding: 8px;">Sat 22 Nov to Wed 31 Dec</td>
+      <td style="padding: 8px;">23 November to 31 December</td>
     </tr>
   </tbody>
 </table>
