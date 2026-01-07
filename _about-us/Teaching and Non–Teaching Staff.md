@@ -286,28 +286,12 @@ variant: markdown
   </colgroup>
   <tbody>
     <tr>
-      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Ms Ooi En Ping Charis</td>
-      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Ms Candy Chua Lai Peng</td>
-    </tr>
-    <tr>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Jeanette Yee Yu Wen</td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Zhang Chenyang</td>
-    </tr>
-    <tr>
-      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Ms Lau Swee Bee Elena</td>
-      <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Mr Quek Yixian Timothy</td>
-    </tr>
-    <tr>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mdm Leong Meng Har</td>
       <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Khoo May Ying Elaine</td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Waheeda bte Mohd</td>
     </tr>
     <tr>
       <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Ms Nur Amanina bte Zaini</td>
       <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Ms Edna Lee Su-Mei</td>
-    </tr>
-    <tr>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Lim Kok Cha</td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mdm Leong Meng Har</td>
     </tr>
     <tr>
       <td style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;">Ms Sylvia Chua Bee Choo</td>
@@ -421,10 +405,6 @@ variant: markdown
       <td style="border: 1px solid #ccc; padding: 8px;">Mdm Tan Siew Lan</td>
       <td style="border: 1px solid #ccc; padding: 8px;">Operations Support Officer</td>
     </tr>
-    <tr style="background-color: #eaf1e9;">
-      <td style="border: 1px solid #ccc; padding: 8px;">Mdm Sumathi D/O Thamugham</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Operations Support Officer</td>
-    </tr>
     <tr style="background-color: #d2e1ce;">
       <td style="border: 1px solid #ccc; padding: 8px;">Mr Mohd Azman Bin Shuib</td>
       <td style="border: 1px solid #ccc; padding: 8px;">Operations Support Officer</td>
@@ -448,14 +428,6 @@ variant: markdown
     <tr style="background-color: #eaf1e9;">
       <td style="border: 1px solid #ccc; padding: 8px;">Ms Zaharatul Akmam Jaafar</td>
       <td style="border: 1px solid #ccc; padding: 8px;">Library Assistant</td>
-    </tr>
-    <tr style="background-color: #d2e1ce;">
-      <td style="border: 1px solid #ccc; padding: 8px;">Mr Chua Chin Seng Jason</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Security Guard</td>
-    </tr>
-    <tr style="background-color: #eaf1e9;">
-      <td style="border: 1px solid #ccc; padding: 8px;">Mr Anbarasan s/o Shanmugam</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Security Guard</td>
     </tr>
   </tbody>
 </table>
