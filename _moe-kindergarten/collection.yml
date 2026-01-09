@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our MK Staff.md
       - K1 Orientation.md
       - Welcome To Our Open House.md
       - Overview.md
