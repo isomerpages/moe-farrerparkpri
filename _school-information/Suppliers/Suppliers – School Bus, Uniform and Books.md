@@ -53,9 +53,9 @@ variant: markdown
   <thead>
     <tr style="background-color:#f6fbf5;">
       <th rowspan="2">Distance</th>
-      <th colspan="2">Up to 15 seaters</th>
-      <th colspan="2">&gt;15–30 seaters</th>
-      <th colspan="2">&gt;30 seaters</th>
+      <th style="text-align:center;" colspan="2">Up to 15 seaters</th>
+      <th style="text-align:center;" colspan="2">&gt;15–30 seaters</th>
+      <th style="text-align:center;" colspan="2">&gt;30 seaters</th>
     </tr>
     <tr style="background-color:#f6fbf5;">
       <th style="text-align:center;">1 way</th>
