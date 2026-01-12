@@ -62,37 +62,30 @@ Through active participation in these CCAs, students not only pursue their passi
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
 <td style="width: 20%; vertical-align: middle;">Ms Frances Nield</td>
-<td style="width: 20%; vertical-align: middle;">Ms Rochelle<br>Ms Chenyang<br>Ms Nicole Hon</td>
+<td style="width: 20%; vertical-align: middle;">Ms Chenyang<br>Ms Nicole Hon</td>
 </tr>
 <tr bgcolor="eaf1e9">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Football</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Friday<br>1400 - 1600</td>
 <td style="width: 20%; vertical-align: middle;">Mr Lee Kim Fatt</td>
-<td style="width: 20%; vertical-align: middle;">Mr Azrai<br>Ms Nadia<br>Mr Ravinder</td>
+<td style="width: 20%; vertical-align: middle;">Mr Azrai<br>Mr Ravinder</td>
 </tr>
- <tr bgcolor="d2e1ce">
-<td style="width: 20%; text-align: center; vertical-align: middle;">Swimming</td>
-<td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
-<td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
-<td style="width: 20%; vertical-align: middle;">Ms Sharonjit Singh</td>
-<td style="width: 20%; vertical-align: middle;">Ms Jhan<br>Ms Harlina</td>
-</tr>
-<tr bgcolor="eaf1e9">
+<tr bgcolor="d2e1ce">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Floorball</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Friday<br>1400 - 1600</td>
 <td style="width: 20%; vertical-align: middle;">Ms Jeolinita Yeo</td>
-<td style="width: 20%; vertical-align: middle;">Ms Rahima<br>Ms Nurliza<br>Ms Nur Azizah<br>Ms Chia Mei Hua</td>
+<td style="width: 20%; vertical-align: middle;">Ms Rahimah<br>Ms Nur Azizah<br>Ms Clara Lim<br>Ms Yang Ruting</td>
 </tr>
-<tr bgcolor="d2e1ce">
+<tr bgcolor="eaf1e9">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Badminton</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
 <td style="width: 20%; vertical-align: middle;">Ms Nur Afiqah</td>
-<td style="width: 20%; vertical-align: middle;">Ms Liu Juan</td>
+<td style="width: 20%; vertical-align: middle;">Ms Sharonjit Singh</td>
 </tr>
-<tr bgcolor="eaf1e9">
+<tr bgcolor="d2e1ce">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Basketball</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Friday<br>1400 - 1600</td>
@@ -118,7 +111,7 @@ Through active participation in these CCAs, students not only pursue their passi
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
 <td style="width: 20%; vertical-align: middle;">Ms Baidah Ahmad</td>
-<td style="width: 20%;">Ms Norimah<br>Ms Charis Ooi<br>Ms Vanessa Oh<br>Ms Candy Chua</td>
+<td style="width: 20%;">Ms Norimah<br>Ms Vanessa Oh<br>Ms Candy Chua</td>
 </tr>
 <tr bgcolor="eaf1e9">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Modern Dance</td>
@@ -132,14 +125,14 @@ Through active participation in these CCAs, students not only pursue their passi
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
 <td style="width: 20%; vertical-align: middle;">Ms Wu Huishan</td>
-<td style="width: 20%; vertical-align: middle;">Ms Indrani<br>Ms Sharon Yap</td>
+<td style="width: 20%; vertical-align: middle;">Ms Indrani</td>
 </tr>
 <tr bgcolor="eaf1e9">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Guitar Ensemble</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Friday<br>1400 - 1600</td>
 <td style="width: 20%; vertical-align: middle;">Ms Cherandy Lim</td>
-<td style="width: 20%; vertical-align: middle;">Ms V Poongkodi<br>Ms Kan Yue Lian</td>
+<td style="width: 20%; vertical-align: middle;">Ms V Poongkodi<br>Ms Jhan<br>Mrs Ravi</td>
 </tr>
 <tr bgcolor="d2e1ce">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Percussion Ensemble</td>
@@ -166,15 +159,15 @@ Through active participation in these CCAs, students not only pursue their passi
 <td style="width: 20%; text-align: center; vertical-align: middle;">Environmental Science</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
-<td style="width: 20%; vertical-align: middle;">Ms Ai Rin Low</td>
 <td style="width: 20%; vertical-align: middle;">Ms Zubaidah</td>
+<td style="width: 20%; vertical-align: middle;">Ms Jeanette Yee</td>
 </tr>
 <tr bgcolor="eaf1e9">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Infocomm Technology</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
 <td style="width: 20%; vertical-align: middle;">Ms Lai Yan Ping</td>
-<td style="width: 20%;">Ms Clara Lim<br>Ms Stephanie New</td>
+<td style="width: 20%;">Ms Stephanie New</td>
 </tr>
 </tbody>
 </table>
@@ -195,14 +188,14 @@ Through active participation in these CCAs, students not only pursue their passi
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
 <td style="width: 20%; vertical-align: middle;">Ms Monisha Samdas</td>
-<td style="width: 20%; vertical-align: middle;">Ms Miang Joo<br>Ms Vigneshwari</td>
+<td style="width: 20%; vertical-align: middle;">Ms Vigneshwari</td>
 </tr>
 <tr bgcolor="eaf1e9">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Boy's Brigade</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Friday<br>1400 - 1600</td>
-<td style="width: 20%; vertical-align: middle;">Mr Harrison Goh</td>
-<td style="width: 20%;">Ms Aw Caili</td>
+<td style="width: 20%; vertical-align: middle;">Ms Aw Caili</td>
+<td style="width: 20%;">Ms Chua Miang Joo</td>
 </tr>
 </tbody>
 </table>
