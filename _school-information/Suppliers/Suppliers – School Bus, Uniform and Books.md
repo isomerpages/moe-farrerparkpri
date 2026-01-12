@@ -27,10 +27,10 @@ variant: markdown
         Tel: 6352 2741<br>
         Operating hours: Mon-Fri, 9.30am to 6pm (1-2pm lunch)<br>
         Website: <a target="_blank" href="https://shanghai-uniforms.sg/">https://shanghai-uniforms.sg/</a>
-      </td>
-    </tr>
-	</tbody>
-	</table>
+</td>
+</tr>
+</tbody>
+</table><br>
 <table style="border-collapse:collapse; width:100%;" border="1" cellpadding="10" cellspacing="0">
   <thead>
     <tr style="background-color:#51a72c;">
@@ -44,9 +44,7 @@ variant: markdown
 				Tel: 67474825, Fax: 67486685
       </td>
     </tr>
-	
-    
-	</tbody>
+</tbody>
 </table>
 <p style="font-size:16px; font-weight:bold; text-decoration:underline;">
   Bus fares for daily school bus services by distance
