@@ -48,11 +48,10 @@ variant: markdown
     
 	</tbody>
 </table>
-<p style="font-size:17px; font-weight:bold; text-decoration:underline;">
+<p style="font-size:16px; font-weight:bold; text-decoration:underline;">
   Bus fares for daily school bus services by distance
-</p><table>
-
-</table><table style="border-collapse:collapse; width:100%; text-align:center;" cellspacing="0" cellpadding="10" border="1">
+</p>
+<table style="border-collapse:collapse; width:100%; text-align:center;" cellspacing="0" cellpadding="10" border="1">
   <thead>
     <tr style="background-color:#f6fbf5;">
       <th rowspan="2">Distance</th>
@@ -98,5 +97,42 @@ variant: markdown
       <td>$186.45</td>
       <td>$192.10</td>
 		</tr>
+  </tbody>
+</table>
+<p style="font-size:16px; font-weight:bold; text-decoration:underline;">
+  Bus fares for services after school activities by distance
+</p>
+
+<table style="border-collapse:collapse; width:100%; text-align:center;" cellspacing="0" cellpadding="10" border="1">
+  <thead>
+    <tr style="background-color:#f6fbf5;">
+      <th>Distance</th>
+      <th style="text-align:center;">Up to 15 seaters</th>
+      <th style="text-align:center;">&gt;15–30 seaters</th>
+      <th style="text-align:center;">&gt;30 seaters</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+			<td style="text-align:left;">Up to 2km</td>
+      <td>$11.30</td>
+      <td>$9.04</td>
+      <td>$6.78</td>
+    </tr>
+
+   <tr>
+   <td style="text-align:left;">&gt;2–4km</td>
+      <td>$12.43</td>
+      <td>$10.17</td>
+      <td>$7.91</td>
+    </tr>
+
+   <tr>
+   <td style="text-align:left;">&gt;4–6km</td>
+      <td>$13.56</td>
+      <td>$11.30</td>
+      <td>$9.04</td>
+    </tr>
   </tbody>
 </table>
