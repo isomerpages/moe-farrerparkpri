@@ -113,21 +113,21 @@ variant: markdown
 
   <tbody>
     <tr>
-			<td style="text-align:left;">Up to 2km</td>
+			<td style="text-align:center;">Up to 2km</td>
       <td>$11.30</td>
       <td>$9.04</td>
       <td>$6.78</td>
     </tr>
 
    <tr>
-   <td style="text-align:left;">&gt;2–4km</td>
+   <td style="text-align:center;">&gt;2–4km</td>
       <td>$12.43</td>
       <td>$10.17</td>
       <td>$7.91</td>
     </tr>
 
    <tr>
-   <td style="text-align:left;">&gt;4–6km</td>
+   <td style="text-align:center;">&gt;4–6km</td>
       <td>$13.56</td>
       <td>$11.30</td>
       <td>$9.04</td>
