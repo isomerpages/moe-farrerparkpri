@@ -62,37 +62,30 @@ Through active participation in these CCAs, students not only pursue their passi
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
 <td style="width: 20%; vertical-align: middle;">Ms Frances Nield</td>
-<td style="width: 20%; vertical-align: middle;">Ms Rochelle<br>Ms Chenyang<br>Ms Nicole Hon</td>
+<td style="width: 20%; vertical-align: middle;">Ms Chenyang<br>Ms Nicole Hon</td>
 </tr>
 <tr bgcolor="eaf1e9">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Football</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Friday<br>1400 - 1600</td>
 <td style="width: 20%; vertical-align: middle;">Mr Lee Kim Fatt</td>
-<td style="width: 20%; vertical-align: middle;">Mr Azrai<br>Ms Nadia<br>Mr Ravinder</td>
+<td style="width: 20%; vertical-align: middle;">Mr Azrai<br>Mr Ravinder</td>
 </tr>
- <tr bgcolor="d2e1ce">
-<td style="width: 20%; text-align: center; vertical-align: middle;">Swimming</td>
-<td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
-<td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
-<td style="width: 20%; vertical-align: middle;">Ms Sharonjit Singh</td>
-<td style="width: 20%; vertical-align: middle;">Ms Jhan<br>Ms Harlina</td>
-</tr>
-<tr bgcolor="eaf1e9">
+<tr bgcolor="d2e1ce">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Floorball</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Friday<br>1400 - 1600</td>
 <td style="width: 20%; vertical-align: middle;">Ms Jeolinita Yeo</td>
 <td style="width: 20%; vertical-align: middle;">Ms Rahima<br>Ms Nurliza<br>Ms Nur Azizah<br>Ms Chia Mei Hua</td>
 </tr>
-<tr bgcolor="d2e1ce">
+<tr bgcolor="eaf1e9">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Badminton</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
 <td style="width: 20%; vertical-align: middle;">Ms Nur Afiqah</td>
 <td style="width: 20%; vertical-align: middle;">Ms Liu Juan</td>
 </tr>
-<tr bgcolor="eaf1e9">
+<tr bgcolor="d2e1ce">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Basketball</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Friday<br>1400 - 1600</td>
