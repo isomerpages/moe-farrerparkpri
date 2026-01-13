@@ -7,11 +7,15 @@ variant: markdown
 ---
 <h3>School Bus Services</h3>
 
-<p>Name of Company/Operator: <strong>Steadfast Transport Service</strong></p>
-<p>Address: <strong>Blk 3004, Ubi Ave 3, #03-96, Singapore 408860</strong></p>
-<p>Email address: <strong>steadfastbus@gmail.com</strong></p>
-<p>Tel: <strong>67474825</strong></p>
-<p>Fax: <strong>67486685</strong></p>
+Name of Company/Operator: <strong>Steadfast Transport Service</strong><br>
+Address: <strong>Blk 3004, Ubi Ave 3, #03-96, Singapore 408860</strong><br>
+Email address: <strong>steadfastbus@gmail.com</strong><br>
+Tel: <strong>67474825</strong><br>
+Fax: <strong>67486685</strong><p></p>
+Please contact us early to apply for school bus service for the following year.
+<br>The deadline is mid-November of each year.<p></p>
+Currently we pick up from 6 locations in the morning and drop off at 7 locations in the afternoons.
+<br>Please call us to check if we have a service in your area. New areas may be added subject to adequate demand.
 
 <p><u>Bus fares for daily school bus services by distance</u></p>
 
@@ -104,4 +108,3 @@ variant: markdown
     </tr>
   </tbody>
 </table>
-
