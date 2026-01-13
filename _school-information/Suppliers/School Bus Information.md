@@ -16,8 +16,7 @@ Fax: <strong>67486685</strong>
 Please contact us early to apply for school bus service for the following year.
 <br>The deadline is mid-November of each year.</p>
 <p>
-Currently we pick up from 6 locations in the morning and drop off at 7 locations in the afternoons.
-<br>Please call us to check if we have a service in your area. New areas may be added subject to adequate demand.</p>
+Currently we pick up from 6 locations in the morning and drop off at 7 locations in the afternoons. Please call us to check if we have a service in your area. New areas may be added subject to adequate demand.</p>
 
 <p><u>Bus fares for daily school bus services by distance</u></p>
 
