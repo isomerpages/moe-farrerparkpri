@@ -42,7 +42,8 @@ variant: markdown
 </ol>
 <br>
 <strong>At Farrer Park Primary School, the following Sexuality Education lessons will be taught in 2026: </strong>
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSu8kmGi96b3Bifr8WZic2yfFSBZm1AycOaw0fScoqThdqBguaeZLwLwU9M1pQG_arOGZuxw_hh0QXX/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<br>
+[Click here](/files/Sexuality%20Education/2026_Info_on_SEd_for_schs_website__Primary_Schools__FPPS.pdf)
 
 <h4>Information for Parents</h4>
 <ol style="background-color:#eaf1e9; padding:10px;">
