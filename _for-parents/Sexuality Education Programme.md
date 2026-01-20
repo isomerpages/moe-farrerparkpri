@@ -53,5 +53,5 @@ variant: markdown
 			<br>The completed opt-out form is to be submitted by 13 March 2026.</li>
     <li>Parents can contact the school at 62952272 for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
-[2026 Letter to parents](/files/Sexuality%20Education/FPPS__2026_MOE_SEd_Cover_Letter.pdf)
+[2026 Letter to parents](/files/Sexuality%20Education/FPPS__2026_MOE_SEd_Cover_Letter.pdf)<br>
 [Opt-out form](/files/Sexuality%20Education/Annex_A_Parents_Opt_Out_Form_2026.pdf)
