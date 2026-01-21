@@ -25,7 +25,7 @@ variant: markdown
     </li>
 </ol>
 
-<h4>Overview of Farrer Park Primary School's Sexuality Education Programme for 2025</h4>
+<h4>Overview of Farrer Park Primary School's Sexuality Education Programme for 2026</h4>
 <ol style="background-color:#eaf1e9; padding:10px;">
     <li value="4">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a target="_blank" href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li>
     <li style="background-color:#d2e1ce;">The subjects that incorporate topics on sexuality include:
@@ -50,7 +50,7 @@ variant: markdown
     <li value="8">Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.<br>
 </li>
     <li style="background-color:#d2e1ce;">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year, you may download the form listed below.
-			<br>The completed opt-out form is to be submitted by 13 March 2026.</li>
+			<br>The completed opt-out form is to be submitted by <strong>30 April 2026.</strong></li>
     <li>Parents can contact the school at 62952272 for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
 [2026 Letter to parents](/files/Sexuality%20Education/FPPS__2026_MOE_SEd_Cover_Letter.pdf)<br>
