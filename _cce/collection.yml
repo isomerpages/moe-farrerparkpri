@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Pupil Suggestion.md
       - CCE Modules/Sexuality Education Programme.md
       - CCE Modules/Cyber Wellness.md
       - CCE Modules/Education and Career Guidance (ECG).md
