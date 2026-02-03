@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Test/.keep
-      - Overview.md
       - CCE @ FPPS/.keep
       - CCE @ FPPS/National Education (NE).md
       - CCE @ FPPS/Sexuality Education Programme.md
