@@ -22,6 +22,6 @@ variant: markdown
             Build students' adaptability and resilience to embrace lifelong learning.
         </li>
     </ul>
-</div>
+</div><br><br>
 
 <img style="width: 500px; height: auto; display: block; margin: 0 auto;" alt="Education &amp; Career Guidance" src="https://www.moe.gov.sg/api/media/29cc4e3b-43de-494c-9973-55281192ac05/ECG_Goals.jpg">
