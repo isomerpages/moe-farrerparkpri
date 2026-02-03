@@ -6,4 +6,4 @@ description: ""
 ---
 ![](/images/Year%202026/ILMET1.jpg)
 <div style="border-radius: 10px; padding: 12px; font-size: 17px">
-Click <a target="_blank" href="[NOMINATE YOUR ENGLISH LANGUAGE TEACHER TODAY!](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information)">here</a> to nominate online.</div>
+Click <a target="_blank" href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information">here</a> to nominate online.</div>
