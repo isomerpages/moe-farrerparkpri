@@ -122,8 +122,9 @@ CCE is taught through a variety of learning experiences beyond dedicated CCE les
 <strong>To nurture confident learners with hearts of gold</strong>, guided by our school vision, through meaningful and intentional CCE experiences that shape values, build empathy, and empower students to make a positive difference.
 </li>
 </ol>
-</div>
+</div><br>
 
+<div style="padding: 20px; border-radius: 8px; font-size: 17px;">
   <span><u><strong>CCE 2021 Curriculum Frame and Key Levers @ FPPS</strong></u></span><br>
 
   <span><strong>Key Lever 1: A Caring and Enabling School Environment at FPPS</strong></span>
@@ -150,7 +151,7 @@ CCE is taught through a variety of learning experiences beyond dedicated CCE les
 
 
   
-  <div style="background-color: #ffffff; border-left: 6px solid #51a72c; padding: 20px; border-radius: 8px;">
+  <div style="background-color: #ffffff; border-left: 6px solid #51a72c; padding: 20px; border-radius: 8px; font-size: 17px;">
     <p style="margin-top: 0;"><strong><u>CCE Curriculum Content Areas</u></strong></p>
     <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
       <li>Character Education</li>
@@ -166,8 +167,6 @@ CCE is taught through a variety of learning experiences beyond dedicated CCE les
       <li>Peer Support and Relationships (PSR)</li>
       <li>Values in Action (VIA)</li>
     </ul>
-  </div>
-
-
-
-<p>Click <a href="https://www.farrerparkpri.moe.edu.sg/cce/overview/">here</a> to learn more about Character and Citizenship Education (CCE).</p>
+  </div><br>
+<div style="padding: 20px; border-radius: 8px; font-size: 17px;">
+<p>Click <a href="https://www.farrerparkpri.moe.edu.sg/cce/overview/">here</a> to learn more about Character and Citizenship Education (CCE).</p></div></div>
