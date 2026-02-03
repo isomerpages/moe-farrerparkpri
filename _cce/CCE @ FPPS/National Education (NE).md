@@ -5,23 +5,48 @@ description: ""
 third_nav_title: CCE @ FPPS
 variant: markdown
 ---
-### Cyber Wellness sharing
+### National Education (NE)
+<p>
+  The following key dispositions for citizenship in Singapore shape the purpose
+  of and approach to National Education:
+</p>
 
-Cyber wellness refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace.&nbsp;
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+	<tbody><tr>
+<td style="width: 50%; border: 1px solid #000; padding: 12px; vertical-align: top;">
+      <strong>A Sense of Belonging</strong><br>
+      To develop a deeper understanding of who we are as Singaporeans, and a
+      shared understanding of the values that are important to us as a nation.
+</td>
 
-  
+<td style="width: 50%; border: 1px solid #000; padding: 12px; vertical-align: top;">
+      <strong>A Sense of Reality</strong><br>
+      To be aware of contemporary realities – including Singapore’s constraints
+      and vulnerabilities – which affect us as a nation amidst the backdrop of a
+      less predictable world.
+</td>
+</tr>
 
-The school aims to educate students on ways to keep themselves safe while using the Internet at home and in school with the support of parents.&nbsp;To complement the cyber wellness curriculum in schools, parents can set a good example at home in the use of technology&nbsp;and play an active role in guiding our children to navigate in cyberspace.&nbsp;  
+<tr>
+    <td style="border: 1px solid #000; padding: 12px; vertical-align: top;">
+      <strong>A Sense of Hope</strong><br>
+      To have confidence and optimism in Singapore’s future and the resilience to
+      face the challenges ahead.
+  </td>
 
-**The Cyber Wellness Framework**
+<td style="border: 1px solid #000; padding: 12px; vertical-align: top;">
+      <strong>(Culminating in) The Will to Act</strong><br>
+      To be active citizens who have a collective resolve and a sense of shared
+      mission towards building a Singapore for all.
+</td>
+</tr>
+</tbody></table>
 
-<img src="/images/cce3.png" style="width:40%">
+<p><strong>National Education commemorative days</strong></p>
 
-Cyber Wellness Student Ambassadors shares the cyber wellness tips during school assembly.  
-Pupils understand cyber wellness through interactive games.
-
-<img src="/images/cce4.png" style="width:33%" align="left"> <img src="/images/cce5.png" style="width:33%" align="left"> <img src="/images/cce6.png" style="width:33%" align="left">
-
-
-#### Other Useful Links
-[https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness)
+<ul style="margin-left: 20px;">
+  <li>Total Defence Day</li>
+  <li>International Friendship Day</li>
+  <li>Racial Harmony Day</li>
+  <li>National Day</li>
+</ul>
