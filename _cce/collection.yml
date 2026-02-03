@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Overview.md
-      - CCE @ FPPS/Sexuality Education Programme.md
-      - CCE @ FPPS/Cyber Wellness.md
-      - CCE @ FPPS/Education and Career Guidance (ECG).md
       - CCE @ FPPS/.keep
+      - CCE @ FPPS/Cyber Wellness.md
+      - CCE @ FPPS/Sexuality Education Programme.md
+      - CCE @ FPPS/Education and Career Guidance (ECG).md
       - CCE Experiences/.keep
       - CCE Experiences/Values In Action.md
       - CCE Experiences/National Education Commemorative Days.md
