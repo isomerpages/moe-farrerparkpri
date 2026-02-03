@@ -6,6 +6,7 @@ third_nav_title: CCE @ FPPS
 variant: markdown
 ---
 ### National Education (NE)
+<div style="background-color: #d2e1ce; border-radius: 10px; padding: 12px; font-size: 17px;">
 <p>
   The following key dispositions for citizenship in Singapore shape the purpose
   of and approach to National Education:
@@ -41,12 +42,14 @@ variant: markdown
 </td>
 </tr>
 </tbody></table>
-
+	</div>
+<div style="border-radius: 10px; padding: 12px; font-size: 17px;">
 <p><strong>National Education commemorative days</strong></p>
 
-<ul style="margin-left: 20px;">
+<ul style="margin-left: 40px;">
   <li>Total Defence Day</li>
   <li>International Friendship Day</li>
   <li>Racial Harmony Day</li>
   <li>National Day</li>
 </ul>
+	</div>
