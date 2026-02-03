@@ -35,22 +35,15 @@ sections:
             exciting news.
           link_text: Instagram
           link_url: https://www.instagram.com/farrerparkps
-        - title: P1 Orientation 2026
-          date: 25 November 2025
-          announcement: Dear P1 2026 parents/guardians, click below to access the P1
-            Orientation slides under "Primary 1 Matters".
-          link_text: Primary 1 Matters
-          link_url: https://www.farrerparkpri.moe.edu.sg/for-parents/news-and-information/p1-to-p6-matters/
         - title: 2026 School Essentials
           date: 25 November 2025
           announcement: Click below for the 2026 book list, bus application form, and
             uniform information. All files are available under “All Matters”.
           link_text: P1-P6 Matters
           link_url: https://www.farrerparkpri.moe.edu.sg/for-parents/news-and-information/p1-to-p6-matters/
-        - title: MK Orientation 2026
-          date: 25 November 2025
-          announcement: Dear K1 2026 parents/guardians, click below to view the K1
-            Orientation slides.
-          link_text: MK Orientation
-          link_url: https://www.farrerparkpri.moe.edu.sg/moe-kindergarten/k1-orientation/
+        - title: Inspiring Teacher of English Award
+          date: 03 February 2026
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
