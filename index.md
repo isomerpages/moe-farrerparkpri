@@ -23,6 +23,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Inspiring Teacher of English Award 2026
+          date: 03 February 2026
+          announcement: Nominations for the annual Inspiring Teacher of English Award are
+            now open. Click on the link to find out more.
+          link_text: Inspiring Teacher of English Award 2026
+          link_url: https://staging-lite.d1x9zorj5m8n06.amplifyapp.com/inspiring-teacher-of-english-award-2026-invitation-for-nominations/
         - title: 📣 Stay Connected with Us!
           date: 04 June 2025
           announcement: We’re on Facebook! 🎉 Follow us for the latest updates, and
@@ -41,9 +47,4 @@ sections:
             uniform information. All files are available under “All Matters”.
           link_text: P1-P6 Matters
           link_url: https://www.farrerparkpri.moe.edu.sg/for-parents/news-and-information/p1-to-p6-matters/
-        - title: Inspiring Teacher of English Award
-          date: 03 February 2026
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
 ---
