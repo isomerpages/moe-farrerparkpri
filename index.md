@@ -23,6 +23,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Inspiring Teacher of English Award 2026
+          date: 03 February 2026
+          announcement: Nominations for the annual Inspiring Teacher of English Award are
+            now open. Click on the link to find out more.
+          link_text: Inspiring Teacher of English Award 2026
+          link_url: https://staging-lite.d1x9zorj5m8n06.amplifyapp.com/inspiring-teacher-of-english-award-2026-invitation-for-nominations/
         - title: 📣 Stay Connected with Us!
           date: 04 June 2025
           announcement: We’re on Facebook! 🎉 Follow us for the latest updates, and
@@ -35,22 +41,10 @@ sections:
             exciting news.
           link_text: Instagram
           link_url: https://www.instagram.com/farrerparkps
-        - title: P1 Orientation 2026
-          date: 25 November 2025
-          announcement: Dear P1 2026 parents/guardians, click below to access the P1
-            Orientation slides under "Primary 1 Matters".
-          link_text: Primary 1 Matters
-          link_url: https://www.farrerparkpri.moe.edu.sg/for-parents/news-and-information/p1-to-p6-matters/
         - title: 2026 School Essentials
           date: 25 November 2025
           announcement: Click below for the 2026 book list, bus application form, and
             uniform information. All files are available under “All Matters”.
           link_text: P1-P6 Matters
           link_url: https://www.farrerparkpri.moe.edu.sg/for-parents/news-and-information/p1-to-p6-matters/
-        - title: MK Orientation 2026
-          date: 25 November 2025
-          announcement: Dear K1 2026 parents/guardians, click below to view the K1
-            Orientation slides.
-          link_text: MK Orientation
-          link_url: https://www.farrerparkpri.moe.edu.sg/moe-kindergarten/k1-orientation/
 ---

@@ -2,7 +2,7 @@
 title: Sexuality Education Programme
 permalink: /cce/cce-modules/sexuality-education-growing-years/
 description: ""
-third_nav_title: CCE Modules
+third_nav_title: CCE @ FPPS
 variant: markdown
 ---
 <h3>MOE Sexuality Education in Schools</h3>
