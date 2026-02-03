@@ -8,8 +8,7 @@ variant: markdown
 
   <h3>Character and Citizenship Education (CCE)</h3>
 
-  
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 30px; font-size: 17px;">
   <div style="flex: 1; background-color: #d2e1ce; padding: 20px; border-radius: 8px;">
     <span><u><strong>Vision</strong></u></span><br><br>
     CCE is at the heart of education at FPPS, shaping students into responsible individuals with a strong moral compass.<br><br>
@@ -17,7 +16,7 @@ variant: markdown
     With a spirit of curiosity and a heart of gold, our students will be ready to adapt and contribute meaningfully to society in a rapidly changing world.
   </div>
 
-  <div style="flex: 1; background-color: #d2e1ce; padding: 20px; border-radius: 8px;">
+  <div style="flex: 1; background-color: #d2e1ce; padding: 20px; border-radius: 8px; font-size: 17px;">
     <span><u><strong>Approach</strong></u></span><br><br>
     <strong>School Values:</strong> Care, Curiosity, and Empathy, fostering a culture of kindness, lifelong learning, and understanding.<br><br>
     <strong>Social-Emotional Competencies:</strong> Developing Social awareness, self-awareness, self-management, relationship management, and responsible decision-making.<br><br>
@@ -30,27 +29,29 @@ variant: markdown
   </div>
 </div>
   
-<div style="background-color: #FFFFFF; padding: 20px; border-radius: 8px; margin-bottom: 30px; text-align: center; border: 2px solid #d2e1ce;">
+<div style="background-color: #FFFFFF; padding: 20px; border-radius: 8px; margin-bottom: 30px; text-align: center; border: 2px solid #d2e1ce; font-size: 17px;">
   <img style="max-width: 50%; height: auto; border-radius: 8px;" alt="FPPS CCE Framework" src="/images/2025/CCE/Picture1.png"><br>
   <strong>FPPS Character and Citizenship Education (CCE) Framework</strong>
 </div>
+<div style="background-color: #eaf1e9; padding: 20px; border-radius: 8px; font-size: 17px;">
+<span><u><strong>Objective</strong></u></span><br><br>
+<strong>CCE Department Objectives</strong>
+		<ol style="margin-top: 10px;">
+			<li style="margin-left: 20px;"><b>To realise the goals of CCE 2021</b> by developing:
+		<ol style="list-style-type: lower-alpha; margin: 8px 0 0 40px;" type="A">
+		<li style="line-height: 1.4;">Good character</li>
+		<li style="line-height: 1.4;">Resilience and social-emotional well-being</li>
+		<li style="line-height: 1.4;">Future-readiness</li>
+		<li style="line-height: 1.4;">Active citizenship in every student</li>
+</ol>
+</li><br>
+<li style="margin-left: 20px; line-height: 1.4;">
+<strong>To nurture confident learners with hearts of gold</strong>, guided by our school vision, through meaningful and intentional CCE experiences that shape values, build empathy, and empower students to make a positive difference.
+</li>
+</ol>
+</div><br>
 
-  
-<div style="background-color: #eaf1e9; padding: 20px; border-radius: 8px; margin-bottom: 30px;">
-  <span><u><strong>Objective</strong></u></span><br><br>
-  <span><strong>CCE Department Objectives</strong></span>
-  <ol>
-    <li><strong>To realise the goals of CCE 2021</strong> by developing:
-      <ol type="a">
-        <li>Good character</li>
-        <li>Resilience and social-emotional well-being</li>
-        <li>Future-readiness</li>
-        <li>Active citizenship in every student</li>
-      </ol>
-    </li>
-    <li><strong>To nurture confident learners with hearts of gold</strong>, guided by our school vision, through meaningful and intentional CCE experiences that shape values, build empathy, and empower students to make a positive difference.</li>
-  </ol>
-
+<div style="padding: 20px; border-radius: 8px; font-size: 17px;">
   <span><u><strong>CCE 2021 Curriculum Frame and Key Levers @ FPPS</strong></u></span><br>
 
   <span><strong>Key Lever 1: A Caring and Enabling School Environment at FPPS</strong></span>
@@ -74,27 +75,6 @@ variant: markdown
     <li>For Education and Career Guidance (ECG), equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work.</li>
   </ul>
 </div>
-
-
-  
-  <div style="background-color: #ffffff; border-left: 6px solid #51a72c; padding: 20px; border-radius: 8px;">
-    <p style="margin-top: 0;"><strong><u>CCE Curriculum Content Areas</u></strong></p>
-    <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
-      <li>Character Education</li>
-      <li>National Education (NE)</li>
-      <li>Sexuality Education (SEd)</li>
-      <li>Education and Career Guidance (ECG)</li>
-      <li>Cyber Wellness</li>
-      <li>Mental Health</li>
-      <li>Family Education</li>
-      <li>Leadership Development</li>
-      <li>Internationalisation Programme</li>
-      <li>Integration Programme</li>
-      <li>Peer Support and Relationships (PSR)</li>
-      <li>Values in Action (VIA)</li>
-    </ul>
-  </div>
-
-</div>
-
-<p>Click <a href="https://www.farrerparkpri.moe.edu.sg/cce/overview/">here</a> to learn more about Character and Citizenship Education (CCE).</p>
+	<br>
+<div style="padding: 20px; border-radius: 8px; font-size: 17px;">
+<p>Click <a href="https://www.farrerparkpri.moe.edu.sg/cce/overview/">here</a> to learn more about Character and Citizenship Education (CCE).</p></div></div>
