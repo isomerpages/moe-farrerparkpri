@@ -2,7 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - Test/Overview.md
       - Test/.keep
       - CCE @ FPPS/.keep
       - CCE @ FPPS/National Education (NE).md
