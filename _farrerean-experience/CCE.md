@@ -75,26 +75,4 @@ variant: markdown
   </ul>
 </div>
 
-
-  
-  <div style="background-color: #ffffff; border-left: 6px solid #51a72c; padding: 20px; border-radius: 8px;">
-    <p style="margin-top: 0;"><strong><u>CCE Curriculum Content Areas</u></strong></p>
-    <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
-      <li>Character Education</li>
-      <li>National Education (NE)</li>
-      <li>Sexuality Education (SEd)</li>
-      <li>Education and Career Guidance (ECG)</li>
-      <li>Cyber Wellness</li>
-      <li>Mental Health</li>
-      <li>Family Education</li>
-      <li>Leadership Development</li>
-      <li>Internationalisation Programme</li>
-      <li>Integration Programme</li>
-      <li>Peer Support and Relationships (PSR)</li>
-      <li>Values in Action (VIA)</li>
-    </ul>
-  </div>
-
-</div>
-
-<p>Click <a href="https://www.farrerparkpri.moe.edu.sg/cce/overview/">here</a> to learn more about Character and Citizenship Education (CCE).</p>
+<p>Click <a href="https://www.farrerparkpri.moe.edu.sg/cce/overview/">here</a> to learn more about Character and Citizenship Education (CCE).</p></div>
