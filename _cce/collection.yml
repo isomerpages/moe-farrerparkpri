@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - CCE @ FPPS/Values in Action (VIA).md
       - CCE @ FPPS/.keep
       - CCE @ FPPS/National Education (NE).md
       - CCE @ FPPS/Sexuality Education Programme.md
