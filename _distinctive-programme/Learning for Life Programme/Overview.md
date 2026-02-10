@@ -1,8 +1,9 @@
 ---
 title: Overview
-permalink: /distinctive-programme/Learning-for-Life-Programme/overview/
+permalink: /distinctive-programme/learning-for-life-programme/overview/
 description: ""
 third_nav_title: Learning for Life Programme
+variant: tiptap
 ---
 #### iCARE - Leaders Of Tomorrow
 
