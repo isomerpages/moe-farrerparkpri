@@ -6,22 +6,17 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/MK_open_house_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/26_FINAL_COPY_POSTER.png">
 </div>
+<blockquote>
+<h4><a href="https://mkfarrerpark-openhouse.app.entry.gov.sg/form/402dd934-3b6e-435b-9039-58ee4fd77436" rel="noopener nofollow" target="_blank">Click here</a> to sign up for MK Open House 2026</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Open_House_Programme_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/26_MK_Open_House_Event_Flow.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Click <a href="/files/2025/MKOH_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
-the MK Open House slides</p>
-</li>
-</ul>
-<h3><sup>2025 MOE Kindergarten Registration Exercise</sup></h3>
-<p>This Registration Exercise is open to Singapore Citizen or Permanent Resident
-children born between 2 Jan 2021 and 1 Jan 2022 (both dates inclusive)</p>
-<p>Parents can register their child for admission to an MK via the MK website
-(<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/mk</u></a>),
-from&nbsp;<strong>9am on 7 February 2025</strong>&nbsp;to&nbsp;<strong>4pm on 17 February 2025</strong>.</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/26_Colourful_Hearts_Trail__1_.png">
+</div>
 <p></p>
