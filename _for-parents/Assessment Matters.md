@@ -81,9 +81,7 @@ There are no weighted assessment for P1 and P2 Levels
   <tbody>
     <tr style="background-color: #eaf1e9;">
       <td style="padding: 12px; text-align: center;">
-        Term Review<br>
-        (non-weighted)<br>
-        All subjects are full papers
+        NIL
       </td>
       <td style="padding: 12px; text-align: center;">30%</td>
       <td style="padding: 12px; text-align: center;">70%</td>
