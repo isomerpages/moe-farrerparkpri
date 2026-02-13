@@ -111,7 +111,7 @@ variant: markdown
         </ul>
       </td>
       <td rowspan="3" style="vertical-align: top; background-color: #d2e1ce; padding: 20px; height: 162px; font-size: 16px;">
-        <p style="margin-top: 15px; font-size: 16px;">In Farrer Park Primary School, there are many PE programmes which keep our Farreans active and fit throughout the year, that will enable them to develop a lifelong passion for physical games and sports.</p>
+        <p style="margin-top: 15px; font-size: 16px;">In Farrer Park Primary School, there are many PE programmes which keep our Farrereans active and fit throughout the year, that will enable them to develop a lifelong passion for physical games and sports.</p>
         <ul style="padding-left: 20px; margin-top: 10px; font-size: 16px;">
           <li style="font-size: 16px;">P3-6 Interclass Games</li>
           <li style="font-size: 16px;">P3 SwimSafer</li>
