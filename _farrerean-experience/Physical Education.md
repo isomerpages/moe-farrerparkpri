@@ -114,7 +114,7 @@ variant: markdown
         <p style="margin-top: 15px; font-size: 16px;">In Farrer Park Primary School, there are many PE programmes which keep our Farreans active and fit throughout the year, that will enable them to develop a lifelong passion for physical games and sports.</p>
         <ul style="padding-left: 20px; margin-top: 10px; font-size: 16px;">
           <li style="font-size: 16px;">P1-6 Interclass Games</li>
-          <li style="font-size: 16px;">P4 SwimSafer</li>
+          <li style="font-size: 16px;">P3 SwimSafer</li>
           <li style="font-size: 16px;">Children’s Day Farreans Challenge</li>
           <li style="font-size: 16px;">P5 Outdoor Camp</li>
           <li style="font-size: 16px;">P1-6 Recess Games</li>
