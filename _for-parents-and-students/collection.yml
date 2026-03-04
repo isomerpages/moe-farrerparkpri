@@ -2,7 +2,6 @@ collections:
   for-parents-and-students:
     output: true
     order:
-      - Student's MIMS account.md
       - Inspiring Teacher of English Award 2026 (Nominations).md
       - Letters & Notifications.md
       - Primary 1 to 6 Matters.md
