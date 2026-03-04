@@ -2,8 +2,8 @@ collections:
   for-parents-and-students:
     output: true
     order:
-      - Student's MIMS account/What can a Student MIMS Account Be Used For?.md
-      - Student's MIMS account/.keep
+      - Student MIMS account/What can a Student MIMS Account Be Used For?.md
+      - Student MIMS account/.keep
       - Inspiring Teacher of English Award 2026 (Nominations).md
       - Letters & Notifications.md
       - Primary 1 to 6 Matters.md
