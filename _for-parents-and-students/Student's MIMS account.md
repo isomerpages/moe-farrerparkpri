@@ -4,7 +4,18 @@ permalink: /student-s-mims-account/
 variant: markdown
 description: ""
 ---
-<section id="student-mims">
+<section style="font-family: Arial, sans-serif; line-height: 1.6;" id="student-mims">
+  <style>
+    #student-mims ol,
+    #student-mims ul {
+      font-size: 16px; /* adjust to match your paragraph size */
+      margin-left: 20px; /* optional: keeps some indentation */
+    }
+    #student-mims li {
+      margin-bottom: 10px; /* adds spacing between items */
+    }
+  </style>
+
   <h2>What Can a Student MIMS Account Be Used For?</h2>
   <p>A Student <strong>MIMS (MOE Identity Management System)</strong> account under the 
   <strong>Ministry of Education (MOE), Singapore</strong> allows access to:</p>
