@@ -1,5 +1,5 @@
 collections:
-  for-parents:
+  for-parents-and-students:
     output: true
     order:
       - Inspiring Teacher of English Award 2026 (Nominations).md
