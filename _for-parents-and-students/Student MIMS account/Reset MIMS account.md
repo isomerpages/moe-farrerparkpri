@@ -31,11 +31,15 @@ third_nav_title: Student MIMS account
   </style>
 
   <h2>How to Reset a Locked MIMS Account</h2>
-  <p>Follow the steps below to reset a locked MIMS account:</p>
+	<p>The online request form is open from Monday to Friday.&nbsp; Requests submitted over the weekend or on public holidays will only be processed on the next school day.&nbsp;During the school holidays, requests will only be processed during the first and last week of the holiday period.&nbsp;Please note that account reset requests will take 1 to 2 working days to be processed.
+</p><div class="note">
+<strong>Default temporary password will be set as:&nbsp; 2026Fpps2026XX&nbsp; (XX refers to your class index number.)<br>For example, if my class index number is 7, my temporary password will be 2026Fpps202607.</strong></div><p></p>
+	
+  <p><strong>Follow the steps below to reset a locked MIMS account:</strong></p>
   
   <ol>
     <li>
-      Reports a locked MIMS account using this link: 
+      Report a locked MIMS account using this link: 
       <a target="_blank" href="https://go.gov.sg/fppsmimsreset">https://go.gov.sg/fppsmimsreset</a>.
     </li>
     <li>
@@ -50,11 +54,7 @@ third_nav_title: Student MIMS account
     </li>
     <li>
       A pop-up will appear prompting the user to set a new password. Click on the <strong>“Reset Your Password”</strong> button and create a new password. 
-      <strong>Please note:</strong> For the first password reset, you may be required to set up <strong>security questions</strong>. These will allow you to reset your own password in the future.
+      <br><strong>Please note:</strong> For the first password reset, you may be required to set up <strong>security questions</strong>. These will allow you to reset your own password in the future.
     </li>
   </ol>
-
-  <div class="note">
-    <strong>Temporary Password Format:</strong> 2026Fpps2026XX (XX = your class index number.)
-  </div>
 </section>
