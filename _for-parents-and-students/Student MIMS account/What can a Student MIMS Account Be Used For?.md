@@ -48,6 +48,4 @@ third_nav_title: Student MIMS account
     </li>
   </ol>
 
-  <p>If you need assistance with MIMS account reset, please click on the link below:<br>
-  <a target="_blank" href="https://go.gov.sg/fppsmimsreset">https://go.gov.sg/fppsmimsreset</a></p>
 </section>
