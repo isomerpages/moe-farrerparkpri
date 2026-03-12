@@ -35,7 +35,7 @@ variant: markdown
     <li style="font-size: 16px;">Accompanying parent on overseas posting and will return to rejoin school</li>
     <li style="font-size: 16px;">Or: Registered for P1 but overseas at the start of the year</li>
   </ul>
-  <p style="font-size: 16px;"><a rel="noopener noreferrer nofollow" target="_blank" href="https://form.gov.sg/#!/61023b016bd2f30011b37e2a">Online Application Form for LOA</a></p>
+  <p style="font-size: 16px;"><a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/fpps-leaveofabsence">Online Application Form for LOA</a></p>
 
   <h4 style="margin-top: 30px; background-color: #d2e1ce; padding: 10px;">Level-Specific Information</h4>
   <details style="margin-bottom: 10px;">
