@@ -23,6 +23,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Prize Giving Day 2026
+          date: 13 March 2026
+          announcement: Dear Parents and Students, click here to view the memorable
+            moments from our Prize Giving Day 2026.
+          link_text: Prize Giving Day 2026
+          link_url: http://go.gov.sg/fpps-pgd
         - title: Inspiring Teacher of English Award 2026
           date: 03 February 2026
           announcement: Nominations for the annual Inspiring Teacher of English Award are
