@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Welcome To Our Open House/MK Open House Presentation Slides.md
       - Welcome To Our Open House/Welcome To Our Open House.md
       - Welcome To Our Open House/.keep
       - Our MK Staff.md
