@@ -2,9 +2,8 @@
 title: KCare
 permalink: /moe-kindergarten/kcare/
 description: ""
+variant: markdown
 ---
-
-
 ### KCare
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRK8SOABhcnTlyxH-fyzszQi_hH_VuKmm6n81Ibl4Yf9BzlBUl5VZI2jxvoA0i4T10FbWFfgGVw2iWw/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWoWDx_Rk7z2-X5c7PO5ggO9ufKzdT_0nSBVMF0ZcwS8RvQZQpMJSjIvJYBAVaiKqRplYFpqMoFTUM/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>

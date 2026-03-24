@@ -3,6 +3,7 @@ title: Welcome To Our Open House
 permalink: /welcome-to-our-open-house/
 variant: markdown
 description: ""
+third_nav_title: Welcome To Our Open House
 ---
 <p></p>
 <div class="isomer-image-wrapper">
