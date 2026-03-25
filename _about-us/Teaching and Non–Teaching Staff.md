@@ -4,7 +4,6 @@ permalink: /about-us/teaching-and-non-teaching-staff/
 description: ""
 variant: markdown
 ---
-<h4> Updating 2026 teaching and non-teaching staff in progress. <br>Please check back later. Thank you</h4>
 <h4>Primary 1</h4>
 <table style="min-width: 100px; border-collapse: collapse;"><colgroup> <col> <col> <col> <col> </colgroup>
 <tbody>
