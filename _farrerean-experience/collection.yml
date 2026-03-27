@@ -2,8 +2,6 @@ collections:
   farrerean-experience:
     output: true
     order:
-      - Co Curricular Activities/Co–Curricular Activities.md
-      - Co Curricular Activities/.keep
       - English.md
       - Mathematics.md
       - Science.md
@@ -15,4 +13,6 @@ collections:
       - Aesthetics.md
       - Physical Education.md
       - CCE.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Co–Curricular Activities.md
       - ICT.md
