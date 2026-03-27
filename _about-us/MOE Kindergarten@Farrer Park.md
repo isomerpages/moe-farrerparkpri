@@ -1,6 +1,6 @@
 ---
 title: MOE Kindergarten@Farrer Park
-permalink: /moe-kindergarten/overview/
+permalink: /our-mk-staff/
 description: ""
+variant: tiptap
 ---
-
