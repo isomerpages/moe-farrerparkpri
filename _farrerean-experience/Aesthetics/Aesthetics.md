@@ -3,31 +3,18 @@ title: Aesthetics
 permalink: /farrerean-experience/aesthetics/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
-### Aesthetics
+<h3>Aesthetics</h3>
 
-Music and art speak to our emotions. Creativity and expression, like counting, patterning and many gross motor activities, are integral parts of a Farrerean’s developmental journey. 
+<font size="3">
 
-#### Music
+<p style="font-size:16px;">
+Music and art speak to our emotions. Creativity and expression, like counting, patterning and many gross motor activities, are integral parts of a Farrerean’s developmental journey. At Farrer Park Primary School, our Aesthetics programme provides rich experiences in both Art and Music, where students explore ideas, express themselves confidently, and develop an appreciation for culture and the world around them.
+</p>
 
-In the Music Curriculum, Farrereans are exposed to a wide range of music such as Folk Songs and Ethnic Music from our diverse Singapore culture and World Music that encompass different styles and genres of music from around the world.
-Farrereans learn to play the keyboard, ukulele and percussion instruments within an ensemble setting. Through class performances, school events and special occasions, pupils are given the opportunity to showcase their learning through individual or ensemble/group performances. 
+<p style="font-size:16px;">
+In Art, students learn to observe, create and reflect through the processes of seeing, expressing and appreciating, while in Music, they experience a wide range of genres and learn instruments such as the keyboard, ukulele and percussion in ensemble settings. Through performances, exhibitions and school events, students showcase their learning, build confidence and develop important dispositions such as curiosity, empathy and resilience.
+</p>
 
-  
-
-<img src="/images/aes1.png" style="width:70%">
-
-  
-
-#### Art
-
-We seek to nurture and inspire Farrereans creatively through hands-on exploration using a variety of art forms such as Drawing, Painting, Sculpting, Digital art as well as using a range of traditional mediums such as Pottery and Chinese Brush Painting. Farrereans learn to appreciate art and express themselves better through an inquiry-based approach. 
-
-Learning journeys to museums and art exhibitions allow Farrereans to connect and appreciate Art outside the classrooms. Through the creation and reflection of their art journey, Farrereans will develop confidence in self-expression through art mediums and techniques.
-
-  
-<img src="/images/aes2.png" style="width:70%">
-
-<img src="/images/aes3.png" style="width:70%">
-
-<img src="/images/aes4.png" style="width:70%">
+</font>
