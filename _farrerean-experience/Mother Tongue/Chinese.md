@@ -14,8 +14,8 @@ variant: markdown
 <td bgcolor="d2e1ce" style="border: 1px solid white;">
 <font size="3">
 <strong>2026 Lunar New Year Celebration</strong>
-	
-![](/images/Year%202026/Chinese/Picture1.png)
+
+<img src="/images/Year%202026/Chinese/Picture1.png">
 	
 <span style="font-size:16px;">
 This year, our school organized a vibrant series of Chinese New Year celebrations, bringing students and staff together to welcome the new year with joy and festive spirit. The programme featured a variety of engaging activities, each carrying meaningful symbolism. Highlights included “Round Round Reunion,” which celebrated togetherness; “Soar to Greater Heights,” representing growth and aspiration; and the thrilling “Defeat the Nian Monster.” Students also enjoyed the luck-filled “Stroke of Luck,” the well-wishing “Bountiful Blessings,” and the creative “DIY Angpow Lantern” craft session.
@@ -24,8 +24,8 @@ This year, our school organized a vibrant series of Chinese New Year celebration
 <span style="font-size:16px;">
 Through these interactive games and hands-on experiences, students not only immersed themselves in the festive atmosphere but also gained a deeper appreciation of traditional culture. The celebration was both meaningful and memorable, leaving everyone with a sense of joy and renewal for the year ahead.
 </span>
+<img src="/images/Year%202026/Chinese/Picture2.jpg">
 
-![](/images/Year%202026/Chinese/Picture2.jpg)
 <span style="font-size:16px;">
 The school leaders usher in the new year with a bang! (From left to right: Mr Yong, Mr Yap, Ms Beh, and Mdm Rahima.)
 </span>
@@ -36,8 +36,7 @@ The school leaders usher in the new year with a bang! (From left to right: Mr Yo
 <td bgcolor="eaf1e9" style="border: 1px solid white;">
 <font size="3">
 <strong>Chinese Cultural Performance Exposure Scheme (CPES) – 2025</strong><br>
-	
-![](/images/Year%202026/Chinese/Picture3.png)
+<img src="/images/Year%202026/Chinese/Picture3.png">	
 	
 <span style="font-size:16px;">
 As part of the Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划), an initiative by the Committee to Promote Chinese Language Learning, our Primary 4 students had the wonderful opportunity to immerse themselves in the richness of Chinese performing arts.
@@ -64,8 +63,7 @@ The event received enthusiastic responses from both students and parents. Many p
 <td bgcolor="d2e1ce" style="border: 1px solid white;">
 <font size="3">
 <strong>Mother Tongue Language Fortnight – 2025</strong><br>
-
-![](/images/Year%202026/Chinese/Picture4.png)
+<img src="/images/Year%202026/Chinese/Picture4.png">
 	
 <span style="font-size:16px;">
 Mother Tongue Language Fortnight is one of the school’s key annual programmes, aimed at enhancing students’ interest in their Mother Tongue through diverse cultural experiences while strengthening their sense of cultural identity.
@@ -87,8 +85,7 @@ Beyond promoting language learning outside the classroom, Mother Tongue Language
 <td bgcolor="eaf1e9" style="border: 1px solid white;">
 <font size="3">
 <strong>Xi’an Learning Journey – 2025</strong><br>
-	
-![](/images/Year%202026/Chinese/Picture5.png)
+<img src="/images/Year%202026/Chinese/Picture5.png">	
 
 <span style="font-size:16px;">
 In July 2025, our school brought a group of Primary 5 students to Xi’an for a meaningful cultural exchange programme.
@@ -110,8 +107,7 @@ The programme provided a valuable learning opportunity for students to broaden t
 <td bgcolor="d2e1ce" style="border: 1px solid white;">
 <font size="3">
 <strong>National Chinese Challenge 2025</strong><br>
-	
-![](/images/Year%202026/Chinese/Picture6.png)
+<img src="/images/Year%202026/Chinese/Picture6.png">	
 	
 <span style="font-size:16px;">
 In 2025, our school selected a group of Primary 5 students to participate in the National Chinese Challenge 2025. The competition aimed to enhance students’ proficiency and overall competencies in the Chinese language through various components, including vocabulary usage and reading comprehension.
@@ -124,8 +120,7 @@ In preparation for the competition, the students demonstrated strong commitment 
 <span style="font-size:16px;">
 Their participation reflected the positive learning attitude and vibrant spirit of our students, making it a meaningful and enriching experience for all involved.
 </span>
-	
-![](/images/Year%202026/Chinese/Picture7.png)
+<img src="/images/Year%202026/Chinese/Picture7.png">	
 
 </font>
 </td>
