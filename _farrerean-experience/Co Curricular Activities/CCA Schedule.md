@@ -21,20 +21,23 @@ third_nav_title: Co Curricular Activities
 <td style="width: 20%; text-align: center;"><strong>Teacher IC</strong></td>
 <td style="width: 20%; text-align: center;"><strong>Teachers</strong></td>
 </tr>
+
 <tr bgcolor="d2e1ce">
-<td style="width: 20%; text-align: center; vertical-align: middle;">Tennis</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">Badminton</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
-<td style="width: 20%; vertical-align: middle;">Ms Frances Nield</td>
-<td style="width: 20%; vertical-align: middle;">Ms Chenyang<br>Ms Nicole Hon</td>
+<td style="width: 20%; vertical-align: middle;">Ms Nur Afiqah</td>
+<td style="width: 20%; vertical-align: middle;">Ms Sharonjit Singh</td>
 </tr>
+
 <tr bgcolor="eaf1e9">
-<td style="width: 20%; text-align: center; vertical-align: middle;">Football</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">Basketball</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Friday<br>1400 - 1600</td>
-<td style="width: 20%; vertical-align: middle;">Mr Lee Kim Fatt</td>
-<td style="width: 20%; vertical-align: middle;">Mr Azrai<br>Mr Ravinder</td>
+<td style="width: 20%; vertical-align: middle;">Mr Max Angelo</td>
+<td style="width: 20%;">Ms Sandhiya<br>Ms Peggy Toh</td>
 </tr>
+
 <tr bgcolor="d2e1ce">
 <td style="width: 20%; text-align: center; vertical-align: middle;">Floorball</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
@@ -42,20 +45,23 @@ third_nav_title: Co Curricular Activities
 <td style="width: 20%; vertical-align: middle;">Ms Jeolinita Yeo</td>
 <td style="width: 20%; vertical-align: middle;">Ms Rahimah<br>Ms Nur Azizah<br>Ms Clara Lim<br>Ms Yang Ruting</td>
 </tr>
+
 <tr bgcolor="eaf1e9">
-<td style="width: 20%; text-align: center; vertical-align: middle;">Badminton</td>
-<td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
-<td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
-<td style="width: 20%; vertical-align: middle;">Ms Nur Afiqah</td>
-<td style="width: 20%; vertical-align: middle;">Ms Sharonjit Singh</td>
-</tr>
-<tr bgcolor="d2e1ce">
-<td style="width: 20%; text-align: center; vertical-align: middle;">Basketball</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">Football</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
 <td style="width: 20%; text-align: center; vertical-align: middle;">Friday<br>1400 - 1600</td>
-<td style="width: 20%; vertical-align: middle;">Mr Max Angelo</td>
-<td style="width: 20%;">Ms Sandhiya<br>Ms Peggy Toh</td>
+<td style="width: 20%; vertical-align: middle;">Mr Lee Kim Fatt</td>
+<td style="width: 20%; vertical-align: middle;">Mr Azrai<br>Mr Ravinder</td>
 </tr>
+
+<tr bgcolor="d2e1ce">
+<td style="width: 20%; text-align: center; vertical-align: middle;">Tennis</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">Tuesday<br>1400 - 1545</td>
+<td style="width: 20%; text-align: center; vertical-align: middle;">-</td>
+<td style="width: 20%; vertical-align: middle;">Ms Frances Nield</td>
+<td style="width: 20%; vertical-align: middle;">Ms Chenyang<br>Ms Nicole Hon</td>
+</tr>
+
 </tbody>
 </table>
 <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
