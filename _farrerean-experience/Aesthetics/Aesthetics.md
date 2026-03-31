@@ -2,6 +2,7 @@
 title: Aesthetics
 permalink: /farrerean-experience/aesthetics/
 description: ""
+third_nav_title: Aesthetics
 ---
 ### Aesthetics
 

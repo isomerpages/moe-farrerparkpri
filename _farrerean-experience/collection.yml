@@ -2,6 +2,10 @@ collections:
   farrerean-experience:
     output: true
     order:
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Art Department.md
+      - Aesthetics/Music.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -10,7 +14,6 @@ collections:
       - Mother Tongue/Chinese.md
       - Mother Tongue/Malay.md
       - Mother Tongue/Tamil.md
-      - Aesthetics.md
       - Physical Education.md
       - CCE.md
       - Co Curricular Activities/.keep
