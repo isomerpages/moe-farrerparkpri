@@ -13,8 +13,10 @@ variant: markdown
 <tr>
 <td bgcolor="d2e1ce" style="border: 1px solid white;">
 <font size="3">
-<strong>2026 Lunar New Year Celebration</strong><br><br>
-
+<strong>2026 Lunar New Year Celebration</strong>
+	
+![](/images/Year%202026/Chinese/Picture1.png)
+	
 <span style="font-size:16px;">
 This year, our school organized a vibrant series of Chinese New Year celebrations, bringing students and staff together to welcome the new year with joy and festive spirit. The programme featured a variety of engaging activities, each carrying meaningful symbolism. Highlights included “Round Round Reunion,” which celebrated togetherness; “Soar to Greater Heights,” representing growth and aspiration; and the thrilling “Defeat the Nian Monster.” Students also enjoyed the luck-filled “Stroke of Luck,” the well-wishing “Bountiful Blessings,” and the creative “DIY Angpow Lantern” craft session.
 </span>
@@ -23,25 +25,20 @@ This year, our school organized a vibrant series of Chinese New Year celebration
 Through these interactive games and hands-on experiences, students not only immersed themselves in the festive atmosphere but also gained a deeper appreciation of traditional culture. The celebration was both meaningful and memorable, leaving everyone with a sense of joy and renewal for the year ahead.
 </span>
 
-<br><br>
-<strong>Picture 1</strong><br>
+![](/images/Year%202026/Chinese/Picture2.jpg)
 <span style="font-size:16px;">
 The school leaders usher in the new year with a bang! (From left to right: Mr Yong, Mr Yap, Ms Beh, and Mdm Rahima.)
 </span>
-
-<br><br>
-<strong>Picture 2</strong>
-
 </font>
 </td>
 </tr>
-
-
 <tr>
 <td bgcolor="eaf1e9" style="border: 1px solid white;">
 <font size="3">
-<strong>Chinese Cultural Performance Exposure Scheme (CPES) – 2025</strong><br><br>
-
+<strong>Chinese Cultural Performance Exposure Scheme (CPES) – 2025</strong><br>
+	
+![](/images/Year%202026/Chinese/Picture3.png)
+	
 <span style="font-size:16px;">
 As part of the Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划), an initiative by the Committee to Promote Chinese Language Learning, our Primary 4 students had the wonderful opportunity to immerse themselves in the richness of Chinese performing arts.
 </span>
@@ -58,9 +55,6 @@ Staged in the traditional Peking Opera style and featuring exhilarating martial 
 The event received enthusiastic responses from both students and parents. Many parents shared that the experience sparked a greater interest in the Chinese language and culture, making it a meaningful and memorable learning journey for all.
 </span>
 
-<br><br>
-<strong>Picture 3</strong>
-
 </font>
 </td>
 </tr>
@@ -69,8 +63,10 @@ The event received enthusiastic responses from both students and parents. Many p
 <tr>
 <td bgcolor="d2e1ce" style="border: 1px solid white;">
 <font size="3">
-<strong>Mother Tongue Language Fortnight – 2025</strong><br><br>
+<strong>Mother Tongue Language Fortnight – 2025</strong><br>
 
+![](/images/Year%202026/Chinese/Picture4.png)
+	
 <span style="font-size:16px;">
 Mother Tongue Language Fortnight is one of the school’s key annual programmes, aimed at enhancing students’ interest in their Mother Tongue through diverse cultural experiences while strengthening their sense of cultural identity.
 </span>
@@ -83,18 +79,16 @@ During this period, the school organizes a wide range of engaging language and c
 Beyond promoting language learning outside the classroom, Mother Tongue Language Fortnight offers valuable opportunities for students to experience and appreciate traditional culture. Through these interactive experiences, students gain greater confidence in using their Mother Tongue while cultivating a deeper appreciation for their cultural heritage and a stronger sense of responsibility to preserve it.
 </span>
 
-<br><br>
-<strong>Picture 4</strong>
-
-</font>
-</td>
+</font></td>
 </tr>
 
 
 <tr>
 <td bgcolor="eaf1e9" style="border: 1px solid white;">
 <font size="3">
-<strong>Xi’an Learning Journey – 2025</strong><br><br>
+<strong>Xi’an Learning Journey – 2025</strong><br>
+	
+![](/images/Year%202026/Chinese/Picture5.png)
 
 <span style="font-size:16px;">
 In July 2025, our school brought a group of Primary 5 students to Xi’an for a meaningful cultural exchange programme.
@@ -107,10 +101,6 @@ During their visit, students explored historical landmarks, immersed themselves 
 <span style="font-size:16px;">
 The programme provided a valuable learning opportunity for students to broaden their horizons in an authentic cultural setting. It was a memorable journey that not only enriched their knowledge but also created lasting friendships and unforgettable experiences.
 </span>
-
-<br><br>
-<strong>Picture 5</strong>
-
 </font>
 </td>
 </tr>
@@ -119,8 +109,10 @@ The programme provided a valuable learning opportunity for students to broaden t
 <tr>
 <td bgcolor="d2e1ce" style="border: 1px solid white;">
 <font size="3">
-<strong>National Chinese Challenge 2025</strong><br><br>
-
+<strong>National Chinese Challenge 2025</strong><br>
+	
+![](/images/Year%202026/Chinese/Picture6.png)
+	
 <span style="font-size:16px;">
 In 2025, our school selected a group of Primary 5 students to participate in the National Chinese Challenge 2025. The competition aimed to enhance students’ proficiency and overall competencies in the Chinese language through various components, including vocabulary usage and reading comprehension.
 </span>
@@ -132,10 +124,8 @@ In preparation for the competition, the students demonstrated strong commitment 
 <span style="font-size:16px;">
 Their participation reflected the positive learning attitude and vibrant spirit of our students, making it a meaningful and enriching experience for all involved.
 </span>
-
-<br><br>
-<strong>Picture 6</strong><br>
-<strong>Picture 7</strong>
+	
+![](/images/Year%202026/Chinese/Picture7.png)
 
 </font>
 </td>
