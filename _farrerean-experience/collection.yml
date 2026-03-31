@@ -2,9 +2,9 @@ collections:
   farrerean-experience:
     output: true
     order:
-      - Aesthetics/Art Department.md
-      - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Art Department.md
       - English.md
       - Mathematics.md
       - Science.md
