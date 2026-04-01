@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Overview.md
-      - Welcome To Our Open House/.keep
-      - Welcome To Our Open House/Welcome To Our Open House.md
-      - Welcome To Our Open House/MK Open House Presentation Slides.md
+      - Welcome To Our MK/Welcome To Our MK.md
+      - Welcome To Our MK/.keep
+      - Welcome To Our MK/MK Open House Presentation Slides.md
       - Our MK Staff.md
       - K1 Orientation.md
       - Joyful Learning/.keep
