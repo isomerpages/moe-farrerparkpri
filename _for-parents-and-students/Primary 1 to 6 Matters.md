@@ -56,14 +56,14 @@ variant: markdown
   <details style="margin-bottom: 10px;">
     <summary style="font-weight: bold; cursor: pointer; padding: 8px; background-color: #d2e1ce; border-radius: 5px;">Primary 3</summary>
     <ul style="margin-top: 10px; padding-left: 20px; font-size: 16px;">
-      <li style="font-size: 16px;"></li>
+      <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2026/For%20Parents/2026_P3___P4_FPPS_Connects_Website___reduced.pdf">P3 &amp; P4 FPPS Connects Slides</a></li>
     </ul>
   </details>
 
   <details style="margin-bottom: 10px;">
     <summary style="font-weight: bold; cursor: pointer; padding: 8px; background-color: #d2e1ce; border-radius: 5px;">Primary 4</summary>
     <ul style="margin-top: 10px; padding-left: 20px; font-size: 16px;">
-      <li style="font-size: 16px;"></li>
+      <li style="font-size: 16px;"><a rel="noopener nofollow" target="_blank" href="/files/2026/For%20Parents/2026_P3___P4_FPPS_Connects_Website___reduced.pdf">P3 &amp; P4 FPPS Connects Slides</a></li>
     </ul>
   </details>
 
