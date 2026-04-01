@@ -23,18 +23,18 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: P3 & P4 FPPS Connects 2026
+          date: 01 April 2026
+          announcement: Dear Parents of P3 & P4 students, please click here to view the
+            slides from the FPPS Connects session
+          link_text: ""
+          link_url: ""
         - title: Prize Giving Day 2026
           date: 13 March 2026
           announcement: Dear Parents and Students, click here to view the memorable
             moments from our Prize Giving Day 2026.
           link_text: Prize Giving Day 2026
           link_url: http://go.gov.sg/fpps-pgd
-        - title: Inspiring Teacher of English Award 2026
-          date: 03 February 2026
-          announcement: Nominations for the annual Inspiring Teacher of English Award are
-            now open. Click on the link to find out more.
-          link_text: Inspiring Teacher of English Award 2026
-          link_url: https://staging-lite.d1x9zorj5m8n06.amplifyapp.com/inspiring-teacher-of-english-award-2026-invitation-for-nominations/
         - title: 📣 Stay Connected with Us!
           date: 04 June 2025
           announcement: We’re on Facebook! 🎉 Follow us for the latest updates, and
