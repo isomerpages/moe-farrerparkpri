@@ -27,8 +27,8 @@ sections:
           date: 01 April 2026
           announcement: Dear Parents of P3 & P4 students, please click here to view the
             slides from the FPPS Connects session
-          link_text: ""
-          link_url: ""
+          link_text: P3 & P4 FPPS Connects
+          link_url: https://www.farrerparkpri.moe.edu.sg/files/2026/For%20Parents/2026_P3___P4_FPPS_Connects_Website___reduced.pdf
         - title: Prize Giving Day 2026
           date: 13 March 2026
           announcement: Dear Parents and Students, click here to view the memorable
