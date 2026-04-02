@@ -14,21 +14,17 @@ variant: markdown
 <font size="3">
 <strong><u>Vision and Objectives</u></strong><br>
 <span style="font-size:16px;">
-At Farrer Park Primary School, we nurture 21st century learners who are empathetic communicators, discerning readers, and creative inquirers.
-</span>
-</font>
-</td>
+At Farrer Park Primary School, we nurture 21st century learners who are <b>empathetic communicators, discerning readers,</b> and<b> creative inquirers.
+</b></span><b>
+</b></font><b>
+</b></td>
 </tr>
-
 <tr>
 <td bgcolor="eaf1e9" style="border: 1px solid white;">
 <font size="3">
-
 <strong><u>Pedagogical Approach</u></strong><br>
 <span style="font-size:16px;">STELLAR 2.0</span>
-
 <br>
-
 <div align="center">
 <img style="width:40%; max-width:420px;" src="/images/Year%202026/English/Picture1.jpg">
 </div>
