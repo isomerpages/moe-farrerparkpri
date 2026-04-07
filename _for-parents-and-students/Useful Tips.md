@@ -23,20 +23,6 @@ variant: markdown
 </ul>
 
 <hr> 
-
-<h4>Confident Parenting in a Digital Age (Zoom Session on 19 May 2021)</h4>
-<p>
-  View the slides from the parent talk facilitated by Mr Chong Ee Jay on building healthy digital habits at home:<br>
-  <a target="_blank" href="https://drive.google.com/file/d/1rTsfgoBu5pntPboUkMUjdm07chj33fN5/view"><strong>Click here to view the presentation</strong></a>
-</p>
-<a target="_blank" href="https://www.farrerparkpri.moe.edu.sg/qql/slot/u368/ICT/TED/.tn.CPDA19May2021.png.mid.jpg">
-  <img alt="Confident Parenting Slide Preview" style="width:75%;" src="/images/pida.jpg">
-</a>
-
-<p>We thank all parents who attended the session for spending their time with us.</p>
-
-<hr> 
-
 <h4>Media Literacy Council’s Resources</h4>
 <ul>
   <li><a target="_blank" href="/files/pida1.pdf">What is the right age to give my child a smartphone?</a></li>
