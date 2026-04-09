@@ -55,19 +55,19 @@ For more information, you may also refer to
     </tr>
     <tr style="background-color: #d2e1ce;">
       <td style="padding: 8px;">Between Terms I &amp; II</td>
-      <td style="padding: 8px;">16 March to 20 March</td>
+      <td style="padding: 8px;">14 March to 22 March</td>
     </tr>
     <tr style="background-color: #eaf1e9;">
       <td style="padding: 8px;">Between Semesters I &amp; II</td>
-      <td style="padding: 8px;">1 June to 26 June</td>
+      <td style="padding: 8px;">30 May to 28 June</td>
     </tr>
     <tr style="background-color: #d2e1ce;">
       <td style="padding: 8px;">Between Terms III &amp; IV</td>
-      <td style="padding: 8px;">7 September to 11 September</td>
+      <td style="padding: 8px;">5 September to 13 September</td>
     </tr>
     <tr style="background-color: #eaf1e9;">
       <td style="padding: 8px;">At End of School Year</td>
-      <td style="padding: 8px;">23 November to 31 December</td>
+      <td style="padding: 8px;">21 November to 31 December</td>
     </tr>
   </tbody>
 </table>
@@ -121,13 +121,13 @@ For more information, you may also refer to
       <td style="padding: 8px;">1 May, Friday</td>
     </tr>
     <tr style="background-color: #eaf1e9;">
-      <td style="padding: 8px;">Vesak Day</td>
-      <td style="padding: 8px;">31 May Sunday</td>
+      <td style="padding: 8px;">Hari Raya Haji</td>
+      <td style="padding: 8px;">27 May, Wednesday</td>
     </tr>
     <tr style="background-color: #d2e1ce;">
       <td style="padding: 8px;" rowspan="2">Term III</td>
-      <td style="padding: 8px;">Hari Raya Haji</td>
-      <td style="padding: 8px;">27 May, Wednesday</td>
+      <td style="padding: 8px;">Vesak Day</td>
+      <td style="padding: 8px;">31 May, Sunday</td>
     </tr>
     <tr style="background-color: #eaf1e9;">
       <td style="padding: 8px;">National Day</td>
@@ -144,8 +144,10 @@ For more information, you may also refer to
     </tr>
     <tr style="background-color: #f9f9f9;">
       <td style="padding: 8px; font-style: italic;" colspan="3">
-        *Mon, 21 March, 1 June, 9 November, will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.<br>
-        *Monday, 10 August will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres and KCare Centres.
+        *As Saturday, 21 March 2026 is a Public Holiday, Monday, 23 March 2026 will be a designated day off-in-lieu for schools (i.e. Schools, including the General Office, Student Care Centres and KCare Centres, will be closed).<br>
+        *Monday, 1 June 2026 will be a public holiday.<br>
+*Monday, 10 August 2026 will be a public holiday.<br>
+*Monday, 9 November 2026 will be a public holiday.
       </td>
     </tr>
   </tbody>
