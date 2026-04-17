@@ -54,11 +54,11 @@ variant: markdown
         <span style="text-decoration: underline;"><strong>Objective</strong></span><br>
         Our guiding beliefs and commitments are to:
         <ul style="margin: 0; padding-left: 20px; font-size: 16px;">
-          <li style="margin: 0;">develop deep conceptual understanding to build a strong foundation for lifelong learning.</li>
-          <li style="margin: 0;">nurture problem-solving competencies through meaningful, real-world tasks that challenge and engage.</li>
-          <li style="margin: 0;">cultivate metacognition, encouraging students to reflect, monitor, and adapt their thinking.</li>
-          <li style="margin: 0;">foster positive attitudes by creating a safe and supportive environment where students can take risks and grow.</li>
-          <li style="margin: 0;">promote values of curiosity, empathy, and care, empowering students to collaborate and contribute thoughtfully.</li>
+          <li style="margin: 0; font-size: 16px">develop deep conceptual understanding to build a strong foundation for lifelong learning.</li>
+          <li style="margin: 0; font-size: 16px">nurture problem-solving competencies through meaningful, real-world tasks that challenge and engage.</li>
+          <li style="margin: 0; font-size: 16px">cultivate metacognition, encouraging students to reflect, monitor, and adapt their thinking.</li>
+          <li style="margin: 0; font-size: 16px">foster positive attitudes by creating a safe and supportive environment where students can take risks and grow.</li>
+          <li style="margin: 0; font-size: 16px">promote values of curiosity, empathy, and care, empowering students to collaborate and contribute thoughtfully.</li>
         </ul>
       </td>
     </tr>
