@@ -10,19 +10,19 @@ variant: markdown
   <tbody>
     <tr bgcolor="#eaf1e9">
       <td style="text-align: center; border: 1px solid white;">
-        <img style="width: 100%; height: auto;" alt="Math Image 1" src="/images/2025/Math/math_1.jpg">
+        <img style="width: 100%; height: 150px; object-fit: cover;" alt="Math Image 1" src="/images/2025/Math/math_1.jpg">
       </td>
       <td style="text-align: center; border: 1px solid white;">
-        <img style="width: 100%; height: auto;" alt="Math Image 2" src="/images/2025/Math/math_2.jpg">
+        <img style="width: 100%; height: 150px; object-fit: cover;" alt="Math Image 2" src="/images/2025/Math/math_2.jpg">
       </td>
       <td style="text-align: center; border: 1px solid white;">
-        <img style="width: 100%; height: auto;" alt="Math Image 3" src="/images/2025/Math/math_3.jpg">
+        <img style="width: 100%; height: 150px; object-fit: cover;" alt="Math Image 3" src="/images/Year%202026/Math/iPad.jpg">
       </td>
       <td style="text-align: center; border: 1px solid white;">
-        <img style="width: 100%; height: auto;" alt="Math Image 4" src="/images/2025/Math/math_4.jpg">
+        <img style="width: 100%; height: 150px; object-fit: cover;" alt="Math Image 4" src="/images/Year%202026/Math/Fractions.jpg">
       </td>
       <td style="text-align: center; border: 1px solid white;">
-        <img style="width: 100%; height: auto;" alt="Math Image 5" src="/images/2025/Math/math_5.jpg">
+        <img style="width: 100%; height: 150px; object-fit: cover;" alt="Math Image 5" src="/images/2025/Math/math_5.jpg">
       </td>
     </tr>
     <tr bgcolor="#d2e1ce">
@@ -43,9 +43,9 @@ variant: markdown
         In line with Jerome Bruner’s Concrete-Pictorial-Abstract approach, our pupils are provided with opportunities to engage in hands-on activities using manipulatives to learn new concepts. These learning experiences are then translated to pictorial, then abstract representations.<br><br>
         Teachers make deliberate choices on the instructional strategies based on learners’ profiles and needs, and the nature of the concepts to be taught. The engagement phase can include one or more of the following:
         <ul style="margin: 0; padding-left: 20px; font-size: 16px;">
-          <li>Activity-based Learning</li>
-          <li>Inquiry-based Learning</li>
-          <li>Direct Instruction</li>
+          <li style="margin: 0;">Activity-based Learning</li>
+          <li style="margin: 0;">Inquiry-based Learning</li>
+          <li style="margin: 0;">Direct Instruction</li>
         </ul>
       </td>
     </tr>
@@ -54,11 +54,11 @@ variant: markdown
         <span style="text-decoration: underline;"><strong>Objective</strong></span><br>
         Our guiding beliefs and commitments are to:
         <ul style="margin: 0; padding-left: 20px; font-size: 16px;">
-          <li>develop deep conceptual understanding to build a strong foundation for lifelong learning.</li>
-          <li>nurture problem-solving competencies through meaningful, real-world tasks that challenge and engage.</li>
-          <li>cultivate metacognition, encouraging students to reflect, monitor, and adapt their thinking.</li>
-          <li>foster positive attitudes by creating a safe and supportive environment where students can take risks and grow.</li>
-          <li>promote values of curiosity, empathy, and care, empowering students to collaborate and contribute thoughtfully.</li>
+          <li style="margin: 0;">develop deep conceptual understanding to build a strong foundation for lifelong learning.</li>
+          <li style="margin: 0;">nurture problem-solving competencies through meaningful, real-world tasks that challenge and engage.</li>
+          <li style="margin: 0;">cultivate metacognition, encouraging students to reflect, monitor, and adapt their thinking.</li>
+          <li style="margin: 0;">foster positive attitudes by creating a safe and supportive environment where students can take risks and grow.</li>
+          <li style="margin: 0;">promote values of curiosity, empathy, and care, empowering students to collaborate and contribute thoughtfully.</li>
         </ul>
       </td>
     </tr>
@@ -91,10 +91,6 @@ variant: markdown
             <tr bgcolor="#eaf1e9">
               <td style="text-align: center; font-size: 16px;"><strong>Learning Support Programmes</strong></td>
               <td style="font-size: 16px;">Targeted support for students who require additional guidance in mathematical understanding and confidence building.</td>
-            </tr>
-            <tr bgcolor="#d2e1ce">
-              <td style="text-align: center; font-size: 16px;"><strong>Mathematics Games</strong></td>
-              <td style="font-size: 16px;">Interactive and engaging activities designed to reinforce concepts and promote logical thinking in a fun way.</td>
             </tr>
           </tbody>
         </table>
