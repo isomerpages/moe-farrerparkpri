@@ -10,19 +10,19 @@ variant: markdown
   <tbody>
     <tr bgcolor="#eaf1e9">
       <td style="text-align: center; border: 1px solid white;">
-        <img style="width: 100%; height: auto;" alt="Math Image 1" src="/images/2025/Math/math_1.jpg">
+        <img style="width: 100%; height: 150px; object-fit: cover;" alt="Math Image 1" src="/images/2025/Math/math_1.jpg">
       </td>
       <td style="text-align: center; border: 1px solid white;">
-        <img style="width: 100%; height: auto;" alt="Math Image 2" src="/images/2025/Math/math_2.jpg">
+        <img style="width: 100%; height: 150px; object-fit: cover;" alt="Math Image 2" src="/images/2025/Math/math_2.jpg">
       </td>
       <td style="text-align: center; border: 1px solid white;">
-        <img style="width: 100%; height: auto;" alt="Math Image 3" src="/images/2025/Math/math_3.jpg">
+        <img style="width: 100%; height: 150px; object-fit: cover;" alt="Math Image 3" src="/images/Year%202026/Math/iPad.jpg">
       </td>
       <td style="text-align: center; border: 1px solid white;">
-        <img style="width: 100%; height: auto;" alt="Math Image 4" src="/images/2025/Math/math_4.jpg">
+        <img style="width: 100%; height: 150px; object-fit: cover;" alt="Math Image 4" src="/images/Year%202026/Math/Fractions.jpg">
       </td>
       <td style="text-align: center; border: 1px solid white;">
-        <img style="width: 100%; height: auto;" alt="Math Image 5" src="/images/2025/Math/math_5.jpg">
+        <img style="width: 100%; height: 150px; object-fit: cover;" alt="Math Image 5" src="/images/2025/Math/math_5.jpg">
       </td>
     </tr>
     <tr bgcolor="#d2e1ce">
