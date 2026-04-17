@@ -43,9 +43,9 @@ variant: markdown
         In line with Jerome Bruner’s Concrete-Pictorial-Abstract approach, our pupils are provided with opportunities to engage in hands-on activities using manipulatives to learn new concepts. These learning experiences are then translated to pictorial, then abstract representations.<br><br>
         Teachers make deliberate choices on the instructional strategies based on learners’ profiles and needs, and the nature of the concepts to be taught. The engagement phase can include one or more of the following:
         <ul style="margin: 0; padding-left: 20px; font-size: 16px;">
-          <li style="margin: 0;">Activity-based Learning</li>
-          <li style="margin: 0;">Inquiry-based Learning</li>
-          <li style="margin: 0;">Direct Instruction</li>
+          <li style="margin: 0; font-size: 16px">Activity-based Learning</li>
+          <li style="margin: 0; font-size: 16px">Inquiry-based Learning</li>
+          <li style="margin: 0; font-size: 16px">Direct Instruction</li>
         </ul>
       </td>
     </tr>
