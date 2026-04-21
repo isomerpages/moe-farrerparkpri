@@ -35,7 +35,7 @@ third_nav_title: Aesthetics
       <td style="border: 1px solid white; font-size: 16px;" colspan="5">
         <span style="text-decoration: underline;"><strong>Objectives</strong></span><br>
         The Music Programme is designed to:
-        <ul style="margin: 0; padding-left: 20px; font-size: 16px;">
+        <ul style="margin: 0; padding-left: 20px;">
           <li style="margin: 0;">Develop students’ fundamental musical skills in listening, performing, and creating.</li>
           <li style="margin: 0;">Foster creativity and self-expression through a variety of musical experiences.</li>
           <li style="margin: 0;">Build confidence and resilience through individual and group performances.</li>
