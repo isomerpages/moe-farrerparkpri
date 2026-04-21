@@ -11,16 +11,18 @@ third_nav_title: Aesthetics
   <tbody>
 		<tr bgcolor="#eaf1e9">
   <td style="text-align: center; border: 1px solid white;" width="25%">
-    <img style="width: 100%; height: 180px; object-fit: cover;" src="/images/Year%202026/Music/ukulele.jpg">
+    <img src="/images/Year%202026/Music/Picture1.jpg">
   </td>
   <td style="text-align: center; border: 1px solid white;" width="25%">
-    <img style="width: 100%; height: 180px; object-fit: cover;" src="/images/Year%202026/Music/movement.jpg">
+    <img src="/images/Year%202026/Music/Picture2.png">
+  </td>
+			</tr>
+			<tr bgcolor="#eaf1e9">
+  <td style="text-align: center; border: 1px solid white;" width="25%">
+    <img src="/images/Year%202026/Music/Picture3.jpg">
   </td>
   <td style="text-align: center; border: 1px solid white;" width="25%">
-    <img style="width: 100%; height: 180px; object-fit: cover;" src="/images/Year%202026/Music/xylophone.jpg">
-  </td>
-  <td style="text-align: center; border: 1px solid white;" width="25%">
-    <img style="width: 100%; height: 180px; object-fit: cover;" src="/images/Year%202026/Music/keyboard.jpg">
+    <img src="/images/Year%202026/Music/Picture4.jpg">
   </td>
 </tr>
     <tr bgcolor="#d2e1ce">
