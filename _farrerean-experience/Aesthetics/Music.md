@@ -9,6 +9,20 @@ third_nav_title: Aesthetics
 
 <table border="1" style="width: 100%; border-collapse: collapse; border-style: solid; border-color: white;">
   <tbody>
+		<tr bgcolor="#eaf1e9">
+  <td style="text-align: center; border: 1px solid white;" width="25%">
+    <img style="width: 100%; height: 180px; object-fit: cover;" src="/images/Year%202026/Music/ukulele.jpg">
+  </td>
+  <td style="text-align: center; border: 1px solid white;" width="25%">
+    <img style="width: 100%; height: 180px; object-fit: cover;" src="/images/Year%202026/Music/movement.jpg">
+  </td>
+  <td style="text-align: center; border: 1px solid white;" width="25%">
+    <img style="width: 100%; height: 180px; object-fit: cover;" src="/images/Year%202026/Music/xylophone.jpg">
+  </td>
+  <td style="text-align: center; border: 1px solid white;" width="25%">
+    <img style="width: 100%; height: 180px; object-fit: cover;" src="/images/Year%202026/Music/keyboard.jpg">
+  </td>
+</tr>
     <tr bgcolor="#d2e1ce">
       <td style="border: 1px solid white; font-size: 16px;" colspan="5">
         <span style="text-decoration: underline;"><strong>Vision</strong></span><br>
