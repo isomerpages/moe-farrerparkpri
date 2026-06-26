@@ -7,7 +7,7 @@ variant: markdown
 <div style="margin-bottom: 20px;" class="iframe-wrapper">
   <iframe style="border: 0;" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=fpps%40moe.edu.sg&amp;ctz=Asia%2FSingapore"></iframe>
 </div>
-Click to download <a href="/files/2026/Bulletin_Term_3.pdf">Term 3 Bulletin</a> for year 2026
+Download the <a rel="noopener noreferrer" target="_blank" href="/files/2026/Bulletin_Term_3.pdf">2026 Term 3 Bulletin</a>.
 <h4>School Terms and Holidays for 2026</h4>
 For more information, you may also refer to
   <a href="https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026" rel="noopener noreferrer nofollow" target="_blank">MOE's website</a>.
