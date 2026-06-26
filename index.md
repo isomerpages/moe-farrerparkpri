@@ -23,6 +23,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2026 Term 3 Bulletin
+          date: 26 June 2026
+          announcement: Download the 2026 Term 3 Bulletin.
+          link_text: 2026 Term 3 Bulletin
+          link_url: https://www.farrerparkpri.moe.edu.sg/files/2026/Bulletin_Term_3.pdf
         - title: Prize Giving Day 2026
           date: 13 March 2026
           announcement: Dear Parents and Students, click here to view the memorable
@@ -41,10 +46,4 @@ sections:
             exciting news.
           link_text: Instagram
           link_url: https://www.instagram.com/farrerparkps
-        - title: 2026 School Essentials
-          date: 25 November 2025
-          announcement: Click below for the 2026 book list, bus application form, and
-            uniform information. All files are available under “All Matters”.
-          link_text: P1-P6 Matters
-          link_url: https://www.farrerparkpri.moe.edu.sg/for-parents/news-and-information/p1-to-p6-matters/
 ---
