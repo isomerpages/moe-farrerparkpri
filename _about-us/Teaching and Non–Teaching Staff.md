@@ -211,7 +211,7 @@ variant: markdown
       <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>5 Empathy</strong></td>
       <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Hena Suhail</td>
       <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>5 Honesty</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Clara Lim Shu Ying</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Poon Hui Ling</td>
     </tr>
     <tr>
       <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Jhan Ling-Siou</td>
@@ -219,7 +219,7 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>5 Kindness</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Nurliza bte Sawi</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Chua Qiyi</td>
       <td style="border: 1px solid #ccc; padding: 8px; text-align: center;" rowspan="2" colspan="2"></td>
     </tr>
     <tr>
