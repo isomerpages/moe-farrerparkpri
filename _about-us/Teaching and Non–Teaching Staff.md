@@ -130,7 +130,7 @@ variant: markdown
       <td style="border: 1px solid #ccc; padding: 8px; text-align: center;" rowspan="2" colspan="2"></td>
     </tr>
     <tr>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Lau Swee Bee Elena</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Yang Ruting</td>
     </tr>
   </tbody>
 </table>
