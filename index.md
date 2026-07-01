@@ -23,6 +23,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Interaction with Principal
+          date: 01 July 2026
+          announcement: Interested in enrolling your child in Primary 1? Join our
+            Interaction with Principal session to learn about Farrer Park
+            Primary School, our programmes and learning experiences. Sessions
+            run from 23 July to 14 August 2026. Registration is required.
+          link_text: Register for an Interaction with Principal Session
+          link_url: https://go.gov.sg/2026interactionwithp
         - title: 2026 Term 3 Bulletin
           date: 26 June 2026
           announcement: Download the 2026 Term 3 Bulletin.
