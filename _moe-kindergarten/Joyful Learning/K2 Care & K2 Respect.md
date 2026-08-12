@@ -5,6 +5,11 @@ variant: markdown
 description: ""
 third_nav_title: Joyful Learning
 ---
+### English Language
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_rGrVgOaC0vAklOelpOL9K-JIdCrPGJ3gbw6q7vYV4yR0PMRid0QuvkD3m3hf6a0EHjmaBtK-JgLA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOpexjkqMG5Do8FBjz_6iKnbE8xPLlQ2J09cXippNCACO9L7uGacXKXGZexho6fJMXkVSpEs68ht6t/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
 ### Chinese Language
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHjBw9v6mzN86JYuQrxagppMOU2C1uN2XFUVrZ2uO4HGlOH9MORGQ2FBnLrbrGoSYFqSfzOaPbAJm7/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
