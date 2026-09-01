@@ -116,7 +116,7 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Honesty</strong></td>
-      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Serene Leong</td>
+      <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Ms Serene Liew</td>
       <td rowspan="2" style="background-color: #d2e1ce; border: 1px solid #ccc; padding: 8px;"><strong>3 Kindness</strong></td>
       <td style="background-color: #eaf1e9; border: 1px solid #ccc; padding: 8px;">Mr Chu Luo Jun</td>
     </tr>
